@@ -23,15 +23,12 @@
 
 # 📄 Informe de Trabajo Final
 
-<br>
+
 
 ## Presentado por ´Los 5 Suyos´
 
-<br>
 
 <img src="./brandradar.png" alt="BrandRadar Logo" width="300"/>
-
-<br>
 
 ## 🚀 Startup: `BRANDRADAR`
 
