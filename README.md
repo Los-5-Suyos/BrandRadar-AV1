@@ -27,14 +27,13 @@
 
 ## ´Los 5 Suyos´
 
+<br>
+
+<img src="./brandradar.png" alt="BrandRadar Logo" width="400"/>
+
+<br>
+
 ## 🚀 Startup: `BRANDRADAR`
-
-<br>
-
-<img src="./brandradar.png" alt="BrandRadar Logo" width="200"/>
-
-<br>
-
 
 > *Monitoreo de reputación digital en tiempo real para marcas y empresas*
 
