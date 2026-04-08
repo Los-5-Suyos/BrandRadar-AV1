@@ -16,16 +16,14 @@
 ## Presentado por ´Los 5 Suyos´
 
 
-<img src="./brandradar.png" alt="BrandRadar Logo" width="300"/>
+<img src="./brandradar.png" alt="BrandRadar Logo" width="320"/>
 
 ## 🚀 Startup: BrandRadar
 
 *Monitoreo de reputación digital en tiempo real para marcas y empresas*
 
 
-**Código del Curso:** 1ASI0729
-
-**Nombre del Curso:** Desarrollo de Aplicaciones Open Source
+**Código del Curso:** 1ASI0729 &nbsp;|&nbsp; **Nombre del Curso:** Desarrollo de Aplicaciones Open Source
 
 **NRC:** `11863`
 
