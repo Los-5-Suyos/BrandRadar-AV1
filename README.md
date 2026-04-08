@@ -27,15 +27,14 @@
 
 ## ´Los 5 Suyos´
 
-## 🚀 Startup: `BRAND RADAR`
+## 🚀 Startup: `BRANDRADAR`
 
 <br>
 
-<img src="./brandradar.png" alt="BrandRadar Logo" width="120"/>
+<img src="./brandradar.png" alt="BrandRadar Logo" width="200"/>
 
 <br>
 
-## BrandRadar
 
 > *Monitoreo de reputación digital en tiempo real para marcas y empresas*
 
@@ -80,8 +79,6 @@
 ## 🔗 Project Report Collaboration Insights
 
 **URL del Repositorio:** [`https://github.com/Los-5-Suyos/BrandRadar-AV1.git`](https://github.com/Los-5-Suyos/BrandRadar-AV1.git)
-
-> En esta sección el equipo describe cómo se han desarrollado las actividades de elaboración del informe. Se presentan capturas de los analíticos de colaboración y commits en GitHub realizados por los miembros del equipo.
 
 *(Esta sección se irá expandiendo con cada entrega)*
 
