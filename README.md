@@ -13,8 +13,7 @@
 
 ## Presentado por ´Los 5 Suyos´
 
-
-<img src="./brandradar.png" alt="BrandRadar Logo" width="320"/>
+<img src="./brand-report/assets/images/brandradar.png" alt="PetHealt Logo" width="320"/>
 
 ## 🚀 Startup: BrandRadar
 
