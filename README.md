@@ -76,7 +76,7 @@
 <br>
 
 ## 📑 Tabla de Contenidos
-  #### [Contenido](#tabla-de-contenidos)
+  #### [Contenido](#-tabla-de-contenidos)
   #### [Student Outcome](#student-outcome)
 
   #### [Capítulo I: Introducción](./brandradar-report/docs/capitulo-1.md)
