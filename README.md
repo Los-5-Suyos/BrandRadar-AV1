@@ -33,7 +33,7 @@
 
 `U20410239` - `Salinas Guzmán, Brianna Cristina` 
 
-`U20XXXXXXX` - `Apellido1 Apellido2, Nombre2` 
+`U202410024` - `Jáuregui Cerna, Jean Franco` 
 
 `U20XXXXXXX` - `Apellido1 Apellido2, Nombre3` 
 
@@ -55,7 +55,7 @@
 
 | Versión | Fecha | Participantes | Descripción de modificación |
 |:-------:|:-----:|:-----:|:---------------------------|
-| AV1 | 2026-04-08 | Salinas Guzmán, Brianna Cristina <br>Nombre 2 <br>Nombre 3 <br>Nombre 4 <br>Nombre 5 | Avance 1 del reporte del proyecto y primera versión de la landing page |
+| AV1 | 2026-04-08 | Salinas Guzmán, Brianna Cristina <br>Jáuregui Cerna, Jean Franco <br>Nombre 3 <br>Nombre 4 <br>Nombre 5 | Avance 1 del reporte del proyecto y primera versión de la landing page |
 | | | | |
 
 </div>
