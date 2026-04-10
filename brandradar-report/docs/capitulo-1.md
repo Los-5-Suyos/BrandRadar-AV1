@@ -181,21 +181,40 @@ BrandRadar permite a las empresas:
 ## 1.2. Solution Profile
 
 ###   1.2.1. Antecedentes y problemática
-**- Antecedentes**
 
-**- What (Qué)**
+####  Antecedentes
 
-**- When (Cuándo)**
 
-**- Where (Dónde)**
+En la última década, la transformación digital ha reconfigurado significativamente el entorno competitivo de las organizaciones. La expansión de redes sociales, plataformas de reseñas, foros y medios digitales ha generado un ecosistema en el que los usuarios pueden influir directamente en la percepción pública de una marca en tiempo real. En este contexto, la reputación digital se ha convertido en un factor determinante para la toma de decisiones de los consumidores y el posicionamiento empresarial.
+Diversos estudios evidencian esta tendencia. Según BrightLocal (2023), el 93% de los consumidores consulta reseñas en línea antes de realizar una compra, lo que demuestra el alto nivel de influencia de la opinión digital en el comportamiento del mercado. Asimismo, investigaciones del World Economic Forum señalan que la reputación corporativa puede representar más del 25% del valor de una empresa, consolidándose como un activo estratégico clave.
 
-**- Who (Quién)**
+En este escenario, el monitoreo de marca (brand monitoring) ha evolucionado como una práctica fundamental dentro de la gestión empresarial. Las primeras herramientas de escucha digital surgieron a inicios de los años 2000, destacando Google Alerts, que permitió a las organizaciones rastrear menciones en la web de manera básica. Sin embargo, estas soluciones iniciales presentaban limitaciones importantes, ya que no integraban análisis avanzado ni procesamiento en tiempo real.
+Con el crecimiento exponencial del contenido generado por los usuarios, la gestión de la reputación digital se ha vuelto cada vez más compleja. Actualmente, las empresas enfrentan grandes volúmenes de información dispersa en múltiples plataformas, lo que dificulta la identificación oportuna de tendencias, opiniones negativas o posibles crisis reputacionales. Según Deloitte (2022), una crisis de reputación puede impactar significativamente el valor de marca en cuestión de horas, afectando la confianza del consumidor y los resultados financieros.
 
-**- Why (Por qué)**
+En el contexto latinoamericano y peruano, esta problemática se intensifica debido al alto nivel de interacción digital de los usuarios. De acuerdo con Ipsos Perú (2023), el 85% de los consumidores peruanos revisa opiniones en línea antes de adquirir un producto o servicio, lo que evidencia la creciente dependencia de la reputación digital en los procesos de decisión.
+Frente a esta situación, surge la necesidad de soluciones tecnológicas más avanzadas que permitan a empresas, marcas e influencers monitorear, analizar y gestionar su reputación digital de manera integral y en tiempo real. En este contexto, BrandRadar se plantea como una aplicación web orientada a cubrir esta necesidad, facilitando la toma de decisiones estratégicas basadas en datos y mejorando la capacidad de respuesta ante cambios en la percepción pública.
 
-**- How (Cómo)**
 
-**- How much (Cuánto)**
+#### Descripción de la Problemática (5W + 2H)
+  Para comprender la problemática que aborda BrandRadar, se aplica la técnica de las 5W + 2H:
+
+**- What — ¿Cuál es el problema?**
+
+Las marcas no cuentan con visibilidad en tiempo real sobre cómo son percibidas en internet. No saben qué se dice de ellas, dónde se dice, qué tono predomina ni cuándo una mención negativa está escalando hacia una crisis. Esta ausencia de información oportuna impide tomar decisiones correctivas antes de que el daño a la reputación sea irreversible.
+
+**- When — ¿Cuándo se presenta con mayor criticidad?**
+
+**- Where — ¿Dónde ocurre?**
+
+**- Who — ¿Quiénes son los afectados?**
+
+Las empresas, marcas e influencers que mantienen presencia activa en entornos digitales y cuya reputación online influye directamente en su posicionamiento, credibilidad y resultados comerciales.
+
+**- Why — ¿Por qué es un problema relevante?**
+
+**- How — ¿Cómo se enfrenta actualmente el problema?**
+
+**- How Much — ¿Cuál es la magnitud del impacto?**
 
 ---
 
