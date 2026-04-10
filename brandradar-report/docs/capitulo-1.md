@@ -182,7 +182,7 @@ BrandRadar permite a las empresas:
 
 ###   1.2.1. Antecedentes y problemática
 
-####  Antecedentes
+###  Antecedentes
 
 
 En la última década, la transformación digital ha reconfigurado significativamente el entorno competitivo de las organizaciones. La expansión de redes sociales, plataformas de reseñas, foros y medios digitales ha generado un ecosistema en el que los usuarios pueden influir directamente en la percepción pública de una marca en tiempo real. En este contexto, la reputación digital se ha convertido en un factor determinante para la toma de decisiones de los consumidores y el posicionamiento empresarial.
@@ -194,9 +194,12 @@ Con el crecimiento exponencial del contenido generado por los usuarios, la gesti
 En el contexto latinoamericano y peruano, esta problemática se intensifica debido al alto nivel de interacción digital de los usuarios. De acuerdo con Ipsos Perú (2023), el 85% de los consumidores peruanos revisa opiniones en línea antes de adquirir un producto o servicio, lo que evidencia la creciente dependencia de la reputación digital en los procesos de decisión.
 Frente a esta situación, surge la necesidad de soluciones tecnológicas más avanzadas que permitan a empresas, marcas e influencers monitorear, analizar y gestionar su reputación digital de manera integral y en tiempo real. En este contexto, BrandRadar se plantea como una aplicación web orientada a cubrir esta necesidad, facilitando la toma de decisiones estratégicas basadas en datos y mejorando la capacidad de respuesta ante cambios en la percepción pública.
 
+<br>
 
-#### Descripción de la Problemática (5W + 2H)
-  Para comprender la problemática que aborda BrandRadar, se aplica la técnica de las 5W + 2H:
+### Descripción de la Problemática (5W + 2H)
+<br>
+
+  *Para comprender la problemática que aborda BrandRadar, se aplica la técnica de las 5W + 2H:*
 
 **- What — ¿Cuál es el problema?**
 
@@ -204,7 +207,11 @@ Las marcas no cuentan con visibilidad en tiempo real sobre cómo son percibidas 
 
 **- When — ¿Cuándo se presenta con mayor criticidad?**
 
+El problema se vuelve crítico en momentos de alta exposición mediática: lanzamientos de productos, campañas publicitarias, controversias públicas o eventos del sector. No obstante, la naturaleza del entorno digital implica que la reputación está en juego de forma permanente y continua, las 24 horas del día, los 7 días de la semana.
+
 **- Where — ¿Dónde ocurre?**
+
+El problema se manifiesta en el ecosistema digital en su conjunto: redes sociales (Instagram, X/Twitter, TikTok, LinkedIn, Facebook), plataformas de reseñas (Google, Trustpilot, TripAdvisor), foros y comunidades (Reddit, Quora), medios de comunicación digitales y blogs. La dispersión de fuentes hace imposible el monitoreo de forma manual.
 
 **- Who — ¿Quiénes son los afectados?**
 
@@ -212,9 +219,15 @@ Las empresas, marcas e influencers que mantienen presencia activa en entornos di
 
 **- Why — ¿Por qué es un problema relevante?**
 
+El problema se manifiesta en el ecosistema digital en su conjunto: redes sociales (Instagram, X/Twitter, TikTok, LinkedIn, Facebook), plataformas de reseñas (Google, Trustpilot, TripAdvisor), foros y comunidades (Reddit, Quora), medios de comunicación digitales y blogs. La dispersión de fuentes hace imposible el monitoreo manual.
+
 **- How — ¿Cómo se enfrenta actualmente el problema?**
 
+La mayoría de empresas que no accede a soluciones especializadas recurre a métodos manuales: búsquedas periódicas en Google, revisión esporádica de redes sociales y alertas básicas por correo electrónico. Este enfoque reactivo resulta ineficiente, propenso a errores por omisión y absolutamente incapaz de detectar tendencias emergentes antes de que escalen. Quienes sí pueden pagar herramientas del mercado enfrentan interfaces complejas, exceso de datos sin contextualización y falta de acciones recomendadas.
+
 **- How Much — ¿Cuál es la magnitud del impacto?**
+
+
 
 ---
 
