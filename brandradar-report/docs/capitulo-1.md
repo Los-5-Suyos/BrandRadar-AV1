@@ -96,6 +96,8 @@ BrandRadar permite a las empresas:
 
 ---
 
+<br>
+
 #### 👤 Integrante 2
 
 <img src="../assets/team/integrante2.jpg" alt="Foto Integrante 2" width="120"/>
@@ -110,6 +112,7 @@ BrandRadar permite a las empresas:
 *(Párrafo describiendo principales conocimientos técnicos y habilidades que puede aportar al equipo)*
 
 ---
+<br>
 
 #### 👤 Integrante 3
 
@@ -125,6 +128,7 @@ BrandRadar permite a las empresas:
 *(Párrafo describiendo principales conocimientos técnicos y habilidades que puede aportar al equipo)*
 
 ---
+<br>
 
 #### 👤 Integrante 4
 
@@ -140,6 +144,7 @@ BrandRadar permite a las empresas:
 *(Párrafo describiendo principales conocimientos técnicos y habilidades que puede aportar al equipo)*
 
 ---
+<br>
 
 #### 👤 Integrante 5
 
