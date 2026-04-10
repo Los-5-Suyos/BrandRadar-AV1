@@ -14,51 +14,69 @@
 
 ###   1.1.1. Descripción de la Startup
 
-### 🏢 Startup: Kyuber
+**BrandRadar** es una startup tecnológica que desarrolla una aplicación web orientada al monitoreo y análisis de la reputación digital de marcas y empresas en tiempo real.
 
-Kyuber es una startup tecnológica enfocada en brindar soluciones de seguridad inteligente y accesible para hogares y pequeños negocios en el Perú.
+La plataforma permite a las organizaciones comprender cómo son percibidas en internet mediante la recopilación y análisis de información proveniente de redes sociales, reseñas y menciones en distintas plataformas digitales.
 
-Su producto principal, **Locky**, es un ecosistema que integra:
+A través del uso de técnicas de análisis de datos y procesamiento de lenguaje natural, BrandRadar identifica tendencias, evalúa el sentimiento de los usuarios (positivo, negativo o neutro) y detecta posibles riesgos reputacionales. Esto permite a las empresas tomar decisiones estratégicas, mejorar su posicionamiento y fortalecer su imagen en el entorno digital.
 
-- 🔐 Cerraduras electrónicas  
-- 🚨 Alarmas comunitarias  
-- 📷 Cámaras de seguridad  
-- 🌡️ Sensores de seguridad (temperatura y movimiento)  
+###  Logo y nombre del proyecto:
+**BrandRadar**
+<p align="center">
+  <img src="assets/images/logo.png" alt="BrandRadar Logo" width="200"/>
+</p>
 
-Todo es gestionado desde una aplicación móvil centralizada que permite el registro de eventos y la notificación inmediata ante una emergencia.
+##  Misión
 
-La propuesta combina **innovación, conectividad y facilidad de uso**, ofreciendo protección confiable a un precio competitivo, diferenciándose de alternativas importadas o de alto costo.
+Brindar a empresas y marcas una herramienta tecnológica que les permita monitorear y analizar su reputación digital en tiempo real, facilitando la toma de decisiones estratégicas basadas en datos confiables.
+
+
+##  Visión
+
+Ser una plataforma líder en Latinoamérica en gestión de reputación digital, reconocida por su innovación, precisión analítica y contribución al crecimiento de las marcas en el entorno digital.
+
+
+## 💡 Propuesta de Valor
+
+BrandRadar permite a las empresas:
+
+-  Monitorear en tiempo real lo que se dice sobre su marca en internet  
+-  Analizar automáticamente el sentimiento de opiniones y comentarios  
+-  Detectar crisis reputacionales de manera temprana  
+-  Obtener información clara y accionable para mejorar su posicionamiento digital  
+
+
+
+##  Diferenciación
+
+A diferencia de otras soluciones, BrandRadar se caracteriza por:
+
+- ⏱️ Monitoreo en tiempo real  
+- 🤖 Análisis automatizado de sentimiento  
+- 🧩 Plataforma intuitiva y fácil de usar  
+- 🌐 Integración de múltiples fuentes digitales en un solo sistema  
+
+
+## ⭐ Valores de la Empresa
+
+-  **Innovación**: Uso de tecnología para ofrecer soluciones modernas  
+-  **Transparencia**: Información clara y confiable  
+-  **Orientación al cliente**: Enfoque en necesidades reales  
+-  **Responsabilidad**: Manejo ético y seguro de los datos  
+-  **Calidad**: Resultados precisos y útiles  
 
 ---
 
-### 🧩 Nombre del Proyecto
+## 🎯 Objetivos de la Empresa
 
-**Sistema Integral de Seguridad Inteligente**  
-**LOCKY**
+1. Desarrollar una plataforma web funcional para el monitoreo de reputación digital  
+2. Implementar un sistema de análisis de sentimiento automático  
+3. Integrar múltiples fuentes de datos digitales en tiempo real  
+4. Facilitar la toma de decisiones mediante reportes claros y visuales  
+5. Mejorar el posicionamiento digital de las empresas usuarias  
 
----
 
-### 🎯 Misión
 
-Brindar soluciones de seguridad inteligente, confiable y accesible que protejan a las familias y pequeños negocios en el Perú, combinando tecnología innovadora con facilidad de uso para mejorar la calidad de vida y tranquilidad de nuestros clientes.
-
----
-
-### 🚀 Visión
-
-Ser una propuesta de seguridad inteligente que integre tecnología, accesibilidad y confianza, orientada a mejorar la protección en hogares y pequeños negocios. 
-
-Aspiramos a un futuro en el que las soluciones digitales formen parte de la vida cotidiana, aportando tranquilidad, simplicidad y un entorno más seguro para las comunidades.
-
----
-
-### 🎯 Objetivos
-
-- Diseñar y desarrollar un producto que responda a las necesidades reales de seguridad de los usuarios.  
-- Explorar el uso de tecnologías digitales para mejorar la protección en hogares y pequeños negocios.  
-- Promover la innovación y creatividad en cada etapa del proyecto.  
-- Generar una propuesta de valor clara y diferenciada frente a las soluciones tradicionales.  
-- Consolidar el aprendizaje del equipo a través del desarrollo de este proyecto académico.  
 ---
 
 ###   1.1.2. Perfiles de integrantes del equipo
