@@ -110,8 +110,8 @@ BrandRadar permite a las empresas:
 
 | Campo | Detalle |
 |:------|:--------|
-| **Nombres y Apellidos** | `[Apellido1 Apellido2, Nombre]` |
-| **Código de estudiante** | `U20XXXXXXX` |
+| **Nombres y Apellidos** | `[Jáuregui Cerna, Jean Franco]` |
+| **Código de estudiante** | `U202410024` |
 | **Carrera** | Ingeniería de Software |
 
 </div>
@@ -130,8 +130,8 @@ BrandRadar permite a las empresas:
 
 | Campo | Detalle |
 |:------|:--------|
-| **Nombres y Apellidos** | `[Apellido1 Apellido2, Nombre]` |
-| **Código de estudiante** | `U20XXXXXXX` |
+| **Nombres y Apellidos** | `Cruzalegui Herrera, Joaquin` |
+| **Código de estudiante** | `U202411354` |
 | **Carrera** | Ingeniería de Software |
 </div>
 
@@ -201,31 +201,31 @@ Frente a esta situación, surge la necesidad de soluciones tecnológicas más av
 
   *Para comprender la problemática que aborda BrandRadar, se aplica la técnica de las 5W + 2H:*
 
-**- What — ¿Cuál es el problema?**
+**• What — ¿Cuál es el problema?**
 
 Las marcas no cuentan con visibilidad en tiempo real sobre cómo son percibidas en internet. No saben qué se dice de ellas, dónde se dice, qué tono predomina ni cuándo una mención negativa está escalando hacia una crisis. Esta ausencia de información oportuna impide tomar decisiones correctivas antes de que el daño a la reputación sea irreversible.
 
-**- When — ¿Cuándo se presenta con mayor criticidad?**
+**• When — ¿Cuándo se presenta con mayor criticidad?**
 
 El problema se vuelve crítico en momentos de alta exposición mediática: lanzamientos de productos, campañas publicitarias, controversias públicas o eventos del sector. No obstante, la naturaleza del entorno digital implica que la reputación está en juego de forma permanente y continua, las 24 horas del día, los 7 días de la semana.
 
-**- Where — ¿Dónde ocurre?**
+**• Where — ¿Dónde ocurre?**
 
 El problema se manifiesta en el ecosistema digital en su conjunto: redes sociales (Instagram, X/Twitter, TikTok, LinkedIn, Facebook), plataformas de reseñas (Google, Trustpilot, TripAdvisor), foros y comunidades (Reddit, Quora), medios de comunicación digitales y blogs. La dispersión de fuentes hace imposible el monitoreo de forma manual.
 
-**- Who — ¿Quiénes son los afectados?**
+**• Who — ¿Quiénes son los afectados?**
 
 Las empresas, marcas e influencers que mantienen presencia activa en entornos digitales y cuya reputación online influye directamente en su posicionamiento, credibilidad y resultados comerciales.
 
-**- Why — ¿Por qué es un problema relevante?**
+**• Why — ¿Por qué es un problema relevante?**
 
 El problema se manifiesta en el ecosistema digital en su conjunto: redes sociales (Instagram, X/Twitter, TikTok, LinkedIn, Facebook), plataformas de reseñas (Google, Trustpilot, TripAdvisor), foros y comunidades (Reddit, Quora), medios de comunicación digitales y blogs. La dispersión de fuentes hace imposible el monitoreo manual.
 
-**- How — ¿Cómo se enfrenta actualmente el problema?**
+**• How — ¿Cómo se enfrenta actualmente el problema?**
 
 La mayoría de empresas que no accede a soluciones especializadas recurre a métodos manuales: búsquedas periódicas en Google, revisión esporádica de redes sociales y alertas básicas por correo electrónico. Este enfoque reactivo resulta ineficiente, propenso a errores por omisión y absolutamente incapaz de detectar tendencias emergentes antes de que escalen. Quienes sí pueden pagar herramientas del mercado enfrentan interfaces complejas, exceso de datos sin contextualización y falta de acciones recomendadas.
 
-**- How Much — ¿Cuál es la magnitud del impacto?**
+**• How Much — ¿Cuál es la magnitud del impacto?**
 
 
 
@@ -240,6 +240,8 @@ El proceso Lean UX parte de identificar con precisión los problemas reales que 
 <br>
 
 ### Problem Statement 1
+<br>
+
 ####  Empresas y marcas digitales (PyMEs)
 
 | Componente | Descripción |
@@ -259,6 +261,8 @@ El proceso Lean UX parte de identificar con precisión los problemas reales que 
 <br>
 
 ### Problem Statement 2
+<br>
+
 ####  Agencias de marketing digital
 
 | Componente | Descripción |
@@ -276,46 +280,66 @@ El proceso Lean UX parte de identificar con precisión los problemas reales que 
 **¿Cómo podríamos ofrecer una plataforma multimarca con reportería automatizada que permita a las agencias gestionar la reputación de todos sus clientes de forma eficiente y escalable?**
 
 ---
+<br>
 
 #### 1.2.2.2. Lean UX Assumptions
 
-Features
+## Features
 
-Registro de usuarios para acceder a la plataforma de monitoreo de reputación digital.
-Gestión de perfiles con roles distintos (administrador de marca, analista, cliente de agencia).
-Dashboard centralizado con menciones en tiempo real provenientes de redes sociales, foros y medios digitales.
-Monitoreo multimarca para agencias que gestionan múltiples clientes desde un solo panel.
-Sistema de alertas automáticas configurables por palabras clave, volumen de menciones y tono de sentimiento.
-Análisis de sentimiento automatizado (positivo / neutro / negativo) calibrado para español latinoamericano.
-Generación automática de reportes exportables en PDF y CSV con personalización de marca.
-Historial de menciones y evolución de reputación a lo largo del tiempo.
-Integración con las principales fuentes digitales: Instagram, X/Twitter, Facebook, TikTok y Google.
-Planes escalables: versión gratuita con funcionalidades limitadas y planes premium por volumen de menciones y marcas.
-
-
-Business Outcomes
-
-Alcanzar un 20 % de conversión de usuarios del plan gratuito a planes de pago en los primeros 90 días.
-Retener al 75 % de los usuarios activos tras el primer mes de uso continuo.
-Lograr que el 40 % de las agencias usuarias reporten una reducción significativa en su tiempo de reportería dentro de los primeros 2 meses.
-Captar al menos 50 agencias de marketing digital activas en Perú y LATAM durante los primeros 6 meses.
-Posicionar a BrandRadar como la solución de monitoreo de reputación digital de referencia para PyMEs y agencias en el mercado hispanohablante dentro de los primeros 12 meses.
-
-
-Users
-
-Pequeñas y medianas empresas con presencia digital activa que buscan proteger y gestionar su reputación online sin contar con un equipo especializado de comunicaciones.
-Agencias de marketing digital que gestionan la reputación de múltiples clientes simultáneamente y necesitan una herramienta centralizada, eficiente y fácil de reportar.
-Usuarios que valoran la simplicidad, la accionabilidad de los datos y la posibilidad de recibir alertas automáticas sin necesidad de revisar manualmente múltiples plataformas.
+  •  Registro de usuarios para acceder a la plataforma de monitoreo de reputación digital.
+  
+  •  Gestión de perfiles con roles distintos (administrador de marca, analista, cliente de agencia).
+  
+  •  Dashboard centralizado con menciones en tiempo real provenientes de redes sociales, foros y medios digitales.
+  
+  •  Monitoreo multimarca para agencias que gestionan múltiples clientes desde un solo panel.
+  
+  •  Sistema de alertas automáticas configurables por palabras clave, volumen de menciones y tono de sentimiento.
+  
+  •  Análisis de sentimiento automatizado (positivo / neutro / negativo) calibrado para español latinoamericano.
+  
+  •  Generación automática de reportes exportables en PDF y CSV con personalización de marca.
+  
+  •  Historial de menciones y evolución de reputación a lo largo del tiempo.
+  
+  •  Integración con las principales fuentes digitales: Instagram, X/Twitter, Facebook, TikTok y Google.
+  
+  •  Planes escalables: versión gratuita con funcionalidades limitadas y planes premium por volumen de menciones y marcas.
 
 
-User Outcomes
+## Business Outcomes
 
-Conocer en tiempo real qué se dice de su marca en internet sin revisar plataformas manualmente.
-Detectar y responder a crisis reputacionales antes de que escalen, reduciendo el impacto negativo.
-Contar con reportes automáticos y claros que permitan demostrar valor a clientes o stakeholders sin esfuerzo manual.
-Acceder a una solución asequible, en español y adaptada al contexto latinoamericano que no requiera conocimientos técnicos avanzados.
-Fortalecer la toma de decisiones de comunicación con datos de sentimiento concretos y accionables.
+  •  Alcanzar un 20 % de conversión de usuarios del plan gratuito a planes de pago en los primeros 90 días.
+  
+  •  Retener al 75 % de los usuarios activos tras el primer mes de uso continuo.
+  
+  •  Lograr que el 40 % de las agencias usuarias reporten una reducción significativa en su tiempo de reportería dentro de los primeros 2 meses.
+  
+  •  Captar al menos 50 agencias de marketing digital activas en Perú y LATAM durante los primeros 6 meses.
+  
+  •  Posicionar a BrandRadar como la solución de monitoreo de reputación digital de referencia para PyMEs y agencias en el mercado hispanohablante dentro de los primeros 12 meses.
+
+
+## Users
+
+  •  Pequeñas y medianas empresas con presencia digital activa que buscan proteger y gestionar su reputación online sin contar con un equipo especializado de comunicaciones.
+  
+  •  Agencias de marketing digital que gestionan la reputación de múltiples clientes simultáneamente y necesitan una herramienta centralizada, eficiente y fácil de reportar.
+  
+  •  Usuarios que valoran la simplicidad, la accionabilidad de los datos y la posibilidad de recibir alertas automáticas sin necesidad de revisar manualmente múltiples plataformas.
+
+
+## User Outcomes
+
+  •  Conocer en tiempo real qué se dice de su marca en internet sin revisar plataformas manualmente.
+  
+  •  Detectar y responder a crisis reputacionales antes de que escalen, reduciendo el impacto negativo.
+  
+  •  Contar con reportes automáticos y claros que permitan demostrar valor a clientes o stakeholders sin esfuerzo manual.
+  
+  •  Acceder a una solución asequible, en español y adaptada al contexto latinoamericano que no requiera conocimientos técnicos avanzados.
+  
+  •  Fortalecer la toma de decisiones de comunicación con datos de sentimiento concretos y accionables.
 
 
 ---
