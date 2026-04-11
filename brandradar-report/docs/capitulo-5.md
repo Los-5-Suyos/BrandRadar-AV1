@@ -220,13 +220,6 @@ Tipos: feat | fix | docs | style | refactor | test | chore
 
 ### 5.3.1. Diseño de Entrevistas
 
-*(Elementos a incluir en la sesión de validación por segmento objetivo — Landing Page y aplicaciones)*
-
-**Segmento objetivo 1:**
-*(Especificar user flows que formarán parte del proceso de validación)*
-
-**Segmento objetivo 2:**
-*(Especificar user flows que formarán parte del proceso de validación)*
 
 ### 5.3.2. Registro de Entrevistas
 
@@ -252,30 +245,7 @@ Tipos: feat | fix | docs | style | refactor | test | chore
 *(Ver formato completo en el Anexo D del enunciado del proyecto)*
 
 **UX Heuristics & Principles Evaluation**
-*Usability – Inclusive Design – Information Architecture*
 
-**Site o App a evaluar:** BrandRadar
-
-**Tareas a evaluar:**
-1. *(Tarea 1)*
-2. *(Tarea 2)*
-3. *(Tarea 3)*
-
-**Escala de Severidad:**
-
-| Nivel | Descripción |
-|:-----:|:------------|
-| 1 | Problema superficial — puede superarse fácilmente o rara vez ocurre |
-| 2 | Problema menor — ocurre con más frecuencia o es algo difícil de superar |
-| 3 | Problema mayor — ocurre frecuentemente o los usuarios no pueden resolverlo |
-| 4 | Problema muy grave — impide al usuario continuar usando la herramienta |
-
-**Tabla Resumen:**
-
-| # | Problema | Severidad | Heurística / Principio violado |
-|:-:|:---------|:---------:|:-------------------------------|
-| 1 | *(Descripción del problema)* | `[1-4]` | `[Heurística]` |
-| 2 | *(Descripción del problema)* | `[1-4]` | `[Heurística]` |
 
 ---
 
@@ -288,7 +258,6 @@ Tipos: feat | fix | docs | style | refactor | test | chore
 - **URL Microsoft Stream:** [`[Nombre del video]`](`URL`)
 - **URL YouTube (para incrustar en Landing Page):** [`[Nombre del video]`](`URL`)
 
-*(Screenshot del video)*
 
 ![About the Product Video Screenshot](../assets/videos/about-the-product-screenshot.png)
 
