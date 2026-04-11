@@ -238,8 +238,10 @@ Asimismo, el 87 % de los ejecutivos a nivel global considera el riesgo reputacio
 <br>
 <div align="center">
   
-<img src="../assets/images/how2.png" alt="How Much" width="470"/>
+<img src="../assets/images/how2.png" alt="How Much" width="450"/>
+
 </div>
+
 ---
 <br>
 
@@ -295,7 +297,7 @@ El proceso Lean UX parte de identificar con precisión los problemas reales que 
 
 #### 1.2.2.2. Lean UX Assumptions
 
-### Features
+#### Features
 
   •  Registro de usuarios para acceder a la plataforma de monitoreo de reputación digital.
   
@@ -318,7 +320,7 @@ El proceso Lean UX parte de identificar con precisión los problemas reales que 
   •  Planes escalables: versión gratuita con funcionalidades limitadas y planes premium por volumen de menciones y marcas.
 
 
-### Business Outcomes
+#### Business Outcomes
 
   •  Alcanzar un 20 % de conversión de usuarios del plan gratuito a planes de pago en los primeros 90 días.
   
@@ -331,7 +333,7 @@ El proceso Lean UX parte de identificar con precisión los problemas reales que 
   •  Posicionar a BrandRadar como la solución de monitoreo de reputación digital de referencia para PyMEs y agencias en el mercado hispanohablante dentro de los primeros 12 meses.
 
 
-### Users
+#### Users
 
   •  Pequeñas y medianas empresas con presencia digital activa que buscan proteger y gestionar su reputación online sin contar con un equipo especializado de comunicaciones.
   
@@ -340,7 +342,7 @@ El proceso Lean UX parte de identificar con precisión los problemas reales que 
   •  Usuarios que valoran la simplicidad, la accionabilidad de los datos y la posibilidad de recibir alertas automáticas sin necesidad de revisar manualmente múltiples plataformas.
 
 
-### User Outcomes
+#### User Outcomes
 
   •  Conocer en tiempo real qué se dice de su marca en internet sin revisar plataformas manualmente.
   
@@ -357,6 +359,8 @@ El proceso Lean UX parte de identificar con precisión los problemas reales que 
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
+<br>
+
 **Hypothesis Statement 1:**
 > Creemos que al ofrecer un dashboard centralizado que consolide menciones de múltiples plataformas en tiempo real, las PyMEs y agencias percibirán mayor control sobre su reputación digital, lo que aumentará la adopción y retención de la plataforma. **Sabremos que hemos tenido éxito** cuando al menos el 65 % de los usuarios nuevos configure su primer proyecto de monitoreo de forma autónoma dentro de los primeros 7 días de registro..
 
@@ -371,6 +375,8 @@ El proceso Lean UX parte de identificar con precisión los problemas reales que 
 
 **Hypothesis Statement 5:**
 > Creemos que al incluir análisis de sentimiento automatizado calibrado para español latinoamericano, los usuarios tomarán decisiones de comunicación más informadas y percibirán mayor valor en la plataforma frente a alternativas en inglés. **Sabremos que hemos tenido éxito** cuando el 75 % de los usuarios activos al final del primer mes reporte que el análisis de sentimiento fue útil para tomar al menos una decisión de comunicación, medido a través de encuesta NPS al día 30.
+
+<br>
 
 ---
 
