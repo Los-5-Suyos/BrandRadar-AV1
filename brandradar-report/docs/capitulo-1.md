@@ -240,9 +240,9 @@ El proceso Lean UX parte de identificar con precisión los problemas reales que 
 <br>
 
 ### Problem Statement 1
-<br>
 
 ####  Empresas y marcas digitales (PyMEs)
+<br>
 
 | Componente | Descripción |
 |---|---|
@@ -261,9 +261,9 @@ El proceso Lean UX parte de identificar con precisión los problemas reales que 
 <br>
 
 ### Problem Statement 2
-<br>
 
 ####  Agencias y especializastas de marketing digital
+<br>
 
 | Componente | Descripción |
 |---|---|
@@ -392,7 +392,7 @@ El proceso Lean UX parte de identificar con precisión los problemas reales que 
 
 ---
 
-### Segmento objetivo 2: `Agencias y especializastas de marketing digital`
+### Segmento objetivo 2: `Agencias y especialistas de marketing digital`
 
 *(Descripción del segmento: características demográficas, perfil, necesidades y estadísticas de respaldo)*
 
@@ -409,6 +409,6 @@ El proceso Lean UX parte de identificar con precisión los problemas reales que 
 
 <div align="center">
 
-[← README / Portada](../../README.md) &nbsp;|&nbsp; [Capítulo II →](./capitulo-2.md)
+[← Carátula](../../README.md) &nbsp;|&nbsp; [Capítulo II →](./capitulo-2.md)
 
 </div>
