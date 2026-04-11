@@ -272,11 +272,11 @@ Diversas investigaciones evidencian que:
 
 Estos datos demuestran que la reputación digital tiene un impacto directo en:
 
-La **decisión de compra**
+- La **decisión de compra**
 
-La **confianza del consumidor**
+- La **confianza del consumidor**
 
-Los **ingresos de la empresa**
+- Los **ingresos de la empresa**
 
 <br>
 
