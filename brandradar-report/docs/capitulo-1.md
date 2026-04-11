@@ -262,13 +262,13 @@ Diversas investigaciones evidencian que:
 
 - El **93 % de los consumidores lee reseñas online antes de comprar (Ruby, 2025).**
   
-- El **97 % consulta reseñas de negocios antes de visitarlos**
+- El **97 % consulta reseñas de negocios antes de visitarlos (Capital One Shopping Research, 2026).**
   
-- El **85 % evita empresas sin reseñas o con mala reputación**
+- El **85 % evita empresas sin reseñas o con mala reputación (Capital One Shopping Research, 2026).**
   
-- El **75 % de los consumidores desconfía de reseñas falsas, lo que afecta la credibilidad de las marcas**
+- El **75 % de los consumidores desconfía de reseñas falsas, lo que afecta la credibilidad de las marcas ((Ruby, 2025).**
   
-- Las reseñas pueden **incrementar las ventas hasta en 19.8 %**
+- Las reseñas pueden **incrementar las ventas hasta en 19.8 % (Capital One Shopping Research, 2026)**
 
 Estos datos demuestran que la reputación digital tiene un impacto directo en:
 
@@ -315,7 +315,7 @@ Solo un porcentaje mínimo no las consulta
 
 </div>
 
-
+<br>
 
 Estos resultados evidencian que una mala gestión de la reputación digital puede generar pérdida de clientes, disminución de ingresos y deterioro de la imagen de marca, lo que justifica la necesidad de soluciones como *BrandRadar*.
 
