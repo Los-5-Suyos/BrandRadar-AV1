@@ -198,7 +198,11 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 ## 📚 Bibliografía
 
 *(Listar referencias en formato APA)*
+> ReputationUP. (2024). Qué es la reputación digital y cómo gestionarla. https://reputationup.com/es/reputacion-digital/
 
+> Café Taipá. (2024, noviembre). Top CEO Digital Perú 2024: Gestión de marca y reputación de directivos. https://cafetaipa.com/2024/11/top-ceo-digital-peru-2024-gestion-de-marca-y-reputacion-de-directivos/
+
+> Moz. (s.f.). Moz Consumer Surveys: Artículos negativos y ventas [Infografía]. En ReputationUP. https://reputationup.com/es/reputacion-digital/
 
 ---
 
