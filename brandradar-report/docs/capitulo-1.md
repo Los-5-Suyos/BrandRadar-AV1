@@ -364,19 +364,24 @@ El proceso Lean UX parte de identificar con precisión los problemas reales que 
 <br>
 
 **Hypothesis Statement 1:**
-> Creemos que al ofrecer un dashboard centralizado que consolide menciones de múltiples plataformas en tiempo real, las PyMEs y agencias percibirán mayor control sobre su reputación digital, lo que aumentará la adopción y retención de la plataforma. **Sabremos que hemos tenido éxito** cuando al menos el 65 % de los usuarios nuevos configure su primer proyecto de monitoreo de forma autónoma dentro de los primeros 7 días de registro..
+
+
+> Creemos que al implementar alertas automáticas en tiempo real sobre menciones negativas, los responsables de marketing podrán responder más rápido y prevenir crisis reputacionales.
+**Sabremos que hemos tenido éxito** cuando al menos el 70 % de los usuarios activos configure una alerta en su primera semana y se evidencie una reducción en el tiempo de respuesta ante menciones negativas.
 
 **Hypothesis Statement 2:**
-> Creemos que al implementar un sistema de alertas automáticas configurables por palabras clave y umbral de sentimiento, los usuarios detectarán crisis reputacionales en etapas tempranas, reduciendo su impacto. **Sabremos que hemos tenido éxito** cuando el 70 % de los usuarios activos active al menos una alerta personalizada en su primera semana y reporte haber detectado una mención relevante gracias a la plataforma dentro del primer mes..
+
+
+> Creemos que al ofrecer un dashboard centralizado con métricas de reputación (sentimiento, volumen y tendencias), los usuarios podrán comprender mejor la percepción de su marca y tomar decisiones estratégicas.
+**Sabremos que hemos tenido éxito** cuando el 65 % de los usuarios consulte el dashboard al menos 3 veces por semana durante el primer mes.
+
 
 **Hypothesis Statement 3:**
-> Creemos que si facilitamos la generación automática de reportes exportables con personalización de marca, las agencias de marketing digital reducirán su tiempo operativo y aumentarán el valor percibido por sus clientes. **Sabremos que hemos tenido éxito** cuando el 40 % de las agencias usuarias reduzca su tiempo de elaboración de reportes de reputación a menos de 30 minutos por cliente al mes, medido mediante encuesta de satisfacción al día 30.
 
-**Hypothesis Statement 4:**
-> Creemos que si facilitamos la generación automática de reportes exportables con personalización de marca, las agencias de marketing digital reducirán su tiempo operativo y aumentarán el valor percibido por sus clientes. **Sabremos que hemos tenido éxito** cuando el 40 % de las agencias usuarias reduzca su tiempo de elaboración de reportes de reputación a menos de 30 minutos por cliente al mes, medido mediante encuesta de satisfacción al día 30.
 
-**Hypothesis Statement 5:**
-> Creemos que al incluir análisis de sentimiento automatizado calibrado para español latinoamericano, los usuarios tomarán decisiones de comunicación más informadas y percibirán mayor valor en la plataforma frente a alternativas en inglés. **Sabremos que hemos tenido éxito** cuando el 75 % de los usuarios activos al final del primer mes reporte que el análisis de sentimiento fue útil para tomar al menos una decisión de comunicación, medido a través de encuesta NPS al día 30.
+> Creemos que al integrar múltiples canales digitales (redes sociales y plataformas de reseñas) en una sola plataforma, los usuarios podrán obtener una visión completa de su reputación digital.
+**Sabremos que hemos tenido éxito** cuando el 60 % de los usuarios conecte más de una fuente de datos durante su primera semana de uso.
+
 
 <br>
 
@@ -386,10 +391,9 @@ El proceso Lean UX parte de identificar con precisión los problemas reales que 
 
 *Lean UX Canvas elaborado en la herramienta Figma*
 
-
 ![Lean UX Canvas](../assets/images/leancanvas.png)
 
-*El Lean UX Canvas fue diseñado utilizando Figma, lo que permitió estructurar de manera visual y colaborativa los principales componentes del proyecto. En este canvas se identifican los problemas del usuario, las hipótesis de solución, los segmentos de clientes, las propuestas de valor y las métricas clave. Además, su desarrollo facilitó la iteración rápida de ideas y la alineación del equipo en torno a los objetivos del producto, permitiendo validar supuestos de forma temprana y enfocar los esfuerzos en generar valor para el usuario final.*
+El Lean UX Canvas fue diseñado utilizando Figma, lo que permitió estructurar de manera visual y colaborativa los principales componentes del proyecto. En este canvas se identifican los problemas del usuario, las hipótesis de solución, los segmentos de clientes, las propuestas de valor y las métricas clave. Además, su desarrollo facilitó la iteración rápida de ideas y la alineación del equipo en torno a los objetivos del producto, permitiendo validar supuestos de forma temprana y enfocar los esfuerzos en generar valor para el usuario final.
 
 ---
 
@@ -412,7 +416,7 @@ El proceso Lean UX parte de identificar con precisión los problemas reales que 
 
 ---
 
-### Segmento objetivo 2: `Agencias y especialistas de marketing digital`
+### Segmento objetivo 2: `Especialistas de marketing o community managers`
 
 *(Descripción del segmento: características demográficas, perfil, necesidades y estadísticas de respaldo)*
 
