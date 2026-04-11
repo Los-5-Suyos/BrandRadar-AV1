@@ -209,44 +209,107 @@ En conjunto, estos factores demuestran que la reputación digital se ha converti
 
 ####   What — ¿Cuál es el problema?
 
-Las marcas no cuentan con visibilidad en tiempo real sobre cómo son percibidas en internet. No saben qué se dice de ellas, dónde se dice, qué tono predomina ni cuándo una mención negativa está escalando hacia una crisis. Esta ausencia de información oportuna impide tomar decisiones correctivas antes de que el daño a la reputación sea irreversible.
+Las marcas no cuentan con visibilidad en tiempo real sobre cómo son percibidas en internet. No saben qué se dice de ellas, dónde se dice, qué tono predomina ni cuándo una mención negativa está escalando hacia una crisis, debido a la dispersión de información en múltiples plataformas y la falta de herramientas accesibles que integren estos datos de manera clara y accionable. Esta ausencia de información oportuna impide tomar decisiones correctivas antes de que el daño a la reputación sea irreversible.
 
-####   When — ¿Cuándo se presenta con mayor criticidad?
+####   Why — ¿Por qué es un problema relevante?
 
-El problema se vuelve crítico en momentos de alta exposición mediática: lanzamientos de productos, campañas publicitarias, controversias públicas o eventos del sector. No obstante, la naturaleza del entorno digital implica que la reputación está en juego de forma permanente y continua, las 24 horas del día, los 7 días de la semana.
+Este problema ocurre porque:
+
+- La información sobre la marca está distribuida en múltiples canales digitales.
+  
+- Las herramientas existentes suelen ser complejas o costosas.
+  
+- Existe una sobrecarga de datos difícil de interpretar.
+  
+- La reputación digital es dinámica y cambia constantemente en tiempo real
+
+####   Who — ¿Quiénes son los afectados?
+
+- Pequeñas y medianas empresas (PyMEs).
+
+- Agencias de marketing digital.
+
+- Community managers y responsables de comunicación.
+
 
 ####   Where — ¿Dónde ocurre?
 
 El problema se manifiesta en el ecosistema digital en su conjunto: redes sociales (Instagram, X/Twitter, TikTok, LinkedIn, Facebook), plataformas de reseñas (Google, Trustpilot, TripAdvisor), foros y comunidades (Reddit, Quora), medios de comunicación digitales y blogs. La dispersión de fuentes hace imposible el monitoreo de forma manual.
 
-####   Who — ¿Quiénes son los afectados?
 
-Las empresas, marcas e influencers que mantienen presencia activa en entornos digitales y cuya reputación online influye directamente en su posicionamiento, credibilidad y resultados comerciales.
+####   When — ¿Cuándo se presenta con mayor criticidad?
 
-####   Why — ¿Por qué es un problema relevante?
-
-El problema se manifiesta en el ecosistema digital en su conjunto: redes sociales (Instagram, X/Twitter, TikTok, LinkedIn, Facebook), plataformas de reseñas (Google, Trustpilot, TripAdvisor), foros y comunidades (Reddit, Quora), medios de comunicación digitales y blogs. La dispersión de fuentes hace imposible el monitoreo manual.
+El problema se vuelve crítico en momentos de alta exposición mediática: lanzamientos de productos, campañas publicitarias, controversias públicas o eventos del sector. No obstante, la naturaleza del entorno digital implica que la reputación está en juego de forma permanente y continua, las 24 horas del día, los 7 días de la semana.
 
 ####   How — ¿Cómo se enfrenta actualmente el problema?
 
-La mayoría de empresas que no accede a soluciones especializadas recurre a métodos manuales: búsquedas periódicas en Google, revisión esporádica de redes sociales y alertas básicas por correo electrónico. Este enfoque reactivo resulta ineficiente, propenso a errores por omisión y absolutamente incapaz de detectar tendencias emergentes antes de que escalen. Quienes sí pueden pagar herramientas del mercado enfrentan interfaces complejas, exceso de datos sin contextualización y falta de acciones recomendadas.
+- La mayoría de empresas que no accede a soluciones especializadas recurre a métodos manuales: búsquedas periódicas en Google, revisión esporádica de redes sociales y alertas básicas por correo electrónico. 
+
+- La información está fragmentada en múltiples plataformas
+
+- No existe monitoreo automatizado en tiempo real
+
+- Las empresas detectan problemas de forma tardía
+
+- Las decisiones se toman sin datos consolidados
+
 
 ####   How Much — ¿Cuál es la magnitud del impacto?
 
-El impacto de una reputación digital mal gestionada se refleja directamente en las ventas y en la percepción del consumidor. El 70 % de los consumidores no compra a empresas que tienen cuatro o más artículos negativos sobre sus marcas, productos o servicios en los resultados de búsqueda de Google ReputationUP (ReputationUP, 2024). Este dato se refuerza con el gráfico de Moz Consumer Surveys, que muestra que solo el 10,7 % de los compradores tolera cuatro o más artículos negativos antes de abandonar una marca, mientras que el 30,1 % afirma que no importa el número de artículos negativos —lo que evidencia que una fracción significativa del mercado abandona la marca ante cualquier señal de daño reputacional.
-<br>
-<div align="center">
-<img src="../assets/images/how3.png" alt="HowM" width="700"/>
-</div>
-En el contexto peruano, la reputación digital de los líderes empresariales también es un activo estratégico medible. El ranking Top CEO Digital Perú 2024, publicado por Café Taipá en el diario Gestión y basado en el análisis de 720 CEOs de las empresas con mayor facturación en el país, evaluó la presencia y contenidos digitales de los directivos, incorporando criterios como el Knowledge Panel de Google, la confiabilidad percibida por inteligencia artificial y la coherencia entre el propósito corporativo y el discurso del ejecutivo en plataformas como LinkedIn y X cafetaipa (Café Taipá, 2024). Este estudio —en su décima edición— demuestra que la gestión de la reputación digital ya es un indicador de competitividad empresarial en el Perú, no solo un ejercicio de imagen.
-Asimismo, el 87 % de los ejecutivos a nivel global considera el riesgo reputacional más importante que cualquier otro riesgo que enfrenta la empresa, y más del 25 % del valor de mercado de las organizaciones se atribuye directamente a su reputación, según el World Economic Forum ReputationUP (ReputationUP, citando World Economic Forum, 2024).
+El impacto de la reputación digital en las empresas es significativo y está respaldado por múltiples estudios recientes.
 
+Diversas investigaciones evidencian que:
+
+- El **93 % de los consumidores lee reseñas online antes de comprar (Ruby, 2025).**
+  
+- El **97 % consulta reseñas de negocios antes de visitarlos**
+  
+- El **85 % evita empresas sin reseñas o con mala reputación**
+  
+- El **75 % de los consumidores desconfía de reseñas falsas, lo que afecta la credibilidad de las marcas**
+  
+- Las reseñas pueden **incrementar las ventas hasta en 19.8 %**
+
+Estos datos demuestran que la reputación digital tiene un impacto directo en:
+
+La **decisión de compra**
+
+La **confianza del consumidor**
+
+Los **ingresos de la empresa**
+
+<br>
+
+### 📊 Imagen 1: Influencia de las reseñas en decisiones de compra
+
+👉 Esta gráfica muestra cómo la mayoría de consumidores:
 <br>
 <div align="center">
   
-<img src="../assets/images/how2.png" alt="How Much" width="450"/>
+<img src="https://brightlocal-corp-assets.s3.amazonaws.com/brightlocal-corp-2026/wp/uploads/2026/02/LCRS_2026_09-93percentreadytopurchase-860x427.png" alt="How Much" width="450"/>
 
 </div>
+Lee reseñas frecuentemente
+Basa sus decisiones en opiniones de otros usuarios
+
+
+
+
+
+###  📊 Imagen 2: Frecuencia de lectura de reseñas
+
+👉 Se observa que:
+<br>
+<div align="center">
+  
+<img src="https://brightlocal-corp-assets.s3.amazonaws.com/brightlocal-corp-2026/wp/uploads/2026/02/LCRS_2026_01-97percentofconsumersreadreviews-860x427.png" alt="How Much" width="450"/>
+
+</div>
+Más del 70 % de usuarios revisa reseñas regularmente
+Solo un porcentaje mínimo no las consulta
+
+
+Estos resultados evidencian que una mala gestión de la reputación digital puede generar pérdida de clientes, disminución de ingresos y deterioro de la imagen de marca, lo que justifica la necesidad de soluciones como *BrandRadar*.
 
 ---
 <br>
