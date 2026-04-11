@@ -148,14 +148,16 @@ BrandRadar permite a las empresas:
 
 | Campo | Detalle |
 |:------|:--------|
-| **Nombres y Apellidos** | `[Apellido1 Apellido2, Nombre]` |
-| **Código de estudiante** | `U20XXXXXXX` |
+| **Nombres y Apellidos** | `[Acuña de la Cruz, Luis]` |
+| **Código de estudiante** | `U202417228` |
 | **Carrera** | Ingeniería de Software |
 
 </div>
 
 **Descripción:**
-*(Párrafo describiendo principales conocimientos técnicos y habilidades que puede aportar al equipo)*
+*(Soy estudiante de Ingeniería de Software con sólidos conocimientos en desarrollo de aplicaciones, estructuras de datos y programación orientada a objetos. Tengo experiencia en el uso de C++, así como en la gestión de proyectos mediante herramientas como Git y GitHub para el control de versiones.
+
+Además, cuento con formación en marketing digital, lo que me permite aportar una visión centrada en el usuario y en el posicionamiento estratégico de los productos. Me caracterizo por ser una persona responsable, con iniciativa para el aprendizaje autónomo, y con habilidades para el trabajo en equipo y la comunicación efectiva de ideas.)*
 
 ---
 <br>
