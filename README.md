@@ -201,7 +201,7 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 
 > BrightLocal. (2026). *Local consumer review survey 2026.* https://www.brightlocal.com/research/local-consumer-review-survey/
 
-> Capital One Shopping Research. (2026).* Online reviews statistics.* https://capitaloneshopping.com/research/online-reviews-statistics/
+> Capital One Shopping Research. (2026). *Online reviews statistics.* https://capitaloneshopping.com/research/online-reviews-statistics/
 
 > Ott, M., Cardie, C., & Hancock, J. T. (2012). *Estimating the prevalence of deception in online review communities*. https://arxiv.org/abs/1204.2804
 
