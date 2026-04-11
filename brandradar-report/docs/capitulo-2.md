@@ -82,9 +82,9 @@ Con el objetivo de comprender mejor a los usuarios, se realizaron entrevistas a 
 | **Duración** | `[HH:MM]` |
 | **Enlace al video** | [Ver entrevista en Microsoft Stream](`URL`) — Inicia en `[MM:SS]` |
 
+**Resumen:**
 </div>
 
-**Resumen:**
 *(Redactar de forma descriptiva las respuestas del entrevistado a las preguntas realizadas. Incluir todas las características objetivas y subjetivas: personalidad, marcas e influencias, tecnología, canales de interacción, browser, dispositivos, etc.)*
 
 <br>
@@ -105,9 +105,9 @@ Con el objetivo de comprender mejor a los usuarios, se realizaron entrevistas a 
 | **Duración** | `[HH:MM]` |
 | **Enlace al video** | [Ver entrevista en Microsoft Stream](`URL`) — Inicia en `[MM:SS]` |
 
+**Resumen:**
 </div>
 
-**Resumen:**
 *(Redactar resumen de la entrevista)*
 
 <br>
@@ -127,9 +127,11 @@ Con el objetivo de comprender mejor a los usuarios, se realizaron entrevistas a 
 | **Fecha de entrevista** | `YYYY-MM-DD` |
 | **Duración** | `[HH:MM]` |
 | **Enlace al video** | [Ver entrevista en Microsoft Stream](`URL`) — Inicia en `[MM:SS]` |
-</div>
 
 **Resumen:**
+
+</div>
+
 *(Redactar resumen de la entrevista)*
 
 ---
@@ -153,10 +155,11 @@ Con el objetivo de comprender mejor a los usuarios, se realizaron entrevistas a 
 | **Fecha de entrevista** | `YYYY-MM-DD` |
 | **Duración** | `[HH:MM]` |
 | **Enlace al video** | [Ver entrevista en Microsoft Stream](`URL`) — Inicia en `[MM:SS]` |
-</div>
-
 
 **Resumen:**
+
+</div>
+
 *(Redactar de forma descriptiva las respuestas del entrevistado a las preguntas realizadas. Incluir todas las características objetivas y subjetivas: personalidad, marcas e influencias, tecnología, canales de interacción, browser, dispositivos, etc.)*
 
 <br>
@@ -177,10 +180,11 @@ Con el objetivo de comprender mejor a los usuarios, se realizaron entrevistas a 
 | **Fecha de entrevista** | `YYYY-MM-DD` |
 | **Duración** | `[HH:MM]` |
 | **Enlace al video** | [Ver entrevista en Microsoft Stream](`URL`) — Inicia en `[MM:SS]` |
-</div>
-
 
 **Resumen:**
+
+</div>
+
 *(Redactar resumen de la entrevista)*
 
 <br>
@@ -202,9 +206,10 @@ Con el objetivo de comprender mejor a los usuarios, se realizaron entrevistas a 
 | **Duración** | `[HH:MM]` |
 | **Enlace al video** | [Ver entrevista en Microsoft Stream](`URL`) — Inicia en `[MM:SS]` |
 
+**Resumen:**
+
 </div>
 
-**Resumen:**
 *(Redactar resumen de la entrevista)*
 
 ---
