@@ -110,7 +110,7 @@ BrandRadar permite a las empresas:
 
 | Campo | Detalle |
 |:------|:--------|
-| **Nombres y Apellidos** | `[Jáuregui Cerna, Jean Franco]` |
+| **Nombres y Apellidos** | `Jáuregui Cerna, Jean Franco` |
 | **Código de estudiante** | `U202410024` |
 | **Carrera** | Ingeniería de Software |
 
