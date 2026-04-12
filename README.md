@@ -37,7 +37,7 @@
 
 `U202411354` - `Cruzalegui Herrera, Joaquin` 
 
-`U20XXXXXXX` - `Apellido1 Apellido2, Nombre4` 
+`U202012001` - `Garcia Paredes, Victor Manuel` 
 
 `U20XXXXXXX` - `Apellido1 Apellido2, Nombre5` 
 
@@ -55,7 +55,7 @@
 
 | Versión | Fecha | Participantes | Descripción de modificación |
 |:-------:|:-----:|:-----:|:---------------------------|
-| AV1 | 2026-04-08 | Salinas Guzmán, Brianna Cristina <br>Jáuregui Cerna, Jean Franco <br>Cruzalegui Herrera, Joaquin <br>Nombre 4 <br>Nombre 5 | Avance 1 del reporte del proyecto y primera versión de la landing page |
+| AV1 | 2026-04-08 | Salinas Guzmán, Brianna Cristina <br>Jáuregui Cerna, Jean Franco <br>Cruzalegui Herrera, Joaquin <br>Garcia Paredes, Victor Manuel <br>Nombre 5 | Avance 1 del reporte del proyecto y primera versión de la landing page |
 | | | | |
 
 </div>
