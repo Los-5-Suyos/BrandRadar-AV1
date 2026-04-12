@@ -447,35 +447,35 @@ El Lean UX Canvas fue diseñado utilizando Figma, lo que permitió estructurar d
 
 ## 1.3. Segmentos objetivo
 
-> *(Describir los segmentos asociados al dominio del problema, incluyendo características demográficas e información estadística de sustento)*
+### Segmento objetivo 1: Dueños y Administradores de Negocios Locales (PyMEs)
 
-### Segmento objetivo 1: `Pequeñas y medianas empresas y marcas digitales (PyMEs)`
-
-*(Descripción del segmento: características demográficas, perfil, necesidades y estadísticas de respaldo)*
+Este grupo está formado por propietarios o gerentes de pequeñas y medianas empresas (como restaurantes, clínicas dentales, hoteles boutique o e-commerce) que dependen fuertemente de la confianza del público. Al no contar con un departamento interno de relaciones públicas, una mala reseña o la caída de su página web impacta directamente en sus ventas diarias. Buscan soluciones fáciles de usar que les avisen rápido si algo anda mal con su imagen.
 
 **Características demográficas:**
-- **Edad:** `[rango de edad]`
-- **Género:** `[distribución]`
-- **Ubicación:** `[contexto geográfico]`
-- **Ocupación:** `[tipo de ocupación]`
-- **Nivel socioeconómico:** `[nivel]`
+* **Edad:** Entre 30 y 55 años.
+* **Género:** Hombres y mujeres (distribución equitativa).
+* **Ubicación:** Zonas urbanas y de alto comercio en Perú (ej. Surco, Miraflores, San Isidro) y principales ciudades de Latinoamérica.
+* **Ocupación:** Emprendedores, Gerentes Generales, Administradores de local comercial.
+* **Nivel socioeconómico:** Sectores B y C.
 
-*(Estadísticas de sustento con fuentes referenciadas)*
+*Estadísticas de sustento:*
+Para respaldar este segmento, según Ipsos Perú (2023), el 85% de los consumidores peruanos revisa opiniones en línea antes de adquirir un producto o servicio. Asimismo, estudios de BrightLocal (2023) indican que el 93% de los usuarios toma decisiones de compra basadas en las reseñas locales. Esto demuestra que para una PyME, monitorear su reputación no es un lujo, sino una necesidad de supervivencia.
 
 ---
 
-### Segmento objetivo 2: `Especialistas de marketing o community managers`
+### Segmento objetivo 2: Directores y Account Managers de Agencias Digitales
 
-*(Descripción del segmento: características demográficas, perfil, necesidades y estadísticas de respaldo)*
+Este segmento agrupa a los profesionales que trabajan en agencias de marketing o publicidad manejando múltiples cuentas de clientes en simultáneo. Su mayor dolor es el tiempo operativo que pierden revisando diferentes redes sociales una por una y armando reportes de reputación manualmente. Necesitan una herramienta que centralice todo y les alerte de crisis en tiempo real para proteger a las marcas que representan.
 
 **Características demográficas:**
-- **Edad:** `[rango de edad]`
-- **Género:** `[distribución]`
-- **Ubicación:** `[contexto geográfico]`
-- **Ocupación:** `[tipo de ocupación]`
-- **Nivel socioeconómico:** `[nivel]`
+* **Edad:** Entre 25 y 45 años.
+* **Género:** Hombres y mujeres.
+* **Ubicación:** Ecosistemas corporativos o en modalidad de trabajo remoto a nivel nacional y regional (LATAM).
+* **Ocupación:** Directores de Agencia, Ejecutivos de Cuentas (Account Managers), Social Media Managers, Consultores PR.
+* **Nivel socioeconómico:** Sectores A y B.
 
-*(Estadísticas de sustento con fuentes referenciadas)*
+*Estadísticas de sustento:*
+El trabajo en agencias tiene una alta carga operativa. Según reportes anuales de la industria del marketing digital (como el State of Inbound de HubSpot), los equipos de marketing pueden destinar entre un 20% y un 30% de su jornada laboral a la recopilación de datos y elaboración de reportes manuales. Reducir este tiempo mediante la automatización multimarca justificaría la inversión en una herramienta como BrandRadar.
 
 ---
 
