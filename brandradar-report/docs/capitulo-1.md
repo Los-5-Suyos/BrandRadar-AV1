@@ -136,7 +136,7 @@ BrandRadar permite a las empresas:
 </div>
 
 **Descripción:**
-*(Párrafo describiendo principales conocimientos técnicos y habilidades que puede aportar al equipo)*
+*Soy estudiante de la carrera de Ingeniería de Software, actualmente cuento con conocimiento de desarrollo de aplicaciones, estructura de datos y programación orientada a objetos. Cuento con experiencia en lenguajes como C++ y un nivel intermedio de python, además he trabajado con MySql y MongoDB en cuanto a base de datos. Considero que soy una persona resposable, que se desenvuelve mejor en trabajos colaborativos y que da lo mejor de sí en las acividades correspondientes para el cumplimiento de un proyecto.*
 
 ---
 <br>
