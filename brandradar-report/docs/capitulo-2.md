@@ -157,17 +157,23 @@ Finalmente, considera que una aplicación podría ayudarle a fortalecer su image
 
 | Campo | Detalle |
 |:------|:--------|
-| **Nombres y apellidos** | `[Nombre del entrevistado]` |
-| **Edad** | `[Edad]` |
-| **Ubicación** | `[Distrito]` |
-| **Fecha de entrevista** | `YYYY-MM-DD` |
-| **Duración** | `[HH:MM]` |
-| **Enlace al video** | [Ver entrevista en Microsoft Stream](`URL`) — Inicia en `[MM:SS]` |
+| **Nombres y apellidos** | `Jenifer Natali López Huamán` |
+| **Edad** | `23` |
+| **Ubicación** | `Surco` |
+| **Fecha de entrevista** | `2026-04-11` |
+| **Duración** | `09:03` |
+| **Enlace al video** | [Entrevista Jenifer][(`URL`)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202012001_upc_edu_pe/IQAlodktDrH_RYNs0fTbCXXQAR0g-JyDOAB3OlwdYg47y2M?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=sZcbFk) — Inicia en `00:00` |
 
 **Resumen:**
 </div>
 
-*(Redactar resumen de la entrevista)*
+La entrevista fue realizada a Jenifer Natali Lopez Huamán, una estudiante de administración y emprendedora de 23 años, como parte de la validación del proyecto BrandRadar. Esta iniciativa consiste en una aplicación web diseñada para el monitoreo y análisis en tiempo real de la reputación digital de las marcas. Durante la conversación, Jenifer compartió su experiencia como fundadora de Siana Boutique, una tienda de ropa femenina que inició sus operaciones de manera virtual durante la pandemia y que, tras un periodo de esfuerzo y ahorro, logró expandirse a un local físico para ofrecer una atención presencial y directa.
+
+En la gestión diaria de su negocio, Jenifer encuentra inspiración en grandes marcas de retail como Zara, Shein y H&M, así como en creadores de contenido en plataformas como Instagram y TikTok. Su principal herramienta de trabajo es el celular, dispositivo indispensable para la venta, la creación de contenido y la gestión de redes, mientras que reserva el uso de la laptop para labores administrativas y pedidos a proveedores. A nivel de comunicación, WhatsApp es su canal estrella para cerrar ventas gracias a la confianza que genera, respaldándose en Instagram como catálogo visual y en Facebook (especialmente Marketplace) para atraer a la clientela local.
+
+A futuro, sus objetivos principales se centran en aumentar las ventas, construir una cartera de clientes fidelizados, mejorar su presencia en redes y posicionar su marca en la ciudad. No obstante, en el día a día lidia con frustraciones comunes del emprendimiento, tales como las ventas abandonadas a mitad del proceso, la competencia con precios excesivamente bajos y los comentarios negativos. Actualmente, el seguimiento de la opinión de sus clientes lo realiza de manera manual, revisando plataformas como Google Maps y Facebook. A pesar de no contar con un sistema automatizado, mantiene una postura receptiva; por ejemplo, recordó cómo transformó una queja sobre la falta de tallas en una crítica constructiva, lo que la motivó a ampliar su inventario para un público más diverso.
+
+Al reflexionar sobre el impacto del entorno digital en sus ventas, Jenifer señaló que, si tuviera una tienda online y esta sufriera una caída, probablemente se enteraría demasiado tarde a través de los reclamos de los clientes, lo que afectaría tanto sus ingresos como la imagen de la boutique. Por esta razón, consideró que una plataforma como BrandRadar le quitaría un peso de encima si le ofreciera notificaciones de alerta ante quejas o malas reseñas, respuestas automáticas de contingencia para atender a los usuarios de inmediato y herramientas que le ayuden a conseguir más comentarios positivos para fortalecer la reputación de su negocio.
 
 <br>
 <div align="center">
@@ -191,7 +197,7 @@ Finalmente, considera que una aplicación podría ayudarle a fortalecer su image
 
 </div>
 
-*(Redactar resumen de la entrevista)*
+*Redactar resumen de la entrevista*
 
 ---
 <div align="center">
