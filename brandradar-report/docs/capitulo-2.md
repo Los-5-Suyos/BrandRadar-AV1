@@ -169,7 +169,7 @@ Tipo de empresa o agencia donde trabajas
 #### Entrevista 1
 *Imagen de la entrevista*
 
-![Screenshot Entrevista 1](../assets/interviews/entrevista-seg1-1.png)
+![Screenshot Entrevista 2](../assets/interviews/ss_entrevista_1.png)
 
 
 
@@ -179,7 +179,7 @@ Tipo de empresa o agencia donde trabajas
 | **Edad** | `49 años` |
 | **Ubicación** | `Surco` |
 | **Fecha de entrevista** | `2026-04-11` |
-| **Duración** | `00:15` |
+| **Duración** | `15:00` |
 | **Enlace al video** | https://1drv.ms/v/c/d936c864c8cca0bb/IQBCE_dtbeoPTYkZnSVxycpQASHO2xsa9YOUk000HVkybnE?e=gn42mC — Inicia en `[00:00]` |
 
 **Resumen:**
