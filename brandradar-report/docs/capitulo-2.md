@@ -21,18 +21,17 @@ A continuación, se presenta el *Competitive Analysis Landscape* para evaluar a 
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
-Para asegurar la viabilidad del modelo de negocio de BrandRadar, se implementarán las siguientes estrategias competitivas, basadas en aprovechar las vulnerabilidades tecnológicas y comerciales de la competencia:
+Para asegurar la competitividad de BrandRadar en el mercado de herramientas de monitoreo digital, se plantean estrategias orientadas a diferenciar su propuesta de valor frente a soluciones existentes, aprovechando sus limitaciones y necesidades no cubiertas.
 
-1.  **Estrategia de Enfoque en Prevención (Frente a Metricool):**
-    Mientras Metricool se posiciona como una herramienta de productividad operativa (publicar), BrandRadar se posicionará bajo una estrategia de mitigación de riesgos.
-    * **Táctica:** Implementar y destacar el sistema de alertas *push* y notificaciones por correo ante caídas de sitios web (Downtime) y picos inusuales de comentarios negativos. Se educará a la agencia digital demostrando que BrandRadar salva a sus clientes de perder dinero, justificando su contratación en paralelo a sus herramientas de publicación actuales.
-2.  **Estrategia de Liderazgo en Costos y Usabilidad (Frente a Mention):**
-    Mention domina el sector corporativo, pero abandona a la base de la pirámide empresarial. BrandRadar aplicará una estrategia de democratización tecnológica.
-    * **Táctica:** Desarrollar una interfaz de usuario (UI) minimalista que traduzca datos complejos en semáforos de reputación (Verde, Amarillo, Rojo). Comercialmente, se ofrecerá un modelo SaaS con precios en moneda local que reduzca la barrera de entrada económica, convirtiendo a BrandRadar en la primera herramienta de escucha social accesible para la PyME.
-3.  **Estrategia de Diferenciación Tecnológica (Frente a Google Alerts):**
-    Google Alerts soluciona el problema de la "búsqueda", pero no el de la "interpretación".
-    * **Táctica:** Sustituir la simple coincidencia de palabras clave por algoritmos de Procesamiento de Lenguaje Natural (NLP). La campaña de posicionamiento resaltará que "saber que hablan de ti no es suficiente; necesitas saber cómo se sienten al respecto", destacando el análisis de sentimiento en redes sociales como el diferencial crítico que las herramientas gratuitas no pueden igualar.
+En primer lugar, se adopta una estrategia de enfoque en prevención, diferenciándose de herramientas como Metricool, que priorizan la gestión de contenido. BrandRadar se centra en la detección temprana de riesgos reputacionales. Como táctica, se implementan alertas automáticas en tiempo real ante picos de menciones negativas o eventos críticos, posicionándose como una herramienta que permite anticiparse a crisis y no solo reaccionar ante ellas.
 
+En segundo lugar, se propone una estrategia de liderazgo en costos y usabilidad frente a plataformas más complejas como Mention. BrandRadar busca democratizar el acceso a herramientas de monitoreo mediante una interfaz intuitiva y un modelo SaaS accesible para PyMEs. Como táctica, se simplifica la visualización de datos a través de indicadores claros (por ejemplo, semáforos de reputación) y se ofrecen planes adaptados al contexto del mercado local.
+
+Finalmente, se plantea una estrategia de diferenciación tecnológica frente a soluciones básicas como Google Alerts, que se limitan a la detección de menciones. BrandRadar incorpora análisis de sentimiento y centralización de información, permitiendo no solo identificar qué se dice de una marca, sino también interpretar cómo es percibida. Como táctica, se integran técnicas de procesamiento de lenguaje natural para generar insights accionables que apoyen la toma de decisiones.
+
+En conjunto, estas estrategias permiten posicionar a BrandRadar como una solución accesible, inteligente y orientada a la acción dentro del mercado de monitoreo de reputación digital.
+
+<br>
 ---
 
 ## 2.2. Entrevistas
