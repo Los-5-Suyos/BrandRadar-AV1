@@ -449,12 +449,15 @@ El Lean UX Canvas fue diseñado utilizando Figma, lo que permitió estructurar d
 
 ### Segmento objetivo 1: Pequeñas y medianas empresas y marcas digitales (PyMEs)
 <br>
+
 Este grupo está formado por propietarios o gerentes de pequeñas y medianas empresas (como restaurantes, clínicas dentales, hoteles boutique o e-commerce) que cuentan con presencia activa en canales digitales, pero que no disponen de equipos especializados en comunicación o gestión de reputación.
 
 <br>
 
 **Características demográficas:**
+
 <br>
+
 * **Edad:** Entre 25 y 55 años.
 * **Género:** Hombres y mujeres.
 * **Ubicación:** Zonas urbanas y de alto comercio en Perú y principales ciudades de Latinoamerica.
@@ -472,10 +475,13 @@ Para respaldar este segmento, según Ipsos Perú (2023), el 85% de los consumido
 
 ### Segmento objetivo 2: Especialistas de marketing o community managers
 <br>
+
 Este segmento está compuesto por profesionales responsables de gestionar la presencia digital de una o múltiples marcas, incluyendo community managers, analistas de marketing digital y equipos de comunicación. Su mayor dolor es el tiempo operativo que pierden revisando diferentes redes sociales una por una y armando reportes de reputación manualmente. Necesitan una herramienta que centralice todo y les alerte de crisis en tiempo real para proteger a las marcas que representan.
+
 <br>
 
 **Características demográficas:**
+
 <br>
 * **Edad:** Entre 20 y 45 años.
 * **Género:** Hombres y mujeres.
@@ -487,7 +493,8 @@ Este segmento está compuesto por profesionales responsables de gestionar la pre
 *Estadísticas de sustento:*
 
 <br>
-El trabajo en agencias tiene una alta carga operativa. Según reportes anuales de la industria del marketing digital (como el State of Inbound de HubSpot), los equipos de marketing pueden destinar entre un 20% y un 30% de su jornada laboral a la recopilación de datos y elaboración de reportes manuales. Reducir este tiempo mediante la automatización multimarca justificaría la inversión en una herramienta como BrandRadar.
+
+Según reportes de la industria como el State of Marketing de HubSpot, los equipos de marketing enfrentan una creciente necesidad de gestionar grandes volúmenes de información, lo que incrementa el tiempo dedicado a tareas operativas como la elaboración de reportes y el seguimiento de métricas (HubSpot, 2024).
 
 ---
 
