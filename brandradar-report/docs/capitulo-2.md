@@ -169,7 +169,8 @@ Tipo de empresa o agencia donde trabajas
 #### Entrevista 1
 *Imagen de la entrevista*
 
-<img src="../assets/interviews/ss_entrevista_1.png" alt="Screenshot Entrevista 1" width="400"/>
+<img src="../assets/interviews/ss_entrevista_1.png" alt="Screenshot Entrevista 1" width="500"/>
+<br>
 
 | Campo | Detalle |
 |:------|:--------|
@@ -202,7 +203,8 @@ Finalmente, considera que una aplicación podría ayudarle a fortalecer su image
   
 #### Entrevista 2
 
-<img src="../assets/interviews/ss_entrevista_2.png" alt="Screenshot Entrevista 2" width="400"/>
+<img src="../assets/interviews/ss_entrevista_2.png" alt="Screenshot Entrevista 2" width="780"/>
+<br>
 
 | Campo | Detalle |
 |:------|:--------|
