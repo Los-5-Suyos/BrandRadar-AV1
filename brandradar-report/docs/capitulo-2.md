@@ -430,11 +430,10 @@ Se observa que:
 
 ### 2.3.4. Empathy Mapping
 
-*(Resumen del proceso de elaboración y capturas de los Empathy Maps)*
+El Empathy Mapping fue elaborado a partir del análisis de las entrevistas realizadas a los dos segmentos objetivo: dueños de PyMEs y account managers de agencias digitales. Este proceso permitió sintetizar la información cualitativa obtenida, identificando patrones de comportamiento, pensamientos, emociones, necesidades y frustraciones de los usuarios.
 
-**Empathy Map — `[Persona 1]`**
+**Empathy Map — `PyMEs`**
 
-*(Captura elaborada en UXPressia)*
 
 ![Empathy Map Persona 1](../assets/empathy-maps/empathy-map-persona1.png)
 
