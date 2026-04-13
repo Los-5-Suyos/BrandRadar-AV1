@@ -58,49 +58,94 @@ Para asegurar la viabilidad del modelo de negocio de BrandRadar, se implementar�
 
 Para validar las hipótesis y recolectar la información necesaria para construir los *User Personas*, se han diseñado dos cuestionarios adaptados a los segmentos objetivo de BrandRadar. Las entrevistas siguen una estructura de embudo, iniciando con datos demográficos y culminando en la exploración del problema.
 
-#### Segmento 1: Dueños y Administradores de Negocios Locales (PyMEs)
-**Bloque Demográfico y de Perfil:**
-1. ¿Podrías presentarte contándome tu edad, dónde vives, con quiénes vives y a qué te dedicas exactamente?
-2. ¿Cómo resumirías tu camino profesional hasta llegar a administrar este negocio?
-3. Si tuvieras que describir tu personalidad y tus principales habilidades en el trabajo en tres palabras, ¿cuáles serían y por qué?
-4. ¿Cuáles son las marcas (nacionales o internacionales) o referentes que más te inspiran en tu día a día o para tu negocio?
+#### Segmento 1: Pequeñas y medianas empresas y marcas digitales (PyMEs)
+<br>
 
-**Bloque de Tecnología y Objetivos:**
+Para este segmento, las entrevistas estuvieron orientadas a comprender cómo las empresas gestionan actualmente su reputación digital, qué dificultades enfrentan y qué nivel de conocimiento tienen sobre herramientas tecnológicas.
+  
+<br>
 
-5. ¿Cuáles son los dispositivos tecnológicos que más utilizas en tu día a día y para qué usas cada uno?
-6. ¿Por qué canales digitales prefieres comunicarte tanto a nivel personal como para atender tu negocio?
-7. ¿Cuáles son tus metas u objetivos principales con tu negocio para este año?
-8. ¿Qué es lo que más te frustra o te quita el sueño en tu día a día administrando el negocio?
+**Preguntas iniciales**
 
-**Bloque de Exploración del Problema:**
+- ¿Podrías presentarte contándome tu edad, dónde vives, con quiénes vives y a qué te dedicas exactamente?
+  
+- Si tuvieras que describir tu personalidad y tus principales habilidades en el trabajo en tres palabras, ¿cuáles serían y por qué?
+  
+- ¿Cuáles son las marcas (nacionales o internacionales) o referentes que más te inspiran en tu día a día o para tu negocio?
+  
+<br>
 
-9. ¿Cómo te enteras actualmente cuando un cliente deja una reseña (positiva o negativa) en Google Maps, Facebook o TripAdvisor?
-10. Cuéntame sobre la última vez que recibiste un comentario muy negativo o una queja pública. ¿Cómo reaccionaste y cuánto tiempo te tomó darte cuenta?
-11. Si tuvieras una página web propia, ¿cómo te darías cuenta si se cae o deja de funcionar y qué impacto tendría esto en tu día?
-12. Si pudieras tener una herramienta ideal que te quite un peso de encima respecto a la imagen de tu marca en internet, ¿qué te gustaría que hiciera por ti?
+### Preguntas principales:
 
-#### Segmento 2: Directores y Account Managers de Agencias Digitales
-**Bloque Demográfico y de Perfil:**
+1. En la última semana, ¿cómo verificaste qué opinaban los clientes sobre tu marca? Describe el proceso paso a paso.
+2. ¿Con qué frecuencia revisas comentarios o menciones en redes sociales o internet? (diario, semanal, ocasional)
+3. ¿Qué haces exactamente cuando encuentras un comentario negativo sobre tu negocio?
+4. ¿Cuánto tiempo te toma revisar todas tus redes o plataformas para ver qué dicen de tu marca?
+5. ¿Alguna vez te enteraste tarde de un comentario negativo o problema? ¿Qué ocurrió y qué impacto tuvo?
+6. ¿Qué herramientas específicas utilizas actualmente para monitorear tu marca? ¿Qué es lo que más te dificulta de ellas?
+7. Si no revisas constantemente, ¿qué te impide hacerlo (tiempo, desconocimiento, complejidad, otros)?
+8. ¿Qué tan útil sería para ti recibir una alerta inmediata cuando alguien habla negativamente de tu marca? ¿En qué situaciones la usarías?
 
-1. ¿Podrías presentarte indicando tu edad, distrito de residencia, estado civil y cuál es tu rol exacto en la agencia?
-2. ¿Cómo ha sido tu background profesional para llegar a este puesto donde gestionas múltiples marcas?
-3. ¿Cómo describirías tu personalidad trabajando bajo presión y cuáles crees que son tus mejores habilidades profesionales?
-4. ¿Qué marcas, agencias referentes o "influencias" del rubro sigues para mantenerte actualizado?
+<br>
 
-**Bloque de Tecnología y Objetivos:**
+**Preguntas complementarias:**
 
-5. Como profesional digital, ¿qué dispositivos de hardware y navegadores web utilizas en tu día a día?
-6. ¿Qué plataformas o canales de interacción utilizas para organizarte con tu equipo y comunicarte con tus clientes?
-7. ¿Cuál es tu principal objetivo o meta al momento de entregarle resultados a las marcas que confían en tu agencia?
-8. ¿Qué tareas operativas son las que más te frustran, te estresan o te quitan tiempo productivo en tu jornada laboral?
+¿Cuántas personas trabajan en tu empresa?
 
-**Bloque de Exploración del Problema:**
+¿En qué distrito o ciudad operas?
 
-9. ¿Cómo es el proceso actual en tu agencia para monitorear el sentimiento y las menciones de los clientes que manejan?
-10. ¿Qué herramientas usan actualmente para este monitoreo y qué limitaciones sienten que tienen?
-11. ¿Cuánto tiempo estimas que invierte tu equipo mensualmente armando reportes de reputación para los clientes?
-12. Cuéntame de alguna crisis en redes sociales que haya tenido uno de tus clientes. ¿Cómo se enteraron y qué tan rápido actuaron?
-13. Si pudieras centralizar toda la información de la "huella digital" de tus clientes y recibir alertas automáticas, ¿qué datos específicos te gustaría ver en un solo panel?
+¿Qué redes sociales utilizas con mayor frecuencia?
+
+¿Qué dispositivos utilizas para gestionar tu negocio?
+
+¿Qué tipo de herramientas digitales sueles usar?
+
+¿Qué te gustaría mejorar en la gestión de tu marca?
+
+
+#### Segmento 2: Especialistas de marketing o community managers
+<br>
+
+En este segmento, las entrevistas se enfocaron en comprender el flujo de trabajo, herramientas utilizadas, carga operativa y necesidades de automatización en la gestión de reputación digital.
+
+<br>
+
+**Preguntas iniciales**
+
+- ¿Podrías presentarte indicando tu edad, distrito de residencia, estado civil?
+  
+- ¿Cómo ha sido tu background profesional para llegar a este puesto donde gestionas múltiples marcas?
+  
+- ¿Cómo describirías tu personalidad trabajando bajo presión y cuáles crees que son tus mejores habilidades profesionales?
+  
+- ¿Qué marcas, agencias referentes o "influencias" del rubro sigues para mantenerte actualizado?
+
+<br>
+
+### Preguntas principales:
+
+1. ¿Cuál es tu rol y cuáles son tus principales responsabilidades en la gestión de marcas?
+2. Describe tu flujo diario para monitorear menciones de las marcas que gestionas. ¿Qué pasos sigues?
+3. ¿Qué plataformas revisas normalmente para monitorear estas menciones?
+4. ¿Qué herramientas utilizas actualmente para este proceso? ¿Qué limitaciones tienen?
+5. ¿Cuánto tiempo dedicas diariamente o semanalmente al monitoreo y a la elaboración de reportes?
+6. ¿Cómo detectas actualmente una crisis o un aumento de comentarios negativos?
+7. Cuéntame sobre la última vez que una mención negativa no fue detectada a tiempo. ¿Qué ocurrió?
+8. ¿Qué parte del proceso (monitoreo, análisis o reporte) te consume más tiempo y por qué?
+9. Si contaras con una herramienta que te envíe alertas automáticas en tiempo real sobre la percepción de la marca en redes sociales e internet, ¿cómo cambiaría tu forma de trabajo?
+
+<br>
+
+**Preguntas complementarias:**
+
+Edad, género (opcional), lugar de residencia
+Formación académica o experiencia laboral
+Tipo de empresa o agencia donde trabajas
+¿Cuántas marcas gestionas actualmente?
+¿Qué dispositivos utilizas con mayor frecuencia?
+¿Qué plataformas digitales usas diariamente?
+¿Qué herramientas o marcas influyen en tu trabajo?
+
 
 ---
 
