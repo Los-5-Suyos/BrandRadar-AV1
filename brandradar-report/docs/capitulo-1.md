@@ -446,10 +446,9 @@ El Lean UX Canvas fue diseñado utilizando Figma, lo que permitió estructurar d
 ---
 
 ## 1.3. Segmentos objetivo
-<br>
 
 ### Segmento objetivo 1: Pequeñas y medianas empresas y marcas digitales (PyMEs)
-
+<br>
 Este grupo está formado por propietarios o gerentes de pequeñas y medianas empresas (como restaurantes, clínicas dentales, hoteles boutique o e-commerce) que cuentan con presencia activa en canales digitales, pero que no disponen de equipos especializados en comunicación o gestión de reputación.
 
 **Características demográficas:**
@@ -459,7 +458,9 @@ Este grupo está formado por propietarios o gerentes de pequeñas y medianas emp
 * **Ocupación:** Emprendedores, Gerentes Generales, Administradores de local comercial.
 * **Nivel socioeconómico:** Sectores B y C.
 <br>
+
 *Estadísticas de sustento:*
+
 <br>
 Para respaldar este segmento, según Ipsos Perú (2023), el 85% de los consumidores peruanos revisa opiniones en línea antes de adquirir un producto o servicio. Asimismo, estudios de BrightLocal (2026) indican que el 93% de los usuarios toma decisiones de compra basadas en las reseñas locales. Esto demuestra que para una PyME, monitorear su reputación no es un lujo, sino una necesidad de supervivencia.
 
@@ -476,7 +477,9 @@ Este segmento está compuesto por profesionales responsables de gestionar la pre
 * **Ocupación:** Directores de Agencia, Ejecutivos de Cuentas (Account Managers), Social Media Managers, Community managers.
 * **Nivel socioeconómico:** Sectores A y B.
 <br>
+
 *Estadísticas de sustento:*
+
 <br>
 El trabajo en agencias tiene una alta carga operativa. Según reportes anuales de la industria del marketing digital (como el State of Inbound de HubSpot), los equipos de marketing pueden destinar entre un 20% y un 30% de su jornada laboral a la recopilación de datos y elaboración de reportes manuales. Reducir este tiempo mediante la automatización multimarca justificaría la inversión en una herramienta como BrandRadar.
 
