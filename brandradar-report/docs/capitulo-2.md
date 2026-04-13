@@ -62,7 +62,7 @@ En esta sección se presenta el diseño de las entrevistas realizadas con el obj
 El diseño de las entrevistas se basó en buenas prácticas de investigación en experiencia de usuario (UX), priorizando el uso de preguntas abiertas, evitando sesgos y enfocándose en experiencias reales de los usuarios. Asimismo, se buscó recolectar tanto información principal (relacionada con el problema y uso de herramientas) como información complementaria (datos demográficos y contexto personal), necesaria para la construcción de arquetipos o user personas.
 <br>
 
-#### Segmento 1: Pequeñas y medianas empresas y marcas digitales (PyMEs)
+### Segmento 1: Pequeñas y medianas empresas y marcas digitales (PyMEs)
 
 Para este segmento, las entrevistas estuvieron orientadas a comprender cómo las empresas gestionan actualmente su reputación digital, qué dificultades enfrentan y qué nivel de conocimiento tienen sobre herramientas tecnológicas.
   
@@ -106,8 +106,9 @@ Para este segmento, las entrevistas estuvieron orientadas a comprender cómo las
 ¿Qué te gustaría mejorar en la gestión de tu marca?
 
 <br>
+---
 
-#### Segmento 2: Especialistas de marketing o community managers
+### Segmento 2: Especialistas de marketing o community managers
 
 En este segmento, las entrevistas se enfocaron en comprender el flujo de trabajo, herramientas utilizadas, carga operativa y necesidades de automatización en la gestión de reputación digital.
 
@@ -149,6 +150,7 @@ Tipo de empresa o agencia donde trabajas
 ¿Qué plataformas digitales usas diariamente?
 ¿Qué herramientas o marcas influyen en tu trabajo?
 
+<br>
 
 ---
 
