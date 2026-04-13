@@ -450,6 +450,7 @@ El Lean UX Canvas fue diseñado utilizando Figma, lo que permitió estructurar d
 ### Segmento objetivo 1: Pequeñas y medianas empresas y marcas digitales (PyMEs)
 <br>
 Este grupo está formado por propietarios o gerentes de pequeñas y medianas empresas (como restaurantes, clínicas dentales, hoteles boutique o e-commerce) que cuentan con presencia activa en canales digitales, pero que no disponen de equipos especializados en comunicación o gestión de reputación.
+
 <br>
 
 **Características demográficas:**
@@ -459,6 +460,7 @@ Este grupo está formado por propietarios o gerentes de pequeñas y medianas emp
 * **Ubicación:** Zonas urbanas y de alto comercio en Perú y principales ciudades de Latinoamerica.
 * **Ocupación:** Emprendedores, Gerentes Generales, Administradores de local comercial.
 * **Nivel socioeconómico:** Sectores B y C.
+
 <br>
 
 *Estadísticas de sustento:*
