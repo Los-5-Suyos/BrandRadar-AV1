@@ -18,9 +18,9 @@
 
 **BrandRadar** es una startup tecnológica que desarrolla una aplicación web orientada al monitoreo y análisis de la reputación digital de marcas y empresas en tiempo real.
 
-La plataforma permite a las organizaciones comprender cómo son percibidas en internet mediante la recopilación y análisis de información proveniente de redes sociales, reseñas y menciones en distintas plataformas digitales.
+La plataforma permite a las organizaciones comprender cómo son percidas en internet mediante la recopilación y análisis de información proveniente de redes sociales, reseñas y menciones en distintas plataformas digitales. Además, integra el monitoreo de redes sociales y el estado de la infraestructura web en un solo panel de control, brindando una visión unificada del rendimiento y la presencia digital de la marca.
 
-A través del uso de técnicas de análisis de datos y procesamiento de lenguaje natural, BrandRadar identifica tendencias, evalúa el sentimiento de los usuarios (positivo, negativo o neutro) y detecta posibles riesgos reputacionales. Esto permite a las empresas tomar decisiones estratégicas, mejorar su posicionamiento y fortalecer su imagen en el entorno digital.
+A través del uso de técnicas de análisis de datos y procesamiento de lenguaje natural, **BrandRadar** identifica tendencias, evalúa el sentimiento de los usuarios (positivo, negativo o neutro) y detecta posibles riesgos reputacionales. Esto permite a las empresas tomar decisiones estratégicas, mejorar su posicionamiento y fortalecer su imagen en el entorno digital.
 
 <br>
 
@@ -53,8 +53,9 @@ A través del uso de técnicas de análisis de datos y procesamiento de lenguaje
 BrandRadar permite a las empresas:
 
 -  Monitorear en tiempo real lo que se dice sobre su marca en internet  
--  Analizar automáticamente el sentimiento de opiniones y comentarios  
--  Detectar crisis reputacionales de manera temprana  
+-  Centralizar el monitoreo de redes sociales y el estado de la infraestructura web en un solo panel de control  
+-  Analizar automáticamente el sentimiento de opiniones y comentarios
+-  Detectar crisis reputacionales de manera temprana
 -  Obtener información clara y accionable para mejorar su posicionamiento digital  
 <br>
 
@@ -70,10 +71,12 @@ BrandRadar permite a las empresas:
 ## 🎯 Objetivos
 
 1. Desarrollar una plataforma web funcional para el monitoreo de reputación digital  
-2. Implementar un sistema de análisis de sentimiento automático  
-3. Integrar múltiples fuentes de datos digitales en tiempo real  
-4. Facilitar la toma de decisiones mediante reportes claros y visuales  
-5. Mejorar el posicionamiento digital de las empresas usuarias  
+2. Implementar un sistema de análisis de sentimiento automático basado en procesamiento de lenguaje natural
+3. Integrar múltiples fuentes de datos digitales en tiempo real (redes sociales, reseñas y menciones)
+4. Incorporar el monitoreo del estado de la infraestructura web (disponibilidad, rendimiento y errores)
+5. Centralizar toda la información en un panel de control intuitivo y fácil de usar
+6. Facilitar la toma de decisiones mediante reportes claros, visuales y accionables
+7. Contribuir al fortalecimiento del posicionamiento digital de las empresas usuarias
 
 
 ---
@@ -144,7 +147,7 @@ BrandRadar permite a las empresas:
 
 #### 👤 Integrante 4
 
-<img src="../assets/team/integrante4.png" alt="Foto Victor García" width="220"/>
+<img src="../assets/team/integrante4.jpg" alt="Foto Integrante 4" width="120"/>
 
 | Campo | Detalle |
 |:------|:--------|
@@ -357,25 +360,29 @@ El proceso Lean UX parte de identificar con precisión los problemas reales que 
 
   •  Registro de usuarios para acceder a la plataforma.
   
-  •  Dashboard centralizado con menciones en tiempo real.
+  •  Dashboard centralizado con visualización en tiempo real de menciones y métricas clave.
   
-  •  Sistema de alertas automáticas ante menciones negativas.
+  •  Sistema de alertas automáticas ante menciones negativas y eventos críticos.
   
-  •  Monitoreo de una o más fuentes digitales (ej. X/Twitter).
+  •  Monitoreo de múltiples fuentes digitales (redes sociales, reseñas y menciones web).
   
-  •  Análisis de sentimiento básico (positivo / neutro / negativo).
+  •  Monitoreo del estado de la infraestructura web (disponibilidad, rendimiento y errores).
   
-  •  Historial simple de menciones.
+  •  Análisis de sentimiento automático (positivo / neutro / negativo).
+
+  •  Historial y trazabilidad de menciones y eventos.
 
 <br>
 
 #### Business Outcomes
 
-  •  Reducir el tiempo de respuesta ante menciones negativas.
+  •  Reducir el tiempo de respuesta ante menciones negativas y fallos en la infraestructura web.
   
   •  Incrementar el sentimiento positivo de la marca.
   
-  •  Aumentar la retención de usuarios activos.
+  •  Mejorar la continuidad operativa mediante la detección temprana de problemas técnicos.
+  
+  •  Aumentar la retención de usuarios activos. 
   
   •  Lograr adopción temprana de la plataforma en PyMEs y agencias.
 
@@ -395,12 +402,14 @@ El proceso Lean UX parte de identificar con precisión los problemas reales que 
 
   •  Conocer en tiempo real qué se dice de su marca.
   
-  •  Detectar rápidamente comentarios negativos o crisis.
+  •  Detectar rápidamente comentarios negativos, crisis reputacionales o fallos técnicos.
   
-  •  Tomar decisiones basadas en datos de percepción.
+  •  Tener una visión unificada de reputación digital y estado de la infraestructura.
   
-  •  Ahorrar tiempo en el monitoreo manual de plataformas.
+  •  Tomar decisiones basadas en datos de percepción y rendimiento.
   
+  •  Ahorrar tiempo en el monitoreo manual de múltiples plataformas.
+
   •  Gestionar su reputación de forma proactiva en lugar de reactiva.
 
 <br>
@@ -414,21 +423,21 @@ El proceso Lean UX parte de identificar con precisión los problemas reales que 
 **Hypothesis Statement 1:**
 
 
-> Creemos que al implementar alertas automáticas en tiempo real sobre menciones negativas, los responsables de marketing podrán responder más rápido y prevenir crisis reputacionales.
-**Sabremos que hemos tenido éxito** cuando al menos el 70 % de los usuarios activos configure una alerta en su primera semana y se evidencie una reducción en el tiempo de respuesta ante menciones negativas.
+> Creemos que al implementar alertas automáticas en tiempo real sobre menciones negativas y fallos en la infraestructura web, los responsables de marketing y equipos técnicos podrán responder más rápido y prevenir crisis reputacionales y operativas.
+**Sabremos que hemos tenido éxito** cuando al menos el 70 % de los usuarios activos configure alertas en su primera semana y se evidencie una reducción en el tiempo de respuesta ante incidentes.
 
 **Hypothesis Statement 2:**
 
 
-> Creemos que al ofrecer un dashboard centralizado con métricas de reputación (sentimiento, volumen y tendencias), los usuarios podrán comprender mejor la percepción de su marca y tomar decisiones estratégicas.
+> Creemos que al ofrecer un dashboard centralizado que integre métricas de reputación (sentimiento, volumen, tendencias) y estado de la infraestructura web, los usuarios podrán comprender mejor el desempeño digital de su marca y tomar decisiones estratégicas más informadas.
 **Sabremos que hemos tenido éxito** cuando el 65 % de los usuarios consulte el dashboard al menos 3 veces por semana durante el primer mes.
 
 
 **Hypothesis Statement 3:**
 
 
-> Creemos que al integrar múltiples canales digitales (redes sociales y plataformas de reseñas) en una sola plataforma, los usuarios podrán obtener una visión completa de su reputación digital.
-**Sabremos que hemos tenido éxito** cuando el 60 % de los usuarios conecte más de una fuente de datos durante su primera semana de uso.
+> Creemos que al integrar múltiples canales digitales y el monitoreo técnico en una sola plataforma, los usuarios podrán obtener una visión completa y unificada de su ecosistema digital.
+**Sabremos que hemos tenido éxito** cuando el 60 % de los usuarios conecte más de una fuente de datos y utilice al menos una funcionalidad de monitoreo de infraestructura durante su primera semana de uso.
 
 
 <br>
