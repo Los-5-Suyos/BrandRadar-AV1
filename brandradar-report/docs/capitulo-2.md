@@ -170,6 +170,7 @@ Tipo de empresa o agencia donde trabajas
 *Imagen de la entrevista*
 
 <img src="../assets/interviews/ss_entrevista_1.png" alt="Screenshot Entrevista 1" width="500"/>
+
 <br>
 
 | Campo | Detalle |
@@ -202,8 +203,10 @@ Finalmente, considera que una aplicación podría ayudarle a fortalecer su image
 <div align="center">
   
 #### Entrevista 2
+*Imagen de la entrevista*
 
-<img src="../assets/interviews/ss_entrevista_2.png" alt="Screenshot Entrevista 2" width="780"/>
+<img src="../assets/interviews/ss_entrevista_2.png" alt="Screenshot Entrevista 2" width="1000"/>
+
 <br>
 
 | Campo | Detalle |
@@ -233,7 +236,9 @@ Al reflexionar sobre el impacto del entorno digital en sus ventas, Jenifer seña
 
 *Imagen de la entrevista*
 
-![Screenshot Entrevista 3](../assets/interviews/entrevista-seg1-3.png)
+<img src="../assets/interviews/ss_entrevista_3.png" alt="Screenshot Entrevista 3" width="500"/>
+
+<br>
 
 | Campo | Detalle |
 |:------|:--------|
@@ -261,7 +266,9 @@ Al reflexionar sobre el impacto del entorno digital en sus ventas, Jenifer seña
 
 *Imagen de la entrevista*
 
-![Screenshot Entrevista 1](../assets/interviews/entrevista-seg1-1.png)
+<img src="../assets/interviews/ss_entrevista_4.png" alt="Screenshot Entrevista 4" width="500"/>
+
+<br>
 
 | Campo | Detalle |
 |:------|:--------|
@@ -286,7 +293,9 @@ Al reflexionar sobre el impacto del entorno digital en sus ventas, Jenifer seña
 
 *Imagen de la entrevista*
 
-![Screenshot Entrevista 2](../assets/interviews/entrevista-seg1-2.png)
+<img src="../assets/interviews/ss_entrevista_5.png" alt="Screenshot Entrevista 5" width="500"/>
+
+<br>
 
 | Campo | Detalle |
 |:------|:--------|
@@ -311,7 +320,9 @@ Al reflexionar sobre el impacto del entorno digital en sus ventas, Jenifer seña
 
 *Imagen de la entrevista*
 
-![Screenshot Entrevista 3](../assets/interviews/entrevista-seg1-3.png)
+<img src="../assets/interviews/ss_entrevista_6.png" alt="Screenshot Entrevista 6" width="500"/>
+
+<br>
 
 | Campo | Detalle |
 |:------|:--------|
