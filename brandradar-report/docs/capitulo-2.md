@@ -393,15 +393,18 @@ Se observa que:
 
 | Término (EN) | Término (ES) | Definición |
 |:-------------|:-------------|:-----------|
-| `Brand` | Marca | *(Definición en el contexto del dominio)* |
-| `Reputation` | Reputación | *(Definición en el contexto del dominio)* |
-| `Sentiment` | Sentimiento | *(Definición en el contexto del dominio)* |
-| `Mention` | Mención | *(Definición en el contexto del dominio)* |
-| `Alert` | Alerta | *(Definición en el contexto del dominio)* |
-| `Dashboard` | Panel de control | *(Definición en el contexto del dominio)* |
-| `Monitoring` | Monitoreo | *(Definición en el contexto del dominio)* |
-| `Insight` | Perspectiva / Hallazgo | *(Definición en el contexto del dominio)* |
-| `[Término]` | `[Equivalente]` | *(Definición)* |
+| `Brand` | Marca | Empresa o negocio que desea monitorear su reputación digital |
+| `Reputation` | Reputación | Percepción general que tienen los usuarios sobre una marca |
+| `Sentiment` | Sentimiento | Clasificación de opiniones (positivo, negativo o neutro) |
+| `Mention` | Mención | Referencia a una marca en cualquier plataforma dijital |
+| `Alert` | Alerta | Notificación generada ante un evento relevante |
+| `Dashboard` | Panel de control | Interfaz principal con métricas y datos resumidos |
+| `Monitoring` | Monitoreo | Proceso continuo de seguimiento de menciones |
+| `Insight` | Perspectiva / Hallazgo | Información relevante obtenida del análisis de datos |
+| `Source` | `Fuente` | Plataforma de donde provienen los datos (redes, web, etc.) |
+| `Report` | `Reporte` | Documento con análisis y resultados de reputación |
+| `Keyword` | `Palabra clave` | Término utilizado para rastrear menciones |
+| `Crisis` | `Crisis reputacional` | Evento negativo que afecta la imagen de la marca |
 
 ---
 
