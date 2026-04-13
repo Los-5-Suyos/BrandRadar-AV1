@@ -395,11 +395,11 @@ Se observa que:
 
 ### 2.3.3. User Journey Mapping
 
-*(Introducción resumiendo el end-to-end journey que se pretende ilustrar — versión As-Is)*
+El Customer Journey presentado ilustra el recorrido end-to-end actual (versión As-Is) que siguen los usuarios objetivo —dueños de PyMEs y account managers de agencias— al gestionar la reputación digital de sus marcas. Este journey describe las etapas desde el momento en que el usuario toma conciencia de la falta de control sobre las opiniones en línea, pasando por la búsqueda y adopción de soluciones, hasta el uso continuo de herramientas para monitorear menciones y responder a comentarios. 
 
-**User Journey Map — `[Persona 1]`**
+En la situación actual, muchas de estas actividades se realizan de forma manual y en múltiples plataformas, lo que genera retrasos en la detección de problemas, sobrecarga de trabajo y dificultad para obtener una visión clara del estado de la reputación. Este recorrido permite identificar los principales puntos de fricción, emociones negativas y oportunidades de mejora que fundamentan el diseño de la solución propuesta.
 
-*(Captura del diagrama elaborado en UXPressia)*
+**User Journey Map — `PyMEs`**
 
 ![User Journey Map Persona 1](../assets/journey-maps/journey-map-persona1.png)
 
