@@ -203,6 +203,8 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 
 > Capital One Shopping Research. (2026). *Online reviews statistics.* https://capitaloneshopping.com/research/online-reviews-statistics/
 
+> HubSpot. (2024). State of Marketing Report. https://www.hubspot.com/marketing-statistics
+
 > Ott, M., Cardie, C., & Hancock, J. T. (2012). *Estimating the prevalence of deception in online review communities*. https://arxiv.org/abs/1204.2804
 
 > ReputationUP. (2024). *Qué es la reputación digital y cómo gestionarla.* https://reputationup.com/es/reputacion-digital/
@@ -210,6 +212,8 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 > Ruby, D. (2025, December 30). *30 latest online review statistics 2026 (updated data).* DemandSage. https://www.demandsage.com/online-review-statistics/
 
 > Statista. (2024). *Online reviews - statistics & facts.* https://www.statista.com/topics/4381/online-reviews/
+
+
 
 ---
 
