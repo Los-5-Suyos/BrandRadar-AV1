@@ -180,7 +180,7 @@ Tipo de empresa o agencia donde trabajas
 | **Ubicación** | `Surco` |
 | **Fecha de entrevista** | `2026-04-11` |
 | **Duración** | `15:00` |
-| **Enlace al video** | https://1drv.ms/v/c/d936c864c8cca0bb/IQBCE_dtbeoPTYkZnSVxycpQASHO2xsa9YOUk000HVkybnE?e=gn42mC — Inicia en `[00:00]` |
+| **Enlace al video** | [Ver entrevista en Microsoft Stream](https://1drv.ms/v/c/d936c864c8cca0bb/IQBCE_dtbeoPTYkZnSVxycpQASHO2xsa9YOUk000HVkybnE?e=gn42mC) — Inicia en `[00:00]` |
 
 **Resumen:**
 </div>
@@ -216,7 +216,7 @@ Finalmente, considera que una aplicación podría ayudarle a fortalecer su image
 | **Ubicación** | `Surco` |
 | **Fecha de entrevista** | `2026-04-11` |
 | **Duración** | `09:03` |
-| **Enlace al video** | [(`URL`)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202012001_upc_edu_pe/IQAlodktDrH_RYNs0fTbCXXQAR0g-JyDOAB3OlwdYg47y2M?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=sZcbFk) — Inicia en `00:00` |
+| **Enlace al video** | [Ver entrevista en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202012001_upc_edu_pe/IQAlodktDrH_RYNs0fTbCXXQAR0g-JyDOAB3OlwdYg47y2M?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=sZcbFk) — Inicia en `00:00` |
 
 **Resumen:**
 </div>
