@@ -28,6 +28,10 @@
 | US05 | `[Título de User Story]` | Como `Gerente de Marca`, quiero `que el sistema identifique el sarcasmo en los comentarios`, para `que el análisis de sentimiento sea preciso y no arroje falsos positivos`. | **Scenario 1:** `[Nombre]` <br> **Given** `[contexto]` <br> **When** `[acción]` <br> **Then** `[resultado esperado]` | EP02 |
 | US06 | `[User Story Landing Page]` | Como `Analista de Datos`, quiero `poder corregir manualmente la polaridad de un comentario (cambiar de neutro a negativo)`, para `entrenar al modelo de IA con contextos específicos de mi industria`. | **Scenario 1:** `[Nombre]` <br> **Given** `[contexto]` <br> **When** `[acción]` <br> **Then** `[resultado esperado]` | EP02 |
 | US07 | `[User Story Landing Page]` | Como `Usuario del sistema`, quiero `ver una nube de palabras (word cloud) basada en sentimientos`, para `identificar qué conceptos específicos están asociados a la frustración o alegría del cliente`. | **Scenario 1:** `[Nombre]` <br> **Given** `[contexto]` <br> **When** `[acción]` <br> **Then** `[resultado esperado]` | EP02 |
+| **EP03** | `Crisis Management & Alerts` | *(Descripción del Epic)* | — | — |
+| US08 | `[Título de User Story]` | Como `Jefe de PR`, quiero `establecer un "Semáforo de Crisis" configurable`, para `que el equipo sepa visualmente cuándo la situación requiere intervención legal o corporativa`. | **Scenario 1:** `[Nombre]` <br> **Given** `[contexto]` <br> **When** `[acción]` <br> **Then** `[resultado esperado]` | EP03 |
+| US09 | `[User Story Landing Page]` | Como `Usuario`, quiero `recibir alertas de crisis vía Telegram o WhatsApp`, para `estar enterado incluso si no estoy frente a la computadora`. | **Scenario 1:** `[Nombre]` <br> **Given** `[contexto]` <br> **When** `[acción]` <br> **Then** `[resultado esperado]` | EP03 |
+| US010 | `[User Story Landing Page]` | Como `Operador de Soporte`, quiero `asignar una mención negativa a un miembro específico del equipo`, para `que se gestione como un ticket de atención al cliente de forma inmediata`. | **Scenario 1:** `[Nombre]` <br> **Given** `[contexto]` <br> **When** `[acción]` <br> **Then** `[resultado esperado]` | EP03 |
 
 
 <!--
