@@ -221,17 +221,17 @@ Al reflexionar sobre el impacto del entorno digital en sus ventas, Jenifer seña
 
 *Imagen de la entrevista*
 
-<img src="../assets/interviews/ss_entrevista_3.png" alt="Screenshot Entrevista 3" width="500"/>
+<img src="../assets/interviews/ss_entrevista_3.jpeg" alt="Screenshot Entrevista 3" width="500"/>
 
 <br>
 
 | Campo | Detalle |
 |:------|:--------|
-| **Nombres y apellidos** | `[Karim Castillo]` |
-| **Edad** | `[25]` |
-| **Ubicación** | `[San Isidro]` |
+| **Nombres y apellidos** | `Karim Castillo` |
+| **Edad** | `25` |
+| **Ubicación** | `San Isidro` |
 | **Fecha de entrevista** | `2026-04-12` |
-| **Duración** | `[07:12]` |
+| **Duración** | `07:12` |
 | **Enlace al video** | [Ver entrevista en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202417228_upc_edu_pe/IQAYoH-uIHznQpUZ1saYqN0MATxVGo0pPEIlJliRq-sOhf8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pA0fuu) — Inicia en `[00:00]` |
 
 **Resumen:**
