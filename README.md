@@ -68,14 +68,14 @@
 
 **URL del Repositorio:** [`https://github.com/Los-5-Suyos/BrandRadar-AV1.git`](https://github.com/Los-5-Suyos/BrandRadar-AV1.git)
 
----
+<br>
 
 Para el desarrollo del AV1, cada participante del equipo realizó las siguientes tareas:
 
 | Integrante | Tareas Realizadas |
 |------------|------------------|
 | Salinas Guzmán, Brianna Cristina | Tareas |
-| Jáuregui Cerna, Jean Franco | CTareas |
+| Jáuregui Cerna, Jean Franco | Tareas |
 | Cruzalegui Herrera, Joaquin | Tareas |
 | Garcia Paredes, Victor Manuel | Tareas |
 | Acuña de la Cruz, Luis | Tareas |
@@ -88,6 +88,8 @@ En GitHub se presenta un timeline de las principales ramas creadas por cada inte
 
 ---
 
+<br>
+
 ## Integrantes y usuarios de GitHub
 
 | Integrante | Usuario GitHub |
@@ -99,6 +101,7 @@ En GitHub se presenta un timeline de las principales ramas creadas por cada inte
 | Acuña de la Cruz, Luis | L2006delacruz |
 
 ---
+<br>
 
 ## Ramas principales del repositorio
 
@@ -113,12 +116,13 @@ En GitHub se presenta un timeline de las principales ramas creadas por cada inte
 - **hotfix/urgent-fix**: Rama utilizada para aplicar correcciones urgentes a la rama `main` en caso de detectar errores críticos.
 
 ---
+<br>
 
 ## AV1 - Network Graph
 
 Gráfico de red (network graph) de ramas en el repositorio de GitHub.
 
-
+<img src="brandradar-report/assets/images/Network.png" alt="Gráfico de red Repositorio" width="300"/>
 
 
 
