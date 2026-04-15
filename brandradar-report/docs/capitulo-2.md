@@ -381,7 +381,7 @@ Al explorar sus dolores y frustraciones, los dueños de negocios manifestaron su
 
 ## 2.3. Needfinding
 
-> *(Artefactos resultantes del proceso de análisis de la información recolectada)*
+> *Artefactos resultantes del proceso de análisis de la información recolectada*
 
 ### 2.3.1. User Personas
 
