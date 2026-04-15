@@ -13,9 +13,9 @@
 
 ## Presentado por ´Los 5 Suyos´
 
-<img src="brandradar-report/assets/images/brandradar.png" alt="BrandRadar Logo" width="320"/>
+<img src="./assets/images/brandradar.png" alt="BrandRadar Logo" width="320"/>
 
-## 🚀 Startup: BrandRadar
+## Startup: BrandRadar
 
 *Monitoreo de reputación digital en tiempo real para marcas y empresas*
 
@@ -51,7 +51,7 @@
 <br>
 <div align="center">
   
-## 📋 Registro de Versiones del Informe
+##  Registro de Versiones del Informe
 
 | Versión | Fecha | Participantes | Descripción de modificación |
 |:-------:|:-----:|:-----:|:---------------------------|
@@ -64,7 +64,7 @@
 
 <br>
 
-## 🔗 Project Report Collaboration Insights
+##  Project Report Collaboration Insights
 
 **URL del Repositorio:** [`https://github.com/Los-5-Suyos/BrandRadar-AV1.git`](https://github.com/Los-5-Suyos/BrandRadar-AV1.git)
 
@@ -222,7 +222,7 @@ Gráfico de red (network graph) de ramas en el repositorio de GitHub.
 
 <br>
 
-## 🎯 Student Outcome
+##  Student Outcome
 
 En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones que permiten sustentar el logro alcanzado.
 
@@ -280,7 +280,7 @@ A través del uso de técnicas de análisis de datos y procesamiento de lenguaje
 
 <br>
 
-## 💡 Propuesta de Valor
+##  Propuesta de Valor
 
 BrandRadar permite a las empresas:
 
@@ -291,7 +291,7 @@ BrandRadar permite a las empresas:
 -  Obtener información clara y accionable para mejorar su posicionamiento digital  
 <br>
 
-## ⭐ Valores
+##  Valores
 
 -  **Innovación**: Uso de tecnología para ofrecer soluciones modernas  
 -  **Transparencia**: Información clara y confiable  
@@ -300,7 +300,7 @@ BrandRadar permite a las empresas:
 -  **Calidad**: Resultados precisos y útiles  
 <br>
 
-## 🎯 Objetivos
+##  Objetivos
 
 1. Desarrollar una plataforma web funcional para el monitoreo de reputación digital  
 2. Implementar un sistema de análisis de sentimiento automático basado en procesamiento de lenguaje natural
@@ -317,7 +317,7 @@ BrandRadar permite a las empresas:
 
 <div align="center">
   
-#### 👤 Integrante 1
+####  Integrante 1
 
 <img src="../assets/team/integrante1.jpg" alt="Foto Integrante 1" width="120"/>
 
@@ -339,7 +339,7 @@ BrandRadar permite a las empresas:
 
 <div align="center">
   
-#### 👤 Integrante 2
+####  Integrante 2
 
 <img src="../assets/team/integrante2.jpg" alt="Foto Integrante 2" width="120"/>
 
@@ -359,7 +359,7 @@ BrandRadar permite a las empresas:
 
 <div align="center">
   
-#### 👤 Integrante 3
+####  Integrante 3
 
 <img src="../assets/team/integrante3.jpg" alt="Foto Integrante 3" width="120"/>
 
@@ -377,7 +377,7 @@ BrandRadar permite a las empresas:
 <br>
 <div align="center">
 
-#### 👤 Integrante 4
+####  Integrante 4
 
 <img src="../assets/team/integrante4.jpg" alt="Foto Integrante 4" width="120"/>
 
@@ -396,7 +396,7 @@ BrandRadar permite a las empresas:
 <br>
 <div align="center">
   
-#### 👤 Integrante 5
+####  Integrante 5
 
 <img src="../assets/team/integrante5.jpg" alt="Foto Integrante 5" width="120"/>
 
@@ -513,9 +513,9 @@ Estos datos demuestran que la reputación digital tiene un impacto directo en:
 
 <br>
 
-### 📊 Imagen 1: Influencia de las reseñas en decisiones de compra
+###  Imagen 1: Influencia de las reseñas en decisiones de compra
 
-👉 Esta gráfica muestra cómo la mayoría de consumidores:
+ Esta gráfica muestra cómo la mayoría de consumidores:
 
 Lee reseñas frecuentemente
 
@@ -531,9 +531,9 @@ Basa sus decisiones en opiniones de otros usuarios
 
 
 
-###  📊 Imagen 2: Frecuencia de lectura de reseñas
+###   Imagen 2: Frecuencia de lectura de reseñas
 
-👉 Se observa que:
+ Se observa que:
 
 Más del 70 % de usuarios revisa reseñas regularmente
 
