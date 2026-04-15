@@ -551,7 +551,7 @@ Solo un porcentaje mínimo no las consulta
 <br>
 <div align="center">
   
-<img src="../assets/images/how.png" alt="How Much" width="500"/>
+<img src="./assets/images/how.png" alt="How Much" width="500"/>
 
 (Backlinko, 2026)
 
@@ -689,7 +689,7 @@ El proceso Lean UX parte de identificar con precisión los problemas reales que 
 
 *Lean UX Canvas elaborado en la herramienta Figma*
 
-![Lean UX Canvas](../assets/images/leancanvas.png)
+![Lean UX Canvas](./assets/images/leancanvas.png)
 
 El Lean UX Canvas fue diseñado utilizando Figma, lo que permitió estructurar de manera visual y colaborativa los principales componentes del proyecto. En este canvas se identifican los problemas del usuario, las hipótesis de solución, los segmentos de clientes, las propuestas de valor y las métricas clave. Además, su desarrollo facilitó la iteración rápida de ideas y la alineación del equipo en torno a los objetivos del producto, permitiendo validar supuestos de forma temprana y enfocar los esfuerzos en generar valor para el usuario final.
 
@@ -763,7 +763,7 @@ Según reportes de la industria como el State of Marketing de HubSpot, los equip
 
 A continuación, se presenta el *Competitive Analysis Landscape* para evaluar a BrandRadar frente a las principales alternativas del mercado.
 
-<img src="../assets/images/analisis_competitivo.png" alt="Competitive Analysis Landscape" width="1000"/>
+<img src="./assets/images/analisis_competitivo.png" alt="Competitive Analysis Landscape" width="1000"/>
 <br>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
@@ -901,7 +901,7 @@ Tipo de empresa o agencia donde trabajas
 #### Entrevista 1
 *Imagen de la entrevista*
 
-<img src="../assets/interviews/ss_entrevista_1.png" alt="Screenshot Entrevista 1" width="700"/>
+<img src="./assets/interviews/ss_entrevista_1.png" alt="Screenshot Entrevista 1" width="700"/>
 
 <br>
 
@@ -939,7 +939,7 @@ Finalmente, considera que una aplicación podría ayudarle a fortalecer su image
 #### Entrevista 2
 *Imagen de la entrevista*
 
-<img src="../assets/interviews/ss_entrevista_2.png" alt="Screenshot Entrevista 2" width="1000"/>
+<img src="./assets/interviews/ss_entrevista_2.png" alt="Screenshot Entrevista 2" width="1000"/>
 
 <br>
 
@@ -972,7 +972,7 @@ Al reflexionar sobre el impacto del entorno digital en sus ventas, Jenifer seña
 
 *Imagen de la entrevista*
 
-<img src="../assets/interviews/ss_entrevista_3.jpeg" alt="Screenshot Entrevista 3" width="700"/>
+<img src="./assets/interviews/ss_entrevista_3.jpeg" alt="Screenshot Entrevista 3" width="700"/>
 
 <br>
 
@@ -1013,7 +1013,7 @@ Al reflexionar sobre el impacto del entorno digital, Karim mencionó que si tuvi
 
 *Imagen de la entrevista*
 
-<img src="../assets/interviews/ss_entrevista_4.png" alt="Screenshot Entrevista 4" width="700"/>
+<img src="./assets/interviews/ss_entrevista_4.png" alt="Screenshot Entrevista 4" width="700"/>
 
 <br>
 
@@ -1026,7 +1026,7 @@ Al reflexionar sobre el impacto del entorno digital, Karim mencionó que si tuvi
 | **Ubicación** | `Arequipa` |
 | **Fecha de entrevista** | `2026-04-14` |
 | **Duración** | `05:31` |
-| **Enlace al video** | [Ver entrevista en Microsoft Stream](`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410239_upc_edu_pe/IQCZytpHumWSQIGg_8klU0SaAeGDq2KGqbSibNVgBLzLz6s?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=QbskUU`) |
+| **Enlace al video** | [Ver entrevista en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410239_upc_edu_pe/IQCZytpHumWSQIGg_8klU0SaAeGDq2KGqbSibNVgBLzLz6s?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=QbskUU) |
 
 **Resumen:**
 
@@ -1042,7 +1042,7 @@ Al reflexionar sobre el impacto del entorno digital, Karim mencionó que si tuvi
 
 *Imagen de la entrevista*
 
-<img src="../assets/interviews/ss_entrevista_5.png" alt="Screenshot Entrevista 5" width="1000"/>
+<img src="./assets/interviews/ss_entrevista_5.png" alt="Screenshot Entrevista 5" width="1000"/>
 
 <br>
 
@@ -1087,7 +1087,7 @@ En ese contexto, considera que una herramienta que envíe alertas automáticas e
 
 *Imagen de la entrevista*
 
-<img src="../assets/interviews/ss_entrevista_6.png" alt="Screenshot Entrevista 6" width="1000"/>
+<img src="./assets/interviews/ss_entrevista_6.png" alt="Screenshot Entrevista 6" width="1000"/>
 
 <br>
 
@@ -1137,13 +1137,13 @@ Estos arquetipos han sido construidos a partir del análisis cualitativo de las 
 **User Persona 1 — Segmento 1: `Alfredo Negrete`**
 
 
-![User Persona 1 Segmento 1](../assets/user-personas/user-persona1-seg1.png)
+![User Persona 1 Segmento 1](./assets/user-personas/user-persona1-seg1.png)
 
 
 **User Persona 2 — Segmento 1: `Jenifer López`**
 
 
-![User Persona 2 Segmento 1](../assets/user-personas/user-persona2-seg1.png)
+![User Persona 2 Segmento 1](./assets/user-personas/user-persona2-seg1.png)
 
 ---
 
@@ -1151,7 +1151,7 @@ Estos arquetipos han sido construidos a partir del análisis cualitativo de las 
 
 *(Captura de la ficha elaborada en UXPressia)*
 
-![User Persona Segmento 2](../assets/user-personas/user-persona-seg2.png)
+![User Persona Segmento 2](./assets/user-personas/user-persona-seg2.png)
 
 ---
 
@@ -1183,7 +1183,7 @@ En la situación actual, muchas de estas actividades se realizan de forma manual
 
 **User Journey Map — `PyMEs`**
 
-![User Journey Map Persona 1](../assets/journey-maps/journey-map-persona1.png)
+![User Journey Map Persona 1](./assets/journey-maps/journey-map-persona1.png)
 
 ---
 
@@ -1191,7 +1191,7 @@ En la situación actual, muchas de estas actividades se realizan de forma manual
 
 *(Captura del diagrama elaborado en UXPressia)*
 
-![User Journey Map Persona 2](../assets/journey-maps/journey-map-persona2.png)
+![User Journey Map Persona 2](./assets/journey-maps/journey-map-persona2.png)
 
 ---
 
@@ -1202,7 +1202,7 @@ El Empathy Mapping fue elaborado a partir del análisis de las entrevistas reali
 **Empathy Map — `PyMEs`**
 
 
-![Empathy Map Persona 1](../assets/empathy-maps/empathy-map-persona1.png)
+![Empathy Map Persona 1](./assets/empathy-maps/empathy-map-persona1.png)
 
 ---
 
@@ -1210,7 +1210,7 @@ El Empathy Mapping fue elaborado a partir del análisis de las entrevistas reali
 
 *(Captura elaborada en UXPressia)*
 
-![Empathy Map Persona 2](../assets/empathy-maps/empathy-map-persona2.png)
+![Empathy Map Persona 2](./assets/empathy-maps/empathy-map-persona2.png)
 
 ---
 
@@ -1222,7 +1222,7 @@ El Empathy Mapping fue elaborado a partir del análisis de las entrevistas reali
 
 *(Capturas del Big Picture Event Storming elaborado en LucidChart / Miro)*
 
-![Big Picture Event Storming](../assets/event-storming/big-picture-event-storming.png)
+![Big Picture Event Storming](./assets/event-storming/big-picture-event-storming.png)
 
 *(Explicación de los eventos, actores y flujos identificados)*
 
@@ -1313,7 +1313,7 @@ El Empathy Mapping fue elaborado a partir del análisis de las entrevistas reali
 
 *(Business Goals deben cumplir criterios SMART. Ejemplo: "Alcanzar los 600 usuarios suscritos al plan A en el lapso de 8 meses.")*
 
-![Impact Map](../assets/impact-mapping/impact-map.png)
+![Impact Map](./assets/impact-mapping/impact-map.png)
 
 *(Explicación del Impact Map: Business Goals, Actors/Personas, Impacts, Deliverables y User Stories)*
 
@@ -1329,7 +1329,7 @@ El Empathy Mapping fue elaborado a partir del análisis de las entrevistas reali
 
 *(Captura del Product Backlog en la herramienta indicada)*
 
-![Product Backlog](../assets/product-backlog/product-backlog.png)
+![Product Backlog](./assets/product-backlog/product-backlog.png)
 
 | # Orden | User Story ID | Título | Descripción | Story Points |
 |:-------:|:-------------:|:------:|:------------|:------------:|
@@ -1505,13 +1505,13 @@ Se desarrollaron versiones para:
 
 *Elaboración propia en Figma*
 
-![Landing Page Wireframe Desktop](../assets/landing-page/wireframe-desktop.png)
+![Landing Page Wireframe Desktop](./assets/landing-page/wireframe-desktop.png)
 
 **Mobile Web Browser**
 
 *Elaboración propia en Figma*
 
-![Landing Page Wireframe Mobile](../assets/landing-page/wireframe-mobile.png)
+![Landing Page Wireframe Mobile](./assets/landing-page/wireframe-mobile.png)
 
 
 
@@ -1526,13 +1526,13 @@ Los mock-ups representan la versión visual final del Landing Page, incorporando
 
 *Elaboración propia en Figma*
 
-![Landing Page Mockup Desktop](../assets/landing-page/mockup-desktop.png)
+![Landing Page Mockup Desktop](./assets/landing-page/mockup-desktop.png)
 
 **Mobile Web Browser**
 
 *Elaboración propia en Figma*
 
-![Landing Page Mockup Mobile](../assets/landing-page/mockup-mobile.png)
+![Landing Page Mockup Mobile](./assets/landing-page/mockup-mobile.png)
 
 
 
@@ -1547,7 +1547,7 @@ Los mock-ups representan la versión visual final del Landing Page, incorporando
 
 *(Wireframes de las aplicaciones web con principios de diseño inclusivo y arquitectura de información aplicados)*
 
-![Web App Wireframes](../assets/web-app/wireframes.png)
+![Web App Wireframes](./assets/web-app/wireframes.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
@@ -1557,7 +1557,7 @@ Los mock-ups representan la versión visual final del Landing Page, incorporando
 
 *(Descripción del flujo especificado)*
 
-![Wireflow Diagrama 1](../assets/web-app/wireflow-1.png)
+![Wireflow Diagrama 1](./assets/web-app/wireflow-1.png)
 
 ---
 
@@ -1565,13 +1565,13 @@ Los mock-ups representan la versión visual final del Landing Page, incorporando
 
 *(Descripción del flujo especificado)*
 
-![Wireflow Diagrama 2](../assets/web-app/wireflow-2.png)
+![Wireflow Diagrama 2](./assets/web-app/wireflow-2.png)
 
 ### 4.4.3. Web Applications Mock-ups
 
 *(Mock-ups de las aplicaciones web con Design System aplicado)*
 
-![Web App Mockups](../assets/web-app/mockups.png)
+![Web App Mockups](./assets/web-app/mockups.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
@@ -1581,7 +1581,7 @@ Los mock-ups representan la versión visual final del Landing Page, incorporando
 
 *(Descripción de los flujos y condiciones especificadas)*
 
-![User Flow Diagrama 1](../assets/web-app/user-flow-1.png)
+![User Flow Diagrama 1](./assets/web-app/user-flow-1.png)
 
 ---
 
@@ -1593,13 +1593,13 @@ Los mock-ups representan la versión visual final del Landing Page, incorporando
 
 **Prototipo Desktop**
 
-![Screenshot Prototipo Desktop](../assets/prototypes/prototype-desktop-screenshot.png)
+![Screenshot Prototipo Desktop](./assets/prototypes/prototype-desktop-screenshot.png)
 
 [Ver video de prototipo Desktop en Microsoft Stream](`URL`)
 
 **Prototipo Mobile**
 
-![Screenshot Prototipo Mobile](../assets/prototypes/prototype-mobile-screenshot.png)
+![Screenshot Prototipo Mobile](./assets/prototypes/prototype-mobile-screenshot.png)
 
 [Ver video de prototipo Mobile en Microsoft Stream](`URL`)
 
@@ -1613,7 +1613,7 @@ Los mock-ups representan la versión visual final del Landing Page, incorporando
 
 *(Capturas del Event Storming elaborado en LucidChart / Miro)*
 
-![Design Level Event Storming](../assets/event-storming/design-level-event-storming.png)
+![Design Level Event Storming](./assets/event-storming/design-level-event-storming.png)
 
 *(Identificación de Bounded Contexts, Aggregates, Events, Commands and Queries)*
 
@@ -1623,7 +1623,7 @@ Los mock-ups representan la versión visual final del Landing Page, incorporando
 
 *(El sistema como recuadro central, rodeado por usuarios y sistemas externos con los que interactúa)*
 
-![Software Architecture Context Diagram](../assets/architecture/context-diagram.png)
+![Software Architecture Context Diagram](./assets/architecture/context-diagram.png)
 
 *(Explicación del diagrama)*
 
@@ -1633,7 +1633,7 @@ Los mock-ups representan la versión visual final del Landing Page, incorporando
 
 *(Elementos de alto nivel de la arquitectura, distribución de responsabilidades, tecnologías y comunicación entre containers)*
 
-![Software Architecture Container Diagram](../assets/architecture/container-diagram.png)
+![Software Architecture Container Diagram](./assets/architecture/container-diagram.png)
 
 *(Explicación del diagrama)*
 
@@ -1643,7 +1643,7 @@ Los mock-ups representan la versión visual final del Landing Page, incorporando
 
 **Bounded Context: `[Nombre del Bounded Context]`**
 
-![Component Diagram BC1](../assets/architecture/component-diagram-bc1.png)
+![Component Diagram BC1](./assets/architecture/component-diagram-bc1.png)
 
 *(Explicación de los components, sus responsabilidades y detalles de implementación/tecnología)*
 
@@ -1659,7 +1659,7 @@ Los mock-ups representan la versión visual final del Landing Page, incorporando
 
 **Bounded Context: `[Nombre del Bounded Context]`**
 
-![Class Diagram BC1](../assets/class-diagrams/class-diagram-bc1.png)
+![Class Diagram BC1](./assets/class-diagrams/class-diagram-bc1.png)
 
 *(Explicación del Class Diagram)*
 
@@ -1675,7 +1675,7 @@ Los mock-ups representan la versión visual final del Landing Page, incorporando
 
 **Bounded Context: `[Nombre del Bounded Context]`**
 
-![Database Diagram BC1](../assets/database/database-diagram-bc1.png)
+![Database Diagram BC1](./assets/database/database-diagram-bc1.png)
 
 *(Explicación del Database Diagram)*
 
@@ -1938,7 +1938,7 @@ Tipos: feat | fix | docs | style | refactor | test | chore
 - **URL YouTube (para incrustar en Landing Page):** [`[Nombre del video]`](`URL`)
 
 
-![About the Product Video Screenshot](../assets/videos/about-the-product-screenshot.png)
+![About the Product Video Screenshot](./assets/videos/about-the-product-screenshot.png)
 
 ---
 
