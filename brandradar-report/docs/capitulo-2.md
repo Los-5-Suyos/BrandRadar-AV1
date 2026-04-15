@@ -158,6 +158,8 @@ Tipo de empresa o agencia donde trabajas
 
 <br>
 
+<br>
+
 | Campo | Detalle |
 |:------|:--------|
 | **Nombres y apellidos** | `Alfredo Negrete` |
@@ -165,7 +167,7 @@ Tipo de empresa o agencia donde trabajas
 | **Ubicación** | `Surco` |
 | **Fecha de entrevista** | `2026-04-11` |
 | **Duración** | `15:00` |
-| **Enlace al video** | [Ver entrevista en Microsoft Stream](https://1drv.ms/v/c/d936c864c8cca0bb/IQBCE_dtbeoPTYkZnSVxycpQASHO2xsa9YOUk000HVkybnE?e=gn42mC) — Inicia en  |
+| **Enlace al video** | [Ver entrevista en Microsoft Stream](https://1drv.ms/v/c/d936c864c8cca0bb/IQBCE_dtbeoPTYkZnSVxycpQASHO2xsa9YOUk000HVkybnE?e=gn42mC) |
 
 **Resumen:**
 </div>
@@ -191,6 +193,8 @@ Finalmente, considera que una aplicación podría ayudarle a fortalecer su image
 *Imagen de la entrevista*
 
 <img src="../assets/interviews/ss_entrevista_2.png" alt="Screenshot Entrevista 2" width="1000"/>
+
+<br>
 
 <br>
 
@@ -222,6 +226,8 @@ Al reflexionar sobre el impacto del entorno digital en sus ventas, Jenifer seña
 *Imagen de la entrevista*
 
 <img src="../assets/interviews/ss_entrevista_3.jpeg" alt="Screenshot Entrevista 3" width="1000"/>
+
+<br>
 
 <br>
 
@@ -264,6 +270,8 @@ Al reflexionar sobre el impacto del entorno digital, Karim mencionó que si tuvi
 
 <br>
 
+<br>
+
 | Campo | Detalle |
 |:------|:--------|
 | **Nombres y apellidos** | `Romina Apaza` |
@@ -271,7 +279,7 @@ Al reflexionar sobre el impacto del entorno digital, Karim mencionó que si tuvi
 | **Ubicación** | `Arequipa` |
 | **Fecha de entrevista** | `2026-04-14` |
 | **Duración** | `[HH:MM]` |
-| **Enlace al video** | [Ver entrevista en Microsoft Stream](`URL`)` |
+| **Enlace al video** | [Ver entrevista en Microsoft Stream](`URL`) |
 
 **Resumen:**
 
@@ -288,6 +296,8 @@ Al reflexionar sobre el impacto del entorno digital, Karim mencionó que si tuvi
 *Imagen de la entrevista*
 
 <img src="../assets/interviews/ss_entrevista_5.png" alt="Screenshot Entrevista 5" width="1000"/>
+
+<br>
 
 <br>
 
