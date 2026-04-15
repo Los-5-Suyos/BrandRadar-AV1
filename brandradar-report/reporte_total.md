@@ -1026,7 +1026,7 @@ Al reflexionar sobre el impacto del entorno digital, Karim mencionó que si tuvi
 | **Ubicación** | `Arequipa` |
 | **Fecha de entrevista** | `2026-04-14` |
 | **Duración** | `05:31` |
-| **Enlace al video** | [Ver entrevista en Microsoft Stream](`URL`) |
+| **Enlace al video** | [Ver entrevista en Microsoft Stream](`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410239_upc_edu_pe/IQCZytpHumWSQIGg_8klU0SaAeGDq2KGqbSibNVgBLzLz6s?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=QbskUU`) |
 
 **Resumen:**
 
