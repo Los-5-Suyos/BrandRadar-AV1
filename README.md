@@ -1573,7 +1573,7 @@ Se desarrollaron versiones para:
   
 - Mobile Web Browser
 
-
+<div align="center">
 
 **Desktop Web Browser**
 
@@ -1587,14 +1587,14 @@ Se desarrollaron versiones para:
 
 ![Landing Page Wireframe Mobile](brandradar-report/assets/landing-page/wireframe-mobile.png)
 
-
-
-
+</div>
 
 
 ### 4.3.2. Landing Page Mock-up
 
 Los mock-ups representan la versión visual final del Landing Page, incorporando colores, tipografía, iconografía y estilos definidos en el Design System.
+
+<div align="center">
 
 **Desktop Web Browser**
 
@@ -1602,14 +1602,17 @@ Los mock-ups representan la versión visual final del Landing Page, incorporando
 
 ![Landing Page Mockup Desktop](brandradar-report/assets/images/Landingpage-mockup.png)
 
+<br>
+
 **Mobile Web Browser**
 
 *Elaboración propia en Figma*
 
 ![Landing Page Mockup Mobile](brandradar-report/assets/landing-page/mockup-mobile.png)
 
+</div>
 
-
+<br>
 
 ---
 
