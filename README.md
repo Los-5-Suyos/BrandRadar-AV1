@@ -1127,9 +1127,13 @@ Respecto a su relación con la tecnología y los canales de interacción, se evi
 
 Al explorar sus dolores y frustraciones, los dueños de negocios manifestaron sufrir pérdidas de ventas y clientes debido a factores de percepción externa, como la competencia desleal, carritos abandonados o comentarios negativos. Un hallazgo crítico es que realizan un monitoreo netamente manual y empírico de su reputación online, revisando esporádicamente plataformas como Google Maps y Facebook. Esta carencia de automatización valida directamente la necesidad de BrandRadar, obteniendo una aceptación unánime por parte de los entrevistados hacia una herramienta tecnológica centrada en la imagen de marca. Dentro de este grupo, algunos priorizan un enfoque preventivo, demandando alertas tempranas ante quejas para evitar pérdidas inmediatas, mientras que otros valoran también un enfoque proactivo que les permita centralizar y difundir sus casos de éxito y resoluciones de problemas.
 
-**Segmento objetivo 2: `[Nombre del segmento]`**
+**Segmento objetivo 2: `Especialistas de marketing o community managers`**
 
-*(Identificar con sustento estadístico todas las características objetivas y subjetivas representativas del segmento, necesarias para la construcción de los arquetipos)*
+A partir de las entrevistas realizadas a profesionales enfocados en la gestión digital de marcas y creación de contenido, se han identificado patrones de comportamiento que sustentan la viabilidad de la plataforma en el entorno B2B. En términos de perfil profesional, los entrevistados operan bajo modalidades freelance o de jefatura de marketing, gestionando cuentas de alta exigencia (como clínicas de salud o instituciones municipales). Ambos perfiles destacan por su capacidad analítica, resiliencia bajo presión y un fuerte enfoque en medir el rendimiento y las conversiones de sus acciones.
+
+En cuanto al uso de herramientas y canales, estos especialistas mantienen una dinámica de trabajo altamente colaborativa y conectada. Utilizan plataformas de organización como Trello o Notion para estructurar sus tareas, y dependen críticamente de WhatsApp y plataformas de videollamadas (Zoom, Meet) para la coordinación con sus clientes y equipos. El monitoreo de la reputación lo realizan a través de un ecosistema diverso que incluye Instagram, TikTok, Facebook y de manera muy crítica para negocios locales, Google Maps.
+
+Al indagar sobre sus dolores y frustraciones (Pain Points), el hallazgo más destacable es la **excesiva carga operativa** que demanda el seguimiento manual. Los profesionales manifestaron invertir desde una a dos horas diarias solo en revisar redes, hasta estimar entre 10 y 15 horas mensuales exclusivamente en la consolidación manual de métricas y elaboración de reportes para sus clientes. Asimismo, han experimentado situaciones críticas donde reseñas negativas (por ejemplo, quejas por demoras en Google Maps o comentarios adversos en redes) no fueron detectadas a tiempo, lo que impactó negativamente en el alcance orgánico y la captación de nuevos clientes para las marcas que gestionan.
 
 ---
 
@@ -1154,11 +1158,15 @@ Estos arquetipos han sido construidos a partir del análisis cualitativo de las 
 
 ---
 
-**User Persona — Segmento 2: `[Nombre del Persona]`**
+**User Persona 1 — Segmento 2: `Romina Apaza`**
 
-*(Captura de la ficha elaborada en UXPressia)*
 
-![User Persona Segmento 2](brandradar-report/assets/user-personas/user-persona-seg2.png)
+![User Persona 1 Segmento 2](brandradar-report/assets/user-personas/user-persona3-seg2.png)
+
+**User Persona 2 — Segmento 2: `Esteban Medina`**
+
+
+![User Persona 2 Segmento 2](brandradar-report/assets/user-personas/user-persona4-seg2.png)
 
 ---
 
