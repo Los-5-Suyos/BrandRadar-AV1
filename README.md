@@ -1194,9 +1194,7 @@ En la situación actual, muchas de estas actividades se realizan de forma manual
 
 ---
 
-**User Journey Map — `[Persona 2]`**
-
-*(Captura del diagrama elaborado en UXPressia)*
+**User Journey Map — `Agencia(Account Manager)`**
 
 ![User Journey Map Persona 2](brandradar-report/assets/journey-maps/journey-map-persona2.png)
 
