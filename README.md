@@ -1792,15 +1792,15 @@ La navegación está diseñada pensando en dos segmentos principales: dueños de
 
 UXPressia: Herramienta especializada en la creación de mapas de experiencia de usuario (UX). En este caso, utilizamos UXPressia para la elaboración del Impact Mapping para cada segmento objetivo (Dueños y Gerentes de PyMEs y Directores de Agencias Digitales).
 
-<img src="brandradar-report/assets/images/MIRO.jfif" alt="BrandRadar Logo" width="320"/>
+<img src="brandradar-report/assets/images/UXPRESIA.jpg" alt="BrandRadar Logo" width="320"/>
 
 Figma: Herramienta de diseño de interfaces de usuario (UI) y prototipado colaborativo basada en la nube. En este caso, utilizamos Figma para la elaboración del prototipo de alta fidelidad de la aplicación web BrandRadar.
 
-<img src="brandradar-report/assets/images/MIRO.jfif" alt="BrandRadar Logo" width="320"/>
+<img src="brandradar-report/assets/images/FIGMA.jpg" alt="BrandRadar Logo" width="320"/>
 
 PivotalTracker (o Jira/Trello según tu preferencia): Herramienta de gestión de proyectos basada en tableros. En este caso, utilizamos PivotalTracker para visualizar y actualizar el estado de las tareas e historias de usuario pertenecientes al sprint a desarrollar.)*
 
-<img src="brandradar-report/assets/images/MIRO.jfif" alt="BrandRadar Logo" width="320"/>
+<img src="brandradar-report/assets/images/PIVOTAL.jpg" alt="BrandRadar Logo" width="320"/>
 
 *(Software Development:
 
