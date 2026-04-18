@@ -1788,6 +1788,8 @@ La navegación está diseñada pensando en dos segmentos principales: dueños de
 *(*(REQUIREMENTS MANAGEMENT)*
 *(Miro: Plataforma en línea que permite la colaboración en tiempo real a través de pizarras digitales. Ofrece herramientas para la creación de diagramas, mapas mentales, diagramas de flujo y más. En este caso, utilizamos Miro para la elaboración de As-Is y To-Be Scenarios Mapping, así como para el Impact Mapping de cada segmento objetivo.
 
+<img src="brandradar-report/assets/images/MIRO.jfif" alt="BrandRadar Logo" width="320"/>
+
 UXPressia: Herramienta especializada en la creación de mapas de experiencia de usuario (UX). En este caso, utilizamos UXPressia para la elaboración del Impact Mapping para cada segmento objetivo (Dueños y Gerentes de PyMEs y Directores de Agencias Digitales).
 
 Figma: Herramienta de diseño de interfaces de usuario (UI) y prototipado colaborativo basada en la nube. En este caso, utilizamos Figma para la elaboración del prototipo de alta fidelidad de la aplicación web BrandRadar.
