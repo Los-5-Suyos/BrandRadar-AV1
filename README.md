@@ -1797,69 +1797,49 @@ Netlify / Vercel: Plataforma de alojamiento y despliegue web que simplifica el p
 *(Para todo el ciclo de vida de nuestro proyecto, utilizaremos el sistema de control de versiones Git, donde la evidencia será visualizada y registrada en la plataforma de GitHub de nuestra organización. Se podrá visualizar todos los cambios y modificaciones realizados por cada miembro del equipo.
 GitHub URL: https://github.com/Los-5-Suyos/BrandRadar-report/graphs/contributors
 
-**Organización de GitHub:** [`[URL de la organización]`](`[URL]`)
 
-| Producto | Repositorio | URL |
-|:--------:|:-----------:|:----|
-| Landing Page | `[nombre-repo]` | `[URL]` |
-| Frontend Web Application | `[nombre-repo]` | `[URL]` |
-| Web Services (RESTful API) | `[nombre-repo]` | `[URL]` |
-| Project Report | `[nombre-repo]` | `[URL]` |
-
-**GitFlow Workflow:**
-
-Se implementará GitFlow con las siguientes ramas:
-
-| Rama | Propósito | Convención de nombre |
-|:-----|:---------:|:---------------------|
-| `main` | Código en producción | `main` |
-| `develop` | Integración de features | `develop` |
-| `feature/*` | Desarrollo de características | `feature/[descripción-corta]` |
-| `release/*` | Preparación de releases | `release/[versión]` (ej: `release/1.0.0`) |
-| `hotfix/*` | Correcciones urgentes en producción | `hotfix/[descripción-corta]` |
-
-**Semantic Versioning:** Se aplica [Semantic Versioning 2.0.0](https://semver.org/) para nombrar los releases (`MAJOR.MINOR.PATCH`).
-
-**Conventional Commits:** Se aplican [Conventional Commits](https://www.conventionalcommits.org/) para los mensajes de commits:
-
-```
-<tipo>[ámbito opcional]: <descripción>
-
-Tipos: feat | fix | docs | style | refactor | test | chore
-```
 
 ---
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
-*(Convenciones de nombrado y programación para cada lenguaje utilizado en la solución)*
+HTML:
+Para el lenguaje HTML, nos planteamos utilizar las convenciones descritas en la guía “HTML Style Guide and Coding Conventions”:
 
-| Lenguaje / Framework | Convención adoptada | Referencia |
-|:--------------------:|:-------------------:|:-----------|
-| HTML | HTML Style Guide | https://www.w3schools.com/html/html5_syntax.asp |
-| CSS | Google HTML/CSS Style Guide | https://google.github.io/styleguide/htmlcssguide.html |
-| JavaScript / TypeScript | Google TypeScript Style Guide | https://google.github.io/styleguide/tsguide.html |
-| Angular | Angular coding style guide | https://angular.io/guide/styleguide |
-| Java | Google Java Style Guide | https://google.github.io/styleguide/javaguide.html |
-| Spring Boot | Spring Boot Features | https://docs.spring.io/spring-boot/docs/current/reference/html/features.html |
-| Gherkin (Acceptance Criteria) | Gherkin Conventions | https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/ |
+Usar nombres de elementos y atributos en minúsculas.
+Cerrar todos los elementos HTML correctamente.
+Utilizar semantic HTML (header, nav, main, section, article, footer) para mejorar accesibilidad y SEO.
+Declarar siempre el doctype y utilizar meta tags adecuados.
+Evitar líneas de código excesivamente largas.
+Usar sintaxis simple y clara para enlaces, estilos y scripts externos.
 
-> **Nota:** Para todos los lenguajes se aplica la nomenclatura en **inglés**.
+CSS / Tailwind CSS:
+Para el lenguaje CSS, utilizaremos las siguientes prácticas para alcanzar un código coherente, sostenible y ordenado:
 
+Utilizar minúsculas y guiones para los nombres de clases e IDs.
+Agrupar reglas relacionadas y separarlas con líneas en blanco.
+Utilizar nombres de clases descriptivos y significativos (siguiendo metodología BEM o utility-first con Tailwind).
+Mantener baja la especificidad y aprovechar variables CSS (custom properties) para colores, tipografía y espaciado.
+Organizar el código por componentes o secciones de la aplicación.
+
+JavaScript:
+Se utilizará un estilo limpio y moderno, siguiendo convenciones como:
+
+Uso de const y let en lugar de var.
+Funciones arrow cuando corresponda.
+Código modular y comentarios claros para funcionalidades clave (alertas, análisis de sentimiento, integración de APIs).
 ---
 
 ### 5.1.4. Software Deployment Configuration
 
-*(Configuración del despliegue de la solución — pasos necesarios para lograr el despliegue de cada producto)*
+Landing Page:
+Para desplegar la landing page de BrandRadar, utilizamos GitHub como repositorio y Netlify como plataforma de hosting. El despliegue se configura conectando el repositorio de GitHub a Netlify, permitiendo implementación continua automática cada vez que se realiza un push a la rama principal. El directorio de publicación corresponde a la carpeta que contiene el archivo index.html.
 
-**Landing Page:**
-*(Describir pasos de despliegue del Landing Page — plataforma, configuración, automatización)*
+Frontend Web Application:
+El frontend de la aplicación web se despliega utilizando GitHub + Netlify. Se configura el build automático (npm run build) y se define el directorio de salida. Esto permite que las actualizaciones del dashboard, sistema de alertas y visualización de menciones se publiquen de forma rápida y automática.
 
-**Frontend Web Application:**
-*(Describir pasos de despliegue de la Web Application — plataforma, configuración, automatización)*
-
-**Web Services (RESTful API):**
-*(Describir pasos de despliegue del API — plataforma, configuración, automatización)*
+Web Services (RESTful API):
+Los servicios backend (RESTful API) se despliegan en Render o Railway. Se vincula el repositorio de GitHub, se configuran las variables de entorno necesarias para las integraciones con APIs externas y se activa el despliegue automático. De esta forma, el backend que procesa el análisis de sentimiento y genera alertas funciona de manera independiente del frontend.
 
 ---
 
