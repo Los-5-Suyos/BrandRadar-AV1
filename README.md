@@ -1776,6 +1776,19 @@ Figma: Herramienta de diseño de interfaces de usuario (UI) y prototipado colabo
 
 PivotalTracker (o Jira/Trello según tu preferencia): Herramienta de gestión de proyectos basada en tableros. En este caso, utilizamos PivotalTracker para visualizar y actualizar el estado de las tareas e historias de usuario pertenecientes al sprint a desarrollar.)*
 
+*(Software Development:
+
+Visual Studio Code: Editor de código fuente desarrollado por Microsoft que ofrece una amplia gama de funcionalidades para programadores. En este caso, utilizamos Visual Studio Code como nuestro entorno de desarrollo integrado principal para escribir, editar y depurar el código de la aplicación.
+
+HTML5: Lenguaje estándar utilizado para estructurar y presentar el contenido de la aplicación web. En este caso, utilizamos HTML5 para la creación de la interfaz de la landing page y del dashboard de BrandRadar.
+
+CSS3 / Tailwind CSS: CSS (Cascading Style Sheets) es un lenguaje de diseño utilizado para estilizar la presentación de documentos HTML. En este caso, utilizamos CSS3 junto con Tailwind CSS para lograr un diseño moderno, responsive y consistente en toda la plataforma.
+
+JavaScript / React: Lenguaje de programación que permite añadir interactividad y dinamismo a las páginas web. En este caso, utilizamos JavaScript (con React en fases posteriores) para implementar las funcionalidades de monitoreo en tiempo real, alertas y visualización de datos.
+
+GitHub: Plataforma de desarrollo colaborativo basada en la nube que utiliza el sistema de control de versiones Git. En este caso, utilizamos GitHub como repositorio remoto para almacenar, gestionar y colaborar en el código fuente del proyecto.
+
+Netlify / Vercel: Plataforma de alojamiento y despliegue web que simplifica el proceso de implementación de sitios y aplicaciones. En este caso, utilizamos Netlify/Vercel para desplegar la landing page y la aplicación web directamente desde el repositorio de GitHub, facilitando la implementación continua.)*
 
 ---
 
