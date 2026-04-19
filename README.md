@@ -1228,24 +1228,41 @@ El Empathy Mapping fue elaborado a partir del análisis de las entrevistas reali
 
 ## 2.4. Big Picture Event Storming
 
-> *(Sesión colaborativa enfocada en entender el dominio del negocio en general. Referencia: https://bit.ly/bpes-guide)*
+El proceso de Big Picture Event Storming se llevó a cabo con el objetivo de comprender de manera integral el flujo de negocio del sistema propuesto, identificando los principales eventos del dominio, los actores involucrados y las interacciones con sistemas externos. Esta técnica permitió visualizar el comportamiento general del sistema de forma cronológica, facilitando la identificación de procesos clave, dependencias y posibles puntos de mejora dentro del flujo operativo.
 
-*(Introducción al proceso realizado y explicación de las etapas)*
-
-*(Capturas del Big Picture Event Storming elaborado en LucidChart / Miro)*
+Durante el desarrollo del Event Storming se trabajó siguiendo una serie de etapas estructuradas que permitieron construir progresivamente una representación clara del dominio del problema. En la primera etapa, denominada Collect Domain Events, se identificaron los eventos principales del sistema, representando acciones que ya ocurrieron dentro del flujo del negocio.
 
 ![Big Picture Event Storming](brandradar-report/assets/event-storming/big-picture-event-storming-step1.png)
 
+Posteriormente, en la etapa Refine Domain Events, se revisaron los eventos previamente identificados con el fin de verificar su correcta redacción en tiempo pasado, asegurar su orden temporal adecuado y eliminar posibles redundancias o inconsistencias terminológicas. Asimismo, se agregaron eventos faltantes necesarios para completar el flujo lógico del sistema y reflejar con mayor precisión los procesos internos que ocurren dentro del dominio.
 
 ![Big Picture Event Storming](brandradar-report/assets/event-storming/big-picture-event-storming-step2.png)
 
+En la etapa Track Causes, se identificaron los actores que interactúan con el sistema, así como las acciones específicas que desencadenan ciertos eventos, representadas mediante comandos. También se incorporaron los sistemas externos que intervienen en el proceso, tales como servicios de análisis de sentimiento y plataformas externas de datos, además de los procesos internos del sistema que ocurren automáticamente entre eventos.
 
 ![Big Picture Event Storming](brandradar-report/assets/event-storming/big-picture-event-storming-step3.png)
 
+Finalmente, en la etapa Find Aggregates, se agruparon los eventos relacionados dentro de límites funcionales conocidos como agregados, permitiendo identificar claramente las principales entidades del dominio y sus responsabilidades. Esta etapa facilitó la estructuración del modelo del dominio y sirvió como base para el diseño posterior del sistema.
 
 ![Big Picture Event Storming](brandradar-report/assets/event-storming/big-picture-event-storming-step4.png)
 
-*(Explicación de los eventos, actores y flujos identificados)*
+Durante el desarrollo del Big Picture Event Storming se identificaron los principales eventos del dominio, los actores que interactúan con el sistema y los flujos que describen el comportamiento general del sistema desde el registro del usuario hasta la generación de reportes de reputación digital.
+
+En primer lugar, se definieron los eventos del dominio, los cuales representan cambios significativos que ocurren dentro del sistema y que describen acciones completadas en tiempo pasado. Entre los eventos identificados se encuentran aquellos relacionados con la gestión de cuentas, como el registro de usuario, la verificación de correo electrónico y el inicio de sesión. Estos eventos marcan el inicio del flujo del sistema y permiten establecer una sesión válida para que el usuario pueda interactuar con las funcionalidades principales.
+
+Posteriormente, se identificaron eventos relacionados con la configuración de marcas y fuentes de datos, tales como el ingreso de información de la marca, la definición de palabras clave y la conexión con fuentes externas. Estos eventos son fundamentales para que el sistema pueda iniciar el proceso de monitoreo y recolectar información relevante desde plataformas externas.
+
+Asimismo, se reconocieron eventos asociados al proceso de monitoreo automático, en el cual el sistema recolecta menciones desde fuentes externas, filtra la información recibida y la almacena para su posterior análisis. En esta etapa se incluyen también los eventos relacionados con el análisis de sentimiento, donde las menciones son evaluadas y clasificadas según su contenido, permitiendo detectar menciones negativas que puedan representar riesgos para la reputación de la marca.
+
+Dentro del flujo del sistema, se identificaron también eventos relacionados con la gestión de alertas, donde el sistema genera notificaciones cuando se detectan menciones negativas. Estas notificaciones son posteriormente revisadas por los usuarios, quienes pueden ejecutar acciones de respuesta ante situaciones que requieran atención inmediata.
+
+Finalmente, se identificaron eventos correspondientes a la generación de reportes y visualización de resultados, donde el sistema permite generar informes, exportar resultados y actualizar dashboards con métricas relevantes. Estos eventos permiten a los usuarios evaluar el desempeño de la marca y tomar decisiones estratégicas basadas en los datos recolectados.
+
+En cuanto a los actores identificados, se reconocieron principalmente dos roles: el PyME Owner, quien gestiona directamente la reputación digital de su propia marca, y el Agency Manager, quien administra múltiples marcas en representación de distintos clientes. Ambos actores interactúan con el sistema mediante acciones específicas como la configuración de marcas, revisión de alertas y generación de reportes. Asimismo, se identificaron sistemas externos, tales como plataformas de redes sociales, servicios de análisis de sentimiento y servicios de notificación, los cuales participan en el flujo del sistema proporcionando datos y facilitando la comunicación con los usuarios.
+
+Los flujos identificados describen el recorrido completo del sistema desde el registro inicial del usuario hasta la generación de reportes finales. Estos flujos permiten comprender cómo se encadenan los eventos y cómo interactúan los distintos actores y sistemas externos en cada etapa. Además, el análisis de estos flujos permitió identificar dependencias críticas, automatizaciones internas y puntos clave donde pueden surgir riesgos o mejoras futuras.
+
+En conjunto, la identificación de eventos, actores y flujos permitió construir una representación clara del comportamiento del sistema, facilitando la comprensión del dominio del problema y estableciendo una base sólida para la definición de agregados y el diseño del modelo de dominio.
 
 ---
 
