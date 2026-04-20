@@ -1841,7 +1841,7 @@ Este bounded context gestiona todo lo relacionado con la identidad y acceso de l
   
 *Imagen del Class Diagram*
 
-![Class Diagram BC1](pawtient-report/assets/images/class-diagrams/bounded_1.png)
+![Class Diagram BC1](brandradar-report/assets/images/class-diagrams/bounded_1.png)
 
 *Elaboración propia con LucidChart*
 
@@ -1861,7 +1861,7 @@ Este bounded context gestiona la configuración inicial de una marca dentro de B
   
 *Imagen del Class Diagram*
 
-![Class Diagram BC1](pawtient-report/assets/images/class-diagrams/bounded_2.png)
+![Class Diagram BC1](brandradar-report/assets/images/class-diagrams/bounded_2.png)
 
 *Elaboración propia con LucidChart*
 
@@ -1882,7 +1882,7 @@ Este bounded context se encarga de la recolección automática de menciones desd
   
 *Imagen del Class Diagram*
 
-![Class Diagram BC1](pawtient-report/assets/images/class-diagrams/bounded_3.png)
+![Class Diagram BC1](brandradar-report/assets/images/class-diagrams/bounded_3.png)
 
 *Elaboración propia con LucidChart*
 
@@ -1902,7 +1902,7 @@ Este bounded context se encarga de analizar el contenido de cada mención recole
   
 *Imagen del Class Diagram*
 
-![Class Diagram BC1](pawtient-report/assets/images/class-diagrams/bounded_4.png)
+![Class Diagram BC1](brandradar-report/assets/images/class-diagrams/bounded_4.png)
 
 *Elaboración propia con LucidChart*
 
@@ -1922,7 +1922,7 @@ Este bounded context gestiona el ciclo completo de respuesta ante menciones nega
   
 *Imagen del Class Diagram*
 
-![Class Diagram BC1](pawtient-report/assets/images/class-diagrams/bounded_5.png)
+![Class Diagram BC1](brandradar-report/assets/images/class-diagrams/bounded_5.png)
 
 *Elaboración propia con LucidChart*
 
@@ -1942,7 +1942,7 @@ Este bounded context permite a los usuarios de BrandRadar visualizar y exportar 
   
 *Imagen del Class Diagram*
 
-![Class Diagram BC1](pawtient-report/assets/images/class-diagrams/bounded_6.png)
+![Class Diagram BC1](brandradar-report/assets/images/class-diagrams/bounded_6.png)
 
 *Elaboración propia con LucidChart*
 
@@ -1970,7 +1970,7 @@ Este bounded context permite a los usuarios de BrandRadar visualizar y exportar 
 
 <br>
 
-![Database Diagram BC1](pawtient-report/assets/images/database/db_1.png)
+![Database Diagram BC1](brandradar-report/assets/images/database/db_1.png)
 
 </div>
 
@@ -1987,7 +1987,7 @@ Este bounded context permite a los usuarios de BrandRadar visualizar y exportar 
 
 <br>
 
-![Database Diagram BC2](pawtient-report/assets/images/database/db_2.png)
+![Database Diagram BC2](brandradar-report/assets/images/database/db_2.png)
 
 </div>
 
@@ -2003,7 +2003,7 @@ Este bounded context permite a los usuarios de BrandRadar visualizar y exportar 
 
 <br>
 
-![Database Diagram BC3](pawtient-report/assets/images/database/db_3.png)
+![Database Diagram BC3](brandradar-report/assets/images/database/db_3.png)
 
 </div>
 
@@ -2021,7 +2021,7 @@ Este bounded context permite a los usuarios de BrandRadar visualizar y exportar 
 
 <br>
 
-![Database Diagram BC4](pawtient-report/assets/images/database/db_4.png)
+![Database Diagram BC4](brandradar-report/assets/images/database/db_4.png)
 
 </div>
 
@@ -2039,7 +2039,7 @@ Este bounded context permite a los usuarios de BrandRadar visualizar y exportar 
 
 <br>
 
-![Database Diagram BC4](pawtient-report/assets/images/database/db_5.png)
+![Database Diagram BC4](brandradar-report/assets/images/database/db_5.png)
 
 </div>
 
@@ -2057,7 +2057,7 @@ Este bounded context permite a los usuarios de BrandRadar visualizar y exportar 
 
 <br>
 
-![Database Diagram BC4](pawtient-report/assets/images/database/db_6.png)
+![Database Diagram BC4](brandradar-report/assets/images/database/db_6.png)
 
 </div>
 
