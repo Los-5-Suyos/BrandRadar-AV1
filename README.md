@@ -1861,7 +1861,7 @@ Este bounded context gestiona la configuración inicial de una marca dentro de B
   
 *Imagen del Class Diagram*
 
-![Class Diagram BC1](brandradar-report/assets/class-diagrams/bounded_2.png)
+![Class Diagram BC2](brandradar-report/assets/class-diagrams/bounded_2.png)
 
 *Elaboración propia con LucidChart*
 
@@ -1882,7 +1882,7 @@ Este bounded context se encarga de la recolección automática de menciones desd
   
 *Imagen del Class Diagram*
 
-![Class Diagram BC1](brandradar-report/assets/class-diagrams/bounded_3.png)
+![Class Diagram BC3](brandradar-report/assets/class-diagrams/bounded_3.png)
 
 *Elaboración propia con LucidChart*
 
@@ -1902,7 +1902,7 @@ Este bounded context se encarga de analizar el contenido de cada mención recole
   
 *Imagen del Class Diagram*
 
-![Class Diagram BC1](brandradar-report/assets/class-diagrams/bounded_4.png)
+![Class Diagram BC4](brandradar-report/assets/class-diagrams/bounded_4.png)
 
 *Elaboración propia con LucidChart*
 
@@ -1922,7 +1922,7 @@ Este bounded context gestiona el ciclo completo de respuesta ante menciones nega
   
 *Imagen del Class Diagram*
 
-![Class Diagram BC1](brandradar-report/assets/class-diagrams/bounded_5.png)
+![Class Diagram BC5](brandradar-report/assets/class-diagrams/bounded_5.png)
 
 *Elaboración propia con LucidChart*
 
@@ -1942,7 +1942,7 @@ Este bounded context permite a los usuarios de BrandRadar visualizar y exportar 
   
 *Imagen del Class Diagram*
 
-![Class Diagram BC1](brandradar-report/assets/class-diagrams/bounded_6.png)
+![Class Diagram BC6](brandradar-report/assets/class-diagrams/bounded_6.png)
 
 *Elaboración propia con LucidChart*
 
@@ -2039,7 +2039,7 @@ Este bounded context permite a los usuarios de BrandRadar visualizar y exportar 
 
 <br>
 
-![Database Diagram BC4](brandradar-report/assets/database/db_5.png)
+![Database Diagram BC5](brandradar-report/assets/database/db_5.png)
 
 </div>
 
@@ -2057,7 +2057,7 @@ Este bounded context permite a los usuarios de BrandRadar visualizar y exportar 
 
 <br>
 
-![Database Diagram BC4](brandradar-report/assets/database/db_6.png)
+![Database Diagram BC6](brandradar-report/assets/database/db_6.png)
 
 </div>
 
