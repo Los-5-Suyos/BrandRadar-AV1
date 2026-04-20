@@ -1975,7 +1975,7 @@ La navegación está diseñada pensando en dos segmentos principales: dueños de
 
 <div align="center">
   
-**Bounded Context: `Brand Management`**
+**Bounded Context: `Brand Management (Database Diagram)`**
 
 <br>
 
