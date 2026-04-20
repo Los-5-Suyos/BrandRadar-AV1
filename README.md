@@ -1321,18 +1321,39 @@ En conjunto, la identificación de eventos, actores y flujos permitió construir
 
 | Término (EN) | Término (ES) | Definición |
 |:-------------|:-------------|:-----------|
-| `Brand` | Marca | Empresa o negocio que desea monitorear su reputación digital |
-| `Reputation` | Reputación | Percepción general que tienen los usuarios sobre una marca |
-| `Sentiment` | Sentimiento | Clasificación de opiniones (positivo, negativo o neutro) |
-| `Mention` | Mención | Referencia a una marca en cualquier plataforma dijital |
-| `Alert` | Alerta | Notificación generada ante un evento relevante |
-| `Dashboard` | Panel de control | Interfaz principal con métricas y datos resumidos |
-| `Monitoring` | Monitoreo | Proceso continuo de seguimiento de menciones |
-| `Insight` | Perspectiva / Hallazgo | Información relevante obtenida del análisis de datos |
-| `Source` | `Fuente` | Plataforma de donde provienen los datos (redes, web, etc.) |
-| `Report` | `Reporte` | Documento con análisis y resultados de reputación |
-| `Keyword` | `Palabra clave` | Término utilizado para rastrear menciones |
-| `Crisis` | `Crisis reputacional` | Evento negativo que afecta la imagen de la marca |
+| `User` | Usuario | Persona que interactúa con el sistema para gestionar la reputación digital |
+| `PyME Owner` | Dueño de PyME | Usuario que gestiona su propia marca dentro del sistema |
+| `Agency Manager` | Gestor de Agencia | Usuario que administra múltiples marcas de distintos clientes |
+| `Account` | Cuenta | Identidad del usuario dentro del sistema que permite autenticación y acceso |
+| `Session` | Sesión | Estado activo de un usuario autenticado en el sistema |
+| `Brand` | Marca | Empresa o negocio cuya reputación digital es monitoreada |
+| `Keyword` | Palabra clave | Término definido para identificar menciones relacionadas con una marca |
+| `Data Source` | Fuente de datos | Plataforma externa desde donde se obtienen menciones (redes sociales, APIs, etc.) |
+| `Connection` | Conexión | Integración establecida entre el sistema y una fuente de datos |
+| `Monitoring` | Monitoreo | Proceso automático y continuo de recolección de menciones |
+| `Mention` | Mención | Contenido externo que hace referencia a una marca |
+| `Filtered Mention` | Mención filtrada | Mención que cumple con los criterios definidos (keywords, reglas, etc.) |
+| `Stored Mention` | Mención almacenada | Mención guardada en el sistema para su análisis posterior |
+| `Sentiment` | Sentimiento | Clasificación de una mención (positivo, negativo o neutro) |
+| `Sentiment Analysis` | Análisis de sentimiento | Proceso de evaluación del contenido de una mención |
+| `Negative Mention` | Mención negativa | Mención clasificada con sentimiento negativo |
+| `Alert` | Alerta | Evento generado cuando se detecta una mención relevante o negativa |
+| `Notification` | Notificación | Mensaje enviado al usuario para informar sobre una alerta |
+| `Alert Review` | Revisión de alerta | Proceso en el cual el usuario evalúa una alerta generada |
+| `Response` | Respuesta | Acción tomada por el usuario frente a una mención o alerta |
+| `Response Action` | Acción de respuesta | Ejecución específica realizada para gestionar una mención |
+| `Response Validation` | Validación de respuesta | Proceso de verificación de la acción tomada por el usuario |
+| `Response Log` | Registro de respuesta | Historial de acciones realizadas sobre menciones |
+| `Report` | Reporte | Documento generado con resultados del monitoreo |
+| `Report Export` | Exportación de reporte | Proceso de descarga o generación externa del reporte |
+| `Dashboard` | Panel de control | Interfaz visual con métricas e indicadores de reputación |
+| `Reputation Metrics` | Métricas de reputación | Indicadores calculados a partir de las menciones analizadas |
+| `Monitoring Configuration` | Configuración de monitoreo | Parámetros definidos para ejecutar el monitoreo |
+| `Insight` | Hallazgo | Información relevante derivada del análisis de datos |
+| `External API` | API externa | Servicio externo utilizado para obtener datos o procesarlos |
+| `Sentiment Service` | Servicio de sentimiento | Sistema externo que clasifica el sentimiento de las menciones |
+
+<br>
 
 ---
 
@@ -1346,7 +1367,8 @@ En conjunto, la identificación de eventos, actores y flujos permitió construir
 
 ## 3.1. User Stories
 
-*(Introducción a los User Stories y Epics definidos para BrandRadar)*
+>*Las User Stories representan necesidades concretas de los usuarios del sistema BrandRadar expresadas desde su perspectiva, describiendo qué requieren y por qué lo necesitan. Estas historias permiten traducir los requerimientos del negocio en funcionalidades claras, comprensibles y enfocadas en el valor para el usuario.
+En esta sección se presentan las User Stories organizadas dentro de Epics, lo que facilita estructurar el alcance del sistema y priorizar el desarrollo de las funcionalidades más importantes del producto.*
 
 > **Nota:** Los criterios de aceptación se redactan en tiempo presente, tercera persona, sin referencia a detalles de interfaz de usuario, y siguen la estructura **Gherkin (Given-When-Then)**.
 
@@ -1408,26 +1430,14 @@ En conjunto, la identificación de eventos, actores y flujos permitió construir
 | US44 | `Detección de Competencia Desleal (Market)` | Como `Dueño de Negocio`, quiero `alerta de precios/ofertas agresivas de competidores`, para `ajustar mi estrategia`. | **Scenario 1:** Price drop alert. **Given** monitor competencia **When** detecta post con ofertas 50% menores **Then** envía alerta. <br> **Scenario 2:** Comparativa stock. **Given** post competencia **When** IA analiza **Then** indica si compite con mi producto estrella. | EP10 |
 | US45 | `KPI de Retención Mensual de Clientes` | Como `Administrador`, quiero `ver cuántos clientes vuelven a dejar reseñas positivas`, para `medir la fidelización`. | **Scenario 1:** Tasa de retorno. **Given** historial anual **When** genera KPI **Then** indica el % de usuarios recurrentes. <br> **Scenario 2:** Churn reputacional. **Given** usuarios que antes eran positivos y ahora son negativos **When** detecta el cambio **Then** alerta sobre "Riesgo de pérdida de cliente". | EP10 |
 
+<br>
 
-<!--
-| Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
-|:---------------:|:------:|:------------|:------------------------|:-------------------------:|
-| **EP01** | `Real-Time Monitoring & Data Collection` | *(Descripción del Epic)* | — | — |
-| US01 | `[Título de User Story]` | Como `Analista de Marketing`, quiero `conectar las API de Twitter e Instagram al sistema`, para `recolectar menciones de mi marca de forma automatizada.`. | **Scenario 1:** `[Nombre]` <br> **Given** `[contexto]` <br> **When** `[acción]` <br> **Then** `[resultado esperado]` | EP01 |
-| US02 | `[Título de User Story]` | Como `[rol]`, deseo `[acción]`, para `[beneficio]`. | **Scenario 1:** `[Nombre]` <br> **Given** `[contexto]` <br> **When** `[acción]` <br> **Then** `[resultado esperado]` | EP01 |
-| **EP02** | `[Título del Epic 2]` | *(Descripción del Epic)* | — | — |
-| US03 | `[Título de User Story]` | Como `[rol]`, deseo `[acción]`, para `[beneficio]`. | **Scenario 1:** `[Nombre]` <br> **Given** `[contexto]` <br> **When** `[acción]` <br> **Then** `[resultado esperado]` | EP02 |
-| **EP0n** | `[Landing Page Epic]` | *(Epic para user stories del sitio estático)* | — | — |
-| US0n | `[User Story Landing Page]` | Como visitante, deseo `[acción]`, para `[beneficio]`. | **Scenario 1:** `[Nombre]` <br> **Given** `[contexto]` <br> **When** `[acción]` <br> **Then** `[resultado esperado]` | EP0n |
-| **TS01** | `[Technical Story — API]` | Como Developer, deseo `[endpoint]`, para `[propósito]`. | **Scenario 1:** `[Nombre]` <br> **Given** `[request context]` <br> **When** `[se llama al endpoint]` <br> **Then** `[response esperado]` | — |
--->
 ---
 
 ## 3.2. Impact Mapping
 
 *(Introducción y capturas del Impact Mapping elaborado en la herramienta indicada — UXPressia)*
 
-*(Business Goals deben cumplir criterios SMART. Ejemplo: "Alcanzar los 600 usuarios suscritos al plan A en el lapso de 8 meses.")*
 
 ![Impact Map](brandradar-report/assets/impact-mapping/impact-map.png)
 
