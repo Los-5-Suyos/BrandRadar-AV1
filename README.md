@@ -2312,17 +2312,19 @@ Los servicios backend (RESTful API) se despliegan en Render o Railway. Se vincul
 ## Conclusiones
 
 
-1. El análisis realizado evidencia que la reputación digital se ha convertido en un factor crítico para el éxito de las empresas, especialmente en el caso de las PyMEs y agencias de marketing digital, donde la percepción del cliente impacta directamente en la toma de decisiones de compra.
+1. Durante el Avance 1 se logró establecer una base sólida del proyecto BrandRadar, definiendo con claridad la identidad de la startup, su misión, visión y propuesta de valor orientada al monitoreo de reputación digital en tiempo real para PyMEs y agencias de marketing digital.
 
-2. A partir de las entrevistas y el proceso de *needfinding*, se identificó que existe una falta de herramientas accesibles, centralizadas y en tiempo real**, lo que obliga a los usuarios a realizar monitoreos manuales, generando pérdida de tiempo, baja eficiencia y detección tardía de crisis reputacionales.
+2. El proceso de investigación mediante entrevistas semiestructuradas con 5 usuarios reales (3 del segmento PyMEs y 2 del segmento especialistas de marketing) permitió validar la problemática identificada: el monitoreo manual, fragmentado y tardío de la reputación digital es un dolor real y compartido por ambos segmentos objetivo.
 
-3. La validación con usuarios permitió confirmar que ambos segmentos objetivo presentan dolores similares, destacando la necesidad de automatización, centralización de información y generación de alertas tempranas.
+3. A partir del needfinding se construyeron artefactos clave como User Personas, User Journey Maps, Empathy Maps y la User Task Matrix, que evidencian con claridad las necesidades, frustraciones y comportamientos de los usuarios, sirviendo como base para las decisiones de diseño posteriores.
 
-4. La propuesta de solución BrandRadar responde de manera efectiva a estas problemáticas al integrar monitoreo de múltiples fuentes, análisis de sentimiento y alertas en tiempo real dentro de un único dashboard, facilitando la toma de decisiones basada en datos.
+4. El proceso de Big Picture Event Storming permitió modelar el flujo completo del dominio del negocio, identificando los eventos principales, actores, comandos y agregados del sistema, lo que facilitó la definición de 6 bounded contexts: Account Management, Brand Management, Monitoring, Sentiment Analysis, Alert Management y Reporting.
 
-5. El uso de metodologías como Lean UX, Event Storming y Domain-Driven Design permitió construir una solución alineada con las necesidades reales del usuario, asegurando coherencia entre el problema identificado, el diseño del sistema y su arquitectura.
+5. Se definió un Product Backlog de 45 User Stories organizadas en 10 Epics, priorizadas según el valor que aportan a los segmentos objetivo, lo que proporciona una hoja de ruta clara y estructurada para el desarrollo del producto.
 
-6. El diseño de la arquitectura y base de datos demuestra que el sistema es escalable, modular y mantenible, lo cual es clave para su evolución futura y posible implementación en entornos reales.
+6. Se completó el diseño UI/UX de la landing page en sus versiones desktop y mobile, incluyendo wireframes y mock-ups elaborados en Figma, así como el despliegue de la primera versión funcional de la landing page mediante GitHub y Netlify/Vercel.
+
+7. El diseño de la arquitectura del sistema mediante diagramas de clases por bounded context y diagramas de base de datos relacionales demuestra que BrandRadar cuenta con una estructura técnica coherente, modular y escalable, lista para guiar las etapas de desarrollo en los siguientes sprints.
 
 <br>
 
@@ -2332,15 +2334,11 @@ Los servicios backend (RESTful API) se despliegan en Render o Railway. Se vincul
 
 2. Se sugiere profundizar en la definición de requerimientos funcionales y no funcionales, asegurando que estos estén correctamente alineados con los insights obtenidos en las entrevistas y el proceso de needfinding.
 
-3. Es recomendable desarrollar User Stories y Product Backlog priorizado, que permita organizar el trabajo en iteraciones y facilitar la planificación de los siguientes sprints del proyecto.
+3. Para mejorar la calidad de la propuesta, se recomienda realizar iteraciones adicionales del Lean UX Canvas, validando hipótesis clave con potenciales usuarios antes de avanzar a etapas de desarrollo.
 
-4. Se propone continuar con el diseño de la solución a nivel técnico mediante la elaboración de diagramas de arquitectura (C4 Model), con el fin de definir claramente los componentes del sistema y sus interacciones.
+4. Se sugiere explorar con mayor profundidad las fuentes de datos externas y sus posibles integraciones, evaluando su viabilidad técnica y limitaciones para el monitoreo en tiempo real.
 
-5. Para mejorar la calidad de la propuesta, se recomienda realizar iteraciones adicionales del Lean UX Canvas, validando hipótesis clave con potenciales usuarios antes de avanzar a etapas de desarrollo.
-
-6. Se sugiere explorar con mayor profundidad las fuentes de datos externas y sus posibles integraciones, evaluando su viabilidad técnica y limitaciones para el monitoreo en tiempo real.
-
-7. Finalmente, se recomienda mantener un enfoque iterativo y centrado en el usuario, incorporando feedback continuo en cada fase del proyecto para asegurar que la solución evolucione de acuerdo con las necesidades reales del mercado.
+5. Finalmente, se recomienda mantener un enfoque iterativo y centrado en el usuario, incorporando feedback continuo en cada fase del proyecto para asegurar que la solución evolucione de acuerdo con las necesidades reales del mercado.
 
 <br>
 
