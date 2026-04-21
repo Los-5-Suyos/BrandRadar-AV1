@@ -1440,9 +1440,40 @@ En esta sección se presentan las User Stories organizadas dentro de Epics, lo q
 <br>
 
 
-![Impact Map](brandradar-report/assets/impact-mapping/impact-map.png)
+![Impact Map](brandradar-report/assets/images/BrandRadarImpactMapping.png)
 
 *(Explicación del Impact Map: Business Goals, Actors/Personas, Impacts, Deliverables y User Stories)*
+
+El Impact Mapping de BrandRadar conecta nuestro propósito estratégico con las necesidades reales de los usuarios, asegurando que cada funcionalidad aporte un valor real.
+
+<ul>
+  <li>Objetivo de Negocio (Business Goal): Ofrecer una solución que centralice el monitoreo de reputación y el estado técnico de la web. Buscamos que las marcas protejan su prestigio mediante decisiones rápidas basadas en datos reales.</li>
+  <li>
+    Actores (Personas):
+    <ul>
+      <li>Alfredo Negrete: El dueño de negocio que busca proteger su trayectoria y resolver fallas de servicio antes de que dañen su imagen.</li>
+      <li>Romina Apaza: La especialista que gestiona múltiples cuentas y necesita automatizar el trabajo manual para enfocarse en la estrategia.</li>
+    </ul>
+  </li>
+  <li>
+    Impactos (Cambios de comportamiento):
+    <ul>
+      <li>Para Alfredo: Lograr que detecte quejas locales (Google Maps) al instante y que use ese feedback para mejorar sus procesos de atención.</li>
+      <li>Para Romina: Permitirle gestionar varias marcas a la vez sin aumentar su carga de trabajo, identificando tendencias de sentimiento rápidamente.</li>
+    </ul>
+  </li>
+  <li>
+    Entregables (Soluciones técnicas):
+    <ul>
+      <li>Alertas y Sincronización: Notificaciones críticas y conexión con Maps para una respuesta inmediata.</li>
+      <li>IA y Dashboard: Uso de inteligencia artificial para clasificar sentimientos y un panel centralizado para ver todo en un solo lugar.</li>
+      <li>Reportes: Generación de documentos (PDF/CSV) para presentar resultados de forma profesional.</li>
+    </ul>
+  </li>
+  <li>Historias de Usuario (Conexión final): Cada herramienta técnica se aterriza en tareas específicas (como la US27 para Maps o la US05 para el análisis de sentimiento), garantizando que todo el desarrollo del software esté alineado con las metas de Alfredo y Romina.</li>
+</ul>
+
+
 
 ---
 
