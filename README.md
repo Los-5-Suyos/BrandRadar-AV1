@@ -1479,53 +1479,246 @@ El Empathy Mapping fue elaborado a partir del análisis de las entrevistas reali
 
 ## 4.2. Information Architecture
 
+La arquitectura de información de **BrandRadar** ha sido diseñada para estructurar de forma clara y jerárquica los contenidos, permitiendo a los dueños de PyMEs y agencias digitales monitorear su reputación sin fricciones. Se prioriza una navegación intuitiva que reduzca la carga cognitiva al gestionar múltiples fuentes de datos en tiempo real.
+
+A continuación, se presentan los diagramas de estructura que representan la 
+organización general de la plataforma, tanto para la versión web como para la 
+aplicación móvil. 
+
+- Mapa de estructura general de la web: 
+
+### Figura 1. Diagrama de estructura de la página web 
+
+### Diagramas realizados (Anexo 2),
+
+<img src="brandradar-report/assets/images/PRIMER DIAGRAMA.png" alt="BrandRadar Web Map" width="100%"/>
+
+- Mapa de estructura general del móvil: 
+
+### Figura 2. Diagrama de la estructura de la aplicación móvil (Android y iOS) 
+
+### Diagramas realizados (Anexo 2), 
+
+<img src="brandradar-report/assets/images/SEGUNDO DIAGRAMA.png" alt="BrandRadar Mobile Map" width="100%"/>
+
 
 ### 4.2.1. Organization Systems
 
-*(Organización Secuencial (Step-by-Step to Accomplish):
-Se utiliza en procesos clave como la configuración inicial de monitoreo de una marca y la generación de reportes. La plataforma guía al usuario paso a paso para configurar alertas, conectar fuentes de datos (redes sociales, Google Maps, sitio web propio) y generar informes de reputación. Esto asegura que el usuario complete la configuración de manera eficiente y ordenada, desde la adición de keywords y marcas hasta la activación de notificaciones en tiempo real y la revisión de análisis de sentimiento.)*
+• Organización visual del contenido
+Experiencia Web
 
-### 4.2.2. Labeling Systems
+<div>
+<table>
+<thead>
+<tr>
+<th>Formas de organización visual</th>
+<th>Razón</th>
+<th>Parte</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Organización secuencial (Step-by-step)</td>
+<td>Guiará al usuario en el flujo obligatorio de registro de marca y configuración de fuentes de datos.</td>
+<td>Registro, Configuración de fuentes (APIs), Configuración de alertas.</td>
+</tr>
+<tr>
+<td>Organización jerárquica (Visual Hierarchy)</td>
+<td>Prioriza las alertas críticas y el score de reputación para una respuesta inmediata ante crisis.</td>
+<td>Dashboard principal, Panel de alertas críticas.</td>
+</tr>
+<tr>
+<td>Organización modular</td>
+<td>Divide las métricas (sentimiento, reseñas, menciones) en bloques independientes para evitar la saturación visual.</td>
+<td>Monitoreo detallado, Reportes, Perfil de usuario.</td>
+</tr>
+</tbody>
+</table>
+</div>
 
-*(Se procura evitar confusiones y que las etiquetas utilizadas sean descriptivas, simples y consistentes con la identidad de BrandRadar.
-Etiquetas para la Navbar (Barra de navegación principal):
+Experiencia Móvil
 
-Dashboard: Muestra una vista general en tiempo real del estado de la reputación digital de la marca, incluyendo alertas recientes, puntuación general y tendencias de sentimiento.
-Monitoreo: En esta sección se visualizan todas las menciones, reseñas y comentarios detectados en redes sociales, Google Maps y la web.
-Análisis de Sentimiento: Aquí se muestran los resultados del procesamiento de lenguaje natural (positivo, negativo o neutro) junto con tendencias e insights accionables.
-Alertas: En esta sección el usuario puede configurar y revisar notificaciones por reseñas negativas, caídas del sitio web u otras crisis reputacionales.
-Reportes: Permite generar y descargar informes claros y visuales con datos consolidados para la toma de decisiones.
-Fuentes: Gestión de las integraciones con APIs externas (redes sociales, Google, etc.) y configuración de keywords/marcas a monitorear.
-Perfil: Acceso a la cuenta del usuario, suscripción, equipo y configuración de notificaciones personales.
+<div>
+<table>
+<thead>
+<tr>
+<th>Formas de organización visual</th>
+<th>Razón</th>
+<th>Parte</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Organización jerárquica (Visual Hierarchy)</td>
+<td>Facilita el acceso rápido a notificaciones push y resumen de menciones recientes en pantallas pequeñas.</td>
+<td>Pantalla de inicio, Notificaciones en tiempo real.</td>
+</tr>
+<tr>
+<td>Organización secuencial (Step-by-step)</td>
+<td>Permite al usuario completar tareas rápidas como responder una reseña o reportar una mención.</td>
+<td>Gestión de reseñas individuales, Reporte de incidentes.</td>
+</tr>
+<tr>
+<td>Organización modular</td>
+<td>Optimiza la lectura de datos de sentimiento y tendencias sin saturar la interfaz móvil.</td>
+<td>Dashboard móvil, Ajustes de alertas.</td>
+</tr>
+</tbody>
+</table>
+</div>
 
-Etiquetas para el cuerpo de la web / secciones principales:
+• Esquemas de categorización de contenido
+Experiencia Web
 
-Menciones Recientes: Lista cronológica de todas las menciones detectadas con filtros por plataforma y sentimiento.
-Reseñas: Muestra calificaciones y comentarios de Google Maps, Facebook, TripAdvisor y otras plataformas de reseñas.
-Tendencias: Gráficos y resúmenes de evolución de la reputación a lo largo del tiempo.
-Crisis Detectadas: Sección dedicada a alertas críticas y posibles riesgos reputacionales.
-Insights: Recomendaciones accionables basadas en el análisis automático de datos.)*
+<div>
+<table>
+<thead>
+<tr>
+<th>Esquema de organización</th>
+<th>Razón</th>
+<th>Parte</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cronológico</td>
+<td>Muestra las menciones y comentarios conforme ocurren en tiempo real.</td>
+<td>Feed de Monitoreo, Historial de alertas.</td>
+</tr>
+<tr>
+<td>Por tópicos</td>
+<td>Agrupa el análisis según el área: Redes Sociales, Google Maps, Web General.</td>
+<td>Fuentes de datos, Análisis de sentimiento.</td>
+</tr>
+<tr>
+<td>Según audiencia</td>
+<td>Personaliza el panel si es un dueño de PyME (vista simple) o un Account Manager (vista multi-marca).</td>
+<td>Dashboard corporativo, Gestión de clientes.</td>
+</tr>
+</tbody>
+</table>
+</div>
 
+Experiencia Móvil
+
+<div>
+<table>
+<thead>
+<tr>
+<th>Esquema de organización</th>
+<th>Razón</th>
+<th>Parte</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cronológico</td>
+<td>Presenta las alertas más urgentes primero según el momento de detección.</td>
+<td>Notificaciones, Centro de mensajes.</td>
+</tr>
+<tr>
+<td>Por tópicos</td>
+<td>Clasifica las alertas por nivel de riesgo (Alto, Medio, Bajo).</td>
+<td>Filtros de búsqueda rápida, Crisis detectadas.</td>
+</tr>
+<tr>
+<td>Según audiencia</td>
+<td>Adapta las herramientas de gestión según el rol del usuario logueado.</td>
+<td>Menú de navegación, Configuración de perfil.</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+### 4.2.2. Labeling Systems 
+<div>
+<p align="center"><b>Etiquetas de navegación para Dueños de PyMEs (Web - App)</b></p>
+<table>
+<tr align="center">
+<td>🏠
+
+
+Dashboard</td>
+<td>📢
+
+
+Monitoreo</td>
+<td>⚠️
+
+
+Alertas</td>
+<td>📊
+
+
+Reportes</td>
+<td>👤
+
+
+Perfil</td>
+</tr>
+</table>
+</div>
+
+
+Dashboard: Pantalla principal donde se visualiza el resumen del score de reputación, menciones críticas y tendencias recientes de la marca.
+
+
+Monitoreo: Sección para visualizar el feed en tiempo real de todas las menciones detectadas en redes sociales y Google Maps.
+
+
+Alertas: Canal dedicado a la gestión de notificaciones urgentes por crisis reputacionales o reseñas negativas.
+
+
+Reportes: Espacio para generar informes detallados y visuales sobre la evolución de la marca.
+
+
+Perfil: Gestión de datos de la empresa, configuración de cuentas conectadas y preferencias de notificación.
+
+<div>
+<p align="center"><b>Etiquetas de navegación para Especialistas de Marketing (Web - App)</b></p>
+<table>
+<tr align="center">
+<td>📊
+
+
+Análisis</td>
+<td>👥
+
+
+Clientes</td>
+<td>🤖
+
+
+Insights</td>
+<td>💬
+
+
+Chat</td>
+<td>⚙️
+
+
+Configuración</td>
+</tr>
+</table>
+</div>
+
+
+Análisis: Panel avanzado de procesamiento de lenguaje natural para determinar sentimientos positivos, negativos o neutros.
+
+
+Clientes: Gestión de múltiples marcas o cuentas de clientes para agencias digitales.
+
+
+Insights: Recomendaciones accionables generadas por IA para mejorar la comunicación de la marca.
+
+
+Chat: Comunicación directa con el soporte técnico o gestión de respuestas automáticas para clientes.
+
+
+Configuración: Administración de suscripciones, equipo de trabajo y métricas de desempeño
 
 ### 4.2.3. SEO Tags and Meta Tags
 
-**Landing Page**
-```html
-<title>BrandRadar - Monitoreo de Reputación Digital en Tiempo Real</title>
-<meta name="description" content="BrandRadar monitorea constantemente tu huella digital en redes sociales, Google Maps y la web. Recibe alertas instantáneas por reseñas negativas, caídas de sitio web y protege la imagen de tu marca con análisis de sentimiento en tiempo real." />
-<meta name="keywords" content="monitoreo de reputación digital, reputación online, social listening, análisis de sentimiento, alertas de marca, gestión de reseñas, BrandRadar, protección de imagen corporativa, monitoreo Google Maps, crisis reputacional" />
-<meta name="author" content="BrandRadar" />
-```
-
-**Web Application**
-```html
-<title>BrandRadar - Dashboard de Reputación Digital</title>
-<meta name="description" content="Plataforma profesional de monitoreo en tiempo real de menciones, reseñas y sentimiento de marca. Alertas automáticas, análisis con IA y reportes accionables para PyMEs y agencias digitales." />
-<meta name="keywords" content="monitoreo de marca, análisis de sentimiento, alertas reputacionales, social media monitoring, google maps reseñas, gestión de crisis online, herramienta de reputación digital, brand monitoring, brandradar" />
-<meta name="author" content="BrandRadar" />
-```
-
-### 4.2.4. Searching Systems
 
 *(Se expondrán los sistemas de búsqueda implementados para ayudar a los usuarios (dueños de PyMEs y account managers de agencias) a encontrar rápidamente la información que necesitan sobre su huella digital.
 En la Landing Page, los sistemas de búsqueda son estáticos y se centran en la navegación intuitiva hacia las secciones de beneficios, precios y contacto.
@@ -1543,18 +1736,71 @@ Por fuente específica o competidor (para benchmarking)
 
 Estos filtros combinados permiten a los usuarios aislar rápidamente menciones negativas, crisis emergentes o tendencias positivas.)*
 
+### 4.2.4. Searching Systems
+
+En BrandRadar, los sistemas de busqueda han sido diseñados para facilitar el acceso rapido y eficiente a la informacion mas relevante sobre la reputacion digital de cada usuario. Tanto en la version web como en la aplicacion movil, se integran motores de busqueda inteligentes con filtros dinamicos que permiten explorar menciones, reseñas de clientes, alertas de crisis y tendencias de sentimiento de manera personalizada.
+
+El objetivo es reducir el tiempo de exploracion, evitar la desorientacion frente al gran volumen de datos provenientes de redes sociales y Google Maps, y ofrecer resultados precisos y visualmente claros. Los resultados se mostraran mediante tarjetas informativas con etiquetas de sentimiento, plataforma de origen y opciones de accion directa, como “Responder reseña”, “Ver detalle de alerta” o “Generar reporte de crisis”.
+
+<div>
+<table>
+<thead>
+<tr>
+<th>Nombre del filtro o búsqueda</th>
+<th>Descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Filtrado por Sentimiento</td>
+<td>Permite aislar solo menciones negativas para gestión de crisis o positivas para fidelización.</td>
+</tr>
+<tr>
+<td>Búsqueda por Plataforma</td>
+<td>Filtra resultados específicos de Google Maps, Instagram, Facebook o Web.</td>
+</tr>
+<tr>
+<td>Búsqueda por Criticidad</td>
+<td>Enfoca la vista en alertas de alta prioridad (caída de web, reseñas de 1 estrella).</td>
+</tr>
+<tr>
+<td>Rango Cronológico</td>
+<td>Permite visualizar tendencias de reputación en fechas específicas (ej. campañas de Black Friday).</td>
+</tr>
+<tr>
+<td>Buscador de Competidores</td>
+<td>Permite buscar palabras clave relacionadas con la competencia para benchmarking.</td>
+</tr>
+</tbody>
+</table>
+</div>
 ### 4.2.5. Navigation Systems
 
-*(BrandRadar ha implementado un enfoque intuitivo, limpio y eficiente para guiar a los usuarios a través de la plataforma. La barra de navegación superior es fija y está organizada por prioridad de uso (Dashboard primero, luego Monitoreo y Alertas), facilitando el acceso rápido a las funciones más críticas como las alertas en tiempo real.
-Adicionalmente, se incluye:
+Los sistemas de navegación de BrandRadar se han diseñado para guiar al usuario de forma clara, personalizada e intuitiva tanto en la Landing Page como en la aplicación web y móvil. El objetivo es que tanto los dueños de PyMEs como los especialistas de marketing puedan recorrer las diferentes secciones sin confusión, gestionando crisis reputacionales o analizando el sentimiento de marca con el menor número de interacciones posibles.
 
-Navegación lateral (sidebar) en el Dashboard para acceder rápidamente a resúmenes por marca o cliente.
-Breadcrumbs (migas de pan) en páginas profundas para mostrar la ruta (ejemplo: Dashboard > Monitoreo > Reseñas Google Maps).
-Botones de acción contextuales (como “Ver todas las alertas” o “Generar reporte”) en cada sección para reducir clics y mejorar la experiencia.
+En la Landing Page, la navegación se basa en una estructura jerárquica con un menú superior fijo que incluye las secciones principales: Inicio, Características, Planes, Testimonios, Comunidad y Login. A lo largo del desplazamiento se emplean botones de acción (CTA) visibles, como “Empieza tu monitoreo gratis” o “Agenda una demo”, los cuales redirigen a secciones clave del sitio. El pie de página refuerza la navegación secundaria permitiendo el acceso a Políticas de Privacidad, Términos de Servicio, Documentación de la API y canales de soporte.
 
-La navegación está diseñada pensando en dos segmentos principales: dueños de PyMEs (experiencia simple y visual) y account managers de agencias (capacidad de gestionar múltiples marcas desde un solo panel centralizado).)*
+En la aplicación (Dashboard), se aplica una navegación híbrida con una barra lateral (sidebar) y pestañas superiores que garantizan un acceso rápido a las funciones críticas. Existen dos flujos principales según el perfil:
+
+Para el Dueño de PyME: Las secciones principales son Dashboard, Alertas, Reseñas y Perfil.
+
+Dashboard: Visualiza un resumen del score de reputación y menciones críticas del día.
+
+Alertas: Configuración y revisión de notificaciones urgentes por menciones negativas.
+
+Reseñas: Gestión directa de comentarios en Google Maps y redes sociales.
+
+Para el Especialista de Marketing / Agencia: Incluye Monitoreo Avanzado, Análisis de Sentimiento, Reportes y Gestión de Clientes.
+
+Análisis de Sentimiento: Gráficos detallados sobre la percepción de la marca impulsados por IA.
+
+Reportes: Generación automática de informes de rendimiento mensuales o semanales.
+
+Gestión de Clientes: Panel centralizado para administrar múltiples marcas desde una sola cuenta.
 
 ---
+
+<br>
 
 ## 4.3. Landing Page UI Design
 
