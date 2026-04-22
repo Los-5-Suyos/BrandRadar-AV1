@@ -2229,7 +2229,7 @@ Los servicios backend (RESTful API) se despliegan en Render o Railway. Se vincul
 En base a la coordinación del equipo, se asignaron los siguientes liderazgos para los componentes de la Landing Page:
 
 | Team Member (Last Name, First Name) | GitHub Username | `[Header + Hero]` | `[Características]` | `[Beneficios + Métricas]` | `[DashBoard + Testimonios]` | `[Precios + CTA + Footer]` |
-|:-----------------------------------:|:---------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+|:-----------------------------------:|:---------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | `[Salinas, Briana]` | `[brianna-salinas]` | L | C | C | C | C |
 | `[García, Victor]` | `[vicmacode]` | C | L | C | C | C |
 | `[Jáuregui, Jean]` | `[JFranco556]` | C | C | L | C | C |
