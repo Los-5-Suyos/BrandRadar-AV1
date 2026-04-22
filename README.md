@@ -1105,7 +1105,7 @@ En ese contexto, considera que una herramienta que envíe alertas automáticas e
 | **Ubicación** | `[Miraflores]` |
 | **Fecha de entrevista** | `2026-04-21` |
 | **Duración** | `[10:10]` |
-| **Enlace al video** | [<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410024_upc_edu_pe/IQDzVbzry8MzSKHuE6JMAtsWASvmIkfCaAhcBpafy-BUcb0?e=BT9n1A&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Ver entrevista en Microsoft Stream</a>] |
+| **Enlace al video** | [<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410024_upc_edu_pe/IQDzVbzry8MzSKHuE6JMAtsWASvmIkfCaAhcBpafy-BUcb0?e=BT9n1A&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">Ver entrevista en Microsoft Stream</a>] |
 
 **Resumen:**
 
