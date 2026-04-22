@@ -1141,7 +1141,7 @@ Estos arquetipos han sido construidos a partir del análisis cualitativo de las 
 
 ### 2.3.2. User Task Matrix
 
-La siguiente matriz identifica las tareas principales que realizan los dos User Personas definidos: dueños de PyMEs y account managers de agencias digitales. Se evalúan según su referencia de ejecuciín y su importancia dentro del flujo de trabajo.
+>*La siguiente matriz identifica las tareas principales que realizan los dos User Personas definidos: dueños de PyMEs y account managers de agencias digitales. Se evalúan según su referencia de ejecuciín y su importancia dentro del flujo de trabajo.*
 
 <br>
 
@@ -1166,10 +1166,8 @@ Se observa que:
 ---
 
 ### 2.3.3. User Journey Mapping
-
-El Customer Journey presentado ilustra el recorrido end-to-end actual (versión As-Is) que siguen los usuarios objetivo —dueños de PyMEs y account managers de agencias— al gestionar la reputación digital de sus marcas. Este journey describe las etapas desde el momento en que el usuario toma conciencia de la falta de control sobre las opiniones en línea, pasando por la búsqueda y adopción de soluciones, hasta el uso continuo de herramientas para monitorear menciones y responder a comentarios. 
-
-En la situación actual, muchas de estas actividades se realizan de forma manual y en múltiples plataformas, lo que genera retrasos en la detección de problemas, sobrecarga de trabajo y dificultad para obtener una visión clara del estado de la reputación. Este recorrido permite identificar los principales puntos de fricción, emociones negativas y oportunidades de mejora que fundamentan el diseño de la solución propuesta.
+>*El Customer Journey presentado ilustra el recorrido end-to-end actual (versión As-Is) que siguen los usuarios objetivo (dueños de PyMEs y especialistas de marketing) al gestionar la reputación digital de sus marcas. Este journey describe las etapas desde el momento en que el usuario toma conciencia de la falta de control sobre las opiniones en línea, pasando por la búsqueda y adopción de soluciones, hasta el uso continuo de herramientas para monitorear menciones y responder a comentarios. 
+En la situación actual, muchas de estas actividades se realizan de forma manual y en múltiples plataformas, lo que genera retrasos en la detección de problemas, sobrecarga de trabajo y dificultad para obtener una visión clara del estado de la reputación. Este recorrido permite identificar los principales puntos de fricción, emociones negativas y oportunidades de mejora que fundamentan el diseño de la solución propuesta.*
 
 <br>
 
@@ -1187,7 +1185,7 @@ En la situación actual, muchas de estas actividades se realizan de forma manual
 
 ### 2.3.4. Empathy Mapping
 
-El Empathy Mapping fue elaborado a partir del análisis de las entrevistas realizadas a los dos segmentos objetivo: dueños de PyMEs y account managers de agencias digitales. Este proceso permitió sintetizar la información cualitativa obtenida, identificando patrones de comportamiento, pensamientos, emociones, necesidades y frustraciones de los usuarios.
+>*El Empathy Mapping fue elaborado a partir del análisis de las entrevistas realizadas a los dos segmentos objetivo: dueños de PyMEs y account managers de agencias digitales. Este proceso permitió sintetizar la información cualitativa obtenida, identificando patrones de comportamiento, pensamientos, emociones, necesidades y frustraciones de los usuarios.*
 
 <br>
 
@@ -1317,10 +1315,9 @@ En conjunto, la identificación de eventos, actores y flujos permitió construir
 
 ## 3.1. User Stories
 
->*Las User Stories representan necesidades concretas de los usuarios del sistema BrandRadar expresadas desde su perspectiva, describiendo qué requieren y por qué lo necesitan. Estas historias permiten traducir los requerimientos del negocio en funcionalidades claras, comprensibles y enfocadas en el valor para el usuario.
-En esta sección se presentan las User Stories organizadas dentro de Epics, lo que facilita estructurar el alcance del sistema y priorizar el desarrollo de las funcionalidades más importantes del producto.*
+>*Las User Stories de BrandRadar expresan las necesidades reales de sus usuarios en su propio lenguaje, describiendo qué requieren del sistema y por qué es importante para ellos. Cada historia traduce un requerimiento de negocio en una funcionalidad concreta, manteniendo siempre el foco en el valor que aporta a quien la usa. En esta sección las historias se organizan dentro de Epics, lo que permite estructurar el alcance del producto y priorizar el desarrollo de las funcionalidades más relevantes. Sus criterios de aceptación se redactan en tiempo presente y tercera persona, sin referencias a detalles de interfaz, siguiendo la estructura Gherkin (Given / When / Then).*
 
-> **Nota:** Los criterios de aceptación se redactan en tiempo presente, tercera persona, sin referencia a detalles de interfaz de usuario, y siguen la estructura **Gherkin (Given-When-Then)**.
+<br>
 
 | Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
 |:---------------:|:------:|:------------|:------------------------|:-------------------------:|
@@ -1386,9 +1383,11 @@ En esta sección se presentan las User Stories organizadas dentro de Epics, lo q
 
 ## 3.2. Impact Mapping
 
+<br>
+
 ![Impact Map](brandradar-report/assets/images/BrandRadarImpactMapping.png)
 
-*(Explicación del Impact Map: Business Goals, Actors/Personas, Impacts, Deliverables y User Stories)*
+<br>
 
 El Impact Mapping de BrandRadar conecta nuestro propósito estratégico con las necesidades reales de los usuarios, asegurando que cada funcionalidad aporte un valor real.
 
@@ -1419,21 +1418,15 @@ El Impact Mapping de BrandRadar conecta nuestro propósito estratégico con las 
   <li>Historias de Usuario (Conexión final): Cada herramienta técnica se aterriza en tareas específicas (como la US27 para Maps o la US05 para el análisis de sentimiento), garantizando que todo el desarrollo del software esté alineado con las metas de Alfredo y Romina.</li>
 </ul>
 
-
+<br>
 
 ---
 
 ## 3.3. Product Backlog
 
-*(Introducción al Product Backlog de BrandRadar)*
+*El Product Backlog de BrandRadar consolida el conjunto de funcionalidades priorizadas que guían el desarrollo del producto. Cada historia de usuario está ordenada según su valor estratégico y estimada en Story Points, lo que permite al equipo planificar iteraciones de forma realista. El backlog abarca cinco áreas: monitoreo de redes sociales, análisis de sentimiento con IA, gestión de reputación local, reportes y exportación de datos, y herramientas de respuesta y colaboración, totalizando 45 historias de usuario distribuidas en sus niveles de complejidad.*
 
-> **Herramienta utilizada:** `[Pivotal Tracker / JetBrains YouTrack / Jira / Trello]`
->
-> **URL del Product Backlog:** [`[URL pública del Product Backlog]`](`[URL]`)
-
-*(Captura del Product Backlog en la herramienta indicada)*
-
-![Product Backlog](assets/product-backlog/product-backlog.png)
+<br>
 
 | # Orden | Story ID | Título | Descripción | Story Points |
 |:-------:|:--------:|:------:|:-----------:|:------------:|
@@ -1483,6 +1476,7 @@ El Impact Mapping de BrandRadar conecta nuestro propósito estratégico con las 
 | 44 | US44 | `Detección de Competencia Desleal (Market)` | Como `Dueño de Negocio`, quiero `alerta de precios/ofertas agresivas de competidores`, para `ajustar mi estrategia`. | 5 |
 | 45 | US45 | `KPI de Retención Mensual de Clientes` | Como `Administrador`, quiero `ver cuántos clientes vuelven a dejar reseñas positivas`, para `medir la fidelización`. | 8 |
 
+<br>
 
 ---
 
