@@ -1048,18 +1048,18 @@ La entrevista fue realizada a Esteban Andrés Medina Hernández (27 años, vive 
 
 *Imagen de la entrevista*
 
-<img src="brandradar-report/assets/interviews/ss_entrevista_6.png" alt="Screenshot Entrevista 6" width="1000"/>
+<img src="brandradar-report/assets/images/Evidencia-EntrevistaS2E3" alt="Screenshot Entrevista 6" width="1000"/>
 
 <br>
 
 | Campo | Detalle |
 |:------|:--------|
-| **Nombres y apellidos** | `[Nombre del entrevistado]` |
-| **Edad** | `[Edad]` |
-| **Ubicación** | `[Distrito]` |
-| **Fecha de entrevista** | `YYYY-MM-DD` |
+| **Nombres y apellidos** | `[Valeria Nuñez]` |
+| **Edad** | `[22]` |
+| **Ubicación** | `[Miraflores]` |
+| **Fecha de entrevista** | `2026-04-21` |
 | **Duración** | `[HH:MM]` |
-| **Enlace al video** | [Ver entrevista en Microsoft Stream](`URL`) |
+| **Enlace al video** | [Ver entrevista en Microsoft Stream](`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410024_upc_edu_pe/IQDzVbzry8MzSKHuE6JMAtsWASvmIkfCaAhcBpafy-BUcb0?e=BRsswd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`) |
 
 **Resumen:**
 
