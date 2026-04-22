@@ -1806,43 +1806,137 @@ La navegación está diseñada pensando en dos segmentos principales: dueños de
 
 ### 4.6.1. Design-Level Event Storming
 
-*(Introducción y explicación del proceso de Design-Level EventStorming realizado. Referencia: https://bit.ly/dles-guide)*
 
-*(Capturas del Event Storming elaborado en LucidChart / Miro)*
 
-![Design Level Event Storming](brandradar-report/assets/event-storming/design-level-event-storming.png)
+Para definir la arquitectura de BrandRadar orientada al dominio (DDD), realizamos un proceso iterativo de Design-Level Event Storming siguiendo los 10 pasos metodológicos. A continuación, se detalla la evolución del modelo:
 
-*(Identificación de Bounded Contexts, Aggregates, Events, Commands and Queries)*
+**Step 1: Unstructured Exploration**
+Identificamos y plasmamos todos los eventos que cambian el estado del sistema, escritos en tiempo pasado (post-its naranjas). Estos abarcan desde `User Registered` hasta `PDF Report Generated`.
+
+![Step1 - Event Storming](brandradar-report\assets\Design-Level-Event_Storming_steps\step1.png)
+
+**Step 2: Timelines**
+Ordenamos los eventos de dominio cronológicamente de izquierda a derecha, estableciendo el flujo natural del ciclo de vida del monitoreo de reputación.
+
+![Step2 - Event Storming](brandradar-report\assets\Design-Level-Event_Storming_steps\step2.png)
+
+**Step 3: Hotspots**
+Identificamos los riesgos técnicos y puntos de dolor del negocio (rombos rojos), como posibles bloqueos por Rate Limits en las APIs de redes sociales o falsos positivos en la evaluación de la Inteligencia Artificial.
+![Step3 - Event Storming](brandradar-report\assets\Design-Level-Event_Storming_steps\step3.png)
+
+**Step 4: Pivotal Events**
+Trazamos líneas divisorias para segmentar el flujo temporal en fases críticas, marcando el cambio de estado entre la configuración manual, el monitoreo automático y el manejo de crisis.
+![Step4 - Event Storming](brandradar-report\assets\Design-Level-Event_Storming_steps\step4.png)
+
+**Step 5: Commands & Actors**
+Definimos las órdenes (post-its azules) que detonan los eventos y los actores (íconos amarillos) responsables de ejecutarlos, ya sean los usuarios (PyME/Agencia) o el propio sistema automatizado.
+![Step5 - Event Storming](brandradar-report\assets\Design-Level-Event_Storming_steps\step5.png)
+
+**Step 6: Policies**
+Incorporamos las reglas de negocio reactivas (post-its lilas) que automatizan el sistema. Por ejemplo, la política que estipula que *siempre que una mención tenga un sentimiento negativo, se debe disparar una alerta urgente*.
+![Step6 - Event Storming](brandradar-report\assets\Design-Level-Event_Storming_steps\step6.png)
+
+**Step 7: Read Models**
+Mapeamos las interfaces de usuario y dashboards (post-its verdes) que los actores necesitan visualizar antes de tomar la decisión de ejecutar un comando.
+![Step7 - Event Storming](brandradar-report\assets\Design-Level-Event_Storming_steps\step7.png)
+
+**Step 8: External Systems**
+Integramos las dependencias con servicios de terceros (post-its rosados) vitales para BrandRadar, tales como Google Maps API, Social Media APIs y el servicio NLP de Inteligencia Artificial.
+![Step8 - Event Storming](brandradar-report\assets\Design-Level-Event_Storming_steps\step8.png)
+
+**Step 9: Aggregates**
+Elevamos el nivel de abstracción agrupando comandos y eventos en torno a las entidades principales de dominio (post-its amarillos grandes), definiendo agregados clave como `Account`, `Brand`, `Mention`, `Crisis Alert` y `Analytics Report`.
+![Step9 - Event Storming](brandradar-report\assets\Design-Level-Event_Storming_steps\step9.png)
+
+**Step 10: Bounded Contexts**
+Finalmente, trazamos los límites transaccionales y semánticos encerrando los agregados relacionados en grandes bloques. Este paso consolidó nuestra arquitectura en 6 Bounded Contexts: Account Management, Brand Management, Monitoring, Sentiment Analysis, Alert Management y Reporting.
+![Step10 - Event Storming](brandradar-report\assets\Design-Level-Event_Storming_steps\step10.png)
+
+![BoundextContext1](brandradar-report\assets\BoundextContext\AccountManager.png)
+
+![BoundextContext2](brandradar-report\assets\BoundextContext\BrandManager.png)
+
+![BoundextContext3](brandradar-report\assets\BoundextContext\Monitoring.png)
+
+![BoundextContext4](brandradar-report\assets\BoundextContext\SentimentAnalysis.png)
+
+![BoundextContext5](brandradar-report\assets\BoundextContext\AlertManagment.png)
+
+![BoundextContext6](brandradar-report\assets\BoundextContext\Reporting.png)
+
+
+El proceso de Design-Level Event Storming nos permitió profundizar en el comportamiento técnico del sistema, tomando como base los flujos identificados en el Big Picture Event Storming. En esta etapa, se definieron los límites transaccionales (Bounded Contexts) y se introdujeron elementos de diseño táctico como Comandos (Commands), Agregados (Aggregates) y Políticas (Policies). [Ver Miro](https://miro.com/welcomeonboard/OFNBUUR3ZHl3VWkyVzJPRzhPWEV5bHF2S0hiRjArNEswejJoT0ZyZVdHQ0VMVDkzNy9Xd3RCOGdHemhTN3ZJblhjSkJLRjBneGRvNjdaaXNCZHkvWVQ3N1VhMUxRYkI4SmNBRTdTaHpBWWlzRHhGTTZKL2NFVjVtK1IwcFZscnhnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=126405139400).
+
+A partir del análisis del dominio de BrandRadar, hemos consolidado seis Bounded Contexts principales:
+1. **Account Management:** Gestiona la identidad, roles (PyME Owner, Agency Manager) y sesiones.
+2. **Brand Management:** Administra la configuración de la marca, palabras clave y conexión a fuentes de datos.
+3. **Monitoring:** Encargado de orquestar la conexión con APIs externas y la recolección de menciones (Mentions).
+4. **Sentiment Analysis:** Delega el procesamiento de lenguaje natural y clasifica el sentimiento.
+5. **Alert Management:** Aplica reglas de negocio para generar notificaciones ante crisis o menciones negativas.
+6. **Reporting:** Consolida las métricas y genera dashboards exportables.
+   
+
+---
 
 ### 4.6.2. Software Architecture Context Diagram
 
-*(Introducción y explicación del Context Diagram — C4 Model elaborado en Structurizr)*
+El Diagrama de Contexto ilustra a BrandRadar en su entorno operativo, mostrando las interacciones de alto nivel entre el sistema, los usuarios y las plataformas externas. 
 
-*(El sistema como recuadro central, rodeado por usuarios y sistemas externos con los que interactúa)*
 
-![Software Architecture Context Diagram](brandradar-report/assets/architecture/context-diagram.png)
 
-*(Explicación del diagrama)*
+![Software Architecture Context Diagram](brandradar-report\assets\architecture\context-diagram.png)
+
+Este nivel de abstracción nos permite visualizar rápidamente el valor del negocio: cómo los actores principales (PyME Owner y Agency Manager) interactúan con la plataforma central, y cómo esta depende de sistemas externos críticos para su funcionamiento, tales como las APIs de redes sociales y Google Maps para la extracción de datos, así como servicios de Inteligencia Artificial (NLP) para el procesamiento de lenguaje natural.
 
 ### 4.6.3. Software Architecture Container Diagrams
 
-*(Introducción y explicación del Container Diagram — C4 Model)*
+El Diagrama de Contenedores desglosa el sistema BrandRadar en sus unidades desplegables, mostrando cómo se distribuyen las responsabilidades técnicas y las tecnologías elegidas.
 
-*(Elementos de alto nivel de la arquitectura, distribución de responsabilidades, tecnologías y comunicación entre containers)*
+![Software Architecture Container Diagram](brandradar-report\assets\architecture\container-diagram.png)
 
-![Software Architecture Container Diagram](brandradar-report/assets/architecture/container-diagram.png)
-
-*(Explicación del diagrama)*
+En esta vista, observamos sistema central para exponer nuestra arquitectura basada en microservicios. Se observa cómo la aplicación cliente (Web App SPA) se comunica exclusivamente con un API Gateway, el cual enruta las peticiones de forma segura hacia los servicios de dominio subyacentes. Además, se justifica el uso de persistencia políglota: una base de datos relacional para datos transaccionales fuertemente estructurados (cuentas, suscripciones) y una base de datos documental orientada a soportar la alta volumetría de datos no estructurados generados por las menciones de redes sociales.
 
 ### 4.6.4. Software Architecture Components Diagrams
 
-*(Component Diagrams para cada Container identificado — C4 Model)*
+Para el diagrama de Componentes hemos desglosado la arquitectura interna de nuestros contenedores principales, alineándolos directamente con los Bounded Contexts descubiertos durante el proceso de Event Storming. 
 
-**Bounded Context: `[Nombre del Bounded Context]`**
+Este nivel de detalle nos permite identificar las piezas de software que componen cada microservicio (controladores, servicios de lógica de negocio, repositorios de acceso a datos y conectores externos). A continuación, se presentan los diagramas de componentes para los seis contextos delimitados del sistema:
 
-![Component Diagram BC1](brandradar-report/assets/architecture/component-diagram-bc1.png)
+**Bounded Context: `Alert Management`**
 
-*(Explicación de los components, sus responsabilidades y detalles de implementación/tecnología)*
+![Component Diagram BC1](brandradar-report\assets\architecture\AccountComponents.png)
+
+Administra la seguridad, la emisión de tokens JWT, el registro de usuarios y el control de las cuotas permitidas según el plan de suscripción adquirido.
+
+**Bounded Context: `Brand Management`**
+
+![Component Diagram BC2](brandradar-report\assets\architecture\BrandComponents.png)
+
+Permite la configuración del núcleo del negocio: la creación de marcas, la validación de palabras clave (keywords) y el intercambio seguro de tokens OAuth con plataformas de terceros.
+
+**Bounded Context: `Monitoring`**
+
+![Component Diagram BC3](brandradar-report\assets\architecture\MonitoringComponents.png)
+
+Encargado de orquestar los ciclos programados (Schedulers) para extraer datos de Google Maps y Redes Sociales, filtrarlos y almacenarlos en la base de datos documental.
+
+**Bounded Context: `Sentiment Analysis`**
+
+![Component Diagram BC4](brandradar-report\assets\architecture\SentimentComponents.png)
+
+Integra el motor central de evaluación. Recibe eventos de nuevas menciones, interactúa con la API de NLP externa, aplica reglas locales para detección de sarcasmo y determina si el sentimiento cruza el umbral negativo.
+
+**Bounded Context: `Alert Management`**
+
+![Component Diagram BC5](brandradar-report\assets\architecture\AlertComponents.png)
+
+Gestiona el ciclo de vida de las crisis de reputación. Evalúa las menciones negativas, genera tickets de seguimiento y dispara notificaciones push a través de servicios como Firebase/APNs.
+
+**Bounded Context: `Reporting`**
+
+![Component Diagram BC6](brandradar-report\assets\architecture\ReportingComponents.png)
+
+Consolida la información mediante procesos asíncronos para generar dashboards analíticos y reportes descargables en PDF, permitiendo a las agencias presentar resultados tangibles a sus clientes.
 
 ---
 
