@@ -2286,23 +2286,19 @@ En base a la coordinación del equipo, se asignaron los siguientes liderazgos pa
 
 #### 5.2.1.3. Sprint Backlog 1
 
-*(Introducción que resume el objetivo principal del Sprint 1)*
+El objetivo principal del Sprint 1 es establecer la base de comunicación digital de BrandRadar mediante el desarrollo de una Landing Page de alto impacto. El equipo ha seleccionado un conjunto de User Stories del Product Backlog orientadas a la visibilidad de marca.
 
-**URL del Board en herramienta de control:** [`[URL pública del Board]`](`[URL]`)
-
-*(Screenshot del Board del Sprint 1)*
-
-![Sprint 1 Board](assets/sprints/sprint1-board.png)
+Aunque algunas historias (como la US07) contemplan funcionalidades de análisis de datos complejas para etapas futuras, en este sprint el enfoque se centra en el Outcome de Frontend. Esto implica la implementación de la "Prueba Social" a través de una sección de testimonios y la maquetación de métricas de éxito (Social Proof), permitiendo validar la experiencia de usuario y la presentación visual de los insights que la plataforma generará automáticamente en versiones posteriores.
 
 | Sprint # | | | | | | | |
 |:--------:|---|---|---|---|---|---|---|
 | **Sprint 1** | **User Story** | | **Work-Item / Task** | | | | |
 | | **ID** | **Título** | **ID** | **Título** | **Descripción** | **Estimación (h)** | **Asignado a** | **Estado** |
-| | US20 | `[Título]` | T01 | `[Título del task]` | `[Descripción]` | `[n]` | `[Nombre]` | To-do / In-Process / To-Review / Done |
-| | US20 | | T02 | `[Título del task]` | `[Descripción]` | `[n]` | `[Nombre]` | |
-| | US03 | `[Título]` | T03 | `[Título del task]` | `[Descripción]` | `[n]` | `[Nombre]` | |
-| | US07 | `[Título]` | T03 | `[Título del task]` | `[Descripción]` | `[n]` | `[Nombre]` | |
-| | US17 | `[Título]` | T03 | `[Título del task]` | `[Descripción]` | `[n]` | `[Nombre]` | |
+| | US20 | `[Interfaz Responsiva]` | T01 | `[Header & Hero UI]` | `[Implementar sección de navegación y primer impacto visual]` | `[6]` | `[Briana]` | In-Process |
+| | US20 | `[Interfaz Responsiva]` | T02 | `[Features Section]` | `[Desarrollo de la sección de características clave del servicio]` | `[5]` | `[Victor]` | In-Process |
+| | US03 | `[Live Feed Monitor]` | T03 | `[Benefits & Metrics]` | `[Maquetación de beneficios y visualización de datos de marca]` | `[7]` | `[Jean]` | In-Process |
+| | US07 | `[Word Cloud de Sentimiento]` | T04 | `[Social Proof UI]` | `[Implementar sección de dashboard y reseñas de usuarios]` | `[6]` | `[Luis]` | In-Process |
+| | US17 | `[Onboarding interactivo]` | T05 | `[Conversion & Footer]` | `[Implementar tablas de precios, CTA y pie de página corporativo]` | `[5]` | `[Joaquin]` | In-Process |
 
 ---
 
