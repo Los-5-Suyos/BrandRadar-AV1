@@ -1353,11 +1353,36 @@ El Empathy Mapping fue elaborado a partir del análisis de las entrevistas reali
 <img src="brandradar-report/assets/impact-mapping/impact_mapping.png" alt="Brand Radar Impact Mapping" style="width: 90%;height:1000px">
 <br>
 
-*(Business Goals deben cumplir criterios SMART. Ejemplo: "Alcanzar los 600 usuarios suscritos al plan A en el lapso de 8 meses.")*
+Análisis Estratégico del Impact Mapping: BrandRadar
+El Impact Mapping de BrandRadar es la herramienta estratégica que conecta nuestro objetivo de negocio con la implementación técnica. Este mapa asegura que cada una de las 46 historias de usuario tenga un propósito claro y esté alineada con las necesidades de nuestros actores principales.
 
-![Impact Map](brandradar-report/assets/impact-mapping/impact-map.png)
+1. El Objetivo de Negocio (Business Goal)
+"Lograr que 150 empresas y especialistas en marketing digital contraten una suscripción activa de BrandRadar en un periodo de 12 meses, manteniendo una tasa de satisfacción del cliente (CSAT) superior al 85%.".
 
-*(Explicación del Impact Map: Business Goals, Actors/Personas, Impacts, Deliverables y User Stories)*
+2. Actores y Cambios de Comportamiento (Impacts)
+El mapa se divide según el impacto que deseamos generar en nuestros dos perfiles clave:
+
+Alfredo Negrete (PyME Owner): El objetivo es que Alfredo pase de una postura reactiva a una de ventaja comercial. Esto se logra permitiéndole detectar quejas locales al instante y, crucialmente, identificar oportunidades de venta mediante la detección de intención de compra en comentarios.
+
+Romina Apaza (Especialista / Freelance): Para Romina, el impacto buscado es la optimización estratégica. Buscamos que pueda gestionar múltiples marcas simultáneamente, automatizando el análisis de sentimiento y generando reportes de retención que demuestren el valor de su gestión ante sus clientes.
+
+3. Entregables Técnicos (Deliverables)
+Para materializar estos impactos, el software se organiza en módulos funcionales:
+
+Inteligencia Artificial y Análisis: Implementación de modelos NLP entrenados por industria que detectan sarcasmo e identifican temas críticos mediante nubes de palabras.
+
+Gestión Operativa y Ventas: Herramientas que incluyen desde la sincronización con Google Maps hasta sugerencias automáticas de scripts de venta y hooks para contenido audiovisual.
+
+Infraestructura y Fidelización: Módulos de monitoreo de servicios web y sistemas de reconocimiento para clientes VIP que garantizan la continuidad y el crecimiento del negocio.
+
+4. Trazabilidad y User Stories
+El mapa finaliza vinculando cada entregable con las historias de usuario del backlog, garantizando coherencia en el desarrollo:
+
+Gestión de Crisis: Se conecta directamente con la US09 (Semáforo de crisis) y la US11 (Asignación de tickets).
+
+Conversión y Retención: Se aterriza en funcionalidades como la US41 (Leads calientes) y la US46 (KPI de retención).
+
+Estrategia de Contenido: Se sustenta en herramientas de análisis como la US30 (Hooks audiovisuales) y la US34 (Métricas de TikTok).
 
 ---
 
