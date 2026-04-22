@@ -1388,7 +1388,28 @@ Estrategia de Contenido: Se sustenta en herramientas de análisis como la US30 (
 
 ## 3.3. Product Backlog
 
-*(Introducción al Product Backlog de BrandRadar)*
+Propósito y Estructura:
+El backlog ha sido diseñado bajo un enfoque modular, organizando las necesidades del negocio en Epics (Épicas) que agrupan funcionalidades de alto nivel. Estas, a su vez, se desglosan en User Stories (Historias de Usuario) que siguen el estándar "Como [rol], quiero [acción], para [beneficio]".
+
+    Esta estructura permite:
+    
+    Trazabilidad: Conectar cada desarrollo técnico con un impacto directo en el usuario.
+    
+    Priorización Ágil: Facilitar la selección de requisitos para el Sprint Backlog basándose en el valor de negocio y la complejidad técnica.
+    
+    Escalabilidad: Permitir la incorporación de nuevas fuentes de datos o algoritmos de IA sin comprometer la integridad del plan original.
+
+2. Definición de Estimación (Story Points)
+Para cuantificar el esfuerzo requerido, se ha utilizado la técnica de Story Points basada en la secuencia de Fibonacci. Esta métrica no representa tiempo lineal, sino una combinación de:
+
+    Complejidad: La dificultad técnica de la lógica (ej. algoritmos de detección de sarcasmo).
+    
+    Esfuerzo: La cantidad de trabajo repetitivo o volumen de datos a procesar.
+    
+    Incertidumbre: El nivel de desconocimiento sobre APIs externas o dependencias de terceros.
+
+3. Clasificación de Epics
+      El backlog se divide en 12 dominios estratégicos que cubren el ciclo de vida completo de la reputación digital: desde la recolección de datos en tiempo real (EP01), el procesamiento mediante Inteligencia Artificial (EP02), hasta la gestión de ventas (EP11) y la fidelización de clientes (EP12).
 
 > **Herramienta utilizada:** `[Trello]`
 >
