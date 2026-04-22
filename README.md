@@ -1734,7 +1734,7 @@ Identificamos y plasmamos todos los eventos que cambian el estado del sistema, e
 
 <br>
 
-![Step1 - Event Storming](brandradar-report\assets\design-Level-Event_Storming_steps\step1.png)
+![Step1 - Event Storming](brandradar-report/assets/design-level-storm/step1.png)
 
 **Step 2: Timelines**
 
@@ -1742,61 +1742,63 @@ Ordenamos los eventos de dominio cronológicamente de izquierda a derecha, estab
 
 <br>
 
-![Step2 - Event Storming](brandradar-report\assets\design-Level-Event_Storming_steps\step2.png)
+![Step2 - Event Storming](brandradar-report/assets/design-level-storm/step2.png)
 
 **Step 3: Hotspots**
 
 Identificamos los riesgos técnicos y puntos de dolor del negocio (rombos rojos), como posibles bloqueos por Rate Limits en las APIs de redes sociales o falsos positivos en la evaluación de la Inteligencia Artificial.
-![Step3 - Event Storming](brandradar-report\assets\design-Level-Event_Storming_steps\step3.png)
+<br>
+
+![Step3 - Event Storming](brandradar-report/assets/design-level-storm/step3.png)
 
 **Step 4: Pivotal Events**
 
 Trazamos líneas divisorias para segmentar el flujo temporal en fases críticas, marcando el cambio de estado entre la configuración manual, el monitoreo automático y el manejo de crisis.
-![Step4 - Event Storming](brandradar-report\assets\design-Level-Event_Storming_steps\step4.png)
+![Step4 - Event Storming](brandradar-report/assets/design-level-storm/step4.png)
 
 **Step 5: Commands & Actors**
 
 Definimos las órdenes (post-its azules) que detonan los eventos y los actores (íconos amarillos) responsables de ejecutarlos, ya sean los usuarios (PyME/Agencia) o el propio sistema automatizado.
-![Step5 - Event Storming](brandradar-report\assets\design-Level-Event_Storming_steps\step5.png)
+![Step5 - Event Storming](brandradar-report/assets/design-level-storm/step5.png)
 
 **Step 6: Policies**
 
 Incorporamos las reglas de negocio reactivas (post-its lilas) que automatizan el sistema. Por ejemplo, la política que estipula que *siempre que una mención tenga un sentimiento negativo, se debe disparar una alerta urgente*.
-![Step6 - Event Storming](brandradar-report\assets\design-Level-Event_Storming_steps\step6.png)
+![Step6 - Event Storming](brandradar-report/assets/design-level-storm/step6.png)
 
 **Step 7: Read Models**
 
 Mapeamos las interfaces de usuario y dashboards (post-its verdes) que los actores necesitan visualizar antes de tomar la decisión de ejecutar un comando.
-![Step7 - Event Storming](brandradar-report\assets\design-Level-Event_Storming_steps\step7.png)
+![Step7 - Event Storming](brandradar-report/assets/design-level-storm/step7.png)
 
 **Step 8: External Systems**
 
 Integramos las dependencias con servicios de terceros (post-its rosados) vitales para BrandRadar, tales como Google Maps API, Social Media APIs y el servicio NLP de Inteligencia Artificial.
-![Step8 - Event Storming](brandradar-report\assets\design-Level-Event_Storming_steps\step8.png)
+![Step8 - Event Storming](brandradar-report/assets/design-level-storm/step8.png)
 
 **Step 9: Aggregates**
 
 Elevamos el nivel de abstracción agrupando comandos y eventos en torno a las entidades principales de dominio (post-its amarillos grandes), definiendo agregados clave como `Account`, `Brand`, `Mention`, `Crisis Alert` y `Analytics Report`.
-![Step9 - Event Storming](brandradar-report\assets\design-Level-Event_Storming_steps\step9.png)
+![Step9 - Event Storming](brandradar-report/assets/design-level-storm/step9.png)
 
 **Step 10: Bounded Contexts**
 
 Finalmente, trazamos los límites transaccionales y semánticos encerrando los agregados relacionados en grandes bloques. Este paso consolidó nuestra arquitectura en 6 Bounded Contexts: Account Management, Brand Management, Monitoring, Sentiment Analysis, Alert Management y Reporting.
-![Step10 - Event Storming](brandradar-report\assets\design-Level-Event_Storming_steps\step10.png)
+![Step10 - Event Storming](brandradar-report/assets/design-level-storm/step10.png)
 
 **Bounded Contexts:**
 
-![BoundextContext1](brandradar-report/assets/boundextContext/AccountManager.png)
+![BoundextContext1](brandradar-report/assets/boundext-context/AccountManager.png)
 
-![BoundextContext2](brandradar-report/assets/boundextContext/BrandManager.png)
+![BoundextContext2](brandradar-report/assets/boundext-context/BrandManager.png)
 
-![BoundextContext3](brandradar-report/assets/boundextContext/Monitoring.png)
+![BoundextContext3](brandradar-report/assets/boundext-context/Monitoring.png)
 
-![BoundextContext4](brandradar-report/assets/boundextContext/SentimentAnalysis.png)
+![BoundextContext4](brandradar-report/assets/boundext-context/SentimentAnalysis.png)
 
-![BoundextContext5](brandradar-report/assets/boundextContext/AlertManagment.png)
+![BoundextContext5](brandradar-report/assets/boundext-context/AlertManagment.png)
 
-![BoundextContext6](brandradar-report/assets/boundextContext/Reporting.png)
+![BoundextContext6](brandradar-report/assets/boundext-context/Reporting.png)
 
 <br>
 
@@ -1834,7 +1836,7 @@ Este nivel de abstracción nos permite visualizar rápidamente el valor del nego
 
 <br>
 
-![Software Architecture Container Diagram](brandradar-report\assets\architecture\container-diagram.png)
+![Software Architecture Container Diagram](brandradar-report/assets/architecture/container-diagram.png)
 
 En esta vista, observamos sistema central para exponer nuestra arquitectura basada en microservicios. Se observa cómo la aplicación cliente (Web App SPA) se comunica exclusivamente con un API Gateway, el cual enruta las peticiones de forma segura hacia los servicios de dominio subyacentes. Además, se justifica el uso de persistencia políglota: una base de datos relacional para datos transaccionales fuertemente estructurados (cuentas, suscripciones) y una base de datos documental orientada a soportar la alta volumetría de datos no estructurados generados por las menciones de redes sociales.
 
@@ -1850,7 +1852,7 @@ Este nivel de detalle nos permite identificar las piezas de software que compone
 
 **Bounded Context: `Alert Management`**
 
-![Component Diagram BC1](brandradar-report/assets/architecture/AccountComponents.png)
+![Component Diagram BC1](brandradar-report/assets/architecture/Account-Components.png)
 
 Administra la seguridad, la emisión de tokens JWT, el registro de usuarios y el control de las cuotas permitidas según el plan de suscripción adquirido.
 
@@ -1858,7 +1860,7 @@ Administra la seguridad, la emisión de tokens JWT, el registro de usuarios y el
 
 **Bounded Context: `Brand Management`**
 
-![Component Diagram BC2](brandradar-report/assets/architecture/BrandComponents.png)
+![Component Diagram BC2](brandradar-report/assets/architecture/Brand-Components.png)
 
 Permite la configuración del núcleo del negocio: la creación de marcas, la validación de palabras clave (keywords) y el intercambio seguro de tokens OAuth con plataformas de terceros.
 
@@ -1866,7 +1868,7 @@ Permite la configuración del núcleo del negocio: la creación de marcas, la va
 
 **Bounded Context: `Monitoring`**
 
-![Component Diagram BC3](brandradar-report/assets/architecture/MonitoringComponents.png)
+![Component Diagram BC3](brandradar-report/assets/architecture/Monitoring-Components.png)
 
 Encargado de orquestar los ciclos programados (Schedulers) para extraer datos de Google Maps y Redes Sociales, filtrarlos y almacenarlos en la base de datos documental.
 
@@ -1874,7 +1876,7 @@ Encargado de orquestar los ciclos programados (Schedulers) para extraer datos de
 
 **Bounded Context: `Sentiment Analysis`**
 
-![Component Diagram BC4](brandradar-report/assets/architecture/SentimentComponents.png)
+![Component Diagram BC4](brandradar-report/assets/architecture/Sentiment-Components.png)
 
 Integra el motor central de evaluación. Recibe eventos de nuevas menciones, interactúa con la API de NLP externa, aplica reglas locales para detección de sarcasmo y determina si el sentimiento cruza el umbral negativo.
 
@@ -1882,7 +1884,7 @@ Integra el motor central de evaluación. Recibe eventos de nuevas menciones, int
 
 **Bounded Context: `Alert Management`**
 
-![Component Diagram BC5](brandradar-report/assets/architecture/AlertComponents.png)
+![Component Diagram BC5](brandradar-report/assets/architecture/Alert-Components.png)
 
 Gestiona el ciclo de vida de las crisis de reputación. Evalúa las menciones negativas, genera tickets de seguimiento y dispara notificaciones push a través de servicios como Firebase/APNs.
 
@@ -1890,7 +1892,7 @@ Gestiona el ciclo de vida de las crisis de reputación. Evalúa las menciones ne
 
 **Bounded Context: `Reporting`**
 
-![Component Diagram BC6](brandradar-report/assets/architecture/ReportingComponents.png)
+![Component Diagram BC6](brandradar-report/assets/architecture/Reporting-Components.png)
 
 Consolida la información mediante procesos asíncronos para generar dashboards analíticos y reportes descargables en PDF, permitiendo a las agencias presentar resultados tangibles a sus clientes.
 
