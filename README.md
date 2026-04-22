@@ -1479,6 +1479,27 @@ En conjunto, la identificación de eventos, actores y flujos permitió construir
 
 La arquitectura de información de **BrandRadar** ha sido diseñada para estructurar de forma clara y jerárquica los contenidos, permitiendo a los dueños de PyMEs y agencias digitales monitorear su reputación sin fricciones. Se prioriza una navegación intuitiva que reduzca la carga cognitiva al gestionar múltiples fuentes de datos en tiempo real.
 
+A continuación, se presentan los diagramas de estructura que representan la 
+organización general de la plataforma, tanto para la versión web como para la 
+aplicación móvil. 
+
+- Mapa de estructura general de la web: 
+
+### Figura 1. Diagrama de estructura de la página web 
+
+### Diagramas realizados (Anexo 2),
+
+<img src="brandradar-report/assets/images/PRIMER DIAGRAMA.png" alt="BrandRadar Web Map" width="100%"/>
+
+- Mapa de estructura general del móvil: 
+
+### Figura 2. Diagrama de la estructura de la aplicación móvil (Android y iOS) 
+
+### Diagramas realizados (Anexo 2), 
+
+<img src="brandradar-report/assets/images/SEGUNDO DIAGRAMA.png" alt="BrandRadar Mobile Map" width="100%"/>
+
+
 ### 4.2.1. Organization Systems
 
 • Organización visual del contenido
