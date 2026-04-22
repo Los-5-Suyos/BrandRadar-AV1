@@ -2211,11 +2211,11 @@ Los servicios backend (RESTful API) se despliegan en Render o Railway. Se vincul
 | Campo | Detalle |
 |:------|:--------|
 | **Sprint #** | Sprint 1 |
-| **Date** | `YYYY-MM-DD` |
-| **Time** | `HH:MM AM/PM` |
-| **Location** | `[Descripción de la ubicación — física o virtual]` |
-| **Prepared By** | `[Apellido, Nombre — Team Leader]` |
-| **Attendees** | `[Apellido1, Nombre1]` / `[Apellido2, Nombre2]` / ... |
+| **Date** | `2026-04-15` |
+| **Time** | `06:00 PM` |
+| **Location** | `[Llamada por la plataforma de discord]` |
+| **Prepared By** | `[Salinas Guzmán, Brianna Cristina]` |
+| **Attendees** | `[Salinas, Briana]` / `[Cruzalegui, Joaquin]` / `[Jáuregui, Jean]`  / `[García, Victor]` / `[Acuña, Luis]`|
 | **Sprint 0 Review Summary** | *(Para el primer sprint, describir el estado inicial del proyecto)* |
 | **Sprint 0 Retrospective Summary** | *(Para el primer sprint, describir las expectativas del equipo)* |
 | **Sprint 1 Goal** | *(Definir el Goal siguiendo la estructura: Our focus is on... We believe it delivers... This will be confirmed when...)* |
