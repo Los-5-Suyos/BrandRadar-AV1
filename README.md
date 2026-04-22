@@ -1796,33 +1796,63 @@ A partir del análisis del dominio de BrandRadar, hemos consolidado seis Bounded
 
 ### 4.6.2. Software Architecture Context Diagram
 
-*(Introducción y explicación del Context Diagram — C4 Model elaborado en Structurizr)*
+El Diagrama de Contexto ilustra a BrandRadar en su entorno operativo, mostrando las interacciones de alto nivel entre el sistema, los usuarios y las plataformas externas. 
 
-*(El sistema como recuadro central, rodeado por usuarios y sistemas externos con los que interactúa)*
 
-![Software Architecture Context Diagram](../assets/architecture/context-diagram.png)
 
-*(Explicación del diagrama)*
+![Software Architecture Context Diagram](brandradar-report\assets\architecture\context-diagram.png)
+
+Este nivel de abstracción nos permite visualizar rápidamente el valor del negocio: cómo los actores principales (PyME Owner y Agency Manager) interactúan con la plataforma central, y cómo esta depende de sistemas externos críticos para su funcionamiento, tales como las APIs de redes sociales y Google Maps para la extracción de datos, así como servicios de Inteligencia Artificial (NLP) para el procesamiento de lenguaje natural.
 
 ### 4.6.3. Software Architecture Container Diagrams
 
-*(Introducción y explicación del Container Diagram — C4 Model)*
+El Diagrama de Contenedores desglosa el sistema BrandRadar en sus unidades desplegables, mostrando cómo se distribuyen las responsabilidades técnicas y las tecnologías elegidas.
 
-*(Elementos de alto nivel de la arquitectura, distribución de responsabilidades, tecnologías y comunicación entre containers)*
+![Software Architecture Container Diagram](brandradar-report\assets\architecture\container-diagram.png)
 
-![Software Architecture Container Diagram](../assets/architecture/container-diagram.png)
-
-*(Explicación del diagrama)*
+En esta vista, observamos sistema central para exponer nuestra arquitectura basada en microservicios. Se observa cómo la aplicación cliente (Web App SPA) se comunica exclusivamente con un API Gateway, el cual enruta las peticiones de forma segura hacia los servicios de dominio subyacentes. Además, se justifica el uso de persistencia políglota: una base de datos relacional para datos transaccionales fuertemente estructurados (cuentas, suscripciones) y una base de datos documental orientada a soportar la alta volumetría de datos no estructurados generados por las menciones de redes sociales.
 
 ### 4.6.4. Software Architecture Components Diagrams
 
-*(Component Diagrams para cada Container identificado — C4 Model)*
+Para el diagrama de Componentes hemos desglosado la arquitectura interna de nuestros contenedores principales, alineándolos directamente con los Bounded Contexts descubiertos durante el proceso de Event Storming. 
 
-**Bounded Context: `[Nombre del Bounded Context]`**
+Este nivel de detalle nos permite identificar las piezas de software que componen cada microservicio (controladores, servicios de lógica de negocio, repositorios de acceso a datos y conectores externos). A continuación, se presentan los diagramas de componentes para los seis contextos delimitados del sistema:
 
-![Component Diagram BC1](../assets/architecture/component-diagram-bc1.png)
+**Bounded Context: `Alert Management`**
 
-*(Explicación de los components, sus responsabilidades y detalles de implementación/tecnología)*
+![Component Diagram BC1](brandradar-report\assets\architecture\AccountComponents.png)
+
+Administra la seguridad, la emisión de tokens JWT, el registro de usuarios y el control de las cuotas permitidas según el plan de suscripción adquirido.
+
+**Bounded Context: `Brand Management`**
+
+![Component Diagram BC2](brandradar-report\assets\architecture\BrandComponents.png)
+
+Permite la configuración del núcleo del negocio: la creación de marcas, la validación de palabras clave (keywords) y el intercambio seguro de tokens OAuth con plataformas de terceros.
+
+**Bounded Context: `Monitoring`**
+
+![Component Diagram BC3](brandradar-report\assets\architecture\MonitoringComponents.png)
+
+Encargado de orquestar los ciclos programados (Schedulers) para extraer datos de Google Maps y Redes Sociales, filtrarlos y almacenarlos en la base de datos documental.
+
+**Bounded Context: `Sentiment Analysis`**
+
+![Component Diagram BC4](brandradar-report\assets\architecture\SentimentComponents.png)
+
+Integra el motor central de evaluación. Recibe eventos de nuevas menciones, interactúa con la API de NLP externa, aplica reglas locales para detección de sarcasmo y determina si el sentimiento cruza el umbral negativo.
+
+**Bounded Context: `Alert Management`**
+
+![Component Diagram BC5](brandradar-report\assets\architecture\AlertComponents.png)
+
+Gestiona el ciclo de vida de las crisis de reputación. Evalúa las menciones negativas, genera tickets de seguimiento y dispara notificaciones push a través de servicios como Firebase/APNs.
+
+**Bounded Context: `Reporting`**
+
+![Component Diagram BC6](brandradar-report\assets\architecture\ReportingComponents.png)
+
+Consolida la información mediante procesos asíncronos para generar dashboards analíticos y reportes descargables en PDF, permitiendo a las agencias presentar resultados tangibles a sus clientes.
 
 ---
 
