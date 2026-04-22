@@ -1389,34 +1389,7 @@ En conjunto, la identificación de eventos, actores y flujos permitió construir
 
 <br>
 
-El Impact Mapping de BrandRadar conecta nuestro propósito estratégico con las necesidades reales de los usuarios, asegurando que cada funcionalidad aporte un valor real.
-
-<ul>
-  <li>Objetivo de Negocio (Business Goal): Ofrecer una solución que centralice el monitoreo de reputación y el estado técnico de la web. Buscamos que las marcas protejan su prestigio mediante decisiones rápidas basadas en datos reales.</li>
-  <li>
-    Actores (Personas):
-    <ul>
-      <li>Alfredo Negrete: El dueño de negocio que busca proteger su trayectoria y resolver fallas de servicio antes de que dañen su imagen.</li>
-      <li>Romina Apaza: La especialista que gestiona múltiples cuentas y necesita automatizar el trabajo manual para enfocarse en la estrategia.</li>
-    </ul>
-  </li>
-  <li>
-    Impactos (Cambios de comportamiento):
-    <ul>
-      <li>Para Alfredo: Lograr que detecte quejas locales (Google Maps) al instante y que use ese feedback para mejorar sus procesos de atención.</li>
-      <li>Para Romina: Permitirle gestionar varias marcas a la vez sin aumentar su carga de trabajo, identificando tendencias de sentimiento rápidamente.</li>
-    </ul>
-  </li>
-  <li>
-    Entregables (Soluciones técnicas):
-    <ul>
-      <li>Alertas y Sincronización: Notificaciones críticas y conexión con Maps para una respuesta inmediata.</li>
-      <li>IA y Dashboard: Uso de inteligencia artificial para clasificar sentimientos y un panel centralizado para ver todo en un solo lugar.</li>
-      <li>Reportes: Generación de documentos (PDF/CSV) para presentar resultados de forma profesional.</li>
-    </ul>
-  </li>
-  <li>Historias de Usuario (Conexión final): Cada herramienta técnica se aterriza en tareas específicas (como la US27 para Maps o la US05 para el análisis de sentimiento), garantizando que todo el desarrollo del software esté alineado con las metas de Alfredo y Romina.</li>
-</ul>
+>*El Impact Mapping de BrandRadar vincula el objetivo central del producto, centralizar el monitoreo de reputación e infraestructura web, con las necesidades concretas de Alfredo Negrete y Romina Apaza. Para Alfredo, el sistema debe permitirle detectar quejas locales al instante y ajustar sus procesos con base en feedback real. Para Romina, debe facilitarle gestionar múltiples marcas sin incrementar su carga operativa. Cada uno de estos impactos se traduce en entregables específicos — alertas, dashboards, análisis de sentimiento y reportes — que a su vez se conectan directamente con las historias de usuario del backlog.*
 
 <br>
 
@@ -1424,7 +1397,7 @@ El Impact Mapping de BrandRadar conecta nuestro propósito estratégico con las 
 
 ## 3.3. Product Backlog
 
-*El Product Backlog de BrandRadar consolida el conjunto de funcionalidades priorizadas que guían el desarrollo del producto. Cada historia de usuario está ordenada según su valor estratégico y estimada en Story Points, lo que permite al equipo planificar iteraciones de forma realista. El backlog abarca cinco áreas: monitoreo de redes sociales, análisis de sentimiento con IA, gestión de reputación local, reportes y exportación de datos, y herramientas de respuesta y colaboración, totalizando 45 historias de usuario distribuidas en sus niveles de complejidad.*
+>*El Product Backlog de BrandRadar consolida el conjunto de funcionalidades priorizadas que guían el desarrollo del producto. Cada historia de usuario está ordenada según su valor estratégico y estimada en Story Points, lo que permite al equipo planificar iteraciones de forma realista. El backlog abarca cinco áreas: monitoreo de redes sociales, análisis de sentimiento con IA, gestión de reputación local, reportes y exportación de datos, y herramientas de respuesta y colaboración, totalizando 45 historias de usuario distribuidas en sus niveles de complejidad.*
 
 <br>
 
@@ -1492,52 +1465,12 @@ El Impact Mapping de BrandRadar conecta nuestro propósito estratégico con las 
 
 ### 4.1.1. General Style Guidelines
 
-*(Explicar las decisiones y referencias visuales sobre conceptos generales: Branding, Typography, Colors, Spacing y tono de comunicación)*
-
-**Branding**
-
-*(Descripción del branding de BrandRadar: logo, isotipo, naming, y principios de identidad visual)*
-
-**Typography**
-
-| Tipo | Fuente | Uso |
-|:-----|:------:|:----|
-| Display / Heading | `[Fuente principal]` | Títulos y encabezados |
-| Body | `[Fuente secundaria]` | Texto de contenido |
-| Monospace | `[Fuente monoespaciada]` | Código y datos técnicos |
-
-**Colors**
-
-| Nombre | Hex | Uso |
-|:-------|:---:|:----|
-| Primary | `#XXXXXX` | Color principal de la marca |
-| Secondary | `#XXXXXX` | Color de apoyo |
-| Accent | `#XXXXXX` | Énfasis y llamados a la acción |
-| Background | `#XXXXXX` | Fondo general |
-| Text | `#XXXXXX` | Texto principal |
-| Error | `#XXXXXX` | Estados de error |
-| Success | `#XXXXXX` | Estados de éxito |
-
-**Spacing**
-
-*(Describir el sistema de espaciado y las unidades base utilizadas)*
-
-**Tono de comunicación**
-
-| Dimensión | Selección |
-|:----------|:---------:|
-| Divertido / Serio | *(indicar posición en la escala)* |
-| Formal / Casual | *(indicar posición en la escala)* |
-| Respetuoso / Irreverente | *(indicar posición en la escala)* |
-| Entusiasta / Sereno | *(indicar posición en la escala)* |
+ 
 
 ---
 
 ### 4.1.2. Web Style Guidelines
-
-*(Decisiones sobre los estándares visuales y de interacción para responsive web interfaces)*
-
-*(Incluir capturas o especificaciones visuales del Design System basado en Material Design y Angular Material)*
+ 
 
 ---
 
@@ -1639,6 +1572,8 @@ La navegación está diseñada pensando en dos segmentos principales: dueños de
 
 **Desktop Web Browser**
 
+<br>
+
 *Elaboración propia en Figma*
 
 ![Landing Page Wireframe Desktop](brandradar-report/assets/landing-page/wireframe-desktop.png)
@@ -1646,6 +1581,7 @@ La navegación está diseñada pensando en dos segmentos principales: dueños de
 <br>
 
 **Mobile Web Browser**
+<br>
 
 *Elaboración propia en Figma*
 
@@ -1662,6 +1598,8 @@ La navegación está diseñada pensando en dos segmentos principales: dueños de
 
 **Desktop Web Browser**
 
+<br>
+
 *Elaboración propia en Figma*
 
 ![Landing Page Mockup Desktop](brandradar-report/assets/landing-page/landingmockup-desktop.png)
@@ -1669,6 +1607,8 @@ La navegación está diseñada pensando en dos segmentos principales: dueños de
 <br>
 
 **Mobile Web Browser**
+
+<br>
 
 *Elaboración propia en Figma*
 
@@ -1682,17 +1622,26 @@ La navegación está diseñada pensando en dos segmentos principales: dueños de
 
 ## 4.4. Web Applications UX/UI Design
 
-*(Propuesta visual y de interacción para las aplicaciones web)*
+>*En esta sección se presenta la propuesta visual y de interacción para la aplicación web de BrandRadar. El diseño ha sido desarrollado considerando los hallazgos obtenidos durante el proceso de investigación con usuarios, priorizando la claridad en la visualización de datos, la rapidez de acceso a las funcionalidades críticas y una experiencia coherente tanto para dueños de PyMEs como para especialistas de marketing. Se han aplicado principios de diseño centrado en el usuario, consistencia visual con el Design System definido y una arquitectura de información que reduce la carga cognitiva del usuario en cada interacción.*
+
+<br>
 
 ### 4.4.1. Web Applications Wireframes
 
-*(Wireframes de las aplicaciones web con principios de diseño inclusivo y arquitectura de información aplicados)*
+>*Los wireframes presentados a continuación representan la estructura base de las principales vistas de la aplicación web de BrandRadar. Su elaboración se realizó aplicando principios de diseño inclusivo, garantizando que la disposición de los elementos sea comprensible para usuarios con distintos niveles de experiencia tecnológica. *
+
+<br>
 
 ![Web App Wireframes](brandradar-report/assets/web-app/wireframes.png)
+
+<br>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 *(Un Wireflow por cada User goal, considerando los User Personas definidos)*
+
+<br>
+
 
 **User goal: `[Nombre del User goal]`**
 
@@ -1700,7 +1649,7 @@ La navegación está diseñada pensando en dos segmentos principales: dueños de
 
 ![Wireflow Diagrama 1](brandradar-report/assets/web-app/wireflow-1.png)
 
----
+<br>
 
 **User goal: `[Nombre del User goal]`**
 
@@ -1708,21 +1657,31 @@ La navegación está diseñada pensando en dos segmentos principales: dueños de
 
 ![Wireflow Diagrama 2](brandradar-report/assets/web-app/wireflow-2.png)
 
+<br>
+
 ### 4.4.3. Web Applications Mock-ups
 
 *(Mock-ups de las aplicaciones web con Design System aplicado)*
 
+<br>
+
 ![Web App Mockups](brandradar-report/assets/web-app/mockups.png)
+
+<br>
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
 *(User Flows incluyendo Mock-ups de vistas, happy paths y unhappy paths)*
+
+<br>
 
 **User goal: `[Nombre del User goal]`**
 
 *(Descripción de los flujos y condiciones especificadas)*
 
 ![User Flow Diagrama 1](brandradar-report/assets/web-app/user-flow-1.png)
+
+<br>
 
 ---
 
@@ -1749,8 +1708,6 @@ La navegación está diseñada pensando en dos segmentos principales: dueños de
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Design-Level Event Storming
-
-
 
 Para definir la arquitectura de BrandRadar orientada al dominio (DDD), realizamos un proceso iterativo de Design-Level Event Storming siguiendo los 10 pasos metodológicos. A continuación, se detalla la evolución del modelo:
 
