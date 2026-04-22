@@ -1392,7 +1392,7 @@ Estrategia de Contenido: Se sustenta en herramientas de análisis como la US30 (
 
 > **Herramienta utilizada:** `[Trello]`
 >
-> **URL del Product Backlog:** [`[URL pública del Product Backlog]`](`[URL]`)
+> **URL del Product Backlog:** [<a href="https://trello.com/invite/b/69dfea832aaca97dda513a28/ATTI3586e52f52192c31ff4597c5fcf42e5cC6CA6C96/productbacklog-brandradar">[URL pública del Product Backlog]</a>]
 
 <img src="brandradar-report/assets/product-backlog/productbacklog1.png" alt="Product Backlog parte 1" style="display: flex;justify-content: left"> <img src="brandradar-report/assets/product-backlog/productbacklog2.png" alt="Product Backlog parte 2" style="display: flex;justify-content: right">
 
