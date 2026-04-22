@@ -2216,11 +2216,11 @@ Los servicios backend (RESTful API) se despliegan en Render o Railway. Se vincul
 | **Location** | `[Llamada por la plataforma de discord]` |
 | **Prepared By** | `[Salinas Guzmán, Brianna Cristina]` |
 | **Attendees** | `[Salinas, Briana]` / `[Cruzalegui, Joaquin]` / `[Jáuregui, Jean]`  / `[García, Victor]` / `[Acuña, Luis]`|
-| **Sprint 0 Review Summary** | *(Para el primer sprint, describir el estado inicial del proyecto)* |
-| **Sprint 0 Retrospective Summary** | *(Para el primer sprint, describir las expectativas del equipo)* |
-| **Sprint 1 Goal** | *(Definir el Goal siguiendo la estructura: Our focus is on... We believe it delivers... This will be confirmed when...)* |
-| **Sprint 1 Velocity** | `[Story Points que puede aceptar el equipo]` |
-| **Sum of Story Points** | `[Suma de Story Points del Sprint]` |
+| **Sprint 0 Review Summary** | Se finalizó la etapa de investigación y diseño de arquitectura base. El equipo cuenta con los mock-ups de alta fidelidad listos para iniciar la implementación de la Landing Page. |
+| **Sprint 0 Retrospective Summary** | El equipo muestra compromiso, pero se debe reforzar el flujo de GitFlow para evitar conflictos en la integración de las secciones de la Landing Page. |
+| **Sprint 1 Goal** | Nuestro enfoque es el desarrollo y despliegue de la Landing Page de BrandRadar. Creemos que entrega valor al permitir la captación de leads y visibilidad de marca. Esto se confirmará cuando todas las secciones estén integradas y funcionales en Netlify. |
+| **Sprint 1 Velocity** | `45` |
+| **Sum of Story Points** | `35` |
 
 ---
 
