@@ -1564,7 +1564,7 @@ La navegación está diseñada pensando en dos segmentos principales: dueños de
 
 ### 4.3.1. Landing Page Wireframe
 
-> *Los wireframes representan la estructura base del Landing Page, permitiendo definir la organización de contenidos, jerarquía visual y flujo de navegación antes de aplicar estilos visuales. Se desarrollaron versiones para Desktop Web Browser y Mobile Web Browser:*
+>*Los wireframes representan la estructura base del Landing Page, permitiendo definir la organización de contenidos, jerarquía visual y flujo de navegación antes de aplicar estilos visuales. Se desarrollaron versiones para Desktop Web Browser y Mobile Web Browser:*
 
 <br>
 
@@ -1628,7 +1628,7 @@ La navegación está diseñada pensando en dos segmentos principales: dueños de
 
 ### 4.4.1. Web Applications Wireframes
 
->*Los wireframes presentados a continuación representan la estructura base de las principales vistas de la aplicación web de BrandRadar. Su elaboración se realizó aplicando principios de diseño inclusivo, garantizando que la disposición de los elementos sea comprensible para usuarios con distintos niveles de experiencia tecnológica. *
+>*Los wireframes presentados a continuación representan la estructura base de las principales vistas de la aplicación web de BrandRadar. Su elaboración se realizó aplicando principios de diseño inclusivo, garantizando que la disposición de los elementos sea comprensible para usuarios con distintos niveles de experiencia tecnológica.*
 
 <br>
 
@@ -1661,7 +1661,9 @@ La navegación está diseñada pensando en dos segmentos principales: dueños de
 
 ### 4.4.3. Web Applications Mock-ups
 
-*(Mock-ups de las aplicaciones web con Design System aplicado)*
+>*Los mock-ups presentados a continuación representan la propuesta visual final de las principales vistas de la aplicación web de BrandRadar, incorporando el Design System definido en la sección 4.1. A diferencia de los wireframes, estas vistas integran la paleta de colores, tipografía, iconografía, componentes visuales y espaciado establecidos para la plataforma, ofreciendo una representación de alta fidelidad de la experiencia que tendrá el usuario al interactuar con el sistema.*
+
+>*El diseño busca transmitir confianza, claridad y eficiencia, valores fundamentales de BrandRadar, asegurando que tanto los dueños de PyMEs como los account managers de agencias puedan interpretar la información de reputación digital de forma rápida e intuitiva.*
 
 <br>
 
@@ -1687,9 +1689,18 @@ La navegación está diseñada pensando en dos segmentos principales: dueños de
 
 ## 4.5. Web Applications Prototyping
 
-*(Introducción explicando los principales criterios para las decisiones de interacción)*
+En esta sección se presenta el prototipo interactivo de la aplicación web de BrandRadar, desarrollado en Figma a partir de los mock-ups de alta fidelidad definidos en la sección anterior. El prototipo simula la navegación real del sistema, permitiendo visualizar los flujos de interacción entre las distintas vistas de la plataforma tanto en su versión Desktop como Mobile Web Browser.
 
-*(Prototipos de UI para Desktop y Mobile Web Browser con simulación de interacción y navegación)*
+Las decisiones de interacción tomadas durante el prototipado se basaron en los siguientes criterios:
+
+- **Accesibilidad y simplicidad:** Se priorizó que cualquier usuario, independientemente de su nivel técnico, pueda navegar por la plataforma sin necesidad de instrucciones previas, especialmente para el segmento de dueños de PyMEs.
+- **Rapidez de acceso a funciones críticas:** Las acciones más frecuentes, como la revisión de alertas, el análisis de sentimiento y la generación de reportes, se encuentran disponibles desde el Dashboard principal con el mínimo número de clics posible.
+- **Consistencia visual:** Todos los elementos interactivos siguen el Design System definido, asegurando que botones, formularios, tarjetas y navegación mantengan un comportamiento predecible en todas las vistas.
+- **Diseño responsivo:** El prototipo contempla la adaptación de las vistas para dispositivos móviles, garantizando que los usuarios puedan monitorear su reputación digital desde cualquier dispositivo.
+
+A continuación se presentan los prototipos para Desktop y Mobile Web Browser junto con los videos de simulación de navegación correspondientes.
+
+<br>
 
 **Prototipo Desktop**
 
@@ -1697,11 +1708,15 @@ La navegación está diseñada pensando en dos segmentos principales: dueños de
 
 [Ver video de prototipo Desktop en Microsoft Stream](`URL`)
 
+<br>
+
 **Prototipo Mobile**
 
 ![Screenshot Prototipo Mobile](brandradar-report/assets/prototypes/prototype-mobile-screenshot.png)
 
 [Ver video de prototipo Mobile en Microsoft Stream](`URL`)
+
+<br>
 
 ---
 
@@ -1709,52 +1724,65 @@ La navegación está diseñada pensando en dos segmentos principales: dueños de
 
 ### 4.6.1. Design-Level Event Storming
 
-Para definir la arquitectura de BrandRadar orientada al dominio (DDD), realizamos un proceso iterativo de Design-Level Event Storming siguiendo los 10 pasos metodológicos. A continuación, se detalla la evolución del modelo:
+>*Para definir la arquitectura de BrandRadar orientada al dominio (DDD), realizamos un proceso iterativo de Design-Level Event Storming siguiendo los 10 pasos metodológicos. A continuación, se detalla la evolución del modelo:*
+
+<br>
 
 **Step 1: Unstructured Exploration**
+
 Identificamos y plasmamos todos los eventos que cambian el estado del sistema, escritos en tiempo pasado (post-its naranjas). Estos abarcan desde `User Registered` hasta `PDF Report Generated`.
 
-![Step1 - Event Storming](brandradar-report/assets/design-Level-Event_Storming_steps/step1.png)
+<br>
+
+![Step1 - Event Storming](brandradar-report\assets\design-Level-Event_Storming_steps\step1.png)
 
 **Step 2: Timelines**
+
 Ordenamos los eventos de dominio cronológicamente de izquierda a derecha, estableciendo el flujo natural del ciclo de vida del monitoreo de reputación.
 
-![Step2 - Event Storming](brandradar-report/assets/design-Level-Event_Storming_steps/step2.png)
+<br>
+
+![Step2 - Event Storming](brandradar-report\assets\design-Level-Event_Storming_steps\step2.png)
 
 **Step 3: Hotspots**
-Identificamos los riesgos técnicos y puntos de dolor del negocio (rombos rojos), como posibles bloqueos por Rate Limits en las APIs de redes sociales o falsos positivos en la evaluación de la Inteligencia Artificial.
 
-![Step3 - Event Storming](brandradar-report/assets/design-Level-Event_Storming_steps/step3.png)
+Identificamos los riesgos técnicos y puntos de dolor del negocio (rombos rojos), como posibles bloqueos por Rate Limits en las APIs de redes sociales o falsos positivos en la evaluación de la Inteligencia Artificial.
+![Step3 - Event Storming](brandradar-report\assets\design-Level-Event_Storming_steps\step3.png)
 
 **Step 4: Pivotal Events**
-Trazamos líneas divisorias para segmentar el flujo temporal en fases críticas, marcando el cambio de estado entre la configuración manual, el monitoreo automático y el manejo de crisis.
 
-![Step4 - Event Storming](brandradar-report/assets/design-Level-Event_Storming_steps/step4.png)
+Trazamos líneas divisorias para segmentar el flujo temporal en fases críticas, marcando el cambio de estado entre la configuración manual, el monitoreo automático y el manejo de crisis.
+![Step4 - Event Storming](brandradar-report\assets\design-Level-Event_Storming_steps\step4.png)
 
 **Step 5: Commands & Actors**
-Definimos las órdenes (post-its azules) que detonan los eventos y los actores (íconos amarillos) responsables de ejecutarlos, ya sean los usuarios (PyME/Agencia) o el propio sistema automatizado.
 
-![Step5 - Event Storming](brandradar-report/assets/design-Level-Event_Storming_steps/step5.png)
+Definimos las órdenes (post-its azules) que detonan los eventos y los actores (íconos amarillos) responsables de ejecutarlos, ya sean los usuarios (PyME/Agencia) o el propio sistema automatizado.
+![Step5 - Event Storming](brandradar-report\assets\design-Level-Event_Storming_steps\step5.png)
 
 **Step 6: Policies**
+
 Incorporamos las reglas de negocio reactivas (post-its lilas) que automatizan el sistema. Por ejemplo, la política que estipula que *siempre que una mención tenga un sentimiento negativo, se debe disparar una alerta urgente*.
-![Step6 - Event Storming](brandradar-report/assets/design-Level-Event_Storming_steps/step6.png)
+![Step6 - Event Storming](brandradar-report\assets\design-Level-Event_Storming_steps\step6.png)
 
 **Step 7: Read Models**
+
 Mapeamos las interfaces de usuario y dashboards (post-its verdes) que los actores necesitan visualizar antes de tomar la decisión de ejecutar un comando.
-![Step7 - Event Storming](brandradar-report/assets/design-Level-Event_Storming_steps/step7.png)
+![Step7 - Event Storming](brandradar-report\assets\design-Level-Event_Storming_steps\step7.png)
 
 **Step 8: External Systems**
+
 Integramos las dependencias con servicios de terceros (post-its rosados) vitales para BrandRadar, tales como Google Maps API, Social Media APIs y el servicio NLP de Inteligencia Artificial.
-![Step8 - Event Storming](brandradar-report/assets/design-Level-Event_Storming_steps/step8.png)
+![Step8 - Event Storming](brandradar-report\assets\design-Level-Event_Storming_steps\step8.png)
 
 **Step 9: Aggregates**
+
 Elevamos el nivel de abstracción agrupando comandos y eventos en torno a las entidades principales de dominio (post-its amarillos grandes), definiendo agregados clave como `Account`, `Brand`, `Mention`, `Crisis Alert` y `Analytics Report`.
-![Step9 - Event Storming](brandradar-report/assets/design-Level-Event_Storming_steps/step9.png)
+![Step9 - Event Storming](brandradar-report\assets\design-Level-Event_Storming_steps\step9.png)
 
 **Step 10: Bounded Contexts**
+
 Finalmente, trazamos los límites transaccionales y semánticos encerrando los agregados relacionados en grandes bloques. Este paso consolidó nuestra arquitectura en 6 Bounded Contexts: Account Management, Brand Management, Monitoring, Sentiment Analysis, Alert Management y Reporting.
-![Step10 - Event Storming](brandradar-report/assets/design-Level-Event_Storming_steps/step10.png)
+![Step10 - Event Storming](brandradar-report\assets\design-Level-Event_Storming_steps\step10.png)
 
 **Bounded Contexts:**
 
@@ -1770,6 +1798,7 @@ Finalmente, trazamos los límites transaccionales y semánticos encerrando los a
 
 ![BoundextContext6](brandradar-report/assets/boundextContext/Reporting.png)
 
+<br>
 
 El proceso de Design-Level Event Storming nos permitió profundizar en el comportamiento técnico del sistema, tomando como base los flujos identificados en el Big Picture Event Storming. En esta etapa, se definieron los límites transaccionales (Bounded Contexts) y se introdujeron elementos de diseño táctico como Comandos (Commands), Agregados (Aggregates) y Políticas (Policies). [Ver Miro](https://miro.com/welcomeonboard/OFNBUUR3ZHl3VWkyVzJPRzhPWEV5bHF2S0hiRjArNEswejJoT0ZyZVdHQ0VMVDkzNy9Xd3RCOGdHemhTN3ZJblhjSkJLRjBneGRvNjdaaXNCZHkvWVQ3N1VhMUxRYkI4SmNBRTdTaHpBWWlzRHhGTTZKL2NFVjVtK1IwcFZscnhnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=126405139400).
 
@@ -1781,26 +1810,35 @@ A partir del análisis del dominio de BrandRadar, hemos consolidado seis Bounded
 5. **Alert Management:** Aplica reglas de negocio para generar notificaciones ante crisis o menciones negativas.
 6. **Reporting:** Consolida las métricas y genera dashboards exportables.
    
+<br>
 
 ---
+
+<br>
 
 ### 4.6.2. Software Architecture Context Diagram
 
 El Diagrama de Contexto ilustra a BrandRadar en su entorno operativo, mostrando las interacciones de alto nivel entre el sistema, los usuarios y las plataformas externas. 
 
-
+<br>
 
 ![Software Architecture Context Diagram](brandradar-report/assets/architecture/context-diagram.png)
 
 Este nivel de abstracción nos permite visualizar rápidamente el valor del negocio: cómo los actores principales (PyME Owner y Agency Manager) interactúan con la plataforma central, y cómo esta depende de sistemas externos críticos para su funcionamiento, tales como las APIs de redes sociales y Google Maps para la extracción de datos, así como servicios de Inteligencia Artificial (NLP) para el procesamiento de lenguaje natural.
 
+<br>
+
 ### 4.6.3. Software Architecture Container Diagrams
 
-El Diagrama de Contenedores desglosa el sistema BrandRadar en sus unidades desplegables, mostrando cómo se distribuyen las responsabilidades técnicas y las tecnologías elegidas.
+>*El Diagrama de Contenedores desglosa el sistema BrandRadar en sus unidades desplegables, mostrando cómo se distribuyen las responsabilidades técnicas y las tecnologías elegidas.*
 
-![Software Architecture Container Diagram](brandradar-report/assets/architecture/container-diagram.png)
+<br>
+
+![Software Architecture Container Diagram](brandradar-report\assets\architecture\container-diagram.png)
 
 En esta vista, observamos sistema central para exponer nuestra arquitectura basada en microservicios. Se observa cómo la aplicación cliente (Web App SPA) se comunica exclusivamente con un API Gateway, el cual enruta las peticiones de forma segura hacia los servicios de dominio subyacentes. Además, se justifica el uso de persistencia políglota: una base de datos relacional para datos transaccionales fuertemente estructurados (cuentas, suscripciones) y una base de datos documental orientada a soportar la alta volumetría de datos no estructurados generados por las menciones de redes sociales.
+
+<br>
 
 ### 4.6.4. Software Architecture Components Diagrams
 
@@ -1808,11 +1846,15 @@ Para el diagrama de Componentes hemos desglosado la arquitectura interna de nues
 
 Este nivel de detalle nos permite identificar las piezas de software que componen cada microservicio (controladores, servicios de lógica de negocio, repositorios de acceso a datos y conectores externos). A continuación, se presentan los diagramas de componentes para los seis contextos delimitados del sistema:
 
+<br>
+
 **Bounded Context: `Alert Management`**
 
 ![Component Diagram BC1](brandradar-report/assets/architecture/AccountComponents.png)
 
 Administra la seguridad, la emisión de tokens JWT, el registro de usuarios y el control de las cuotas permitidas según el plan de suscripción adquirido.
+
+<br>
 
 **Bounded Context: `Brand Management`**
 
@@ -1820,11 +1862,15 @@ Administra la seguridad, la emisión de tokens JWT, el registro de usuarios y el
 
 Permite la configuración del núcleo del negocio: la creación de marcas, la validación de palabras clave (keywords) y el intercambio seguro de tokens OAuth con plataformas de terceros.
 
+<br>
+
 **Bounded Context: `Monitoring`**
 
 ![Component Diagram BC3](brandradar-report/assets/architecture/MonitoringComponents.png)
 
 Encargado de orquestar los ciclos programados (Schedulers) para extraer datos de Google Maps y Redes Sociales, filtrarlos y almacenarlos en la base de datos documental.
+
+<br>
 
 **Bounded Context: `Sentiment Analysis`**
 
@@ -1832,17 +1878,23 @@ Encargado de orquestar los ciclos programados (Schedulers) para extraer datos de
 
 Integra el motor central de evaluación. Recibe eventos de nuevas menciones, interactúa con la API de NLP externa, aplica reglas locales para detección de sarcasmo y determina si el sentimiento cruza el umbral negativo.
 
+<br>
+
 **Bounded Context: `Alert Management`**
 
 ![Component Diagram BC5](brandradar-report/assets/architecture/AlertComponents.png)
 
 Gestiona el ciclo de vida de las crisis de reputación. Evalúa las menciones negativas, genera tickets de seguimiento y dispara notificaciones push a través de servicios como Firebase/APNs.
 
+<br>
+
 **Bounded Context: `Reporting`**
 
 ![Component Diagram BC6](brandradar-report/assets/architecture/ReportingComponents.png)
 
 Consolida la información mediante procesos asíncronos para generar dashboards analíticos y reportes descargables en PDF, permitiendo a las agencias presentar resultados tangibles a sus clientes.
+
+<br>
 
 ---
 
