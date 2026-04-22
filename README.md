@@ -1788,17 +1788,17 @@ Finalmente, trazamos los límites transaccionales y semánticos encerrando los a
 
 **Bounded Contexts:**
 
-![BoundextContext1](brandradar-report/assets/boundext-context/AccountManager.png)
+![BoundextContext1](brandradar-report/assets/boundext-context/accountmanager.png)
 
-![BoundextContext2](brandradar-report/assets/boundext-context/BrandManager.png)
+![BoundextContext2](brandradar-report/assets/boundext-context/brandmanager.png)
 
-![BoundextContext3](brandradar-report/assets/boundext-context/Monitoring.png)
+![BoundextContext3](brandradar-report/assets/boundext-context/monitoring.png)
 
-![BoundextContext4](brandradar-report/assets/boundext-context/SentimentAnalysis.png)
+![BoundextContext4](brandradar-report/assets/boundext-context/sentimentanalysis.png)
 
-![BoundextContext5](brandradar-report/assets/boundext-context/AlertManagment.png)
+![BoundextContext5](brandradar-report/assets/boundext-context/alertmanagment.png)
 
-![BoundextContext6](brandradar-report/assets/boundext-context/Reporting.png)
+![BoundextContext6](brandradar-report/assets/boundext-context/reporting.png)
 
 <br>
 
