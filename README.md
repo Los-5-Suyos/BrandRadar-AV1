@@ -1652,11 +1652,6 @@ La estrategia tipográfica de BrandRadar combina cinco familias de fuentes con r
 
 - **TASA Orbiter** se emplea de forma selectiva en elementos de datos, métricas y componentes técnicos, aportando un carácter tecnológico y preciso que refuerza la naturaleza analítica del producto.
 
-
-<br>
-<div align="center">
-<img src="brandradar-report/assets/images/type.png" alt="Typography and colors" width="350"/>
-</div>
 <br>
 
 Sistema de familias tipográficas
@@ -1691,6 +1686,10 @@ Jerarquía tipográfica
 | UI / Data | TASA Orbiter | Regular | 14–16px | Datos, métricas, UI técnica |
 
 <br>
+<div align="center">
+<img src="brandradar-report/assets/images/type.png" alt="Typography and colors" width="350"/>
+</div>
+<br>
 
 ### Colors
 
@@ -1716,10 +1715,6 @@ Los tonos oscuros (negro y azul pizarra) aportan seriedad y profundidad, adecuad
 | Accent Violet | `#9B3CF7` | Highlights, badges, métricas destacadas |
 
 <br>
-<div align="center">
-<img src="brandradar-report/assets/images/colors.png" alt="Paleta de colores de BrandRadar" width="400"/>
-</div>
-<br>
 
 Adicionalmente, se definen colores de estado semántico para alertas, notificaciones y feedback del sistema:
 
@@ -1730,6 +1725,10 @@ Adicionalmente, se definen colores de estado semántico para alertas, notificaci
 | Danger (crítico) | `#EF4444` | Alertas críticas, errores, sentimiento negativo |
 | Info (informativo) | `#3B82F6` | Mensajes informativos, tooltips |
 
+<br>
+<div align="center">
+<img src="brandradar-report/assets/images/colors.png" alt="Paleta de colores de BrandRadar" width="400"/>
+</div>
 <br>
 
 ---
