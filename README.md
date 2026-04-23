@@ -692,7 +692,7 @@ A continuación, se presentan los Problem Statements correspondientes a los dos 
 
 *Lean UX Canvas elaborado en la herramienta Figma*
 
-![Lean UX Canvas](brandradar-report/assets/images/leancanvas.png)
+![Lean UX Canvas](brandradar-report/assets/lean-canvas/leancanvas.png)
 
 El Lean UX Canvas fue elaborado utilizando la herramienta Figma, lo que permitió estructurar de manera visual y colaborativa los principales componentes del proyecto. En este se identifican los problemas del usuario, las hipótesis de solución, los segmentos de clientes, la propuesta de valor y las métricas clave.
 
@@ -774,7 +774,8 @@ Estos datos evidencian que los profesionales del marketing requieren herramienta
 
 En esta sección se presenta el *Competitive Analysis Landscape*, el cual permite evaluar a **BrandRadar** frente a las principales soluciones disponibles en el mercado. Este análisis tiene como finalidad identificar fortalezas, debilidades y oportunidades, con el fin de comprender el posicionamiento de la propuesta y su valor diferencial frente a la competencia.
 
-<img src="brandradar-report/assets/images/analisis_competitivo.png" alt="Competitive Analysis Landscape" width="1000"/>
+![Competitive Analysis](brandradar-report/assets/competitive-analyaia/analisis_competitivo.png)
+
 <br>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
@@ -1134,6 +1135,8 @@ Actualmente, Vale enfrenta limitaciones críticas con las herramientas oficiales
 
 La mayor frustración de Vale radica en el carácter "artesanal" y manual del monitoreo actual, lo cual le genera una constante ansiedad por la posibilidad de no detectar un "incendio" digital a tiempo. Al conocer la propuesta de BrandRadar, destacó que una herramienta que centralice alertas en tiempo real y automatice el análisis de percepción cambiaría radicalmente su dinámica laboral. Para ella, BrandRadar no solo optimizaría su tiempo de reporte, sino que le permitiría transitar de un modo reactivo a uno proactivo, eliminando el estrés de la búsqueda manual y garantizando que ninguna mención relevante pase desapercibida.
 
+<br>
+
 ---
 
 ### 2.2.3. Análisis de entrevistas
@@ -1143,6 +1146,8 @@ La mayor frustración de Vale radica en el carácter "artesanal" y manual del mo
 <br>
 
 **Segmento objetivo 1: `Pequeñas y medianas empresas y marcas digitales (PyMEs)`**
+
+<br>
 
 A partir de las entrevistas realizadas a emprendedores y gerentes de negocios locales, se identificaron patrones de comportamiento relevantes para la construcción del User Persona. En términos demográficos, el 100 % de los entrevistados opera en zonas comerciales urbanas (Surco) y coincide en que mantener una buena imagen, generar confianza y cumplir con su propuesta de valor son factores críticos para el éxito de sus negocios.
 
@@ -1155,6 +1160,8 @@ Este hallazgo valida la necesidad de una solución como BrandRadar, la cual obtu
 <br>
 
 **Segmento objetivo 2: `Especialistas de marketing o community managers`**
+
+<br>
 
 A partir de las entrevistas realizadas a profesionales de marketing digital, se identificaron patrones que respaldan la viabilidad de la solución en un entorno B2B. El 100 % de los entrevistados trabaja bajo modalidad freelance o en posiciones de jefatura, gestionando cuentas de alta exigencia, y destaca por su enfoque analítico y orientación a resultados.
 
@@ -1254,6 +1261,8 @@ Este recorrido permite identificar puntos de fricción, emociones asociadas a ca
 
 ![User Journey Map Persona 2](brandradar-report/assets/journey-maps/journey-map-persona2.png)
 
+<br>
+
 ---
 
 ### 2.3.4. Empathy Mapping
@@ -1273,6 +1282,8 @@ Este recorrido permite identificar puntos de fricción, emociones asociadas a ca
 
 
 ![Empathy Map Persona 2](brandradar-report/assets/empathy-maps/empathy-map-persona2.png)
+
+<br>
 
 ---
 
@@ -1331,6 +1342,8 @@ Los flujos del sistema describen el recorrido end-to-end desde el registro inici
 
 En conjunto, la identificación de eventos, actores y flujos permitió construir una representación estructurada del dominio del problema, sirviendo como base para la definición de agregados y el diseño del modelo de dominio.
 
+<br>
+
 ---
 
 ## 2.5. Ubiquitous Language
@@ -1387,7 +1400,7 @@ En conjunto, la identificación de eventos, actores y flujos permitió construir
 
 ## 3.1. User Stories
 
---->*Las User Stories de BrandRadar expresan las necesidades reales de los usuarios en su propio lenguaje, describiendo qué requieren del sistema y por qué es importante para ellos. Cada historia traduce un requerimiento de negocio en una funcionalidad concreta, manteniendo el foco en el valor que aporta al usuario. En esta sección, las historias se organizan en Epics, lo que permite estructurar el alcance del producto y priorizar el desarrollo de las funcionalidades más relevantes. Los criterios de aceptación se redactan en tiempo presente y tercera persona, sin referencias a detalles de interfaz, siguiendo la estructura Gherkin (Given / When / Then).*
+>*Las User Stories de BrandRadar expresan las necesidades reales de los usuarios en su propio lenguaje, describiendo qué requieren del sistema y por qué es importante para ellos. Cada historia traduce un requerimiento de negocio en una funcionalidad concreta, manteniendo el foco en el valor que aporta al usuario. En esta sección, las historias se organizan en Epics, lo que permite estructurar el alcance del producto y priorizar el desarrollo de las funcionalidades más relevantes. Los criterios de aceptación se redactan en tiempo presente y tercera persona, sin referencias a detalles de interfaz, siguiendo la estructura Gherkin (Given / When / Then).*
 
 
 | Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
@@ -1451,7 +1464,6 @@ En conjunto, la identificación de eventos, actores y flujos permitió construir
 | US45 | `Sentimiento de Atención (Personal)` | Como `Gerente`, quiero `monitorear menciones sobre el trato de mis empleados`, para `gestionar capacitaciones`. | **Scenario 1:** Detección de nombre. **Given** reseña con nombre de empleado **When** detecta el patrón **Then** vincula la queja al legajo digital del staff. <br> **Scenario 2:** Tendencia trato. **Given** datos mensuales **When** genera reporte RRHH **Then** indica si las quejas son por actitud o lentitud. | EP12 |
 | US46 | `KPI de Retención Mensual de Clientes` | Como `Administrador`, quiero `ver cuántos clientes vuelven a dejar reseñas positivas`, para `medir la fidelización`. | **Scenario 1:** Tasa de retorno. **Given** historial anual **When** genera KPI **Then** indica el % de usuarios recurrentes. <br> **Scenario 2:** Churn reputacional. **Given** usuarios que antes eran positivos y ahora son negativos **When** detecta el cambio **Then** alerta sobre "Riesgo de pérdida de cliente". | EP12 |
 
-
 <br>
 
 ---
@@ -1460,7 +1472,7 @@ En conjunto, la identificación de eventos, actores y flujos permitió construir
 
 <br>
 
-<img src="brandradar-report/assets/impact-mapping/impact-mapping.png" alt="Brand Radar Impact Mapping" style="width:1000px">
+<img src="brandradar-report/assets/impact-mapping/impact-mapping.png" alt="Brand Radar Impact Mapping" style="width: 1000 px">
 
 <br>
 
