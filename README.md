@@ -1621,32 +1621,52 @@ Uso No Permitido: No se permite el uso de sombras paralelas (drop shadows) exces
 
 **Typography:**
 
+El sistema tipográfico de BrandRadar combina fuentes modernas y expresivas para transmitir tecnología, precisión y dinamismo visual. Se utilizan distintas familias tipográficas para reforzar la jerarquía y personalidad de la marca.
 
-Se han seleccionado fuentes que equilibran la robustez técnica con la legibilidad en pantallas de alta densidad.
 
-Fuente Principal: Plus Jakarta Sans (seleccionada por su estilo geométrico y moderno, ideal para encabezados de alto impacto).
+| Tipo           |              Fuente              | Uso                                       |
+| :------------- | :------------------------------: | :---------------------------------------- |
+| Display / Hero |  **Special Gothic Expanded One** | Títulos principales, landing, branding    |
+| Heading        |            **Spartan**           | Encabezados (H2, H3, secciones)           |
+| Subheading     | **Special Gothic Condensed One** | Subtítulos y bloques destacados           |
+| UI / Body      |       **Radio Canada Big**       | Texto principal, navegación, interfaz     |
+| Accent / Tech  |         **TASA Orbiter**         | Elementos tecnológicos, números, detalles |
 
-Fuente Secundaria: Inter (optimizada para la lectura fluida de datos analíticos y párrafos extensos).
+<br>
+
+Jerarquía Tipográfica
+
+| Nivel           |            Fuente            | Peso / Estilo | Uso                         |
+| :-------------- | :--------------------------: | :-----------: | :-------------------------- |
+| H1              |  Special Gothic Expanded One |  Bold / Wide  | Hero, títulos principales   |
+| H2              |            Spartan           |    SemiBold   | Secciones principales       |
+| H3              |            Spartan           |     Medium    | Sub-secciones               |
+| H4              | Special Gothic Condensed One |    Regular    | Encabezados secundarios     |
+| Body            |       Radio Canada Big       |    Regular    | Texto general               |
+| Small / Caption |       Radio Canada Big       |     Light     | Texto secundario            |
+| UI / Data       |         TASA Orbiter         |    Regular    | Datos, métricas, UI técnica |
+
+
 
 <br>
 
 <div align="center">
-<img src="brandradar-report/assets/images/typography.png" alt="Logo Alternativo" width="320"/>
+<img src="brandradar-report/assets/images/typography.jpeg" alt="Typography and colors" width="700"/>
 </div>
 
 <br>
 
 **Colors**
 
-| Nombre | Hex | Uso |
-|:-------|:---:|:----|
-| Primary | `##6366F1` | Color principal de la marca |
-| Secondary | `#1E293B` | Color de apoyo |
-| Accent | `#A855F7` | Énfasis y llamados a la acción |
-| Background | `#F8FAFC` | Fondo general |
-| Text | `#0F172A` | Texto principal |
-| Error | `#EF4444` | Estados de error |
-| Success | `#10B981` | Estados de éxito |
+La paleta de BrandRadar está diseñada para transmitir confianza, tecnología y enfoque analítico, manteniendo un balance entre tonos fríos y acentos vibrantes.
+
+| Nombre           |    Hex    | Uso                           |
+| :--------------- | :-------: | :---------------------------- |
+| Primary Dark     | `#141B38` | Fondo oscuro, headers         |
+| Primary          | `#4A51F4` | Botones, acciones principales |
+| Background Light | `#F4F5FB` | Fondo general                 |
+| Accent Purple    | `#A934D7` | Énfasis, highlights           |
+| Secondary Text   | `#566689` | Texto secundario              |
 
 <br>
 
@@ -1697,17 +1717,9 @@ Se evita el uso de lenguaje demasiado técnico cuando no es necesario, así como
 
 ### 4.1.2. Web Style Guidelines
 
+>*En esta sección se definen los lineamientos visuales y de comportamiento para la interfaz web responsive de BrandRadar, asegurando consistencia, usabilidad y adaptabilidad en distintos dispositivos.*
 
-En esta sección se integran las decisiones para la interfaz Responsive:
-
-Componentes de Botón: Todos los botones poseen un border-radius de 12px. El botón primario utiliza un degradado lineal (linear-gradient) de Indigo a Purple para destacar sobre fondos neutros.
-
-Tarjetas (Cards): Las tarjetas de características presentan un borde suave (border: 1px solid #E2E8F0) y un radio de 24px. En estado hover, la tarjeta debe mostrar una sombra sutil (box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1)).
-
-Sistema de Rejilla: Uso de Flexbox y CSS Grid. En pantallas superiores a 1280px, las tarjetas se distribuyen en 3 columnas. En dispositivos de 768px o menos, la rejilla colapsa a una sola columna para optimizar el área de lectura.
-
----
-
+<br>
 
 ## 4.2. Information Architecture
 
