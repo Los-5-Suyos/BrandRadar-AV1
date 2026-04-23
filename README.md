@@ -1589,7 +1589,7 @@ Estos impactos se materializan en entregables como el motor de IA con entrenamie
 
 ### 4.1.1. General Style Guidelines
 
-### Branding:
+#### Branding:
 
 <br>
 
@@ -1625,7 +1625,7 @@ El isotipo circular puede utilizarse de forma independiente como favicon, ícono
 
 <br>
 <div align="center">
-<img src="brandradar-report/assets/images/logos.png" alt="Logos de BrandRadar" width="500"/>
+<img src="brandradar-report/assets/images/logos.png" alt="Logos de BrandRadar" width="800"/>
 </div>
 <br>
 
@@ -1639,25 +1639,30 @@ No se permite el uso de sombras paralelas (drop shadows) excesivas en el logotip
 </div>
 <br>
 
-**Typography:**
+#### Typography:
 
 <br>
 
 La estrategia tipográfica de BrandRadar combina cinco familias de fuentes con roles claramente diferenciados, logrando un sistema visual que equilibra impacto, legibilidad y personalidad tecnológica. Todas las fuentes están disponibles a través de Google Fonts, garantizando compatibilidad en entornos web y móviles sin dependencias externas.
 
-**Special Gothic Expanded One** se reserva para los títulos principales y elementos de branding de alto impacto. Su diseño expandido y de trazo uniforme domina el espacio visual, ideal para el hero de la landing page y portadas de reportes.
+- **Special Gothic Expanded One** se reserva para los títulos principales y elementos de branding de alto impacto. Su diseño expandido y de trazo uniforme domina el espacio visual, ideal para el hero de la landing page y portadas de reportes.
 
-**Spartan** actúa como la fuente de encabezados estructurales. Su geometría limpia y sus proporciones equilibradas la hacen perfecta para organizar la jerarquía de secciones sin competir con el display principal.
+- **Spartan** actúa como la fuente de encabezados estructurales. Su geometría limpia y sus proporciones equilibradas la hacen perfecta para organizar la jerarquía de secciones sin competir con el display principal.
 
-**Special Gothic Condensed One** complementa al display en subtítulos y bloques destacados donde se requiere presencia tipográfica con menor ocupación horizontal, permitiendo mayor densidad de información en espacios reducidos.
+- **Special Gothic Condensed One** complementa al display en subtítulos y bloques destacados donde se requiere presencia tipográfica con menor ocupación horizontal, permitiendo mayor densidad de información en espacios reducidos.
 
-**Radio Canada Big** es la fuente de interfaz y cuerpo de texto. Diseñada para alta legibilidad en pantallas, se usa en todo el contenido navegable: descripciones, párrafos, etiquetas de navegación, botones y formularios.
+- **Radio Canada Big** es la fuente de interfaz y cuerpo de texto. Diseñada para alta legibilidad en pantallas, se usa en todo el contenido navegable: descripciones, párrafos, etiquetas de navegación, botones y formularios.
 
-**TASA Orbiter** se emplea de forma selectiva en elementos de datos, métricas y componentes técnicos, aportando un carácter tecnológico y preciso que refuerza la naturaleza analítica del producto.
+- **TASA Orbiter** se emplea de forma selectiva en elementos de datos, métricas y componentes técnicos, aportando un carácter tecnológico y preciso que refuerza la naturaleza analítica del producto.
 
 
 <br>
 <div align="center">
+
+<img src="brandradar-report/assets/images/type.png" alt="Typography and colors" width="500"/>
+
+<br>
+
 Sistema de familias tipográficas
 
 | Tipo | Fuente | Uso |
@@ -1682,11 +1687,10 @@ Jerarquía tipográfica
 | Nav link | Radio Canada Big | Medium | 15px | Ítems de navegación |
 | Button text | Radio Canada Big | SemiBold | 14px | Etiquetas de botones y CTAs |
 | UI / Data | TASA Orbiter | Regular | 14–16px | Datos, métricas, UI técnica |
-</div>
 
 <br>
-<div align="center">
-<img src="brandradar-report/assets/images/type.png" alt="Typography and colors" width="700"/>
+
+
 </div>
 <br>
 
