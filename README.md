@@ -911,7 +911,7 @@ Tipo de empresa o agencia donde trabajas
 #### Entrevista 1
 *Imagen de la entrevista*
 
-<img src="brandradar-report/assets/interviews/ss_entrevista_1.png" alt="Screenshot Entrevista 1" width="700"/>
+<img src="brandradar-report/assets/interviews/ss_entrevista_1.png" alt=" Entrevista 1" width="700"/>
 
 <br>
 
@@ -947,7 +947,7 @@ Finalmente, considera que una aplicación podría ayudarle a fortalecer su image
 #### Entrevista 2
 *Imagen de la entrevista*
 
-<img src="brandradar-report/assets/interviews/ss_entrevista_2.png" alt="Screenshot Entrevista 2" width="1000"/>
+<img src="brandradar-report/assets/interviews/ss_entrevista_2.png" alt=" Entrevista 2" width="1000"/>
 
 <br>
 
@@ -984,7 +984,7 @@ Finalmente, reconoce la importancia del entorno digital en su negocio y señala 
 
 *Imagen de la entrevista*
 
-<img src="brandradar-report/assets/interviews/ss_entrevista_3.jpeg" alt="Screenshot Entrevista 3" width="700"/>
+<img src="brandradar-report/assets/interviews/ss_entrevista_3.jpeg" alt=" Entrevista 3" width="700"/>
 
 <br>
 
@@ -1026,7 +1026,7 @@ Finalmente, reconoce que el entorno digital tiene un impacto directo en su negoc
 
 *Imagen de la entrevista*
 
-<img src="brandradar-report/assets/interviews/ss_entrevista_4.png" alt="Screenshot Entrevista 4" width="700"/>
+<img src="brandradar-report/assets/interviews/ss_entrevista_4.png" alt=" Entrevista 4" width="700"/>
 
 <br>
 
@@ -1064,7 +1064,7 @@ Entre sus principales fortalezas destacan su capacidad de análisis, observació
 
 *Imagen de la entrevista*
 
-<img src="brandradar-report/assets/interviews/ss_entrevista_5.png" alt="Screenshot Entrevista 5" width="1000"/>
+<img src="brandradar-report/assets/interviews/ss_entrevista_5.png" alt=" Entrevista 5" width="1000"/>
 
 <br>
 
@@ -1109,7 +1109,7 @@ Finalmente, identifica como uno de los mayores retos del marketing de contenidos
 
 *Imagen de la entrevista*
 
-<img src="brandradar-report/assets/images/Evidencia-EntrevistaS2E3" alt="Screenshot Entrevista 6" width="1000"/>
+<img src="brandradar-report/assets/interviews/ss_entrevista_6.png" alt="Screenshot Entrevista 6" width="1000"/>
 
 <br>
 
@@ -1126,7 +1126,13 @@ Finalmente, identifica como uno de los mayores retos del marketing de contenidos
 
 </div>
 
-*(Redactar resumen de la entrevista)*
+La entrevista fue realizada a Valeria, una joven de 22 años residente de Miraflores, quien se desempeña como Community Manager y Social Media Strategist en una agencia de publicidad. Con formación en comunicaciones y una trayectoria que inició desde sus prácticas universitarias, Vale gestiona actualmente tres marcas de los sectores lifestyle y tech. Su perfil representa al usuario especializado que vive la inmediatez de las redes sociales y que debe mantener un equilibrio entre la creatividad y el manejo de crisis bajo presión.
+
+En su día a día, Vale se inspira en el trabajo de agencias globales como Ogilvy y referentes de estrategia digital como Vilma Núñez. Para ella, la gestión de comunidades no es solo responder mensajes, sino realizar una empatía estratégica que le permita entender el sentimiento real del usuario. Su flujo de trabajo es altamente demandante: dedica entre 2 a 3 horas diarias solo al monitoreo manual de menciones y hasta dos días completos al mes para consolidar reportes de sentimiento y métricas.
+
+Actualmente, Vale enfrenta limitaciones críticas con las herramientas oficiales como Meta Business Suite, ya que estas solo le notifican menciones directas (etiquetas). Esto genera un "punto ciego" peligroso, especialmente en plataformas como TikTok y X (Twitter), donde las críticas pueden viralizarse sin que la marca sea etiquetada. Relató una experiencia reciente donde una queja de un influencer no detectada a tiempo derivó en una crisis reputacional que tuvo que atenderse de emergencia un fin de semana, afectando la percepción de la marca.
+
+La mayor frustración de Vale radica en el carácter "artesanal" y manual del monitoreo actual, lo cual le genera una constante ansiedad por la posibilidad de no detectar un "incendio" digital a tiempo. Al conocer la propuesta de BrandRadar, destacó que una herramienta que centralice alertas en tiempo real y automatice el análisis de percepción cambiaría radicalmente su dinámica laboral. Para ella, BrandRadar no solo optimizaría su tiempo de reporte, sino que le permitiría transitar de un modo reactivo a uno proactivo, eliminando el estrés de la búsqueda manual y garantizando que ninguna mención relevante pase desapercibida.
 
 ---
 
