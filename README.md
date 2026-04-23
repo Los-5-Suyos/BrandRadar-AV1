@@ -151,7 +151,7 @@ A continuación, se presenta el gráfico de red (network graph) del repositorio 
     - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
   - [1.2. Solution Profile](#12-solution-profile)
     - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
-    - [1.2.2. Lean UX Process](./brandradar-report/docs/capitulo-1.md#122-lean-ux-process)
+    - [1.2.2. Lean UX Process](#122-lean-ux-process)
       - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
       - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
       - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
@@ -175,9 +175,9 @@ A continuación, se presenta el gráfico de red (network graph) del repositorio 
   - [2.5. Ubiquitous Language](#25-ubiquitous-language)
     
   #### [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification-1)
-  - [3.1. User Stories](./brandradar-report/docs/capitulo-3.md#31-user-stories)
-  - [3.2. Impact Mapping](./brandradar-report/docs/capitulo-3.md#32-impact-mapping)
-  - [3.3. Product Backlog](./brandradar-report/docs/capitulo-3.md#33-product-backlog)
+  - [3.1. User Stories](#31-user-stories)
+  - [3.2. Impact Mapping](#32-impact-mapping)
+  - [3.3. Product Backlog](#33-product-backlog)
     
   #### [Capítulo IV: Product Design](#capítulo-iv-product-design-1)
   - [4.1. Style Guidelines](#41-style-guidelines)
