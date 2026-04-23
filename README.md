@@ -1545,6 +1545,58 @@ El backlog abarca cinco áreas principales: monitoreo de redes sociales, anális
 
 ### 4.1.1. General Style Guidelines
 
+**Branding:**
+
+Logo Principal: El logotipo de BrandRadar se compone de un isotipo circular que encierra una flecha/brújula estilizada en dirección noreste, simbolizando crecimiento y monitoreo estratégico. La tipografía es una Sans Serif moderna que combina el negro para "Brand" y un gradiente violeta para "Radar", enfatizando el enfoque tecnológico.
+
+Logo Alternativo: Se permite el uso de una variante minimalista en blanco puro sobre fondos oscuros o una versión monocromática en negro absoluto para documentos impresos. El isotipo puede utilizarse de forma independiente como avatar o favicon en interfaces reducidas.
+
+Uso No Permitido: No se permite el uso de sombras paralelas (drop shadows) excesivas en el logotipo, ni la alteración de sus proporciones (estiramiento). Queda prohibido el uso de combinaciones de colores cálidos como rojo o naranja, ya que entran en conflicto con la psicología de "monitoreo sereno" y "seguridad de marca" que el azul y morado proyectan.
+
+
+**Typography:**
+
+
+Se han seleccionado fuentes que equilibran la robustez técnica con la legibilidad en pantallas de alta densidad.
+
+Fuente Principal: Plus Jakarta Sans (seleccionada por su estilo geométrico y moderno, ideal para encabezados de alto impacto).
+
+Fuente Secundaria: Inter (optimizada para la lectura fluida de datos analíticos y párrafos extensos).
+
+
+
+| Tipo | Fuente | Uso |
+|:-----|:------:|:----|
+| Display / Heading | `[Plus Jakarta Sans]` | Títulos y encabezados |
+| Body | `[Inter]` | Texto de contenido |
+| Monospace | `[JetBrains Mono]` | Código y datos técnicos |
+
+**Colors**
+
+| Nombre | Hex | Uso |
+|:-------|:---:|:----|
+| Primary | `##6366F1` | Color principal de la marca |
+| Secondary | `#1E293B` | Color de apoyo |
+| Accent | `#A855F7` | Énfasis y llamados a la acción |
+| Background | `#F8FAFC` | Fondo general |
+| Text | `#0F172A` | Texto principal |
+| Error | `#EF4444` | Estados de error |
+| Success | `#10B981` | Estados de éxito |
+
+**Spacing**
+
+*(Describir el sistema de espaciado y las unidades base utilizadas)*
+
+**Tono de comunicación**
+
+| Dimensión | Selección |
+|:----------|:---------:|
+| Divertido / Serio | *(indicar posición en la escala)* |
+| Formal / Casual | *(indicar posición en la escala)* |
+| Respetuoso / Irreverente | *(indicar posición en la escala)* |
+| Entusiasta / Sereno | *(indicar posición en la escala)* |
+
+
  
 
 ---
