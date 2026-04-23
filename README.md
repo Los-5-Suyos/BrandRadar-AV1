@@ -259,11 +259,13 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 
 <br>
 
-**BrandRadar** es una startup tecnológica que desarrolla una aplicación web orientada al monitoreo y análisis de la reputación digital de marcas y empresas en tiempo real.
+*BrandRadar* es una startup tecnológica dedicada al desarrollo de una aplicación web especializada en el monitoreo y análisis de la reputación digital de marcas y empresas en tiempo real. Su propuesta se centra en proporcionar información estratégica que permita a las organizaciones comprender y gestionar su presencia en el entorno digital de manera eficiente.
 
-La plataforma permite a las organizaciones comprender cómo son percidas en internet mediante la recopilación y análisis de información proveniente de redes sociales, reseñas y menciones en distintas plataformas digitales. Además, integra el monitoreo de redes sociales y el estado de la infraestructura web en un solo panel de control, brindando una visión unificada del rendimiento y la presencia digital de la marca.
+La plataforma integra la recopilación y el análisis de datos provenientes de diversas fuentes, como redes sociales, reseñas en línea y menciones en múltiples plataformas digitales. Asimismo, incorpora el monitoreo del estado de la infraestructura web, consolidando toda la información en un único panel de control. Esto facilita una visión integral del desempeño y posicionamiento digital de la marca.
 
-A través del uso de técnicas de análisis de datos y procesamiento de lenguaje natural, **BrandRadar** identifica tendencias, evalúa el sentimiento de los usuarios (positivo, negativo o neutro) y detecta posibles riesgos reputacionales. Esto permite a las empresas tomar decisiones estratégicas, mejorar su posicionamiento y fortalecer su imagen en el entorno digital.
+Mediante el uso de técnicas avanzadas de análisis de datos y procesamiento de lenguaje natural, *BrandRadar* identifica patrones, analiza tendencias y evalúa el sentimiento de los usuarios, clasificándolo en positivo, negativo o neutro. Además, permite detectar oportunamente posibles riesgos reputacionales, lo que contribuye a una gestión preventiva y estratégica.
+
+En conjunto, esta herramienta brinda a las empresas la capacidad de tomar decisiones informadas, optimizar su posicionamiento en el mercado digital y fortalecer su imagen corporativa, generando así una ventaja competitiva en un entorno cada vez más dinámico y exigente.
 
 <br>
 
@@ -279,13 +281,13 @@ A través del uso de técnicas de análisis de datos y procesamiento de lenguaje
 
 ##  Misión
 
-*"Brindar a empresas y marcas una herramienta tecnológica que les permita monitorear y analizar su reputación digital en tiempo real, facilitando la toma de decisiones estratégicas basadas en datos confiables."*
+*"Brindar a empresas y marcas una herramienta tecnológica que les permita monitorear y analizar su reputación digital en tiempo real, facilitando la toma de decisiones estratégicas basadas en información confiable y oportuna."*
 
 <br>
 
 ##  Visión
 
-*"Ser una plataforma líder en Latinoamérica en gestión de reputación digital, reconocida por su innovación, precisión analítica y contribución al crecimiento de las marcas en el entorno digital."*
+*"Ser una plataforma líder en Latinoamérica en la gestión de la reputación digital, reconocida por su innovación, precisión analítica y aporte al crecimiento y posicionamiento de las marcas en el entorno digital."*
 
 </div>
 
@@ -296,8 +298,8 @@ A través del uso de técnicas de análisis de datos y procesamiento de lenguaje
 BrandRadar permite a las empresas:
 
 -  Monitorear en tiempo real lo que se dice sobre su marca en internet  
--  Centralizar el monitoreo de redes sociales y el estado de la infraestructura web en un solo panel de control  
--  Analizar automáticamente el sentimiento de opiniones y comentarios
+-  Centralizar el monitoreo de redes sociales y el estado de la infraestructura web en un único panel de control  
+-  Analizar de forma automática el sentimiento de opiniones y comentarios
 -  Detectar crisis reputacionales de manera temprana
 -  Obtener información clara y accionable para mejorar su posicionamiento digital  
 <br>
@@ -433,15 +435,15 @@ BrandRadar permite a las empresas:
 
 En la última década, la digitalización ha transformado significativamente la relación entre empresas y consumidores, trasladando gran parte de la interacción hacia entornos digitales. En este contexto, la reputación de marca ya no depende únicamente de la comunicación corporativa, sino también del contenido generado por los propios usuarios en internet.
 
-De acuerdo con Statista (2025), las reseñas online se han convertido en un factor clave en la toma de decisiones de compra, siendo consideradas por el 62 % de los consumidores como muy influyentes al momento de elegir productos o servicios . Esto evidencia que la percepción digital de una marca impacta directamente en su desempeño comercial.
+De acuerdo con Statista (2025), las reseñas online se han convertido en un factor clave en la toma de decisiones de compra, siendo consideradas por el 62 % de los consumidores como muy influyentes al momento de elegir productos o servicios. Esto evidencia que la percepción digital de una marca impacta directamente en su desempeño comercial.
 
-Asimismo, estudios recientes de BrightLocal (2026) muestran que el 97 % de los consumidores lee reseñas en línea antes de elegir un negocio, y que el 85 % es más propenso a confiar en empresas con opiniones positivas, mientras que el 77 % evita aquellas con reseñas negativas . Estos datos confirman que la reputación digital influye de manera directa en la confianza y decisión del consumidor.
+Asimismo, estudios recientes de BrightLocal (2026) muestran que el 97 % de los consumidores lee reseñas en línea antes de elegir un negocio, y que el 85 % es más propenso a confiar en empresas con opiniones positivas, mientras que el 77 % evita aquellas con reseñas negativas. Estos datos refuerzan la idea de que la reputación digital influye de manera directa en la confianza y decisión del consumidor.
 
-Por otro lado, investigaciones académicas también han demostrado que las reseñas digitales funcionan como un mecanismo que reduce la incertidumbre en los consumidores. Según Myle Ott, Claire Cardie y Jeff Hancock (2012), las opiniones en línea actúan como señales que permiten a los usuarios evaluar la calidad de un producto o servicio en ausencia de información directa .
+Por otro lado, diversas investigaciones académicas han demostrado que las reseñas digitales funcionan como un mecanismo que reduce la incertidumbre en los consumidores. Según Ott, Cardie y Hancock (2012), las opiniones en línea actúan como señales que permiten a los usuarios evaluar la calidad de un producto o servicio en ausencia de información directa.
 
-Sin embargo, el entorno digital actual también presenta desafíos importantes. La información sobre una marca se encuentra distribuida en múltiples plataformas, lo que dificulta su gestión. Además, el volumen de datos generado por los usuarios es cada vez mayor, lo que complica su análisis e interpretación. A esto se suma la existencia de información poco confiable o engañosa, lo que afecta la credibilidad del ecosistema digital. En este sentido, estudios recientes evidencian que más del 75 % de los consumidores desconfía de posibles reseñas falsas, lo que impacta directamente en la confianza hacia las marcas (Backlinko, 2026).
+No obstante, el entorno digital actual también presenta desafíos importantes. La información sobre una marca se encuentra distribuida en múltiples plataformas, lo que dificulta su gestión. Además, el volumen de datos generado por los usuarios es cada vez mayor, lo que complica su análisis e interpretación. A ello se suma la presencia de información poco confiable o engañosa, lo que afecta la credibilidad del ecosistema digital. En este sentido, estudios recientes evidencian que más del 75 % de los consumidores desconfía de posibles reseñas falsas, lo que impacta directamente en la confianza hacia las marcas (Backlinko, 2026).
 
-En conjunto, estos factores demuestran que la reputación digital se ha convertido en un activo estratégico para las empresas, pero también en un desafío complejo de gestionar, especialmente para aquellas organizaciones que no cuentan con herramientas adecuadas para monitorear y analizar la información en tiempo real.
+En conjunto, estos factores demuestran que la reputación digital se ha convertido en un activo estratégico para las empresas, pero también en un desafío complejo de gestionar, especialmente para aquellas organizaciones que no cuentan con herramientas adecuadas que les permitan monitorear y analizar la información en tiempo real de manera eficiente.
 
 
 <br>
@@ -453,73 +455,69 @@ En conjunto, estos factores demuestran que la reputación digital se ha converti
 
 ####   What — ¿Cuál es el problema?
 
-Las marcas no cuentan con visibilidad en tiempo real sobre cómo son percibidas en internet. No saben qué se dice de ellas, dónde se dice, qué tono predomina ni cuándo una mención negativa está escalando hacia una crisis, debido a la dispersión de información en múltiples plataformas y la falta de herramientas accesibles que integren estos datos de manera clara y accionable. Esta ausencia de información oportuna impide tomar decisiones correctivas antes de que el daño a la reputación sea irreversible.
+Las marcas no cuentan con visibilidad en tiempo real sobre cómo son percibidas en internet. En muchos casos, desconocen qué se dice de ellas, en qué plataformas se generan las menciones, qué tono predomina en las opiniones ni cuándo una percepción negativa puede escalar hacia una crisis reputacional.
+
+Esta situación se debe, principalmente, a la dispersión de la información en múltiples canales digitales y a la falta de herramientas accesibles que integren y analicen estos datos de manera clara y accionable. Como consecuencia, las organizaciones no logran identificar oportunamente riesgos reputacionales, lo que limita su capacidad de respuesta y dificulta la toma de decisiones estratégicas antes de que el impacto negativo se intensifique.
 
 ####   Why — ¿Por qué es un problema relevante?
 
-Este problema ocurre porque:
+Este problema es relevante debido a diversos factores que dificultan una adecuada gestión de la reputación digital:
 
-- La información sobre la marca está distribuida en múltiples canales digitales.
-  
-- Las herramientas existentes suelen ser complejas o costosas.
-  
-- Existe una sobrecarga de datos difícil de interpretar.
-  
-- La reputación digital es dinámica y cambia constantemente en tiempo real
+- La información sobre la marca se encuentra distribuida en múltiples canales digitales, lo que complica su seguimiento y análisis.
+- Las herramientas disponibles en el mercado suelen ser complejas o implican costos elevados, limitando su acceso, especialmente para pequeñas y medianas empresas.
+- Existe una sobrecarga de datos generados constantemente, lo que dificulta su correcta interpretación y uso estratégico.
+- La reputación digital es dinámica y puede cambiar rápidamente en tiempo real, lo que exige una supervisión continua.
 
 ####   Who — ¿Quiénes son los afectados?
 
-- Pequeñas y medianas empresas o marcas digitales (PyMEs).
+- Pequeñas y medianas empresas (PyMEs) y marcas digitales que buscan gestionar su presencia en línea.
 
-- Agencias de marketing digital y especialistas.
+- Agencias de marketing digital y especialistas encargados de la gestión de marcas.
 
-- Community managers y responsables de comunicación.
+- Community managers y responsables de comunicación que monitorean la interacción con los usuarios.
 
 
 ####   Where — ¿Dónde ocurre?
 
-El problema se manifiesta en el ecosistema digital en su conjunto: redes sociales (Instagram, X/Twitter, TikTok, LinkedIn, Facebook), plataformas de reseñas (Google, Trustpilot, TripAdvisor), foros y comunidades (Reddit, Quora), medios de comunicación digitales y blogs. La dispersión de fuentes hace imposible el monitoreo de forma manual.
+El problema se manifiesta en el ecosistema digital en su conjunto, abarcando redes sociales (Instagram, X/Twitter, TikTok, LinkedIn y Facebook), plataformas de reseñas (Google, Trustpilot y TripAdvisor), así como foros y comunidades en línea (Reddit y Quora), medios digitales y blogs.
+
+La dispersión de la información en estos múltiples canales dificulta su seguimiento integral, haciendo que el monitoreo manual resulte ineficiente e incluso inviable para muchas organizaciones.
 
 
 ####   When — ¿Cuándo se presenta con mayor criticidad?
 
-El problema se vuelve crítico en momentos de alta exposición mediática: lanzamientos de productos, campañas publicitarias, controversias públicas o eventos del sector. No obstante, la naturaleza del entorno digital implica que la reputación está en juego de forma permanente y continua, las 24 horas del día, los 7 días de la semana.
+El problema se intensifica en momentos de alta exposición mediática, como lanzamientos de productos, campañas publicitarias, controversias públicas o eventos relevantes del sector. En estas situaciones, el volumen de interacciones y menciones aumenta significativamente, elevando el riesgo de impacto reputacional.
+
+No obstante, debido a la naturaleza dinámica del entorno digital, la reputación de una marca se encuentra en constante evaluación, lo que implica que este problema está presente de manera continua, las 24 horas del día, los 7 días de la semana.
 
 ####   How — ¿Cómo se enfrenta actualmente el problema?
 
-- La mayoría de empresas que no accede a soluciones especializadas recurre a métodos manuales: búsquedas periódicas en Google, revisión esporádica de redes sociales y alertas básicas por correo electrónico. 
+Actualmente, muchas empresas que no cuentan con soluciones especializadas enfrentan esta problemática mediante métodos manuales y poco integrados. Entre las principales prácticas se encuentran:
 
-- La información está fragmentada en múltiples plataformas
-
-- No existe monitoreo automatizado en tiempo real
-
-- Las empresas detectan problemas de forma tardía
-
-- Las decisiones se toman sin datos consolidados
+- La realización de búsquedas periódicas en motores como Google y la revisión esporádica de redes sociales.
+- El uso de alertas básicas por correo electrónico, que no garantizan un seguimiento completo ni en tiempo real.
+- La gestión de información fragmentada en múltiples plataformas, lo que dificulta su análisis integral.
+- La ausencia de sistemas automatizados que permitan monitorear la reputación digital de manera continua.
+- La detección tardía de problemas reputacionales, lo que reduce la capacidad de respuesta.
+- La toma de decisiones basada en información incompleta o no consolidada.
 
 
 ####   How Much — ¿Cuál es la magnitud del impacto?
 
-El impacto de la reputación digital en las empresas es significativo y está respaldado por múltiples estudios recientes.
+El impacto de la reputación digital en las empresas es significativo y se encuentra respaldado por diversos estudios recientes.
 
-Diversas investigaciones evidencian que:
+En este sentido, distintas investigaciones evidencian que:
 
-- El **93 % de los consumidores lee reseñas online antes de comprar (Ruby, 2025).**
-  
+- El **93 % de los consumidores lee reseñas online antes de realizar una compra (Ruby, 2025).**
 - El **97 % consulta reseñas de negocios antes de visitarlos (Capital One Shopping Research, 2026).**
-  
-- El **85 % evita empresas sin reseñas o con mala reputación (Capital One Shopping Research, 2026).**
-  
-- El **75 % de los consumidores desconfía de reseñas falsas, lo que afecta la credibilidad de las marcas ((Ruby, 2025).**
-  
-- Las reseñas pueden **incrementar las ventas hasta en 19.8 % (Capital One Shopping Research, 2026)**
+- El **85 % evita empresas sin reseñas o con una reputación negativa (Capital One Shopping Research, 2026).**
+- El **75 % de los consumidores desconfía de reseñas falsas, lo que afecta la credibilidad de las marcas (Ruby, 2025).**
+- Las reseñas pueden **incrementar las ventas hasta en un 19,8 % (Capital One Shopping Research, 2026).**
 
-Estos datos demuestran que la reputación digital tiene un impacto directo en:
+Estos datos demuestran que la reputación digital tiene un impacto directo en aspectos clave como:
 
 - La **decisión de compra**
-
 - La **confianza del consumidor**
-
 - Los **ingresos de la empresa**
 
 <br>
@@ -570,7 +568,10 @@ Estos resultados evidencian que una mala gestión de la reputación digital pued
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-El proceso Lean UX parte de identificar con precisión los problemas reales que enfrentan los usuarios antes de proponer cualquier solución. A continuación se presentan los Problem Statements correspondientes a los dos segmentos iniciales de BrandRadar, construidos a partir del análisis de dominio, segmento de cliente, pain points, gap de mercado, visión estratégica y segmento inicial.
+El proceso Lean UX se basa en identificar con precisión los problemas reales que enfrentan los usuarios antes de proponer cualquier solución. Este enfoque permite comprender sus necesidades, comportamientos y dificultades, con el fin de diseñar propuestas que generen valor de manera efectiva.
+
+A continuación, se presentan los Problem Statements correspondientes a los dos segmentos iniciales de BrandRadar, los cuales han sido formulados a partir del análisis del dominio, el segmento de clientes, los principales pain points, el gap de mercado y la visión estratégica del proyecto.
+
 <br>
 
 ### Problem Statement 1
@@ -578,9 +579,9 @@ El proceso Lean UX parte de identificar con precisión los problemas reales que 
 ####  Pequeñas y medianas empresas y marcas digitales (PyMEs)
 <br>
 
-> Hemos observado que las **pequeñas y medianas empresas con presencia digital** no cuentan con herramientas que les permitan monitorear su reputación en tiempo real, lo que provoca que no detecten a tiempo comentarios negativos o crisis reputacionales. Como resultado, reaccionan de forma tardía, toman decisiones sin datos claros y pierden control sobre la percepción de su marca.
+> Hemos observado que las **pequeñas y medianas empresas con presencia digital** no cuentan con herramientas accesibles que les permitan monitorear su reputación en tiempo real. Esto ocasiona que no logren detectar oportunamente comentarios negativos o posibles crisis reputacionales. Como consecuencia, reaccionan de forma tardía, toman decisiones sin información clara y pierden control sobre la percepción de su marca.
 
-*"¿Cómo podríamos permitir a estas empresas monitorear y detectar en tiempo real lo que se dice de su marca para gestionar su reputación de forma proactiva?"*
+*"¿Cómo podríamos ayudar a estas empresas a monitorear y detectar en tiempo real lo que se dice de su marca, para que puedan gestionar su reputación de manera proactiva y basada en información confiable?"*
 
 <br>
 
@@ -589,9 +590,9 @@ El proceso Lean UX parte de identificar con precisión los problemas reales que 
 ####  Especialistas de marketing o community managers
 <br>
 
-> Hemos observado que las **agencias de marketing digital** enfrentan una gestión fragmentada de la reputación de sus clientes, sin una herramienta que centralice el monitoreo y permita detectar menciones relevantes en tiempo real. Esto incrementa el tiempo operativo, dificulta la respuesta oportuna ante crisis y limita la capacidad de gestionar múltiples marcas de forma eficiente.
+> Hemos observado que las **agencias de marketing digital y especialistas en gestión de marca** enfrentan una administración fragmentada de la reputación de sus clientes, sin contar con una herramienta que centralice el monitoreo y permita identificar menciones relevantes en tiempo real. Esto incrementa el tiempo operativo, dificulta la respuesta oportuna ante posibles crisis y limita la capacidad de gestionar múltiples marcas de manera eficiente.
 
-*"¿Cómo podríamos centralizar el monitoreo de múltiples marcas y facilitar la detección oportuna de menciones críticas en un solo lugar?"*
+*"¿Cómo podríamos ayudar a estos profesionales a centralizar el monitoreo de múltiples marcas y facilitar la detección oportuna de menciones críticas en un solo lugar, optimizando así su gestión y capacidad de respuesta?"*
 
 ---
 <br>
@@ -607,13 +608,13 @@ El proceso Lean UX parte de identificar con precisión los problemas reales que 
   
   •  Sistema de alertas automáticas ante menciones negativas y eventos críticos.
   
-  •  Monitoreo de múltiples fuentes digitales (redes sociales, reseñas y menciones web).
+  •  Monitoreo de múltiples fuentes digitales, como redes sociales, plataformas de reseñas y menciones web.
   
-  •  Monitoreo del estado de la infraestructura web (disponibilidad, rendimiento y errores).
+  •  Monitoreo del estado de la infraestructura web, considerando disponibilidad, rendimiento y detección de errores.
   
-  •  Análisis de sentimiento automático (positivo / neutro / negativo).
+  •  Análisis de sentimiento automatizado, clasificando las opiniones en positivas, neutras o negativas.
 
-  •  Historial y trazabilidad de menciones y eventos.
+  •  Historial y trazabilidad de menciones y eventos para su seguimiento y análisis.
 
 <br>
 
@@ -621,39 +622,39 @@ El proceso Lean UX parte de identificar con precisión los problemas reales que 
 
   •  Reducir el tiempo de respuesta ante menciones negativas y fallos en la infraestructura web.
   
-  •  Incrementar el sentimiento positivo de la marca.
+  •  Incrementar el nivel de sentimiento positivo asociado a la marca.
   
   •  Mejorar la continuidad operativa mediante la detección temprana de problemas técnicos.
   
-  •  Aumentar la retención de usuarios activos. 
+  •  Aumentar la retención de usuarios activos en la plataforma. 
   
-  •  Lograr adopción temprana de la plataforma en PyMEs y agencias.
+  •  Lograr la adopción temprana de la plataforma por parte de PyMEs y agencias de marketing digital.
 
 <br>
 
 #### Users
 
-  •  Responsables de marketing o community managers que gestionan la reputación digital.
+  •  Responsables de marketing y community managers encargados de la gestión de la reputación digital.
   
-  •  Pequeñas y medianas empresas con presencia online.
+  •  Pequeñas y medianas empresas (PyMEs) con presencia en entornos digitales.
   
-  •  Agencias de marketing digital que manejan múltiples marcas.
-
+  •  Agencias de marketing digital que gestionan múltiples marcas y clientes.
+  
 <br>
 
 #### User Outcomes
 
-  •  Conocer en tiempo real qué se dice de su marca.
+  •  Conocer en tiempo real lo que se dice sobre su marca en el entorno digital.
   
-  •  Detectar rápidamente comentarios negativos, crisis reputacionales o fallos técnicos.
+  •  Detectar de manera oportuna comentarios negativos, posibles crisis reputacionales o fallos técnicos.
   
-  •  Tener una visión unificada de reputación digital y estado de la infraestructura.
+  •  Contar con una visión unificada de la reputación digital y del estado de la infraestructura web.
   
-  •  Tomar decisiones basadas en datos de percepción y rendimiento.
+  •  Tomar decisiones informadas basadas en datos sobre percepción y rendimiento.
   
-  •  Ahorrar tiempo en el monitoreo manual de múltiples plataformas.
-
-  •  Gestionar su reputación de forma proactiva en lugar de reactiva.
+  •  Reducir el tiempo invertido en el monitoreo manual de múltiples plataformas.
+  
+  •  Gestionar su reputación de forma proactiva, en lugar de reactiva.
 
 <br>
 
@@ -666,21 +667,21 @@ El proceso Lean UX parte de identificar con precisión los problemas reales que 
 **Hypothesis Statement 1:**
 
 
-> Creemos que al implementar alertas automáticas en tiempo real sobre menciones negativas y fallos en la infraestructura web, los responsables de marketing y equipos técnicos podrán responder más rápido y prevenir crisis reputacionales y operativas.
-**Sabremos que hemos tenido éxito** cuando al menos el 70 % de los usuarios activos configure alertas en su primera semana y se evidencie una reducción en el tiempo de respuesta ante incidentes.
+> Creemos que, al implementar alertas automáticas en tiempo real sobre menciones negativas y fallos en la infraestructura web, los responsables de marketing y equipos técnicos podrán responder de manera más oportuna y prevenir crisis reputacionales y operativas.
+**Sabremos que hemos tenido éxito** cuando al menos el 70 % de los usuarios activos configure alertas durante su primera semana de uso y se evidencie una reducción en el tiempo de respuesta ante incidentes.
 
 **Hypothesis Statement 2:**
 
 
-> Creemos que al ofrecer un dashboard centralizado que integre métricas de reputación (sentimiento, volumen, tendencias) y estado de la infraestructura web, los usuarios podrán comprender mejor el desempeño digital de su marca y tomar decisiones estratégicas más informadas.
-**Sabremos que hemos tenido éxito** cuando el 65 % de los usuarios consulte el dashboard al menos 3 veces por semana durante el primer mes.
+> Creemos que, al ofrecer un dashboard centralizado que integre métricas de reputación (sentimiento, volumen y tendencias) junto con el estado de la infraestructura web, los usuarios podrán comprender mejor el desempeño digital de su marca y tomar decisiones estratégicas más informadas.
+**Sabremos que hemos tenido éxito** cuando el 65 % de los usuarios activos consulte el dashboard al menos tres veces por semana durante el primer mes de uso.
 
 
 **Hypothesis Statement 3:**
 
 
-> Creemos que al integrar múltiples canales digitales y el monitoreo técnico en una sola plataforma, los usuarios podrán obtener una visión completa y unificada de su ecosistema digital.
-**Sabremos que hemos tenido éxito** cuando el 60 % de los usuarios conecte más de una fuente de datos y utilice al menos una funcionalidad de monitoreo de infraestructura durante su primera semana de uso.
+> Creemos que, al integrar múltiples canales digitales junto con el monitoreo técnico en una sola plataforma, los usuarios podrán obtener una visión más completa y unificada de su ecosistema digital.
+**Sabremos que hemos tenido éxito** cuando al menos el 60 % de los usuarios activos conecte más de una fuente de datos y utilice al menos una funcionalidad de monitoreo de infraestructura durante su primera semana de uso.
 
 
 <br>
@@ -693,7 +694,9 @@ El proceso Lean UX parte de identificar con precisión los problemas reales que 
 
 ![Lean UX Canvas](brandradar-report/assets/images/leancanvas.png)
 
-El Lean UX Canvas fue diseñado utilizando Figma, lo que permitió estructurar de manera visual y colaborativa los principales componentes del proyecto. En este canvas se identifican los problemas del usuario, las hipótesis de solución, los segmentos de clientes, las propuestas de valor y las métricas clave. Además, su desarrollo facilitó la iteración rápida de ideas y la alineación del equipo en torno a los objetivos del producto, permitiendo validar supuestos de forma temprana y enfocar los esfuerzos en generar valor para el usuario final.
+El Lean UX Canvas fue elaborado utilizando la herramienta Figma, lo que permitió estructurar de manera visual y colaborativa los principales componentes del proyecto. En este se identifican los problemas del usuario, las hipótesis de solución, los segmentos de clientes, la propuesta de valor y las métricas clave.
+
+Asimismo, su desarrollo facilitó la iteración continua de ideas y la alineación del equipo en torno a los objetivos del producto. De esta manera, se logró validar supuestos de forma temprana y enfocar los esfuerzos en generar valor para el usuario final.
 
 ---
 
@@ -702,7 +705,7 @@ El Lean UX Canvas fue diseñado utilizando Figma, lo que permitió estructurar d
 ### Segmento objetivo 1: Pequeñas y medianas empresas y marcas digitales (PyMEs)
 <br>
 
-Este grupo está formado por propietarios o gerentes de pequeñas y medianas empresas (como restaurantes, clínicas dentales, hoteles boutique o e-commerce) que cuentan con presencia activa en canales digitales, pero que no disponen de equipos especializados en comunicación o gestión de reputación.
+Este segmento está conformado por propietarios o gerentes de pequeñas y medianas empresas, como restaurantes, clínicas dentales, hoteles boutique o negocios de comercio electrónico, que cuentan con presencia activa en canales digitales. Sin embargo, no disponen de equipos especializados en comunicación o gestión de la reputación, lo que limita su capacidad para monitorear y responder de manera oportuna a las interacciones de los usuarios.
 
 <br>
 
@@ -721,14 +724,18 @@ Este grupo está formado por propietarios o gerentes de pequeñas y medianas emp
 *Estadísticas de sustento:*
 
 <br>
-Para respaldar este segmento, según Ipsos Perú (2023), el 85% de los consumidores peruanos revisa opiniones en línea antes de adquirir un producto o servicio. Asimismo, estudios de BrightLocal (2026) indican que el 93% de los usuarios toma decisiones de compra basadas en las reseñas locales. Esto demuestra que para una PyME, monitorear su reputación no es un lujo, sino una necesidad de supervivencia.
+Para respaldar este segmento, según Ipsos Perú (2023), el 85 % de los consumidores peruanos revisa opiniones en línea antes de adquirir un producto o servicio. Asimismo, estudios de BrightLocal (2026) indican que el 93 % de los usuarios toma decisiones de compra basadas en reseñas locales.
+
+Estos datos evidencian que, para una PyME, el monitoreo de su reputación digital no constituye un elemento opcional, sino una necesidad estratégica para su posicionamiento y sostenibilidad en el mercado.
 
 ---
 
 ### Segmento objetivo 2: Especialistas de marketing o community managers
 <br>
 
-Este segmento está compuesto por profesionales responsables de gestionar la presencia digital de una o múltiples marcas, incluyendo community managers, analistas de marketing digital y equipos de comunicación. Su mayor dolor es el tiempo operativo que pierden revisando diferentes redes sociales una por una y armando reportes de reputación manualmente. Necesitan una herramienta que centralice todo y les alerte de crisis en tiempo real para proteger a las marcas que representan.
+Este segmento está conformado por profesionales responsables de gestionar la presencia digital de una o múltiples marcas, incluyendo community managers, analistas de marketing digital y equipos de comunicación. Estos usuarios enfrentan como principal dificultad el alto tiempo operativo que invierten en la revisión manual de diversas plataformas digitales y en la elaboración de reportes de reputación.
+
+En este contexto, requieren una herramienta que les permita centralizar la información, optimizar sus procesos de monitoreo y recibir alertas en tiempo real ante posibles crisis, con el fin de gestionar de manera más eficiente la reputación de las marcas que representan.
 
 <br>
 
@@ -747,7 +754,9 @@ Este segmento está compuesto por profesionales responsables de gestionar la pre
 
 <br>
 
-Según reportes de la industria como el State of Marketing de HubSpot, los equipos de marketing enfrentan una creciente necesidad de gestionar grandes volúmenes de información, lo que incrementa el tiempo dedicado a tareas operativas como la elaboración de reportes y el seguimiento de métricas (HubSpot, 2024).
+Según reportes de la industria, como el *State of Marketing* de HubSpot (2024), los equipos de marketing enfrentan una creciente necesidad de gestionar grandes volúmenes de información, lo que incrementa el tiempo dedicado a tareas operativas como la elaboración de reportes y el seguimiento de métricas.
+
+Estos datos evidencian que los profesionales del marketing requieren herramientas que optimicen sus procesos, reduzcan la carga operativa y les permitan enfocarse en actividades estratégicas de mayor valor.
 
 ---
 
@@ -763,22 +772,22 @@ Según reportes de la industria como el State of Marketing de HubSpot, los equip
 
 ### 2.1.1. Análisis competitivo
 
-A continuación, se presenta el *Competitive Analysis Landscape* para evaluar a BrandRadar frente a las principales alternativas del mercado.
+En esta sección se presenta el *Competitive Analysis Landscape*, el cual permite evaluar a **BrandRadar** frente a las principales soluciones disponibles en el mercado. Este análisis tiene como finalidad identificar fortalezas, debilidades y oportunidades, con el fin de comprender el posicionamiento de la propuesta y su valor diferencial frente a la competencia.
 
 <img src="brandradar-report/assets/images/analisis_competitivo.png" alt="Competitive Analysis Landscape" width="1000"/>
 <br>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
-Para asegurar la competitividad de BrandRadar en el mercado de herramientas de monitoreo digital, se plantean estrategias orientadas a diferenciar su propuesta de valor frente a soluciones existentes, aprovechando sus limitaciones y necesidades no cubiertas.
+Para asegurar la competitividad de BrandRadar en el mercado de herramientas de monitoreo digital, se plantean estrategias orientadas a diferenciar su propuesta de valor frente a las soluciones existentes, aprovechando sus limitaciones y las necesidades no cubiertas del mercado.
 
-En primer lugar, se adopta una estrategia de enfoque en prevención, diferenciándose de herramientas como Metricool, que priorizan la gestión de contenido. BrandRadar se centra en la detección temprana de riesgos reputacionales. Como táctica, se implementan alertas automáticas en tiempo real ante picos de menciones negativas o eventos críticos, posicionándose como una herramienta que permite anticiparse a crisis y no solo reaccionar ante ellas.
+En primer lugar, se adopta una estrategia de enfoque en la prevención, diferenciándose de herramientas como Metricool, que priorizan la gestión de contenido. En este sentido, BrandRadar se centra en la detección temprana de riesgos reputacionales. Como táctica, se implementan alertas automáticas en tiempo real ante picos de menciones negativas o eventos críticos, posicionándose como una herramienta que permite anticiparse a posibles crisis y no solo reaccionar ante ellas.
 
-En segundo lugar, se propone una estrategia de liderazgo en costos y usabilidad frente a plataformas más complejas como Mention. BrandRadar busca democratizar el acceso a herramientas de monitoreo mediante una interfaz intuitiva y un modelo SaaS accesible para PyMEs. Como táctica, se simplifica la visualización de datos a través de indicadores claros (por ejemplo, semáforos de reputación) y se ofrecen planes adaptados al contexto del mercado local.
+En segundo lugar, se propone una estrategia de liderazgo en costos y usabilidad frente a plataformas más complejas como Mention. BrandRadar busca democratizar el acceso a herramientas de monitoreo mediante una interfaz intuitiva y un modelo SaaS accesible para PyMEs. Como táctica, se simplifica la visualización de datos a través de indicadores claros (por ejemplo, semáforos de reputación) y se ofrecen planes adaptados al contexto del mercado.
 
-Finalmente, se plantea una estrategia de diferenciación tecnológica frente a soluciones básicas como Google Alerts, que se limitan a la detección de menciones. BrandRadar incorpora análisis de sentimiento y centralización de información, permitiendo no solo identificar qué se dice de una marca, sino también interpretar cómo es percibida. Como táctica, se integran técnicas de procesamiento de lenguaje natural para generar insights accionables que apoyen la toma de decisiones.
+Finalmente, se plantea una estrategia de diferenciación tecnológica frente a soluciones básicas como Google Alerts, que se limitan a la detección de menciones. BrandRadar incorpora análisis de sentimiento y centralización de la información, lo que permite no solo identificar qué se dice de una marca, sino también interpretar cómo es percibida. Como táctica, se integran técnicas de procesamiento de lenguaje natural para generar insights accionables que apoyen la toma de decisiones.
 
-En conjunto, estas estrategias permiten posicionar a BrandRadar como una solución accesible, inteligente y orientada a la acción dentro del mercado de monitoreo de reputación digital.
+En conjunto, estas estrategias permiten posicionar a BrandRadar como una solución accesible, inteligente y orientada a la acción dentro del mercado de monitoreo de reputación digital. De este modo, la propuesta no solo responde a las limitaciones de las herramientas existentes, sino que también aporta un valor diferencial al facilitar una gestión más proactiva, integrada y basada en datos.
 
 <br>
 
@@ -790,25 +799,24 @@ En conjunto, estas estrategias permiten posicionar a BrandRadar como una soluci�
 
 ### 2.2.1. Diseño de entrevistas
 
-En esta sección se presenta el diseño de las entrevistas realizadas con el objetivo de comprender en profundidad las necesidades, comportamientos y problemáticas de los usuarios identificados. Se empleó un enfoque de entrevistas semiestructuradas, permitiendo obtener información cualitativa relevante y flexible según las respuestas de los participantes.
+En esta sección se presenta el diseño de las entrevistas realizadas con el objetivo de comprender en profundidad las necesidades, comportamientos y problemáticas de los usuarios identificados. Para ello, se empleó un enfoque de entrevistas semiestructuradas, el cual permitió obtener información cualitativa relevante, manteniendo a la vez flexibilidad para profundizar en las respuestas de los participantes.
 
-
-El diseño de las entrevistas se basó en buenas prácticas de investigación en experiencia de usuario (UX), priorizando el uso de preguntas abiertas, evitando sesgos y enfocándose en experiencias reales de los usuarios. Asimismo, se buscó recolectar tanto información principal (relacionada con el problema y uso de herramientas) como información complementaria (datos demográficos y contexto personal), necesaria para la construcción de arquetipos o user personas.
+El diseño de las entrevistas se basó en buenas prácticas de investigación en experiencia de usuario (UX), priorizando el uso de preguntas abiertas, evitando sesgos y enfocándose en experiencias reales de los usuarios. Asimismo, se buscó recolectar tanto información principal —relacionada con el problema y el uso de herramientas— como información complementaria, como datos demográficos y contexto personal, necesarios para la construcción de arquetipos o user personas.
 <br>
 
 ### Segmento 1: Pequeñas y medianas empresas y marcas digitales (PyMEs)
 
-Para este segmento, las entrevistas estuvieron orientadas a comprender cómo las empresas gestionan actualmente su reputación digital, qué dificultades enfrentan y qué nivel de conocimiento tienen sobre herramientas tecnológicas.
+Para este segmento, las entrevistas estuvieron orientadas a comprender cómo las empresas gestionan actualmente su reputación digital, qué dificultades enfrentan en este proceso y cuál es su nivel de conocimiento sobre herramientas tecnológicas disponibles.
   
 <br>
 
 **Preguntas iniciales**
 
-- ¿Podrías presentarte contándome tu edad, dónde vives, con quiénes vives y a qué te dedicas exactamente?
+- Para comenzar, ¿podrías presentarte brevemente? (edad, lugar donde vives, con quiénes vives y a qué te dedicas).
   
 - Si tuvieras que describir tu personalidad y tus principales habilidades en el trabajo en tres palabras, ¿cuáles serían y por qué?
   
-- ¿Cuáles son las marcas (nacionales o internacionales) o referentes que más te inspiran en tu día a día o para tu negocio?
+- ¿Qué marcas (nacionales o internacionales) o referentes te inspiran en tu día a día o en la gestión de tu negocio?
   
 <br>
 
@@ -843,7 +851,7 @@ Para este segmento, las entrevistas estuvieron orientadas a comprender cómo las
 
 ### Segmento 2: Especialistas de marketing o community managers
 
-En este segmento, las entrevistas se enfocaron en comprender el flujo de trabajo, herramientas utilizadas, carga operativa y necesidades de automatización en la gestión de reputación digital.
+En este segmento, las entrevistas estuvieron orientadas a comprender el flujo de trabajo de los profesionales, las herramientas que utilizan, la carga operativa asociada a sus funciones y sus necesidades en relación con la automatización en la gestión de la reputación digital.
 
 <br>
 
@@ -921,7 +929,17 @@ Tipo de empresa o agencia donde trabajas
 **Resumen:**
 </div>
 
-Alfredo Negrete es gerente comercial y socio de una empresa dedicada a la fabricación de muebles de exhibición, implementación de espacios comerciales y desarrollo de mobiliario. Tiene 49 años, es padre de familia y actualmente vive en Surco. Cuenta con experiencia en el rubro, ya que anteriormente trabajó en una empresa similar. Gracias a ello, ha desarrollado habilidades que considera clave en su desempeño, como cumplir su palabra, ser puntual y ofrecer un servicio diferencial a sus clientes, lo que fortalece la credibilidad de su negocio. Además, siente admiración por las marcas de consumo masivo debido a la complejidad que implica mantenerse en el mercado frente a altos niveles de exigencia. En esa línea, su experiencia trabajando con empresas internacionales como Samsung le ha permitido tener referentes claros y reafirmar que su negocio va por buen camino. Por otro lado, considera que la comunicación es un factor fundamental en su sector. Por ello, utiliza diversas herramientas digitales como el teléfono, el correo electrónico, Zoom, Meet y WhatsApp, con el fin de mantener un contacto constante con clientes y proveedores. Actualmente, uno de sus principales objetivos es cubrir una deuda generada por su anterior empresa, también del mismo rubro. En su momento, priorizó la voz del cliente como elemento clave para la imagen empresarial, lo que lo llevó a asumir ciertos gastos que finalmente contribuyeron al quiebre del negocio. Sin embargo, le genera frustración no poder identificar con claridad las causas de las pérdidas, especialmente cuando los clientes optan por otros proveedores. A pesar de ello, ya ha utilizado anteriormente una página web como medio de comunicación y ha logrado resolver problemas importantes con clientes de manera interna, priorizando siempre mantener una buena imagen frente a las empresas con las que trabaja y potenciales clientes. Finalmente, considera que una aplicación podría ayudarle a fortalecer su imagen empresarial, permitiéndole compartir contenido como fotografías, artículos y casos de resolución de problemas relacionados con su negocio.
+Alfredo Negrete es gerente comercial y socio de una empresa dedicada a la fabricación de muebles de exhibición, implementación de espacios comerciales y desarrollo de mobiliario. Tiene 49 años, es padre de familia y reside en el distrito de Surco. Cuenta con experiencia previa en el rubro, lo que le ha permitido desarrollar habilidades clave como el cumplimiento de compromisos, la puntualidad y la orientación a brindar un servicio diferencial, aspectos que fortalecen la credibilidad de su negocio.
+
+Asimismo, manifiesta admiración por las marcas de consumo masivo debido a la complejidad que implica mantenerse competitivas en el mercado. Su experiencia trabajando con empresas internacionales, como Samsung, le ha permitido establecer referentes claros y reforzar su percepción de que su negocio se encuentra bien encaminado.
+
+En cuanto a su dinámica laboral, considera que la comunicación es un factor fundamental en su sector, por lo que utiliza diversas herramientas digitales como el teléfono, correo electrónico, Zoom, Google Meet y WhatsApp para mantener un contacto constante con clientes y proveedores.
+
+Por otro lado, uno de sus principales objetivos actuales es cubrir una deuda generada por su anterior empresa, también del mismo rubro. En ese contexto, menciona que anteriormente priorizó la satisfacción del cliente como elemento central de la imagen empresarial, lo que lo llevó a asumir ciertos costos que finalmente contribuyeron al quiebre del negocio. Sin embargo, expresa frustración al no poder identificar con claridad las causas de las pérdidas, especialmente cuando los clientes optan por otros proveedores.
+
+A pesar de estas dificultades, ha utilizado herramientas digitales como páginas web para comunicarse con sus clientes y ha logrado resolver conflictos de manera interna, priorizando siempre mantener una imagen positiva frente a sus clientes actuales y potenciales.
+
+Finalmente, considera que una aplicación podría ayudarle a fortalecer su imagen empresarial, permitiéndole compartir contenido relevante, como fotografías, artículos y casos de resolución de problemas vinculados a su negocio.
 
 <br>
 <div align="center">
@@ -947,7 +965,17 @@ Alfredo Negrete es gerente comercial y socio de una empresa dedicada a la fabric
 **Resumen:**
 </div>
 
-La entrevista fue realizada a Jenifer Natali Lopez Huamán, una estudiante de administración y emprendedora de 22 años, como parte de la validación del proyecto BrandRadar. Esta iniciativa consiste en una aplicación web diseñada para el monitoreo y análisis en tiempo real de la reputación digital de las marcas. Durante la conversación, Jenifer compartió su experiencia como fundadora de Siana Boutique, una tienda de ropa femenina que inició sus operaciones de manera virtual durante la pandemia y que, tras un periodo de esfuerzo y ahorro, logró expandirse a un local físico para ofrecer una atención presencial y directa. En la gestión diaria de su negocio, Jenifer encuentra inspiración en grandes marcas de retail como Zara, Shein y H&M, así como en creadores de contenido en plataformas como Instagram y TikTok. Su principal herramienta de trabajo es el celular, dispositivo indispensable para la venta, la creación de contenido y la gestión de redes, mientras que reserva el uso de la laptop para labores administrativas y pedidos a proveedores. A nivel de comunicación, WhatsApp es su canal estrella para cerrar ventas gracias a la confianza que genera, respaldándose en Instagram como catálogo visual y en Facebook (especialmente Marketplace) para atraer a la clientela local. A futuro, sus objetivos principales se centran en aumentar las ventas, construir una cartera de clientes fidelizados, mejorar su presencia en redes y posicionar su marca en la ciudad. No obstante, en el día a día lidia con frustraciones comunes del emprendimiento, tales como las ventas abandonadas a mitad del proceso, la competencia con precios excesivamente bajos y los comentarios negativos. Actualmente, el seguimiento de la opinión de sus clientes lo realiza de manera manual, revisando plataformas como Google Maps y Facebook. A pesar de no contar con un sistema automatizado, mantiene una postura receptiva; por ejemplo, recordó cómo transformó una queja sobre la falta de tallas en una crítica constructiva, lo que la motivó a ampliar su inventario para un público más diverso. Al reflexionar sobre el impacto del entorno digital en sus ventas, Jenifer señaló que, si tuviera una tienda online y esta sufriera una caída, probablemente se enteraría demasiado tarde a través de los reclamos de los clientes, lo que afectaría tanto sus ingresos como la imagen de la boutique. Por esta razón, consideró que una plataforma como BrandRadar le quitaría un peso de encima si le ofreciera notificaciones de alerta ante quejas o malas reseñas, respuestas automáticas de contingencia para atender a los usuarios de inmediato y herramientas que le ayuden a conseguir más comentarios positivos para fortalecer la reputación de su negocio.
+Jenifer Natali López Huamán es una estudiante de Administración y emprendedora de 22 años, fundadora de Siana Boutique, una tienda de ropa femenina que inició sus operaciones de manera virtual durante la pandemia. Gracias a su esfuerzo y capacidad de ahorro, logró expandir su negocio hacia un local físico, combinando así la venta digital con la atención presencial.
+
+En su gestión diaria, encuentra inspiración en marcas de retail como Zara, Shein y H&M, así como en creadores de contenido en plataformas como Instagram y TikTok. Su principal herramienta de trabajo es el celular, el cual utiliza para la venta, la creación de contenido y la gestión de redes sociales, mientras que la laptop es empleada principalmente para tareas administrativas y coordinación con proveedores.
+
+En cuanto a la comunicación con sus clientes, utiliza principalmente WhatsApp para concretar ventas, debido a la confianza que genera este canal. Asimismo, emplea Instagram como catálogo visual y Facebook, especialmente Marketplace, para atraer clientes a nivel local. Entre sus principales objetivos se encuentran incrementar sus ventas, fidelizar clientes, mejorar su presencia digital y posicionar su marca en el mercado.
+
+No obstante, enfrenta diversas dificultades en su día a día, como la pérdida de ventas durante el proceso de compra, la competencia con precios bajos y la gestión de comentarios negativos. Actualmente, el monitoreo de la opinión de sus clientes lo realiza de manera manual, revisando plataformas como Google Maps y Facebook, lo que limita su capacidad de respuesta oportuna.
+
+A pesar de ello, demuestra una actitud proactiva frente a la retroalimentación. Por ejemplo, mencionó que, ante una queja relacionada con la falta de tallas, decidió ampliar su inventario para atender a un público más diverso, convirtiendo una crítica en una oportunidad de mejora.
+
+Finalmente, reconoce la importancia del entorno digital en su negocio y señala que, ante una posible caída de su tienda online, probablemente se enteraría de forma tardía a través de reclamos de los clientes, lo que afectaría tanto sus ingresos como su imagen de marca. En este contexto, considera que una solución como BrandRadar le resultaría útil, especialmente si le permite recibir alertas en tiempo real, automatizar respuestas ante incidencias y fortalecer su reputación mediante la generación de comentarios positivos.
 
 <br>
 <div align="center">
@@ -975,8 +1003,17 @@ La entrevista fue realizada a Jenifer Natali Lopez Huamán, una estudiante de ad
 
 </div>
 
-La entrevista fue realizada a Karim Castillo, un joven emprendedor de 25 años, como parte de la validación del proyecto BrandRadar. Esta iniciativa consiste en una aplicación web diseñada para el monitoreo y análisis en tiempo real de la reputación digital de las marcas. Durante la conversación, Karim compartió su experiencia como fundador y gerente de dos cafeterías especializadas en café de especialidad, desayunos saludables y postres, ubicadas en San Isidro y Miraflores. Su negocio inició hace dos años y medio, tras haber trabajado como barista mientras estudiaba Administración de Empresas. En la gestión diaria de sus cafeterías, Karim encuentra inspiración en marcas internacionales como Starbucks por la experiencia que brindan al cliente, y en marcas locales como La Brea y Cholo’s, que han logrado un buen crecimiento manteniendo calidad. Su principal herramienta de trabajo es el celular Android, que utiliza constantemente para comunicarse por WhatsApp con proveedores y equipo, revisar reseñas en Google Maps e Instagram, y atender clientes. Reserva la laptop para labores administrativas como revisar ventas, realizar pedidos grandes y llevar la contabilidad. A nivel de comunicación, WhatsApp es su canal principal tanto para el negocio como a nivel personal, ya que le permite una respuesta rápida y cercana. Utiliza Instagram principalmente para mostrar sus productos y atraer nuevos clientes, mientras que el correo lo reserva solo para trámites formales.
-Sus objetivos principales para este año se centran en aumentar las ventas en un 40%, mejorar significativamente su presencia en Google y redes sociales, implementar delivery propio y prepararse para abrir una tercera sucursal en el futuro. Sin embargo, en el día a día enfrenta varias frustraciones, entre las que destacan no enterarse a tiempo de las reseñas negativas, la alta rotación de personal y el constante aumento de costos. Actualmente, el seguimiento de las opiniones de sus clientes lo realiza de manera manual, revisando Google Maps cada dos o tres días y revisando notificaciones de Facebook de forma irregular. Recordó que la última vez que recibió un comentario muy negativo sobre un café que salió frío y una atención lenta, se enteró dos días después gracias a un amigo que le envió una captura. Respondió pidiendo disculpas y ofreciendo una compensación, pero reconoció que el retraso afectó su capacidad de reacción. Al reflexionar sobre el impacto del entorno digital, Karim mencionó que si tuviera una página web o pasarela de pagos y esta dejara de funcionar, se enteraría probablemente a través de mensajes de clientes por WhatsApp, lo que generaría pérdida de ventas inmediata y mucho estrés, especialmente en fines de semana. Por esta razón, consideró que una herramienta como BrandRadar le quitaría un gran peso de encima si le permitiera recibir alertas instantáneas ante reseñas negativas o comentarios fuertes en Google Maps, Instagram o Facebook, mostrar toda la información de sus dos locales en un solo lugar, analizar el sentimiento general y sugerir formas de responder rápidamente.
+Karim Castillo es un emprendedor de 25 años, fundador y gerente de dos cafeterías especializadas en café de especialidad, desayunos saludables y postres, ubicadas en los distritos de San Isidro y Miraflores. Su negocio inició hace aproximadamente dos años y medio, luego de haber trabajado como barista mientras estudiaba Administración de Empresas.
+
+En la gestión de sus cafeterías, encuentra inspiración en marcas internacionales como Starbucks, por la experiencia que brindan al cliente, así como en marcas locales como La Brea y Cholo’s, que han logrado crecer manteniendo estándares de calidad. Su principal herramienta de trabajo es el celular, el cual utiliza constantemente para comunicarse con proveedores y su equipo a través de WhatsApp, revisar reseñas en Google Maps e Instagram y atender a los clientes. Por otro lado, utiliza la laptop para tareas administrativas como el control de ventas, pedidos y contabilidad.
+
+En cuanto a la comunicación, WhatsApp es su canal principal debido a la rapidez y cercanía que ofrece. Asimismo, emplea Instagram para promocionar sus productos y atraer nuevos clientes, mientras que el correo electrónico lo utiliza únicamente para gestiones formales.
+
+Entre sus principales objetivos se encuentran incrementar sus ventas en un 40 %, fortalecer su presencia en Google y redes sociales, implementar un servicio de delivery propio y abrir una tercera sucursal en el futuro. Sin embargo, enfrenta diversas dificultades en su operación diaria, como no enterarse oportunamente de reseñas negativas, la alta rotación de personal y el incremento constante de costos.
+
+Actualmente, el monitoreo de la opinión de sus clientes lo realiza de manera manual, revisando Google Maps cada dos o tres días y consultando notificaciones de Facebook de forma irregular. En este contexto, mencionó que en una ocasión se enteró con retraso de un comentario negativo sobre la calidad del producto y el servicio, lo que limitó su capacidad de respuesta oportuna, a pesar de haber ofrecido disculpas y una compensación al cliente.
+
+Finalmente, reconoce que el entorno digital tiene un impacto directo en su negocio. Señala que, ante una posible falla en una página web o sistema de pagos, probablemente se enteraría a través de reclamos de clientes, lo que implicaría pérdidas económicas inmediatas y un alto nivel de estrés. En ese sentido, considera que una herramienta como BrandRadar le resultaría de gran utilidad, ya que le permitiría recibir alertas en tiempo real, centralizar la información de sus locales, analizar el sentimiento de las opiniones y responder de manera más rápida y eficiente.
 
 ---
 <div align="center">
@@ -1008,7 +1045,15 @@ Sus objetivos principales para este año se centran en aumentar las ventas en un
 
 </div>
 
-Romina Apaza se desempeña como freelance en monitoreo de marcas en entornos digitales, trabajando actualmente con dos marcas. Su labor principal consiste en gestionar la presencia en redes sociales, analizar la interacción del público y asegurar que la comunicación sea coherente con la identidad de cada marca. Está especialmente interesada en la comunicación política y la gestión digital de comunidades municipales, lo que la ha llevado a desarrollar habilidades en análisis de audiencias y manejo de redes sociales. Trabaja principalmente con plataformas como Instagram y TikTok, enfocándose en comprender el comportamiento del público y en construir comunidades sólidas alrededor de las marcas. En su trabajo diario, revisa redes sociales, analiza comentarios, mensajes y menciones, evalúa la interacción con el público y observa tendencias tanto propias como de la competencia. Este proceso le toma entre una y dos horas diarias, mientras que semanalmente dedica más tiempo a la elaboración de reportes. Romina identifica el monitoreo como la parte más demandante de su trabajo, ya que es un proceso manual que requiere observación constante. Ha enfrentado situaciones como la propagación de comentarios negativos que no se detectaron a tiempo, lo que evidencia la necesidad de respuestas rápidas ante posibles crisis. Entre sus fortalezas destacan su capacidad de análisis, observación y adaptación bajo presión, priorizando tareas para resolver situaciones complejas. Considera que el uso de herramientas automatizadas con alertas en tiempo real mejoraría significativamente su eficiencia, permitiéndole enfocarse más en el análisis estratégico que en el monitoreo operativo.
+Romina Apaza es una profesional freelance especializada en el monitoreo de marcas en entornos digitales, trabajando actualmente con dos marcas. Su labor principal consiste en gestionar la presencia en redes sociales, analizar la interacción del público y asegurar que la comunicación sea coherente con la identidad de cada marca.
+
+Muestra un especial interés en la comunicación política y en la gestión digital de comunidades municipales, lo que le ha permitido desarrollar habilidades en análisis de audiencias y manejo estratégico de redes sociales. Trabaja principalmente con plataformas como Instagram y TikTok, enfocándose en comprender el comportamiento del público y en construir comunidades digitales sólidas.
+
+En su rutina diaria, revisa redes sociales, analiza comentarios, mensajes y menciones, evalúa la interacción con los usuarios y observa tendencias tanto propias como de la competencia. Este proceso le demanda entre una y dos horas al día, mientras que semanalmente dedica más tiempo a la elaboración de reportes.
+
+Romina identifica el monitoreo como la actividad más demandante de su trabajo, ya que se realiza de manera manual y requiere una observación constante. Asimismo, ha enfrentado situaciones en las que comentarios negativos se propagaron sin ser detectados a tiempo, lo que evidencia la necesidad de contar con mecanismos de alerta más rápidos y eficientes.
+
+Entre sus principales fortalezas destacan su capacidad de análisis, observación y adaptación bajo presión, lo que le permite priorizar tareas y responder ante situaciones complejas. No obstante, considera que el uso de herramientas automatizadas con alertas en tiempo real mejoraría significativamente su eficiencia, permitiéndole enfocarse en el análisis estratégico en lugar de tareas operativas.
 
 
 <br>
@@ -1038,7 +1083,23 @@ Romina Apaza se desempeña como freelance en monitoreo de marcas en entornos dig
 
 </div>
 
-La entrevista fue realizada a Esteban Andrés Medina Hernández (27 años, vive en Breña) con el fin de recabar información para un proyecto enfocado en el monitoreo y análisis en tiempo real de la reputación digital de marcas. Esteban se presenta como editor audiovisual y marketer: trabaja con varios clientes, pero su cliente principal es una clínica dental donde se desempeña como jefe de marketing; anteriormente tuvo una agencia, pero actualmente trabaja como freelance. Relata que su interés por la edición comenzó muy joven (a los 12–13 años), primero editando para sí mismo y luego, al estudiar Ciencias de la Comunicación, asumiendo trabajos de otros estudiantes; durante la pandemia dio un salto profesional al colaborar con marcas relevantes (menciona campañas o trabajos para JBL, GG Poker y BCP), además de su trabajo sostenido con la clínica Dental Protect. Sobre su desempeño profesional, comenta que bajo presión se considera resiliente y con “mentalidad de crecimiento”: interpreta las dificultades como aprendizaje y experiencia para optimizar procesos y resolver problemas con más eficacia. Señala como fortaleza principal su nivel de dominio en edición y postproducción (preproducción, producción y postproducción), al punto de poder entender con rapidez lo que el cliente quiere con solo conversar y traducirlo en piezas que los dejan satisfechos. En cuanto a mantenerse actualizado, no sigue muchas marcas como referencia directa, sino más bien creadores/personajes en TikTok vinculados a equipos audiovisuales (porque también graba). Como marcas que le interesan o sigue menciona Sony (cámaras), Rode (audio) y Apple (computación), destacando que en su experiencia la Mac está muy bien optimizada para edición y postproducción. Al describir su flujo de trabajo para monitorear menciones o desempeño de marca, indica que en entornos de agencia el seguimiento suele ser un trabajo colaborativo y que típicamente recae en la community manager o en quien gestiona redes. Su dinámica habitual incluye reuniones semanales (de 1 a 2 horas) para revisar estadísticas: rendimiento de videos, volumen y tono de comentarios, resultados de ads/publicidad, mensajes recibidos y —sobre todo— métricas de conversión. En su enfoque, lo crítico es medir cuántas personas pasan a ser clientes potenciales (cuando se trata de servicios) o cuántas compran (cuando se trata de productos), y luego continuar con acciones de fidelización. Para coordinar y operar el día a día, menciona que WhatsApp es central por su facilidad para mantenerse conectado con clientes y equipos (y valora funciones como destacados en WhatsApp Business). Para reuniones usa Google Meet o Zoom; Discord lo ve como opcional porque, según su experiencia, a partir de cierta edad (27+) muchas personas no lo usan. Para organización y gestión de tareas ha usado sobre todo Trello, y también Notion (que le parece interesante por sus funciones). Respecto al tiempo invertido en reportes, estima que el trabajo manual de consolidar capturas de pantalla, comentarios y métricas para presentar reportes “coherentes” puede tomar aproximadamente entre 10 y 15 horas al mes, y suele ser responsabilidad de una persona específica dentro del equipo. Sobre detección de crisis o incremento de negatividad, comenta que muchas veces lo identifican por señales de rendimiento (por ejemplo, cuando un video “no despega” y la audiencia no conecta) y por el análisis conjunto con la persona de marketing/redes. Distingue entre resultados orgánicos (feed) y resultados impulsados por pauta (ads): menciona que a veces contenidos “flojos” pueden despegar con ads, mientras que sin publicidad pueden no funcionar, por lo que el éxito se termina evaluando por conversiones (interesados que escriben, consultas, etc.) y por indicadores como vistas, interacciones y compartidos. Como ejemplo de una situación negativa no detectada a tiempo, relata un caso serio en la clínica dental: una reseña negativa en Google por demoras en la atención. Explica que esto les afecta fuertemente porque gran parte de la captación viene de Google Maps (la gente busca “clínica dental” y decide mirando estrellas y reseñas). Frente al comentario, el manejo consistió en conversar con la persona, disculparse y explicar los factores que llevaron al problema, intentando que retire la reseña; subraya que en Google no pueden borrar la opinión si el usuario no la elimina. Según su percepción, el episodio impactó el desempeño general (menciona que se sintió tanto en redes como TikTok y Facebook, con menos alcance y algunos comentarios negativos), atribuyéndolo a un factor externo que terminó afectando a la marca y a la conversación en redes. Finalmente, al hablar de qué parte del proceso le consume más tiempo, destaca que lo más difícil en marketing de contenidos es construir el guion inicial y, especialmente, el “hook” (el gancho): puede tardar desde minutos hasta horas, implica iteraciones y correcciones, y a veces el gancho aparece al final y debe reubicarse al inicio. También resalta la necesidad de adaptar la estructura de un mismo video a cada plataforma (por ejemplo, algo puede funcionar en TikTok pero no en Instagram), lo que obliga a “voltear” o rearmar el contenido. Complementa que los primeros 3 segundos son determinantes para retener al espectador. En ese contexto, considera que una herramienta que envíe alertas automáticas en tiempo real sobre percepción/reputación de marca en redes e internet sería muy valiosa: ayudaría a entender mejor qué busca la audiencia, conectar con ella y optimizar contenido, reduciendo horas invertidas en prueba y error para encontrar el hook adecuado. Llega a afirmar que, si una aplicación indicara de forma clara qué tipo de hook o enfoque usar para atraer audiencia y convertirla en clientes, sería “10 de 10” y la compraría de inmediato.
+La entrevista fue realizada a Esteban Andrés Medina Hernández (27 años, residente en Breña), con el objetivo de recabar información para un proyecto enfocado en el monitoreo y análisis en tiempo real de la reputación digital de marcas. Esteban se desempeña como editor audiovisual y marketer freelance, trabajando principalmente con una clínica dental donde ejerce como jefe de marketing, además de haber tenido experiencia previa dirigiendo su propia agencia.
+
+Relata que su interés por la edición audiovisual comenzó desde temprana edad (aproximadamente a los 12–13 años), iniciando con proyectos personales y posteriormente desarrollándose profesionalmente durante su formación en Ciencias de la Comunicación. Durante la pandemia, experimentó un crecimiento significativo al colaborar con marcas como JBL, GG Poker y BCP, además de su trabajo continuo con la clínica Dental Protect.
+
+En cuanto a su perfil profesional, se describe como una persona resiliente, con mentalidad de crecimiento, capaz de aprender de las dificultades y optimizar procesos bajo presión. Su principal fortaleza radica en su dominio integral de la producción audiovisual (preproducción, producción y postproducción), lo que le permite interpretar rápidamente las necesidades del cliente y transformarlas en productos satisfactorios.
+
+Respecto a sus referentes, no sigue marcas de manera constante, sino más bien creadores de contenido en TikTok vinculados al ámbito audiovisual. Sin embargo, menciona como marcas de interés a Sony (cámaras), Rode (audio) y Apple (tecnología), destacando la optimización de los equipos Mac para edición y postproducción.
+
+En su flujo de trabajo, el monitoreo de métricas y reputación digital suele ser una tarea compartida dentro del equipo, generalmente liderada por el community manager. Sus actividades incluyen reuniones semanales de una a dos horas para revisar rendimiento de contenido, comentarios, mensajes, resultados de publicidad y métricas de conversión. En su enfoque, el indicador más relevante es la conversión de usuarios en clientes potenciales o ventas efectivas.
+
+Para la gestión diaria, utiliza herramientas como WhatsApp (principal canal de comunicación), Google Meet y Zoom para reuniones, Trello y Notion para organización de tareas. Señala que la elaboración de reportes manuales puede tomar entre 10 y 15 horas mensuales, ya que implica consolidar métricas, capturas y análisis de desempeño.
+
+En cuanto a la detección de problemas o crisis, indica que muchas veces se identifican a partir del rendimiento del contenido o del análisis conjunto del equipo. Distingue entre resultados orgánicos y pagados, señalando que el éxito final se mide en función de interacciones y conversiones.
+
+Como caso relevante, menciona una reseña negativa en Google para la clínica dental donde trabaja, relacionada con demoras en la atención. Dado que gran parte de la captación de clientes proviene de Google Maps, este tipo de comentarios impacta directamente en la decisión de los usuarios. El manejo del caso incluyó comunicación con el cliente, disculpas y explicación de la situación, aunque la reseña no pudo ser eliminada. Este evento evidenció cómo la reputación digital puede afectar directamente el rendimiento de la marca en distintos canales.
+
+Finalmente, identifica como uno de los mayores retos del marketing de contenidos la creación del “hook” o gancho inicial, el cual puede requerir múltiples iteraciones y pruebas. Además, resalta la necesidad de adaptar el contenido a cada plataforma, ya que un mismo video puede funcionar en TikTok pero no en Instagram. En este contexto, considera que una herramienta como BrandRadar, capaz de ofrecer alertas en tiempo real sobre la reputación digital y análisis de percepción de audiencia, sería altamente valiosa, ya que permitiría optimizar la creación de contenido, reducir el tiempo de prueba y error y mejorar la conversión. Incluso afirma que una solución que sugiera tipos de hooks efectivos sería altamente útil y la adoptaría de inmediato.
 
 <br>
 
@@ -1071,27 +1132,31 @@ La entrevista fue realizada a Esteban Andrés Medina Hernández (27 años, vive 
 
 ### 2.2.3. Análisis de entrevistas
 
-> *El análisis de entrevistas permite identificar percepciones, necesidades y comportamientos de los segmentos objetivo a partir de la información recopilada. En esta sección, los resultados se presentan por segmento, utilizando porcentajes para evidenciar patrones, tendencias y diferencias relevantes que apoyan la toma de decisiones.*
+> *El análisis de entrevistas permite identificar percepciones, necesidades y comportamientos de los segmentos objetivo a partir de la información recopilada. En esta sección, los resultados se presentan por segmento, utilizando porcentajes y hallazgos cualitativos para evidenciar patrones, tendencias y diferencias relevantes que apoyan la toma de decisiones en el diseño de la solución.*
 
 <br>
 
 **Segmento objetivo 1: `Pequeñas y medianas empresas y marcas digitales (PyMEs)`**
 
-A partir de las entrevistas realizadas a emprendedores y gerentes de negocios locales, se identificaron patrones de comportamiento relevantes para la construcción del User Persona. En términos demográficos, el 100% de los entrevistados opera en zonas comerciales urbanas (Surco) y coincide en que mantener una buena imagen, generar confianza y cumplir su propuesta de valor son factores críticos para el éxito de sus negocios.
+A partir de las entrevistas realizadas a emprendedores y gerentes de negocios locales, se identificaron patrones de comportamiento relevantes para la construcción del User Persona. En términos demográficos, el 100 % de los entrevistados opera en zonas comerciales urbanas (Surco) y coincide en que mantener una buena imagen, generar confianza y cumplir con su propuesta de valor son factores críticos para el éxito de sus negocios.
 
-Respecto al uso de tecnología, el 100% utiliza el dispositivo móvil como principal herramienta de gestión diaria, mientras que un 50% complementa con laptop para tareas administrativas. En cuanto a canales digitales, existe consenso en que WhatsApp (100%) es el medio más importante para cerrar ventas, seguido por Instagram y Facebook (100%) como plataformas clave de atracción de clientes.
+Respecto al uso de tecnología, el 100 % utiliza el dispositivo móvil como principal herramienta de gestión diaria, mientras que el 50 % complementa sus actividades con el uso de laptop para tareas administrativas. En cuanto a canales digitales, existe consenso en que WhatsApp (100 %) es el medio más importante para el cierre de ventas, seguido de Instagram y Facebook (100 %) como plataformas clave para la atracción de clientes.
 
-En relación con sus principales dificultades, el 100% de los entrevistados manifestó haber experimentado pérdidas de ventas debido a factores como comentarios negativos, competencia desleal o carritos abandonados. Asimismo, el monitoreo de reputación es realizado de forma manual en plataformas como Google Maps y Facebook (100%), lo que evidencia una falta de automatización. Este hallazgo valida la necesidad de BrandRadar, obteniendo una aceptación total (100%) hacia una herramienta enfocada en la gestión de la imagen de marca, con interés tanto en alertas preventivas como en la difusión de casos de éxito.
+En relación con las principales dificultades, el 100 % de los entrevistados manifestó haber experimentado pérdidas de ventas asociadas a factores como comentarios negativos, competencia en precios o abandono del proceso de compra. Asimismo, el monitoreo de la reputación digital se realiza de forma manual en plataformas como Google Maps y Facebook (100 %), lo que evidencia una ausencia de automatización en estos procesos.
+
+Este hallazgo valida la necesidad de una solución como BrandRadar, la cual obtuvo una aceptación total (100 %) por parte de los entrevistados. Los usuarios mostraron especial interés en funcionalidades como alertas preventivas en tiempo real y la visualización de información que les permita gestionar de manera más eficiente la imagen de sus marcas.
 
 <br>
 
 **Segmento objetivo 2: `Especialistas de marketing o community managers`**
 
-A partir de las entrevistas realizadas a profesionales de marketing digital, se identificaron patrones que respaldan la viabilidad de la solución en el entorno B2B. El 100% de los entrevistados trabaja bajo modalidades freelance o en cargos de jefatura, gestionando cuentas de alta exigencia, y destaca por su enfoque analítico y orientación a resultados.
+A partir de las entrevistas realizadas a profesionales de marketing digital, se identificaron patrones que respaldan la viabilidad de la solución en un entorno B2B. El 100 % de los entrevistados trabaja bajo modalidad freelance o en posiciones de jefatura, gestionando cuentas de alta exigencia, y destaca por su enfoque analítico y orientación a resultados.
 
-En cuanto al uso de herramientas, el 100% utiliza plataformas de organización como Trello o Notion, así como WhatsApp y herramientas de videollamadas (100%) para la coordinación. Para el monitoreo de reputación, el 100% emplea múltiples canales, incluyendo Instagram, TikTok, Facebook y Google Maps.
+En cuanto al uso de herramientas, el 100 % emplea plataformas de organización como Trello o Notion, así como herramientas de comunicación como WhatsApp y videollamadas para la coordinación de equipos y clientes. Para el monitoreo de reputación digital, el 100 % utiliza múltiples canales, incluyendo Instagram, TikTok, Facebook y Google Maps.
 
-El principal pain point identificado es la alta carga operativa del monitoreo manual, ya que el 100% de los entrevistados invierte entre 1 y 2 horas diarias en la revisión de redes, y entre 10 a 15 horas mensuales en la elaboración de reportes. Además, el 100% ha experimentado situaciones críticas donde comentarios negativos no fueron detectados a tiempo, afectando el rendimiento y la captación de clientes. Esto refuerza la necesidad de una solución automatizada que optimice el seguimiento y la gestión de la reputación digital.
+El principal pain point identificado es la alta carga operativa asociada al monitoreo manual. El 100 % de los entrevistados invierte entre 1 y 2 horas diarias en la revisión de redes sociales, además de entre 10 y 15 horas mensuales en la elaboración de reportes. Asimismo, el 100 % ha enfrentado situaciones críticas en las que comentarios negativos no fueron detectados a tiempo, lo que impactó directamente en el rendimiento de las campañas y la captación de clientes.
+
+Estos hallazgos refuerzan la necesidad de una solución automatizada que optimice el monitoreo, centralice la información y mejore la capacidad de respuesta ante eventos críticos de reputación digital.
 
 <br>
 
@@ -1099,11 +1164,11 @@ El principal pain point identificado es la alta carga operativa del monitoreo ma
 
 ## 2.3. Needfinding
 
-> *Artefactos resultantes del proceso de análisis de la información recolectada*
+> *Artefactos resultantes del proceso de análisis de la información recolectada a través de entrevistas y la síntesis de hallazgos cualitativos.*
 
 ### 2.3.1. User Personas
 
-Estos arquetipos han sido construidos a partir del análisis cualitativo de las entrevistas realizadas y el estudio de la competencia.
+Estos arquetipos han sido construidos a partir del análisis cualitativo de las entrevistas realizadas a los usuarios de los segmentos objetivo, complementado con la identificación de patrones de comportamiento y el análisis del contexto del mercado y la competencia.
 
 <br>
 
@@ -1141,7 +1206,7 @@ Estos arquetipos han sido construidos a partir del análisis cualitativo de las 
 
 ### 2.3.2. User Task Matrix
 
->*La siguiente matriz identifica las tareas principales que realizan los dos User Personas definidos: dueños de PyMEs y account managers de agencias digitales. Se evalúan según su referencia de ejecuciín y su importancia dentro del flujo de trabajo.*
+>*La siguiente matriz identifica las tareas principales que realizan los dos User Personas definidos: dueños de PyMEs y account managers de agencias digitales. Estas tareas se evalúan según su frecuencia de ejecución y su nivel de importancia dentro del flujo de trabajo.*
 
 <br>
 
@@ -1155,19 +1220,21 @@ Estos arquetipos han sido construidos a partir del análisis cualitativo de las 
 
 <br>
 
-Se observa que:
+A partir de la matriz se observa que:
 
-- Para las PyMEs, las tareas son menos frecuentes pero muy críticas, especialmente la detección de comentarios negativos.
-- Para las agencias, casi todas las tareas son frecuentes y altamente importantes, debido a la gestión de múltiples clientes.
-- Existe una coincidencia clave: ambos segmentos valkoran mucho la detección de comentarios negativos y monitoreo, lo que valida el enfoque de BrandRadar.
+- Para las PyMEs, las tareas no se realizan con alta frecuencia; sin embargo, tienen un alto nivel de importancia, especialmente aquellas relacionadas con la detección de comentarios negativos y la gestión de la reputación.
+- Para las agencias, las tareas son altamente frecuentes y críticas, debido a la gestión simultánea de múltiples marcas y clientes.
+- Existe una coincidencia clave entre ambos segmentos: la alta importancia de la detección de comentarios negativos y el monitoreo de la reputación digital, lo que valida directamente el enfoque de BrandRadar como solución centralizada de monitoreo.
 
 <br>
 
 ---
 
 ### 2.3.3. User Journey Mapping
->*El Customer Journey presentado ilustra el recorrido end-to-end actual (versión As-Is) que siguen los usuarios objetivo (dueños de PyMEs y especialistas de marketing) al gestionar la reputación digital de sus marcas. Este journey describe las etapas desde el momento en que el usuario toma conciencia de la falta de control sobre las opiniones en línea, pasando por la búsqueda y adopción de soluciones, hasta el uso continuo de herramientas para monitorear menciones y responder a comentarios. 
-En la situación actual, muchas de estas actividades se realizan de forma manual y en múltiples plataformas, lo que genera retrasos en la detección de problemas, sobrecarga de trabajo y dificultad para obtener una visión clara del estado de la reputación. Este recorrido permite identificar los principales puntos de fricción, emociones negativas y oportunidades de mejora que fundamentan el diseño de la solución propuesta.*
+>*El Customer Journey presentado ilustra el recorrido end-to-end actual (versión As-Is) que siguen los usuarios objetivo (dueños de PyMEs y especialistas de marketing) al gestionar la reputación digital de sus marcas. Este journey describe las etapas desde la toma de conciencia de la falta de control sobre las opiniones en línea, pasando por la búsqueda y adopción de soluciones, hasta el uso continuo de herramientas para monitorear menciones y responder a comentarios.
+En el contexto actual, gran parte de estas actividades se realiza de forma manual y en múltiples plataformas, lo que genera retrasos en la detección de problemas, sobrecarga operativa y dificultades para obtener una visión integrada del estado de la reputación digital.
+
+Este recorrido permite identificar puntos de fricción, emociones asociadas a cada etapa y oportunidades de mejora clave, las cuales fundamentan el diseño de la solución propuesta.*
 
 <br>
 
@@ -1185,7 +1252,7 @@ En la situación actual, muchas de estas actividades se realizan de forma manual
 
 ### 2.3.4. Empathy Mapping
 
->*El Empathy Mapping fue elaborado a partir del análisis de las entrevistas realizadas a los dos segmentos objetivo: dueños de PyMEs y account managers de agencias digitales. Este proceso permitió sintetizar la información cualitativa obtenida, identificando patrones de comportamiento, pensamientos, emociones, necesidades y frustraciones de los usuarios.*
+>*El Empathy Mapping fue elaborado a partir del análisis de las entrevistas realizadas a los dos segmentos objetivo: dueños de PyMEs y account managers de agencias digitales. Este proceso permitió sintetizar la información cualitativa recolectada, identificando patrones de comportamiento, pensamientos, emociones, necesidades y frustraciones de los usuarios.*
 
 <br>
 
@@ -1207,9 +1274,9 @@ En la situación actual, muchas de estas actividades se realizan de forma manual
 
 <br>
 
-El proceso de Big Picture Event Storming se llevó a cabo con el objetivo de comprender de manera integral el flujo de negocio del sistema propuesto, identificando los principales eventos del dominio, los actores involucrados y las interacciones con sistemas externos. Esta técnica permitió visualizar el comportamiento general del sistema de forma cronológica, facilitando la identificación de procesos clave, dependencias y posibles puntos de mejora dentro del flujo operativo.
+El proceso de Big Picture Event Storming se llevó a cabo con el objetivo de comprender de manera integral el flujo del dominio del sistema propuesto, identificando los principales eventos, actores involucrados e interacciones con sistemas externos. Esta técnica permitió visualizar el comportamiento del sistema de forma cronológica, facilitando la identificación de procesos clave, dependencias y posibles puntos de mejora dentro del flujo operativo.
 
-Durante el desarrollo del Event Storming se trabajó siguiendo una serie de etapas estructuradas que permitieron construir progresivamente una representación clara del dominio del problema. En la primera etapa, denominada Collect Domain Events, se identificaron los eventos principales del sistema, representando acciones que ya ocurrieron dentro del flujo del negocio.
+Durante el desarrollo del Event Storming, se siguieron etapas estructuradas que permitieron construir progresivamente una representación clara del dominio del problema. En la primera etapa, denominada Collect Domain Events, se identificaron los principales eventos del sistema, los cuales representan acciones que ya han ocurrido dentro del flujo del negocio.
 
 <br>
 
@@ -1217,15 +1284,14 @@ Durante el desarrollo del Event Storming se trabajó siguiendo una serie de etap
 
 <br>
 
-Posteriormente, en la etapa Refine Domain Events, se revisaron los eventos previamente identificados con el fin de verificar su correcta redacción en tiempo pasado, asegurar su orden temporal adecuado y eliminar posibles redundancias o inconsistencias terminológicas. Asimismo, se agregaron eventos faltantes necesarios para completar el flujo lógico del sistema y reflejar con mayor precisión los procesos internos que ocurren dentro del dominio.
-
+Posteriormente, en la etapa *Refine Domain Events*, se revisaron los eventos previamente identificados con el fin de validar su correcta redacción en tiempo pasado, asegurar su orden temporal y depurar posibles redundancias o inconsistencias terminológicas. Asimismo, se incorporaron eventos adicionales necesarios para completar el flujo lógico del sistema y representar con mayor precisión los procesos internos del dominio.
 <br>
 
 ![Big Picture Event Storming](brandradar-report/assets/event-storming/big-picture-event-storming-step2.png)
 
 <br>
 
-En la etapa Track Causes, se identificaron los actores que interactúan con el sistema, así como las acciones específicas que desencadenan ciertos eventos, representadas mediante comandos. También se incorporaron los sistemas externos que intervienen en el proceso, tales como servicios de análisis de sentimiento y plataformas externas de datos, además de los procesos internos del sistema que ocurren automáticamente entre eventos.
+En la etapa *Track Causes*, se identificaron los actores que interactúan con el sistema, así como las acciones específicas que desencadenan determinados eventos, representadas mediante comandos. Asimismo, se incorporaron los sistemas externos que intervienen en el flujo, como servicios de análisis de sentimiento y plataformas de datos externas, además de los procesos internos que se ejecutan de manera automática entre eventos.
 
 <br>
 
@@ -1233,7 +1299,7 @@ En la etapa Track Causes, se identificaron los actores que interactúan con el s
 
 <br>
 
-Finalmente, en la etapa Find Aggregates, se agruparon los eventos relacionados dentro de límites funcionales conocidos como agregados, permitiendo identificar claramente las principales entidades del dominio y sus responsabilidades. Esta etapa facilitó la estructuración del modelo del dominio y sirvió como base para el diseño posterior del sistema.
+Finalmente, en la etapa *Find Aggregates*, se agruparon los eventos relacionados dentro de límites de consistencia conocidos como aggregates, lo que permitió identificar las principales entidades del dominio y sus responsabilidades. Esta etapa facilitó la estructuración del modelo de dominio y sirvió como base para el diseño posterior del sistema.
 
 <br>
 
@@ -1241,36 +1307,36 @@ Finalmente, en la etapa Find Aggregates, se agruparon los eventos relacionados d
 
 <br>
 
-Durante el desarrollo del Big Picture Event Storming se identificaron los principales eventos del dominio, los actores que interactúan con el sistema y los flujos que describen el comportamiento general del sistema desde el registro del usuario hasta la generación de reportes de reputación digital.
+Durante el desarrollo del Big Picture Event Storming se identificaron los principales eventos del dominio, los actores que interactúan con el sistema y los flujos que describen el comportamiento general del sistema, desde el registro del usuario hasta la generación de reportes de reputación digital.
 
-En primer lugar, se definieron los eventos del dominio, los cuales representan cambios significativos que ocurren dentro del sistema y que describen acciones completadas en tiempo pasado. Entre los eventos identificados se encuentran aquellos relacionados con la gestión de cuentas, como el registro de usuario, la verificación de correo electrónico y el inicio de sesión. Estos eventos marcan el inicio del flujo del sistema y permiten establecer una sesión válida para que el usuario pueda interactuar con las funcionalidades principales.
+En primer lugar, se definieron los eventos del dominio, los cuales representan cambios significativos dentro del sistema y describen acciones ya completadas en tiempo pasado. Entre los eventos identificados se incluyen aquellos relacionados con la gestión de cuentas, como el registro de usuario, la verificación de correo electrónico y el inicio de sesión. Estos eventos marcan el inicio del flujo del sistema y habilitan el acceso del usuario a las funcionalidades principales.
 
-Posteriormente, se identificaron eventos relacionados con la configuración de marcas y fuentes de datos, tales como el ingreso de información de la marca, la definición de palabras clave y la conexión con fuentes externas. Estos eventos son fundamentales para que el sistema pueda iniciar el proceso de monitoreo y recolectar información relevante desde plataformas externas.
+Posteriormente, se identificaron eventos asociados a la configuración de marcas y fuentes de datos, como el registro de información de la marca, la definición de palabras clave y la conexión con fuentes externas. Estos eventos resultan fundamentales para iniciar el proceso de monitoreo y habilitar la recolección de información desde distintas plataformas digitales.
 
-Asimismo, se reconocieron eventos asociados al proceso de monitoreo automático, en el cual el sistema recolecta menciones desde fuentes externas, filtra la información recibida y la almacena para su posterior análisis. En esta etapa se incluyen también los eventos relacionados con el análisis de sentimiento, donde las menciones son evaluadas y clasificadas según su contenido, permitiendo detectar menciones negativas que puedan representar riesgos para la reputación de la marca.
+Asimismo, se reconocieron eventos vinculados al proceso de monitoreo automático, en el cual el sistema recolecta menciones desde fuentes externas, las filtra y las almacena para su análisis. En esta etapa se incluyen también los eventos de análisis de sentimiento, donde las menciones son clasificadas según su polaridad, permitiendo identificar posibles riesgos reputacionales.
 
-Dentro del flujo del sistema, se identificaron también eventos relacionados con la gestión de alertas, donde el sistema genera notificaciones cuando se detectan menciones negativas. Estas notificaciones son posteriormente revisadas por los usuarios, quienes pueden ejecutar acciones de respuesta ante situaciones que requieran atención inmediata.
+Dentro del flujo del sistema, también se identificaron eventos relacionados con la gestión de alertas, donde el sistema genera notificaciones ante la detección de menciones negativas. Estas alertas son revisadas por los usuarios, quienes pueden ejecutar acciones de respuesta según la criticidad del caso.
 
-Finalmente, se identificaron eventos correspondientes a la generación de reportes y visualización de resultados, donde el sistema permite generar informes, exportar resultados y actualizar dashboards con métricas relevantes. Estos eventos permiten a los usuarios evaluar el desempeño de la marca y tomar decisiones estratégicas basadas en los datos recolectados.
+Finalmente, se identificaron eventos correspondientes a la generación de reportes y visualización de métricas, donde el sistema permite crear informes, exportar resultados y actualizar dashboards con indicadores clave. Estos eventos facilitan la evaluación del desempeño de la marca y la toma de decisiones basadas en datos.
 
-En cuanto a los actores identificados, se reconocieron principalmente dos roles: el PyME Owner, quien gestiona directamente la reputación digital de su propia marca, y el Agency Manager, quien administra múltiples marcas en representación de distintos clientes. Ambos actores interactúan con el sistema mediante acciones específicas como la configuración de marcas, revisión de alertas y generación de reportes. Asimismo, se identificaron sistemas externos, tales como plataformas de redes sociales, servicios de análisis de sentimiento y servicios de notificación, los cuales participan en el flujo del sistema proporcionando datos y facilitando la comunicación con los usuarios.
+En cuanto a los actores identificados, se reconocen principalmente dos roles: el PyME Owner, responsable de la gestión directa de su marca, y el Agency Manager, encargado de administrar múltiples cuentas de clientes. Ambos interactúan con el sistema mediante acciones como la configuración de marcas, la revisión de alertas y la generación de reportes. Asimismo, se identificaron sistemas externos como redes sociales, servicios de análisis de sentimiento y servicios de notificación, los cuales alimentan el sistema con datos y permiten la interacción con los usuarios.
 
-Los flujos identificados describen el recorrido completo del sistema desde el registro inicial del usuario hasta la generación de reportes finales. Estos flujos permiten comprender cómo se encadenan los eventos y cómo interactúan los distintos actores y sistemas externos en cada etapa. Además, el análisis de estos flujos permitió identificar dependencias críticas, automatizaciones internas y puntos clave donde pueden surgir riesgos o mejoras futuras.
+Los flujos del sistema describen el recorrido end-to-end desde el registro inicial hasta la generación de reportes finales, permitiendo visualizar cómo se encadenan los eventos y cómo interactúan los distintos actores y sistemas externos. Este análisis permitió identificar dependencias críticas, automatizaciones potenciales y puntos de mejora dentro del sistema.
 
-En conjunto, la identificación de eventos, actores y flujos permitió construir una representación clara del comportamiento del sistema, facilitando la comprensión del dominio del problema y estableciendo una base sólida para la definición de agregados y el diseño del modelo de dominio.
+En conjunto, la identificación de eventos, actores y flujos permitió construir una representación estructurada del dominio del problema, sirviendo como base para la definición de agregados y el diseño del modelo de dominio.
 
 ---
 
 ## 2.5. Ubiquitous Language
 
-> *El Ubiquitous Language es un glosario de términos clave del dominio del negocio que busca unificar el significado de los conceptos utilizados por todos los involucrados en el proyecto. Su objetivo es evitar ambigüedades y asegurar una comunicación clara y consistente entre el equipo técnico y el área de negocio. En esta sección, se definen los principales términos del sistema en inglés, acompañados de su explicación en español dentro del contexto del proyecto.*
+> *El Ubiquitous Language es un glosario de términos clave del dominio del negocio que busca unificar el significado de los conceptos utilizados por todos los involucrados en el proyecto. Su objetivo es evitar ambigüedades y asegurar una comunicación clara y consistente entre el equipo técnico y el área de negocio. En esta sección, se definen los principales términos del sistema en inglés, acompañados de su definición en español dentro del contexto del proyecto.*
 
 <br>
 
 | Término (EN) | Término (ES) | Definición |
 |:-------------|:-------------|:-----------|
-| `User` | Usuario | Persona que interactúa con el sistema para gestionar la reputación digital |
-| `PyME Owner` | Dueño de PyME | Usuario que gestiona su propia marca dentro del sistema |
+| `User` | Usuario | Persona que interactúa con el sistema para gestionar la reputación digital de una o más marcas |
+| `PyME Owner` | Dueño de PyME | Usuario que gestiona la reputación digital de su propia marca |
 | `Agency Manager` | Gestor de Agencia | Usuario que administra múltiples marcas de distintos clientes |
 | `Account` | Cuenta | Identidad del usuario dentro del sistema que permite autenticación y acceso |
 | `Session` | Sesión | Estado activo de un usuario autenticado en el sistema |
@@ -1315,7 +1381,7 @@ En conjunto, la identificación de eventos, actores y flujos permitió construir
 
 ## 3.1. User Stories
 
->*Las User Stories de BrandRadar expresan las necesidades reales de sus usuarios en su propio lenguaje, describiendo qué requieren del sistema y por qué es importante para ellos. Cada historia traduce un requerimiento de negocio en una funcionalidad concreta, manteniendo siempre el foco en el valor que aporta a quien la usa. En esta sección las historias se organizan dentro de Epics, lo que permite estructurar el alcance del producto y priorizar el desarrollo de las funcionalidades más relevantes. Sus criterios de aceptación se redactan en tiempo presente y tercera persona, sin referencias a detalles de interfaz, siguiendo la estructura Gherkin (Given / When / Then).*
+>*Las User Stories de BrandRadar expresan las necesidades reales de los usuarios en su propio lenguaje, describiendo qué requieren del sistema y por qué es importante para ellos. Cada historia traduce un requerimiento de negocio en una funcionalidad concreta, manteniendo el foco en el valor que aporta al usuario. En esta sección, las historias se organizan en Epics, lo que permite estructurar el alcance del producto y priorizar el desarrollo de las funcionalidades más relevantes. Los criterios de aceptación se redactan en tiempo presente y tercera persona, sin referencias a detalles de interfaz, siguiendo la estructura Gherkin (Given / When / Then).*
 
 <br>
 
@@ -1389,7 +1455,13 @@ En conjunto, la identificación de eventos, actores y flujos permitió construir
 
 <br>
 
->*El Impact Mapping de BrandRadar vincula el objetivo central del producto, centralizar el monitoreo de reputación e infraestructura web, con las necesidades concretas de Alfredo Negrete y Romina Apaza. Para Alfredo, el sistema debe permitirle detectar quejas locales al instante y ajustar sus procesos con base en feedback real. Para Romina, debe facilitarle gestionar múltiples marcas sin incrementar su carga operativa. Cada uno de estos impactos se traduce en entregables específicos — alertas, dashboards, análisis de sentimiento y reportes — que a su vez se conectan directamente con las historias de usuario del backlog.*
+>*El Impact Mapping de BrandRadar vincula el objetivo central del producto —centralizar el monitoreo de la reputación digital y el estado de la infraestructura web— con las necesidades específicas de los usuarios objetivo: Alfredo Negrete y Romina Apaza.
+
+Para Alfredo Negrete, el sistema debe permitir la detección inmediata de quejas o comentarios negativos, facilitando la toma de decisiones basada en feedback real para optimizar sus procesos de negocio.
+
+Para Romina Apaza, la solución debe reducir la carga operativa asociada al monitoreo manual, permitiéndole gestionar múltiples marcas de manera más eficiente.
+
+Cada uno de estos impactos se traduce en entregables funcionales como alertas en tiempo real, dashboards centralizados, análisis de sentimiento y reportes de reputación, los cuales se conectan directamente con las historias de usuario definidas en el backlog del producto.*
 
 <br>
 
@@ -1397,7 +1469,9 @@ En conjunto, la identificación de eventos, actores y flujos permitió construir
 
 ## 3.3. Product Backlog
 
->*El Product Backlog de BrandRadar consolida el conjunto de funcionalidades priorizadas que guían el desarrollo del producto. Cada historia de usuario está ordenada según su valor estratégico y estimada en Story Points, lo que permite al equipo planificar iteraciones de forma realista. El backlog abarca cinco áreas: monitoreo de redes sociales, análisis de sentimiento con IA, gestión de reputación local, reportes y exportación de datos, y herramientas de respuesta y colaboración, totalizando 45 historias de usuario distribuidas en sus niveles de complejidad.*
+>*El Product Backlog de BrandRadar consolida el conjunto de funcionalidades priorizadas que guían el desarrollo del producto. Cada historia de usuario está estimada en Story Points y ordenada según su valor estratégico, lo que permite planificar iteraciones de forma incremental y realista.
+
+El backlog abarca cinco áreas principales: monitoreo de redes sociales, análisis de sentimiento mediante inteligencia artificial, gestión de reputación digital, generación de reportes y exportación de datos, y herramientas de respuesta y colaboración. En conjunto, el backlog está compuesto por 45 historias de usuario, distribuidas según su nivel de complejidad y prioridad.*
 
 <br>
 
@@ -1477,11 +1551,9 @@ En conjunto, la identificación de eventos, actores y flujos permitió construir
 
 ## 4.2. Information Architecture
 
-La arquitectura de información de **BrandRadar** ha sido diseñada para estructurar de forma clara y jerárquica los contenidos, permitiendo a los dueños de PyMEs y agencias digitales monitorear su reputación sin fricciones. Se prioriza una navegación intuitiva que reduzca la carga cognitiva al gestionar múltiples fuentes de datos en tiempo real.
+La arquitectura de información de **BrandRadar** ha sido diseñada para estructurar de forma clara y jerárquica los contenidos, permitiendo a los usuarios —dueños de PyMEs y agencias digitales— monitorear su reputación digital sin fricciones. Se prioriza una navegación intuitiva que reduzca la carga cognitiva al gestionar múltiples fuentes de datos en tiempo real.
 
-A continuación, se presentan los diagramas de estructura que representan la 
-organización general de la plataforma, tanto para la versión web como para la 
-aplicación móvil. 
+A continuación, se presentan los diagramas de estructura que representan la organización general de la plataforma, tanto en su versión web como móvil.
 
 - Mapa de estructura general de la web: 
 
@@ -1718,27 +1790,29 @@ Configuración: Administración de suscripciones, equipo de trabajo y métricas 
 ### 4.2.3. SEO Tags and Meta Tags
 
 
-*(Se expondrán los sistemas de búsqueda implementados para ayudar a los usuarios (dueños de PyMEs y account managers de agencias) a encontrar rápidamente la información que necesitan sobre su huella digital.
-En la Landing Page, los sistemas de búsqueda son estáticos y se centran en la navegación intuitiva hacia las secciones de beneficios, precios y contacto.
-En la aplicación web se implementan los siguientes métodos avanzados de búsqueda y filtrado:
+*(Se definen los sistemas de búsqueda y optimización SEO implementados en BrandRadar con el objetivo de facilitar el acceso a la información relevante sobre la huella digital de las marcas, tanto para dueños de PyMEs como para account managers de agencias.
 
-Método de búsqueda por barra: Búsqueda libre por nombre de marca, keyword, frase específica o URL del sitio web.
+En la Landing Page, los meta tags y sistemas SEO se orientan a mejorar la visibilidad en motores de búsqueda y guiar la navegación hacia secciones clave como beneficios, precios y contacto, mediante una estructura estática optimizada.
+
+En la aplicación web, se implementan mecanismos avanzados de búsqueda y filtrado que permiten una exploración más precisa de la información:
+
+Búsqueda por barra: Búsqueda libre por nombre de marca, keyword, frase específica o URL del sitio web.
 Filtrado de búsqueda:
-Por plataforma (Instagram, Facebook, Google Maps, Twitter/X, TripAdvisor, web general, etc.)
-Por sentimiento (positivo, negativo, neutro)
-Por rango de fecha o período de tiempo
-Por tipo de mención (reseña, comentario, noticia, mención en redes)
-Por nivel de criticidad (alertas altas, medias, bajas)
-Por fuente específica o competidor (para benchmarking)
+- Por plataforma (Instagram, Facebook, Google Maps, Twitter/X, TripAdvisor, web general, etc.)
+- Por sentimiento (positivo, negativo, neutro)
+- Por rango de fecha o período de tiempo
+- Por tipo de mención (reseña, comentario, noticia, mención en redes)
+- Por nivel de criticidad (alertas altas, medias, bajas)
+- Por fuente específica o competidor (para benchmarking)
 
 
-Estos filtros combinados permiten a los usuarios aislar rápidamente menciones negativas, crisis emergentes o tendencias positivas.)*
+Estos filtros combinados permiten a los usuarios identificar rápidamente menciones negativas, detectar posibles crisis emergentes y analizar tendencias positivas de la reputación digital.)*
 
 ### 4.2.4. Searching Systems
 
-En BrandRadar, los sistemas de busqueda han sido diseñados para facilitar el acceso rapido y eficiente a la informacion mas relevante sobre la reputacion digital de cada usuario. Tanto en la version web como en la aplicacion movil, se integran motores de busqueda inteligentes con filtros dinamicos que permiten explorar menciones, reseñas de clientes, alertas de crisis y tendencias de sentimiento de manera personalizada.
+En BrandRadar, los sistemas de búsqueda han sido diseñados para facilitar el acceso rápido y eficiente a la información más relevante sobre la reputación digital de cada usuario. Tanto en la versión web como en la aplicación móvil, se integran motores de búsqueda inteligentes con filtros dinámicos que permiten explorar menciones, reseñas de clientes, alertas de crisis y tendencias de sentimiento de forma personalizada.
 
-El objetivo es reducir el tiempo de exploracion, evitar la desorientacion frente al gran volumen de datos provenientes de redes sociales y Google Maps, y ofrecer resultados precisos y visualmente claros. Los resultados se mostraran mediante tarjetas informativas con etiquetas de sentimiento, plataforma de origen y opciones de accion directa, como “Responder reseña”, “Ver detalle de alerta” o “Generar reporte de crisis”.
+El objetivo es reducir el tiempo de exploración, evitar la desorientación frente al gran volumen de datos provenientes de redes sociales y Google Maps, y ofrecer resultados precisos y visualmente claros. Los resultados se presentan mediante tarjetas informativas con etiquetas de sentimiento, plataforma de origen y opciones de acción directa, como “Responder reseña”, “Ver detalle de alerta” o “Generar reporte de crisis”.
 
 <div>
 <table>
@@ -1774,12 +1848,11 @@ El objetivo es reducir el tiempo de exploracion, evitar la desorientacion frente
 </div>
 ### 4.2.5. Navigation Systems
 
-Los sistemas de navegación de BrandRadar se han diseñado para guiar al usuario de forma clara, personalizada e intuitiva tanto en la Landing Page como en la aplicación web y móvil. El objetivo es que tanto los dueños de PyMEs como los especialistas de marketing puedan recorrer las diferentes secciones sin confusión, gestionando crisis reputacionales o analizando el sentimiento de marca con el menor número de interacciones posibles.
+Los sistemas de navegación de **BrandRadar** han sido diseñados para guiar al usuario de forma clara, personalizada e intuitiva tanto en la Landing Page como en la aplicación web y móvil. El objetivo es que los dueños de PyMEs y los especialistas de marketing puedan recorrer las distintas secciones sin fricciones, gestionando la reputación de sus marcas o analizando el sentimiento con el menor número de pasos posible.
 
-En la Landing Page, la navegación se basa en una estructura jerárquica con un menú superior fijo que incluye las secciones principales: Inicio, Características, Planes, Testimonios, Comunidad y Login. A lo largo del desplazamiento se emplean botones de acción (CTA) visibles, como “Empieza tu monitoreo gratis” o “Agenda una demo”, los cuales redirigen a secciones clave del sitio. El pie de página refuerza la navegación secundaria permitiendo el acceso a Políticas de Privacidad, Términos de Servicio, Documentación de la API y canales de soporte.
+En la **Landing Page**, la navegación se basa en una estructura jerárquica con un menú superior fijo que incluye las secciones principales: Inicio, Características, Planes, Testimonios, Comunidad y Login. A lo largo del recorrido se incorporan llamadas a la acción (CTA) visibles, como “Empieza tu monitoreo gratis” o “Agenda una demo”, que redirigen a secciones clave del sitio. El pie de página complementa la navegación secundaria, permitiendo el acceso a Políticas de Privacidad, Términos de Servicio, Documentación de la API y canales de soporte.
 
-En la aplicación (Dashboard), se aplica una navegación híbrida con una barra lateral (sidebar) y pestañas superiores que garantizan un acceso rápido a las funciones críticas. Existen dos flujos principales según el perfil:
-
+En la **aplicación (Dashboard)**, se implementa una navegación híbrida basada en una barra lateral (sidebar) y pestañas superiores, lo que garantiza un acceso rápido a las funcionalidades críticas. Se definen dos flujos principales según el perfil del usuario:
 Para el Dueño de PyME: Las secciones principales son Dashboard, Alertas, Reseñas y Perfil.
 
 Dashboard: Visualiza un resumen del score de reputación y menciones críticas del día.
@@ -1802,14 +1875,14 @@ Gestión de Clientes: Panel centralizado para administrar múltiples marcas desd
 
 ## 4.3. Landing Page UI Design
 
->*En esta sección se presenta la propuesta de interfaz de usuario (UI) para el Landing Page de *BrandRadar*. El diseño se basa en los hallazgos obtenidos durante el proceso de investigación (entrevistas y Lean UX), priorizando las necesidades de los usuarios, especialmente la visualización clara de la reputación digital y el acceso rápido a información relevante.*
+>En esta sección se presenta la propuesta de interfaz de usuario (UI) para la Landing Page de **BrandRadar**. El diseño se fundamenta en los hallazgos obtenidos durante el proceso de investigación (entrevistas y Lean UX), priorizando las necesidades de los usuarios, especialmente la visualización clara de la reputación digital y el acceso rápido a información relevante.*
 
 >*Asimismo, se han aplicado principios de diseño centrados en el usuario, una arquitectura de información clara y un enfoque visual moderno, con el objetivo de comunicar de manera efectiva el valor de la plataforma y facilitar la conversión de usuarios.*
 
 
 ### 4.3.1. Landing Page Wireframe
 
->*Los wireframes representan la estructura base del Landing Page, permitiendo definir la organización de contenidos, jerarquía visual y flujo de navegación antes de aplicar estilos visuales. Se desarrollaron versiones para Desktop Web Browser y Mobile Web Browser:*
+>*Los wireframes representan la estructura base de la Landing Page, permitiendo definir la organización de contenidos, la jerarquía visual y el flujo de navegación antes de la aplicación del diseño visual final. Se desarrollaron versiones para escritorio (desktop web browser) y dispositivos móviles (mobile web browser):*
 
 <br>
 
@@ -1837,7 +1910,8 @@ Gestión de Clientes: Panel centralizado para administrar múltiples marcas desd
 
 ### 4.3.2. Landing Page Mock-up
 
->*Los mock-ups representan la versión visual final del Landing Page, incorporando colores, tipografía, iconografía y estilos definidos en el Design System.*
+>*Los mock-ups representan la versión visual final de la Landing Page, incorporando los elementos definidos en el Design System, como la paleta de colores, la tipografía, la iconografía y los estilos de componentes.
+En esta etapa se materializa la propuesta de wireframes en una interfaz visual completamente definida, permitiendo validar la coherencia estética, la jerarquía visual y la experiencia de usuario antes del desarrollo final.*
 
 <div align="center">
 
@@ -1867,13 +1941,14 @@ Gestión de Clientes: Panel centralizado para administrar múltiples marcas desd
 
 ## 4.4. Web Applications UX/UI Design
 
->*En esta sección se presenta la propuesta visual y de interacción para la aplicación web de BrandRadar. El diseño ha sido desarrollado considerando los hallazgos obtenidos durante el proceso de investigación con usuarios, priorizando la claridad en la visualización de datos, la rapidez de acceso a las funcionalidades críticas y una experiencia coherente tanto para dueños de PyMEs como para especialistas de marketing. Se han aplicado principios de diseño centrado en el usuario, consistencia visual con el Design System definido y una arquitectura de información que reduce la carga cognitiva del usuario en cada interacción.*
+>*En esta sección se presenta la propuesta visual y de interacción para la aplicación web de BrandRadar. El diseño ha sido desarrollado a partir de los hallazgos obtenidos en el proceso de investigación con usuarios, priorizando la claridad en la visualización de datos, el acceso rápido a funcionalidades críticas y una experiencia coherente tanto para dueños de PyMEs como para especialistas de marketing.
+Se aplican principios de diseño centrado en el usuario, consistencia visual basada en el Design System definido y una arquitectura de información orientada a reducir la carga cognitiva en cada interacción.*
 
 <br>
 
 ### 4.4.1. Web Applications Wireframes
 
->*Los wireframes presentados a continuación representan la estructura base de las principales vistas de la aplicación web de BrandRadar. Su elaboración se realizó aplicando principios de diseño inclusivo, garantizando que la disposición de los elementos sea comprensible para usuarios con distintos niveles de experiencia tecnológica.*
+>*Los wireframes presentados a continuación representan la estructura base de las principales vistas de la aplicación web de BrandRadar. Su elaboración se realizó aplicando principios de diseño inclusivo, asegurando que la disposición de los elementos sea clara, comprensible y accesible para usuarios con distintos niveles de experiencia tecnológica.*
 
 <br>
 
@@ -1906,7 +1981,7 @@ Gestión de Clientes: Panel centralizado para administrar múltiples marcas desd
 
 ### 4.4.3. Web Applications Mock-ups
 
->*Los mock-ups presentados a continuación representan la propuesta visual final de las principales vistas de la aplicación web de BrandRadar, incorporando el Design System definido en la sección 4.1. A diferencia de los wireframes, estas vistas integran la paleta de colores, tipografía, iconografía, componentes visuales y espaciado establecidos para la plataforma, ofreciendo una representación de alta fidelidad de la experiencia que tendrá el usuario al interactuar con el sistema.*
+>*Los mock-ups presentados a continuación representan la propuesta visual final de las principales vistas de la aplicación web de BrandRadar, incorporando el Design System definido en la sección 4.1. A diferencia de los wireframes, estas vistas integran la paleta de colores, tipografía, iconografía, componentes visuales y espaciado establecidos para la plataforma, ofreciendo una representación de alta fidelidad de la experiencia de usuario en el sistema.*
 
 >*El diseño busca transmitir confianza, claridad y eficiencia, valores fundamentales de BrandRadar, asegurando que tanto los dueños de PyMEs como los account managers de agencias puedan interpretar la información de reputación digital de forma rápida e intuitiva.*
 
@@ -1934,16 +2009,16 @@ Gestión de Clientes: Panel centralizado para administrar múltiples marcas desd
 
 ## 4.5. Web Applications Prototyping
 
-En esta sección se presenta el prototipo interactivo de la aplicación web de BrandRadar, desarrollado en Figma a partir de los mock-ups de alta fidelidad definidos en la sección anterior. El prototipo simula la navegación real del sistema, permitiendo visualizar los flujos de interacción entre las distintas vistas de la plataforma tanto en su versión Desktop como Mobile Web Browser.
+En esta sección se presenta el prototipo interactivo de la aplicación web de BrandRadar, desarrollado en Figma a partir de los mock-ups de alta fidelidad definidos en la sección anterior. El prototipo simula la navegación real del sistema, permitiendo visualizar los flujos de interacción entre las distintas vistas de la plataforma en sus versiones Desktop y Mobile Web.
 
-Las decisiones de interacción tomadas durante el prototipado se basaron en los siguientes criterios:
+Las decisiones de interacción del prototipo se basaron en los siguientes criterios:
 
-- **Accesibilidad y simplicidad:** Se priorizó que cualquier usuario, independientemente de su nivel técnico, pueda navegar por la plataforma sin necesidad de instrucciones previas, especialmente para el segmento de dueños de PyMEs.
-- **Rapidez de acceso a funciones críticas:** Las acciones más frecuentes, como la revisión de alertas, el análisis de sentimiento y la generación de reportes, se encuentran disponibles desde el Dashboard principal con el mínimo número de clics posible.
-- **Consistencia visual:** Todos los elementos interactivos siguen el Design System definido, asegurando que botones, formularios, tarjetas y navegación mantengan un comportamiento predecible en todas las vistas.
-- **Diseño responsivo:** El prototipo contempla la adaptación de las vistas para dispositivos móviles, garantizando que los usuarios puedan monitorear su reputación digital desde cualquier dispositivo.
+- **Accesibilidad y simplicidad:** Se prioriza una navegación intuitiva que permita a cualquier usuario, independientemente de su nivel técnico, utilizar la plataforma sin necesidad de instrucciones previas, especialmente en el segmento de dueños de PyMEs.
+- **Rapidez de acceso a funciones críticas:** Las acciones más frecuentes, como la revisión de alertas, el análisis de sentimiento y la generación de reportes, se encuentran disponibles desde el Dashboard principal con el menor número de interacciones posible.
+- **Consistencia visual:** Todos los elementos siguen el Design System definido, garantizando un comportamiento coherente y predecible en componentes como botones, formularios, tarjetas y navegación.
+- **Diseño responsivo:** El prototipo se adapta a dispositivos móviles, asegurando una experiencia consistente que permita el monitoreo de la reputación digital desde cualquier dispositivo.
 
-A continuación se presentan los prototipos para Desktop y Mobile Web Browser junto con los videos de simulación de navegación correspondientes.
+A continuación, se presentan los prototipos para Desktop y Mobile Web, junto con los videos de simulación de navegación correspondientes.
 
 <br>
 
@@ -1969,13 +2044,13 @@ A continuación se presentan los prototipos para Desktop y Mobile Web Browser ju
 
 ### 4.6.1. Design-Level Event Storming
 
->*Para definir la arquitectura de BrandRadar orientada al dominio (DDD), realizamos un proceso iterativo de Design-Level Event Storming siguiendo los 10 pasos metodológicos. A continuación, se detalla la evolución del modelo:*
+>*Para definir la arquitectura de BrandRadar orientada al dominio (DDD), se realizó un proceso iterativo de Design-Level Event Storming siguiendo la metodología de 10 pasos. A continuación, se detalla la evolución del modelo:*
 
 <br>
 
 **Step 1: Unstructured Exploration**
 
-Identificamos y plasmamos todos los eventos que cambian el estado del sistema, escritos en tiempo pasado (post-its naranjas). Estos abarcan desde `User Registered` hasta `PDF Report Generated`.
+Se identificaron y representaron todos los eventos que modifican el estado del sistema, escritos en tiempo pasado (post-its naranjas). Estos abarcan desde `User Registered` hasta `PDF Report Generated`, entre otros eventos relevantes del dominio.
 
 <br>
 
@@ -1983,7 +2058,7 @@ Identificamos y plasmamos todos los eventos que cambian el estado del sistema, e
 
 **Step 2: Timelines**
 
-Ordenamos los eventos de dominio cronológicamente de izquierda a derecha, estableciendo el flujo natural del ciclo de vida del monitoreo de reputación.
+Se ordenaron los eventos del dominio de forma cronológica de izquierda a derecha, estableciendo el flujo del ciclo de vida del monitoreo de reputación digital.
 
 <br>
 
@@ -1991,44 +2066,52 @@ Ordenamos los eventos de dominio cronológicamente de izquierda a derecha, estab
 
 **Step 3: Hotspots**
 
-Identificamos los riesgos técnicos y puntos de dolor del negocio (rombos rojos), como posibles bloqueos por Rate Limits en las APIs de redes sociales o falsos positivos en la evaluación de la Inteligencia Artificial.
+Se identificaron los puntos críticos del sistema y riesgos técnicos del negocio (marcados con rombos rojos), como posibles limitaciones por rate limits en APIs de redes sociales o falsos positivos en los modelos de análisis de sentimiento basados en inteligencia artificial.
+
 <br>
 
 ![Step3 - Event Storming](brandradar-report/assets/design-level-storm/step3.png)
 
 **Step 4: Pivotal Events**
 
-Trazamos líneas divisorias para segmentar el flujo temporal en fases críticas, marcando el cambio de estado entre la configuración manual, el monitoreo automático y el manejo de crisis.
+Se definieron eventos pivote que segmentan el flujo del sistema en fases funcionales, delimitando el cambio de estado entre la configuración inicial, el monitoreo automático y la gestión de crisis reputacionales.
+
 ![Step4 - Event Storming](brandradar-report/assets/design-level-storm/step4.png)
 
 **Step 5: Commands & Actors**
 
-Definimos las órdenes (post-its azules) que detonan los eventos y los actores (íconos amarillos) responsables de ejecutarlos, ya sean los usuarios (PyME/Agencia) o el propio sistema automatizado.
+Se definieron los commands (post-its azules) que disparan los eventos del sistema, así como los actores (íconos amarillos) responsables de ejecutarlos, ya sean usuarios (PyME / Agencia) o procesos automatizados del sistema.
+
 ![Step5 - Event Storming](brandradar-report/assets/design-level-storm/step5.png)
 
 **Step 6: Policies**
 
-Incorporamos las reglas de negocio reactivas (post-its lilas) que automatizan el sistema. Por ejemplo, la política que estipula que *siempre que una mención tenga un sentimiento negativo, se debe disparar una alerta urgente*.
+Se incorporaron las business policies (post-its lilas), que representan reglas de negocio reactivas que automatizan el comportamiento del sistema. Por ejemplo, la regla que establece que cuando una mención presenta sentimiento negativo, se genera automáticamente una alerta de alta prioridad.
+
 ![Step6 - Event Storming](brandradar-report/assets/design-level-storm/step6.png)
 
 **Step 7: Read Models**
 
-Mapeamos las interfaces de usuario y dashboards (post-its verdes) que los actores necesitan visualizar antes de tomar la decisión de ejecutar un comando.
+Se mapearon los read models (post-its verdes), que representan las vistas e interfaces que los usuarios necesitan consultar para la toma de decisiones antes de ejecutar un comando.
+
 ![Step7 - Event Storming](brandradar-report/assets/design-level-storm/step7.png)
 
 **Step 8: External Systems**
 
-Integramos las dependencias con servicios de terceros (post-its rosados) vitales para BrandRadar, tales como Google Maps API, Social Media APIs y el servicio NLP de Inteligencia Artificial.
+Se identificaron los sistemas externos (post-its rosados) que interactúan con BrandRadar, incluyendo APIs de redes sociales, Google Maps API y servicios de procesamiento de lenguaje natural (NLP) basados en inteligencia artificial.
+
 ![Step8 - Event Storming](brandradar-report/assets/design-level-storm/step8.png)
 
 **Step 9: Aggregates**
 
-Elevamos el nivel de abstracción agrupando comandos y eventos en torno a las entidades principales de dominio (post-its amarillos grandes), definiendo agregados clave como `Account`, `Brand`, `Mention`, `Crisis Alert` y `Analytics Report`.
+Se incrementó el nivel de abstracción agrupando comandos y eventos alrededor de las principales entidades del dominio (Aggregates, representados como post-its amarillos grandes). En esta etapa se definieron agregados clave como `Account`, `Brand`, `Mention`, `Crisis Alert` y `Analytics Report`, los cuales encapsulan la consistencia de las reglas de negocio y el estado del sistema.
+
 ![Step9 - Event Storming](brandradar-report/assets/design-level-storm/step9.png)
 
 **Step 10: Bounded Contexts**
 
-Finalmente, trazamos los límites transaccionales y semánticos encerrando los agregados relacionados en grandes bloques. Este paso consolidó nuestra arquitectura en 6 Bounded Contexts: Account Management, Brand Management, Monitoring, Sentiment Analysis, Alert Management y Reporting.
+Finalmente, se delimitaron los límites semánticos y transaccionales del dominio mediante la definición de Bounded Contexts, agrupando los agregados relacionados en bloques coherentes e independientes. Este paso consolidó la arquitectura del sistema en seis contextos principales: Account Management, Brand Management, Monitoring, Sentiment Analysis, Alert Management y Reporting.
+
 ![Step10 - Event Storming](brandradar-report/assets/design-level-storm/step10.png)
 
 **Bounded Contexts:**
@@ -2047,15 +2130,15 @@ Finalmente, trazamos los límites transaccionales y semánticos encerrando los a
 
 <br>
 
-El proceso de Design-Level Event Storming nos permitió profundizar en el comportamiento técnico del sistema, tomando como base los flujos identificados en el Big Picture Event Storming. En esta etapa, se definieron los límites transaccionales (Bounded Contexts) y se introdujeron elementos de diseño táctico como Comandos (Commands), Agregados (Aggregates) y Políticas (Policies). [Ver Miro](https://miro.com/welcomeonboard/OFNBUUR3ZHl3VWkyVzJPRzhPWEV5bHF2S0hiRjArNEswejJoT0ZyZVdHQ0VMVDkzNy9Xd3RCOGdHemhTN3ZJblhjSkJLRjBneGRvNjdaaXNCZHkvWVQ3N1VhMUxRYkI4SmNBRTdTaHpBWWlzRHhGTTZKL2NFVjVtK1IwcFZscnhnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=126405139400).
+El proceso de Design-Level Event Storming permitió profundizar en el comportamiento técnico del sistema, tomando como base los flujos identificados en el Big Picture Event Storming. En esta etapa, se definieron los límites transaccionales (Bounded Contexts) y se incorporaron elementos de diseño táctico como Comandos (Commands), Agregados (Aggregates) y Políticas (Policies). [Ver Miro](https://miro.com/welcomeonboard/OFNBUUR3ZHl3VWkyVzJPRzhPWEV5bHF2S0hiRjArNEswejJoT0ZyZVdHQ0VMVDkzNy9Xd3RCOGdHemhTN3ZJblhjSkJLRjBneGRvNjdaaXNCZHkvWVQ3N1VhMUxRYkI4SmNBRTdTaHpBWWlzRHhGTTZKL2NFVjVtK1IwcFZscnhnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=126405139400).
 
-A partir del análisis del dominio de BrandRadar, hemos consolidado seis Bounded Contexts principales:
-1. **Account Management:** Gestiona la identidad, roles (PyME Owner, Agency Manager) y sesiones.
-2. **Brand Management:** Administra la configuración de la marca, palabras clave y conexión a fuentes de datos.
-3. **Monitoring:** Encargado de orquestar la conexión con APIs externas y la recolección de menciones (Mentions).
+A partir del análisis del dominio de BrandRadar, se consolidaron seis Bounded Contexts principales:
+1. **Account Management:** Gestiona la identidad de los usuarios, roles (PyME Owner, Agency Manager) y sesiones de autenticación.
+2. **Brand Management:** Administra la configuración de marcas, palabras clave (keywords) y la conexión con fuentes de datos externas.
+3. **Monitoring:** Coordina la integración con APIs externas y la recolección de menciones (mentions) en tiempo real.
 4. **Sentiment Analysis:** Delega el procesamiento de lenguaje natural y clasifica el sentimiento.
-5. **Alert Management:** Aplica reglas de negocio para generar notificaciones ante crisis o menciones negativas.
-6. **Reporting:** Consolida las métricas y genera dashboards exportables.
+5. **Alert Management:** Aplica reglas de negocio para la generación de alertas y notificaciones ante eventos críticos o menciones negativas.
+6. **Reporting:** Consolida métricas del sistema y genera dashboards y reportes exportables para análisis y toma de decisiones.
    
 <br>
 
@@ -2065,33 +2148,39 @@ A partir del análisis del dominio de BrandRadar, hemos consolidado seis Bounded
 
 ### 4.6.2. Software Architecture Context Diagram
 
-El Diagrama de Contexto ilustra a BrandRadar en su entorno operativo, mostrando las interacciones de alto nivel entre el sistema, los usuarios y las plataformas externas. 
+El Diagrama de Contexto representa a BrandRadar dentro de su entorno operativo, mostrando las interacciones de alto nivel entre el sistema, los usuarios y los sistemas externos.
 
 <br>
 
 ![Software Architecture Context Diagram](brandradar-report/assets/architecture/context-diagram.png)
 
-Este nivel de abstracción nos permite visualizar rápidamente el valor del negocio: cómo los actores principales (PyME Owner y Agency Manager) interactúan con la plataforma central, y cómo esta depende de sistemas externos críticos para su funcionamiento, tales como las APIs de redes sociales y Google Maps para la extracción de datos, así como servicios de Inteligencia Artificial (NLP) para el procesamiento de lenguaje natural.
+Este nivel de abstracción permite comprender el alcance del sistema y su valor dentro del dominio de negocio, evidenciando cómo los actores principales —PyME Owner y Agency Manager— interactúan con la plataforma central de BrandRadar. Asimismo, se identifican las dependencias críticas con sistemas externos, como las APIs de redes sociales y Google Maps para la obtención de datos, y servicios de Inteligencia Artificial (NLP) para el análisis automático de sentimiento.
 
 <br>
 
 ### 4.6.3. Software Architecture Container Diagrams
 
->*El Diagrama de Contenedores desglosa el sistema BrandRadar en sus unidades desplegables, mostrando cómo se distribuyen las responsabilidades técnicas y las tecnologías elegidas.*
+>*El Diagrama de Contenedores descompone el sistema BrandRadar en sus unidades desplegables, describiendo cómo se distribuyen las responsabilidades técnicas y las tecnologías utilizadas en cada componente.*
 
 <br>
 
 ![Software Architecture Container Diagram](brandradar-report/assets/architecture/container-diagram.png)
 
-En esta vista, observamos sistema central para exponer nuestra arquitectura basada en microservicios. Se observa cómo la aplicación cliente (Web App SPA) se comunica exclusivamente con un API Gateway, el cual enruta las peticiones de forma segura hacia los servicios de dominio subyacentes. Además, se justifica el uso de persistencia políglota: una base de datos relacional para datos transaccionales fuertemente estructurados (cuentas, suscripciones) y una base de datos documental orientada a soportar la alta volumetría de datos no estructurados generados por las menciones de redes sociales.
+En esta vista se presenta la arquitectura de contenedores del sistema BrandRadar, basada en una aproximación de microservicios. Se observa cómo la aplicación cliente (Web App SPA) se comunica exclusivamente con un API Gateway, el cual actúa como punto de entrada único y enruta las solicitudes hacia los distintos servicios de dominio.
+
+Este enfoque permite centralizar la gestión de autenticación, seguridad y enrutamiento, desacoplando la capa de presentación de la lógica de negocio.
+
+Asimismo, se justifica la adopción de persistencia políglota, utilizando una base de datos relacional para datos transaccionales estructurados (cuentas, usuarios y suscripciones), y una base de datos documental para el manejo de información no estructurada y de alta volumetría, como las menciones provenientes de redes sociales.
 
 <br>
 
 ### 4.6.4. Software Architecture Components Diagrams
 
-Para el diagrama de Componentes hemos desglosado la arquitectura interna de nuestros contenedores principales, alineándolos directamente con los Bounded Contexts descubiertos durante el proceso de Event Storming. 
+Para el diagrama de componentes, se ha desglosado la arquitectura interna de cada contenedor principal, alineándola directamente con los Bounded Contexts identificados durante el proceso de Event Storming.
 
-Este nivel de detalle nos permite identificar las piezas de software que componen cada microservicio (controladores, servicios de lógica de negocio, repositorios de acceso a datos y conectores externos). A continuación, se presentan los diagramas de componentes para los seis contextos delimitados del sistema:
+Este nivel de detalle permite identificar las piezas de software que conforman cada microservicio, tales como controladores, servicios de lógica de negocio, repositorios de acceso a datos y conectores hacia sistemas externos.
+
+A continuación, se presentan los diagramas de componentes correspondientes a los seis contextos delimitados del sistema:
 
 <br>
 
@@ -2147,13 +2236,15 @@ Consolida la información mediante procesos asíncronos para generar dashboards 
 
 ## 4.7. Software Object-Oriented Design
 
->*Esta sección presenta el diseño orientado a objetos de BrandRadar, traduciendo el modelo de dominio obtenido del Event Storming en una estructura de clases concreta lista para su implementación. Se aplican los principios SOLID y los patrones tácticos de Domain-Driven Design, organizando el sistema en seis bounded contexts: Account Management, Brand Setup, Monitoring, Sentiment Analysis, Alert Handling y Reporting.*
+>*Esta sección presenta el diseño orientado a objetos de BrandRadar, traduciendo el modelo de dominio obtenido del Event Storming en una estructura de clases implementable. Se aplican principios SOLID y patrones tácticos de Domain-Driven Design, organizando el sistema en seis Bounded Contexts: Account Management, Brand Setup, Monitoring, Sentiment Analysis, Alert Management y Reporting.*
 
 <br>
 
 ### 4.7.1. Class Diagrams
 
->*Los diagramas de clases documentan la estructura estática de cada bounded context, mostrando clases, atributos, métodos y relaciones con sus multiplicidades. Se utilizan los estereotipos «aggregate root», «value object», «service» y «enum» para distinguir el rol de cada elemento dentro del dominio. La comunicación entre contextos se realiza exclusivamente a través de identificadores, nunca mediante referencias directas entre objetos de distintos contextos.*
+>*Los diagramas de clases describen la estructura estática de cada Bounded Context, incluyendo clases, atributos, métodos y relaciones con sus respectivas multiplicidades. Se emplean estereotipos como «Aggregate Root», «Value Object», «Service» y «Enum» para representar el rol de cada elemento dentro del dominio.
+
+La comunicación entre contextos se realiza únicamente mediante identificadores (IDs) o contratos de integración, evitando referencias directas entre objetos pertenecientes a distintos Bounded Contexts, con el fin de mantener el bajo acoplamiento y la independencia de cada módulo.*
 
 <br>
 
@@ -2161,7 +2252,11 @@ Consolida la información mediante procesos asíncronos para generar dashboards 
 
 <br>
 
-Este bounded context gestiona todo lo relacionado con la identidad y acceso de los usuarios en BrandRadar. Cubre el ciclo completo desde el registro hasta el inicio de sesión: la creación de la cuenta, la verificación del correo electrónico y el manejo de sesiones activas. Los dos actores del sistema, el PyME Owner y el Agency Manager, se diferencian únicamente por su UserRole, por lo que ambos comparten la misma clase User. Las credenciales se almacenan separadas del usuario principal para aislar la información sensible, y cada sesión queda registrada de forma independiente para permitir el control de accesos activos.
+Este Bounded Context gestiona todo lo relacionado con la identidad, autenticación y autorización de usuarios en BrandRadar. Cubre el ciclo completo de vida de la cuenta, desde el registro hasta el inicio de sesión, incluyendo la verificación de correo electrónico y la gestión de sesiones activas.
+
+Los dos actores del sistema, **PyME Owner y Agency Manager**, se modelan como variantes de un mismo agregado de usuario, diferenciados mediante el atributo UserRole, por lo que ambos comparten la entidad principal User.
+
+Las credenciales de autenticación se gestionan como una entidad separada dentro del mismo contexto, con el objetivo de aislar información sensible y reforzar la seguridad del sistema. Asimismo, cada sesión se registra de forma independiente, permitiendo el control y la trazabilidad de accesos activos.
 
 <br>
 
@@ -2181,7 +2276,9 @@ Este bounded context gestiona todo lo relacionado con la identidad y acceso de l
 
 <br>
 
-Este bounded context gestiona la configuración inicial de una marca dentro de BrandRadar. Cubre el proceso completo que debe realizar un usuario para que el sistema pueda comenzar a monitorear su reputación: registrar la información de la marca, definir las palabras clave a rastrear, conectar las fuentes de datos externas como redes sociales y configurar los parámetros del monitoreo. Una marca puede tener múltiples palabras clave y múltiples fuentes de datos conectadas, pero una sola configuración de monitoreo activa.
+Este Bounded Context gestiona la configuración inicial y el mantenimiento de una marca dentro de BrandRadar. Cubre el proceso mediante el cual el usuario habilita una marca para el monitoreo de reputación digital, incluyendo el registro de información básica de la marca, la definición de palabras clave (keywords) y la conexión con fuentes de datos externas como redes sociales y plataformas de reseñas.
+
+Una *Brand* puede asociarse a múltiples *Keywords* y múltiples *Data Sources*, mientras que la configuración de monitoreo define los parámetros activos bajo los cuales el sistema realiza la recolección de información en tiempo real.
 
 <br>
 
@@ -2202,8 +2299,11 @@ Este bounded context gestiona la configuración inicial de una marca dentro de B
 
 <br>
 
-Este bounded context se encarga de la recolección automática de menciones desde las fuentes de datos externas configuradas por el usuario. Cada vez que el sistema ejecuta un ciclo de monitoreo, se crea un MonitoringJob que orquesta todo el proceso: conecta con las APIs externas, recolecta las menciones brutas, aplica las reglas de filtrado para descartar contenido irrelevante y almacena únicamente las menciones válidas para su posterior análisis. Una mención representa cualquier publicación o referencia encontrada en internet que coincide con las palabras clave definidas para una marca.
+Este Bounded Context se encarga de la recolección automatizada de menciones desde las fuentes de datos externas configuradas por el usuario. Cada vez que se ejecuta un ciclo de monitoreo, se genera un MonitoringJob, el cual coordina el proceso de ingesta de datos desde APIs externas.
 
+Durante su ejecución, el sistema recupera menciones en bruto, aplica reglas de filtrado para eliminar contenido irrelevante o duplicado, y persiste únicamente aquellas menciones que cumplen con los criterios definidos para su posterior procesamiento.
+
+Una *Mention* representa cualquier publicación, comentario o referencia en línea que contiene coincidencias con las *keywords* asociadas a una marca dentro del sistema.
 <br>
 
 <div align="center">
@@ -2223,7 +2323,11 @@ Este bounded context se encarga de la recolección automática de menciones desd
 
 <br>
 
-Este bounded context se encarga de analizar el contenido de cada mención recolectada por el proceso de monitoreo para determinar si expresa una opinión positiva, negativa o neutral hacia la marca. El análisis se delega a un servicio externo de procesamiento de lenguaje natural, y el resultado queda registrado como un SentimentResult vinculado a la mención. Cuando el resultado supera el umbral de negatividad configurado, el NegativeMentionDetector marca la mención para que el contexto de Alert Handling genere una alerta.
+Este Bounded Context se encarga del análisis del contenido de las menciones recolectadas por el *Monitoring Context*, con el objetivo de determinar el sentimiento expresado hacia la marca (positivo, neutro o negativo).
+
+El análisis de sentimiento se realiza mediante la integración con un servicio externo de procesamiento de lenguaje natural (NLP), cuyo resultado se registra como un SentimentResult asociado a cada Mention.
+
+En función de los resultados obtenidos, el sistema evalúa un umbral de negatividad configurado previamente. Cuando dicho umbral es superado, la mención es clasificada como crítica y queda disponible para su tratamiento dentro del Alert Management Context, el cual se encarga de la generación de alertas.
 
 <br>
 <div align="center">
@@ -2242,7 +2346,13 @@ Este bounded context se encarga de analizar el contenido de cada mención recole
 
 <br>
 
-Este bounded context gestiona el ciclo completo de respuesta ante menciones negativas detectadas por el análisis de sentimiento. Cuando una mención supera el umbral de riesgo, el sistema genera una Alert y notifica al usuario a través del canal configurado. El usuario puede revisar la alerta, ejecutar una acción de respuesta y el sistema registra todo el proceso en un log de auditoría. Esto permite a los usuarios de BrandRadar actuar rápidamente ante situaciones que representen un riesgo para la reputación de su marca.
+Este *Bounded Context* gestiona el ciclo de vida de las alertas generadas a partir de menciones clasificadas como críticas por el *Sentiment Analysis Context*.
+
+Cuando una mención supera el umbral de riesgo definido, el sistema genera una Alert y desencadena el proceso de notificación al usuario a través del canal configurado.
+
+El usuario puede revisar la alerta, evaluar su contenido y ejecutar una acción de respuesta. Todas las acciones realizadas sobre la alerta quedan registradas en un log de auditoría, garantizando trazabilidad del proceso.
+
+Este contexto permite a los usuarios de BrandRadar reaccionar de manera oportuna ante situaciones que puedan impactar la reputación de su marca.
 
 <br>
 
@@ -2262,7 +2372,11 @@ Este bounded context gestiona el ciclo completo de respuesta ante menciones nega
 
 <br>
 
-Este bounded context permite a los usuarios de BrandRadar visualizar y exportar los resultados del monitoreo y análisis de su marca. A partir de los datos acumulados de menciones y sentimiento, el sistema calcula las métricas de reputación del período solicitado y las presenta tanto en reportes exportables como en el dashboard en tiempo real. Es el punto final del flujo del sistema y el principal insumo para que el PyME Owner o el Agency Manager tomen decisiones estratégicas sobre la reputación de su marca.
+Este *Bounded Context* permite a los usuarios de BrandRadar visualizar y exportar los resultados del monitoreo y análisis de reputación de sus marcas.
+
+A partir de los datos acumulados de menciones y análisis de sentimiento, el sistema calcula métricas de reputación correspondientes al período solicitado y las presenta en forma de dashboards en tiempo real y reportes exportables.
+
+Este contexto representa la capa de visualización y síntesis del sistema, consolidando la información procesada para facilitar la toma de decisiones estratégicas por parte del *PyME Owner* o el *Agency Manager*.
 
 <br>
 
@@ -2282,13 +2396,17 @@ Este bounded context permite a los usuarios de BrandRadar visualizar y exportar 
 
 ## 4.8. Database Design
 
->*El diseño de base de datos de BrandRadar define la estructura persistente sobre la cual se almacena toda la información del sistema. Esta sección traduce el modelo de clases orientado a objetos hacia un esquema relacional concreto, estableciendo las tablas, columnas, tipos de datos, claves primarias, claves foráneas y restricciones necesarias para garantizar la integridad y consistencia de los datos. El diseño respeta los límites de cada bounded context definidos anteriormente, agrupando las tablas según el contexto al que pertenecen.*
+>*El diseño de base de datos de BrandRadar define la capa de persistencia del sistema, donde se almacena la información generada y procesada por los distintos Bounded Contexts. Esta sección traduce el modelo orientado a objetos hacia un esquema relacional, definiendo tablas, columnas, tipos de datos, claves primarias, claves foráneas y restricciones necesarias para garantizar la integridad, consistencia y trazabilidad de los datos.*
+
+*El diseño respeta los límites establecidos por los Bounded Contexts, organizando las tablas de forma modular según el dominio al que pertenecen.*
 
 <br>
 
 ### 4.8.1. Database Diagrams
 
->*Los diagramas de base de datos presentados en esta sección representan el esquema relacional del sistema organizado por bounded context. Cada diagrama muestra las tablas con sus columnas y tipos de dato, las claves primarias (PK) y foráneas (FK), y las relaciones entre tablas con su cardinalidad. La nomenclatura de columnas sigue la convención de prefijo de tres letras establecida en el diseño de clases, manteniendo consistencia entre el modelo orientado a objetos y el esquema de base de datos.*
+>*Los diagramas de base de datos representan el esquema relacional del sistema organizado por Bounded Context. Cada diagrama detalla las tablas correspondientes, incluyendo sus columnas, tipos de datos, claves primarias (PK), claves foráneas (FK) y relaciones con sus respectivas cardinalidades.*
+
+*La nomenclatura de atributos sigue la convención definida en el modelo de clases, manteniendo consistencia entre el diseño orientado a objetos y la capa de persistencia, asegurando trazabilidad entre dominio y base de datos.*
 
 <br>
 
@@ -2304,7 +2422,11 @@ Este bounded context permite a los usuarios de BrandRadar visualizar y exportar 
 
 <br>
 
-*El diagrama de base de datos del bounded context Account Management gestiona la identidad y acceso de los usuarios. La tabla central User almacena la información principal del usuario y se relaciona con tres tablas dependientes: UserCredentials para las credenciales de autenticación, EmailVerification para los tokens de verificación de correo, y Session para el registro de sesiones activas. Todas se vinculan a User mediante clave foránea garantizando la integridad referencial del contexto.*
+*El diagrama de base de datos del Bounded Context Account Management gestiona la identidad y el acceso de los usuarios del sistema. La entidad principal es la tabla User, que almacena la información base del usuario y actúa como raíz del agregado.*
+
+*Esta tabla se relaciona con tres entidades dependientes: UserCredentials, que almacena las credenciales de autenticación; EmailVerification, que gestiona los tokens de verificación de correo electrónico; y Session, que registra las sesiones activas del usuario.*
+
+*Todas las relaciones se establecen mediante claves foráneas hacia User, garantizando la integridad referencial dentro del contexto y manteniendo la consistencia del modelo de identidad.*
 
 
 <br>
@@ -2321,7 +2443,11 @@ Este bounded context permite a los usuarios de BrandRadar visualizar y exportar 
 
 <br>
 
-*El diagrama de base de datos del bounded context Brand Setup gestiona la configuración de marcas dentro de BrandRadar. La tabla central Brand almacena la información principal de cada marca y se relaciona con tres tablas dependientes: Keyword para las palabras clave de monitoreo, DataSource para las fuentes de datos externas conectadas, y MonitoringConfig para los parámetros de configuración del monitoreo. Todas se vinculan a Brand mediante clave foránea garantizando la integridad referencial del contexto.*
+*El diagrama de base de datos del Bounded Context Brand Setup gestiona la configuración de las marcas dentro de BrandRadar. La entidad principal es la tabla Brand, que almacena la información base de cada marca y actúa como raíz del agregado.*
+
+*Esta entidad se relaciona con tres componentes dependientes: Keyword, que define las palabras clave utilizadas para el monitoreo; DataSource, que representa las fuentes de datos externas conectadas al sistema; y MonitoringConfig, que almacena los parámetros de configuración del proceso de monitoreo.*
+
+*Todas las relaciones se establecen mediante claves foráneas hacia Brand, garantizando la integridad referencial del contexto y manteniendo la consistencia de la configuración de cada marca.*
 
 <br>
 
@@ -2337,7 +2463,11 @@ Este bounded context permite a los usuarios de BrandRadar visualizar y exportar 
 
 <br>
 
-*El diagrama de base de datos del bounded context Monitoring gestiona la recolección automática de menciones desde fuentes externas. La tabla central MonitoringJob registra cada ciclo de monitoreo ejecutado y se relaciona con Mention, que almacena cada publicación recolectada desde las plataformas externas. La tabla FilterRule almacena las reglas de filtrado definidas por marca para depurar el contenido irrelevante antes de su almacenamiento.*
+*El diagrama de base de datos del Bounded Context Monitoring gestiona el proceso de recolección automática de menciones desde fuentes de datos externas. La entidad principal es la tabla MonitoringJob, que registra cada ejecución del ciclo de monitoreo y actúa como raíz del proceso de recolección.*
+
+*Esta entidad se relaciona con Mention, que almacena las publicaciones recolectadas desde las plataformas externas, y con FilterRule, que define las reglas de filtrado configuradas por cada marca para depurar contenido irrelevante antes de su persistencia.*
+
+*Todas las relaciones se estructuran mediante claves foráneas dentro del contexto, asegurando la trazabilidad entre cada ejecución de monitoreo, las reglas aplicadas y las menciones obtenidas.*
 
 
 <br>
@@ -2355,7 +2485,11 @@ Este bounded context permite a los usuarios de BrandRadar visualizar y exportar 
 
 <br>
 
-*El diagrama de base de datos del bounded context Sentiment Analysis gestiona el análisis de sentimiento de cada mención recolectada. La tabla central SentimentAnalysis registra cada análisis ejecutado y se relaciona con SentimentResult, que almacena el resultado del análisis incluyendo el score, la etiqueta y el nivel de confianza. La tabla ClassificationProcess registra los parámetros del modelo utilizado para clasificar cada mención.*
+*El diagrama de base de datos del Bounded Context Sentiment Analysis gestiona el análisis de sentimiento aplicado a cada mención recolectada por el sistema.*
+
+*La entidad principal es la tabla SentimentAnalysis, que registra cada proceso de análisis ejecutado sobre una mención. Esta se relaciona con SentimentResult, que almacena el resultado del análisis, incluyendo el score, la etiqueta de sentimiento y el nivel de confianza del modelo.*
+
+*Adicionalmente, la tabla ClassificationProcess registra la configuración y parámetros del modelo utilizado en cada análisis, permitiendo la trazabilidad del proceso de clasificación.*
 
 
 <br>
@@ -2373,7 +2507,11 @@ Este bounded context permite a los usuarios de BrandRadar visualizar y exportar 
 
 <br>
 
-*El diagrama de base de datos del bounded context Alert Handling gestiona el ciclo de respuesta ante menciones negativas detectadas. La tabla central Alert registra cada alerta generada y se relaciona con Notification, que almacena los envíos de notificación al usuario, y con Response, que registra las acciones tomadas ante cada alerta. La tabla AlertLog guarda el historial de auditoría de todo el proceso.*
+*El diagrama de base de datos del Bounded Context Alert Management gestiona el ciclo de vida de las alertas generadas a partir de menciones clasificadas como negativas.*
+
+*La entidad principal es la tabla Alert, que registra cada alerta generada por el sistema. Esta se relaciona con Notification, que almacena los envíos de notificaciones al usuario, y con Response, que registra las acciones realizadas en respuesta a cada alerta.*
+
+*La tabla AlertLog almacena el historial de auditoría de todo el proceso, garantizando la trazabilidad de las decisiones y acciones ejecutadas sobre cada alerta.*
 
 
 <br>
@@ -2391,7 +2529,11 @@ Este bounded context permite a los usuarios de BrandRadar visualizar y exportar 
 
 <br>
 
-*El diagrama de base de datos del bounded context Reporting gestiona la generación y visualización de resultados del monitoreo de marca. La tabla central Report registra cada reporte generado y se relaciona con ReputationMetrics, que almacena las métricas calculadas para el período solicitado. La tabla Dashboard mantiene el estado del panel de visualización en tiempo real de cada marca.*
+*El diagrama de base de datos del Bounded Context Reporting gestiona la generación, consolidación y visualización de resultados derivados del monitoreo y análisis de reputación de marca.*
+
+*La entidad principal es la tabla Report, que registra cada reporte generado para una marca en un período determinado. Esta se relaciona con ReputationMetrics, que almacena las métricas calculadas a partir de las menciones y su análisis de sentimiento, correspondientes al rango de tiempo solicitado.*
+
+*Adicionalmente, la tabla Dashboard mantiene el estado de visualización en tiempo real por marca, permitiendo representar indicadores actualizados de reputación y desempeño.*
 
 
 <br>
@@ -2452,7 +2594,7 @@ Netlify / Vercel: Plataforma de alojamiento y despliegue web que simplifica el p
 
 ### 5.1.2. Source Code Management
 
-*(Para todo el ciclo de vida de nuestro proyecto, utilizaremos el sistema de control de versiones Git, donde la evidencia será visualizada y registrada en la plataforma de GitHub de nuestra organización. Se podrá visualizar todos los cambios y modificaciones realizadas por cada miembro del equipo. 
+*(Para la gestión del ciclo de vida del proyecto se utilizará el sistema de control de versiones Git, centralizando el repositorio en GitHub bajo la organización del equipo. Esta plataforma permite registrar, rastrear y visualizar todos los cambios realizados en el código fuente, así como identificar la contribución de cada integrante del equipo a lo largo del desarrollo del proyecto. 
 URL de GitHub: https://github.com/Los-5-Suyos/BrandRadar-report/graphs/contributors)*
 
 ---
@@ -2541,9 +2683,11 @@ En base a la coordinación del equipo, se asignaron los siguientes liderazgos pa
 
 #### 5.2.1.3. Sprint Backlog 1
 
-El objetivo principal del Sprint 1 es establecer la base de comunicación digital de BrandRadar mediante el desarrollo de una Landing Page de alto impacto. El equipo ha seleccionado un conjunto de User Stories del Product Backlog orientadas a la visibilidad de marca.
+El objetivo principal del Sprint 1 es establecer la base de presencia digital de BrandRadar mediante el desarrollo de una Landing Page funcional y de alto impacto visual. Para ello, se ha seleccionado un conjunto de User Stories del Product Backlog orientadas a la presentación del valor del producto y la validación de la propuesta de valor.
 
-Aunque algunas historias (como la US07) contemplan funcionalidades de análisis de datos complejas para etapas futuras, en este sprint el enfoque se centra en el Outcome de Frontend. Esto implica la implementación de la "Prueba Social" a través de una sección de testimonios y la maquetación de métricas de éxito (Social Proof), permitiendo validar la experiencia de usuario y la presentación visual de los insights que la plataforma generará automáticamente en versiones posteriores.
+Si bien algunas historias de usuario (por ejemplo, la US07) contemplan funcionalidades relacionadas con análisis de datos que serán desarrolladas en iteraciones posteriores, en este sprint el enfoque se centra en la construcción del frontend y la experiencia de usuario inicial.
+
+Esto incluye la implementación de secciones de social proof, como testimonios y métricas de impacto, con el objetivo de validar la percepción del usuario sobre la plataforma y reforzar la credibilidad del producto antes de la incorporación de funcionalidades avanzadas de análisis.
 
 | Sprint # | | | | | | | |
 |:--------:|---|---|---|---|---|---|---|
@@ -2638,33 +2782,33 @@ Aunque algunas historias (como la US07) contemplan funcionalidades de análisis 
 ## Conclusiones
 
 
-1. Durante el Avance 1 se logró establecer una base sólida del proyecto BrandRadar, definiendo con claridad la identidad de la startup, su misión, visión y propuesta de valor orientada al monitoreo de reputación digital en tiempo real para PyMEs y agencias de marketing digital.
+1. Durante el Avance 1 se estableció una base sólida del proyecto BrandRadar, definiendo la identidad de la startup, así como su misión, visión y propuesta de valor orientada al monitoreo de reputación digital en tiempo real para PyMEs y agencias de marketing digital.
 
-2. El proceso de investigación mediante entrevistas semiestructuradas con 5 usuarios reales (3 del segmento PyMEs y 2 del segmento especialistas de marketing) permitió validar la problemática identificada: el monitoreo manual, fragmentado y tardío de la reputación digital es un dolor real y compartido por ambos segmentos objetivo.
+2. El proceso de investigación mediante entrevistas semiestructuradas a 5 usuarios reales (3 del segmento PyMEs y 2 del segmento de especialistas en marketing) permitió validar la problemática identificada, evidenciando que el monitoreo manual, fragmentado y tardío de la reputación digital es un dolor relevante y compartido por ambos segmentos objetivo.
 
-3. A partir del needfinding se construyeron artefactos clave como User Personas, User Journey Maps, Empathy Maps y la User Task Matrix, que evidencian con claridad las necesidades, frustraciones y comportamientos de los usuarios, sirviendo como base para las decisiones de diseño posteriores.
+3. A partir del proceso de needfinding se elaboraron artefactos clave como User Personas, User Journey Maps, Empathy Maps y la User Task Matrix, los cuales permitieron comprender en profundidad las necesidades, frustraciones y comportamientos de los usuarios, sirviendo como base para las decisiones de diseño.
 
-4. El proceso de Big Picture Event Storming permitió modelar el flujo completo del dominio del negocio, identificando los eventos principales, actores, comandos y agregados del sistema, lo que facilitó la definición de 6 bounded contexts: Account Management, Brand Management, Monitoring, Sentiment Analysis, Alert Management y Reporting.
+4. El proceso de Big Picture Event Storming permitió modelar el flujo completo del dominio del negocio, identificando eventos, actores, comandos y agregados del sistema, lo que facilitó la definición de seis Bounded Contexts: Account Management, Brand Management, Monitoring, Sentiment Analysis, Alert Management y Reporting.
 
-5. Se definió un Product Backlog de 45 User Stories organizadas en 10 Epics, priorizadas según el valor que aportan a los segmentos objetivo, lo que proporciona una hoja de ruta clara y estructurada para el desarrollo del producto.
+5. Se definió un Product Backlog de 45 User Stories organizadas en 10 Epics, priorizadas según el valor aportado a los segmentos objetivo, estableciendo una hoja de ruta clara para el desarrollo incremental del producto.
 
-6. Se completó el diseño UI/UX de la landing page en sus versiones desktop y mobile, incluyendo wireframes y mock-ups elaborados en Figma, así como el despliegue de la primera versión funcional de la landing page mediante GitHub y Netlify/Vercel.
+6. Se diseñó la interfaz de usuario de la landing page en versiones desktop y mobile, incluyendo wireframes y mock-ups desarrollados en Figma, y se implementó una primera versión funcional desplegada mediante servicios como GitHub Pages y Vercel/Netlify.
 
-7. El diseño de la arquitectura del sistema mediante diagramas de clases por bounded context y diagramas de base de datos relacionales demuestra que BrandRadar cuenta con una estructura técnica coherente, modular y escalable, lista para guiar las etapas de desarrollo en los siguientes sprints.
+7. El diseño de la arquitectura del sistema, a través de diagramas de clases por bounded context y diagramas de base de datos relacionales, evidencia una estructura técnica coherente, modular y escalable, que servirá como base para el desarrollo en las siguientes iteraciones.
 
 <br>
 
 ## Recomendaciones
 
-1. Para la siguiente etapa del proyecto, se recomienda avanzar hacia la validación de la solución propuesta mediante prototipos de mayor fidelidad, permitiendo evaluar la usabilidad del sistema con usuarios reales de los segmentos identificados.
+1. Para la siguiente etapa del proyecto, se recomienda avanzar en la validación de la solución mediante prototipos de alta fidelidad, con el objetivo de evaluar la usabilidad del sistema en escenarios reales con usuarios de los segmentos identificados.
 
-2. Se sugiere profundizar en la definición de requerimientos funcionales y no funcionales, asegurando que estos estén correctamente alineados con los insights obtenidos en las entrevistas y el proceso de needfinding.
+2. Se sugiere profundizar en la definición y refinamiento de los requerimientos funcionales y no funcionales, asegurando su alineación directa con los insights obtenidos en las entrevistas y el proceso de needfinding.}
 
-3. Para mejorar la calidad de la propuesta, se recomienda realizar iteraciones adicionales del Lean UX Canvas, validando hipótesis clave con potenciales usuarios antes de avanzar a etapas de desarrollo.
+3. Se recomienda iterar el Lean UX Canvas con validaciones adicionales de las hipótesis críticas del producto, incorporando feedback temprano de usuarios potenciales antes de avanzar a fases de desarrollo más complejas.
 
-4. Se sugiere explorar con mayor profundidad las fuentes de datos externas y sus posibles integraciones, evaluando su viabilidad técnica y limitaciones para el monitoreo en tiempo real.
+4. Se sugiere analizar con mayor detalle las fuentes de datos externas y sus mecanismos de integración, evaluando su viabilidad técnica, limitaciones de acceso (APIs, rate limits) y escalabilidad para el monitoreo en tiempo real.
 
-5. Finalmente, se recomienda mantener un enfoque iterativo y centrado en el usuario, incorporando feedback continuo en cada fase del proyecto para asegurar que la solución evolucione de acuerdo con las necesidades reales del mercado.
+5. Finalmente, se recomienda mantener un enfoque iterativo, centrado en el usuario y basado en evidencia, incorporando retroalimentación continua en cada fase del desarrollo para asegurar la evolución del producto en función de necesidades reales del mercado.
 
 <br>
 
@@ -2672,14 +2816,14 @@ Aunque algunas historias (como la US07) contemplan funcionalidades de análisis 
 
 Este apartado será desarrollado en la **entrega final del proyecto**, donde se incluirá el video de presentación del equipo.
 
-En la versión final del reporte se incorporará:
+En la versión final del informe se incorporarán los siguientes elementos:
 
-- Screenshot representativo del video  
+- Captura representativa del video
 - URL del video en Microsoft Stream  
 - URL del video en YouTube  
-- Timing o estructura del contenido presentado (introducción, desarrollo y cierre)
+- Estructura o timing del contenido presentado (introducción, desarrollo y cierre)
 
-El video tendrá como objetivo presentar a los integrantes del equipo, sus roles, contribuciones y la experiencia adquirida durante el desarrollo del proyecto BrandRadar.
+El video tiene como objetivo presentar a los integrantes del equipo, sus roles, principales contribuciones y la experiencia obtenida durante el desarrollo del proyecto BrandRadar.
 
 <br>
 
