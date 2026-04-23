@@ -1599,22 +1599,27 @@ El logotipo de BrandRadar se compone de un isotipo circular que encierra una fle
 
 <br>
 
-<div align="center">
-<img src="brandradar-report/assets/images/logo.png" alt="Logo" width="320"/>
-</div>
-
-<br>
-
 **Logo Alternativo:**
 
 Se permite el uso de una variante minimalista en blanco puro sobre fondos oscuros o una versión monocromática en negro absoluto para documentos impresos. El isotipo puede utilizarse de forma independiente como avatar o favicon en interfaces reducidas.
 
-Uso No Permitido: No se permite el uso de sombras paralelas (drop shadows) excesivas en el logotipo, ni la alteración de sus proporciones (estiramiento). Queda prohibido el uso de combinaciones de colores cálidos como rojo o naranja, ya que entran en conflicto con la psicología de "monitoreo sereno" y "seguridad de marca" que el azul y morado proyectan.
 
 <br>
 
 <div align="center">
-<img src="brandradar-report/assets/images/logo-alternativo.png" alt="Logo Alternativo" width="320"/>
+<img src="brandradar-report/assets/images/logos.png" alt="Logos de BrandRadar" width="320"/>
+</div>
+
+<br>
+
+**Uso No Permitido:**
+
+No se permite el uso de sombras paralelas (drop shadows) excesivas en el logotipo, ni la alteración de sus proporciones (estiramiento). Queda prohibido el uso de combinaciones de colores cálidos como rojo o naranja, ya que entran en conflicto con la psicología de "monitoreo sereno" y "seguridad de marca" que el azul y morado proyectan.
+
+<br>
+
+<div align="center">
+<img src="brandradar-report/assets/images/logo-no.png" alt="Logo No Permitido" width="320"/>
 </div>
 
 <br>
