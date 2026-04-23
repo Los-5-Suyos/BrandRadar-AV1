@@ -1589,7 +1589,7 @@ Estos impactos se materializan en entregables como el motor de IA con entrenamie
 
 ### 4.1.1. General Style Guidelines
 
-### Branding:*
+### Branding:
 
 <br>
 
@@ -1597,8 +1597,10 @@ Estos impactos se materializan en entregables como el motor de IA con entrenamie
 
 El logotipo de BrandRadar se compone de un isotipo circular que encierra una flecha/brújula estilizada en dirección noreste, simbolizando crecimiento y monitoreo estratégico. La tipografía es una Sans Serif moderna que combina el negro para "Brand" y un gradiente violeta para "Radar", enfatizando el enfoque tecnológico.
 
+<br>
+
 <div align="center">
-<img src="brandradar-report/assets/images/brandradar.png" alt="BrandRadar Logo" width="320"/>
+<img src="brandradar-report/assets/images/logo.png" alt="Logo" width="320"/>
 </div>
 
 <br>
@@ -1609,8 +1611,10 @@ Se permite el uso de una variante minimalista en blanco puro sobre fondos oscuro
 
 Uso No Permitido: No se permite el uso de sombras paralelas (drop shadows) excesivas en el logotipo, ni la alteración de sus proporciones (estiramiento). Queda prohibido el uso de combinaciones de colores cálidos como rojo o naranja, ya que entran en conflicto con la psicología de "monitoreo sereno" y "seguridad de marca" que el azul y morado proyectan.
 
+<br>
+
 <div align="center">
-<img src="brandradar-report/assets/images/brandradar.png" alt="BrandRadar Logo" width="320"/>
+<img src="brandradar-report/assets/images/logo-alternativo.png" alt="Logo Alternativo" width="320"/>
 </div>
 
 <br>
@@ -1624,13 +1628,11 @@ Fuente Principal: Plus Jakarta Sans (seleccionada por su estilo geométrico y mo
 
 Fuente Secundaria: Inter (optimizada para la lectura fluida de datos analíticos y párrafos extensos).
 
+<br>
 
-
-| Tipo | Fuente | Uso |
-|:-----|:------:|:----|
-| Display / Heading | `[Plus Jakarta Sans]` | Títulos y encabezados |
-| Body | `[Inter]` | Texto de contenido |
-| Monospace | `[JetBrains Mono]` | Código y datos técnicos |
+<div align="center">
+<img src="brandradar-report/assets/images/typography.png" alt="Logo Alternativo" width="320"/>
+</div>
 
 <br>
 
@@ -1646,21 +1648,50 @@ Fuente Secundaria: Inter (optimizada para la lectura fluida de datos analíticos
 | Error | `#EF4444` | Estados de error |
 | Success | `#10B981` | Estados de éxito |
 
+<br>
+
 **Spacing**
 
-*(Describir el sistema de espaciado y las unidades base utilizadas)*
+El sistema de espaciado de BrandRadar se basa en una unidad base de 8px, lo que permite mantener consistencia visual y alineación precisa en todos los componentes de la interfaz.
+
+Se utilizan múltiplos de esta unidad para definir márgenes, paddings y separación entre elementos:
+
+<br>
+
+| Escala | Valor | Uso                                      |
+| :----: | :---: | :--------------------------------------- |
+|   xs   |  4px  | Espaciados muy pequeños (íconos, labels) |
+|   sm   |  8px  | Separación mínima entre elementos        |
+|   md   |  16px | Espaciado estándar en componentes        |
+|   lg   |  24px | Separación entre secciones relacionadas  |
+|   xl   |  32px | Separación entre bloques principales     |
+|   2xl  |  48px | Espaciado amplio para layouts            |
+
+
+Este sistema asegura una interfaz limpia, ordenada y fácil de escanear visualmente, especialmente en dashboards y visualización de datos.
+
+<br>
 
 **Tono de comunicación**
 
-| Dimensión | Selección |
-|:----------|:---------:|
-| Divertido / Serio | *(indicar posición en la escala)* |
-| Formal / Casual | *(indicar posición en la escala)* |
-| Respetuoso / Irreverente | *(indicar posición en la escala)* |
-| Entusiasta / Sereno | *(indicar posición en la escala)* |
+El tono de BrandRadar está diseñado para transmitir confianza, claridad y tecnología, sin perder cercanía con el usuario.
 
 
- 
+| Dimensión                |             Selección             |
+| :----------------------- | :-------------------------------: |
+| Divertido / Serio        |    **70% Serio – 30% Cercano**    |
+| Formal / Casual          |    **60% Formal – 40% Casual**    |
+| Respetuoso / Irreverente | **90% Respetuoso – 10% Creativo** |
+| Entusiasta / Sereno      |  **60% Sereno – 40% Entusiasta**  |
+
+
+Descripción del tono:
+
+BrandRadar comunica de forma clara, directa y profesional, priorizando la comprensión de información analítica. Mantiene un estilo sereno y confiable, alineado con herramientas de monitoreo y análisis, pero incorpora un toque ligero de entusiasmo para transmitir innovación y dinamismo tecnológico.
+
+Se evita el uso de lenguaje demasiado técnico cuando no es necesario, así como expresiones exageradas o informales que puedan afectar la percepción de seriedad de la plataforma.
+
+<br>
 
 ---
 
