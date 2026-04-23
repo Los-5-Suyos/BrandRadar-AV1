@@ -2907,13 +2907,9 @@ Se adoptó el flujo GitFlow, organizando el desarrollo en ramas de característi
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
-*(Introducción resumiendo los logros de Documentación de Web Services para el Sprint 1)*
+Durante el Sprint 1, el alcance del proyecto estuvo centrado estrictamente en la implementación del Frontend (Landing Page). Por lo tanto, no se desarrollaron servicios de backend asociados a la lógica de negocio ni se expusieron endpoints funcionales en esta etapa.
 
-> *(Para el Sprint 1, enfocado en Landing Page, puede no aplicar. Documentar si se implementaron endpoints)*
-
-| Endpoint | Acción | Verbo HTTP | Sintaxis | Parámetros | Response ejemplo | URL documentación |
-|:--------:|:------:|:----------:|:--------:|:----------:|:----------------:|:-----------------:|
-| `[endpoint]` | `[acción]` | `GET/POST/PUT/DELETE` | `[sintaxis]` | `[params]` | `[JSON]` | `[URL]` |
+Sin embargo, el equipo ha definido preliminarmente la estructura de los servicios necesarios para la captación de leads que se integrarán en futuros ciclos, dejando preparada la base de la documentación técnica (OpenAPI/Swagger) para asegurar la trazabilidad del desarrollo.
 
 ---
 
