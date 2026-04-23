@@ -2906,11 +2906,33 @@ Se adoptó el flujo GitFlow, organizando el desarrollo en ramas de característi
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
-*(Resumen de lo alcanzado en el Sprint 1 — screenshots de vistas implementadas)*
+Durante el Sprint 1 se completó la Landing Page de BrandRadar, cumpliendo con los objetivos de diseño responsivo y captación de interés. El producto permite una navegación fluida y cuenta con interactividad avanzada gracias a la implementación de scripts de scroll y observadores de intersección.
 
-*(Descripción de las vistas implementadas)*
+- El desarrollo se validó mediante:
 
-![Execution Evidence 1](assets/sprints/sprint1-execution-1.png)
+- Interactividad: Menú hamburguesa funcional para móviles y efectos de sombra dinámicos en el header.
+
+- Secciones integradas: Hero (Brianna), Características (Victor), Beneficios (Jean Franco), Dashboard/Testimonios (Luis) y Precios/Footer (Joaquin).
+
+- Rendimiento: Uso de técnicas de carga diferida visual para la aparición de elementos de la interfaz.
+
+A continuación se muestran las capturas de las vistas desarrolladas 
+
+
+![Execution Evidence 1](assets/sprints/sprint1-execution-1/hero.png)
+
+![Execution Evidence 1](assets/sprints/sprint1-execution-1/features.png)
+
+![Execution Evidence 1](assets/sprints/sprint1-execution-1/benefits.png)
+
+![Execution Evidence 1](assets/sprints/sprint1-execution-1/dashboard.png)
+
+![Execution Evidence 1](assets/sprints/sprint1-execution-1/testimonios.png)
+
+![Execution Evidence 1](assets/sprints/sprint1-execution-1/precios.png)
+
+![Execution Evidence 1](assets/sprints/sprint1-execution-1/footer.png)
+
 
 [Ver video de ejecución Sprint 1](`URL`)
 
