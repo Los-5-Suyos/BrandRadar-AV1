@@ -1727,341 +1727,367 @@ Adicionalmente, se definen colores de estado semántico para alertas, notificaci
 
 <br>
 <div align="center">
-<img src="brandradar-report/assets/images/colors.png" alt="Paleta de colores de BrandRadar" width="800"/>
+<img src="brandradar-report/assets/images/colors.png" alt="Paleta de colores de BrandRadar" width="650"/>
 </div>
 <br>
 
 ---
 
-### 4.1.2. Web Style Guidelines
+# 4.1.2. Web Style Guidelines
 
->*En esta sección se definen los lineamientos visuales y de comportamiento para la interfaz web responsive de BrandRadar, asegurando consistencia, usabilidad y adaptabilidad en distintos dispositivos.*
+En esta sección se definen los lineamientos visuales y de comportamiento para la interfaz web responsive de BrandRadar, asegurando consistencia, usabilidad y adaptabilidad en distintos dispositivos.
 
-<br>
+## Paleta de colores
 
-## 4.2. Information Architecture
+| Rol | Color | Hex |
+|---|---|---|
+| Primary | Azul corporativo | `#1A73E8` |
+| Secondary | Gris oscuro | `#2D2D2D` |
+| Accent / Alerta crítica | Rojo | `#E53935` |
+| Accent / Alerta media | Naranja | `#FB8C00` |
+| Accent / Positivo | Verde | `#43A047` |
+| Background | Blanco humo | `#F5F7FA` |
+| Surface / Tarjetas | Blanco | `#FFFFFF` |
+| Text primary | Gris carbón | `#212121` |
+| Text secondary | Gris medio | `#757575` |
 
-La arquitectura de información de **BrandRadar** ha sido diseñada para estructurar de forma clara y jerárquica los contenidos, permitiendo a los usuarios —dueños de PyMEs y agencias digitales— monitorear su reputación digital sin fricciones. Se prioriza una navegación intuitiva que reduzca la carga cognitiva al gestionar múltiples fuentes de datos en tiempo real.
+## Tipografía
+
+| Uso | Familia | Peso | Tamaño |
+|---|---|---|---|
+| Títulos H1 | Inter | 700 Bold | 32px |
+| Títulos H2 | Inter | 600 SemiBold | 24px |
+| Títulos H3 | Inter | 600 SemiBold | 18px |
+| Cuerpo de texto | Inter | 400 Regular | 16px |
+| Etiquetas / Badges | Inter | 500 Medium | 12px |
+| Botones | Inter | 600 SemiBold | 14px |
+
+## Componentes base
+
+- **Botones primarios:** fondo `#1A73E8`, texto blanco, radio de borde 8px, altura mínima 44px (accesibilidad táctil).
+- **Botones secundarios:** borde `1px #1A73E8`, fondo transparente, texto `#1A73E8`.
+- **Tarjetas (Cards):** fondo blanco, sombra `0 2px 8px rgba(0,0,0,0.08)`, radio 12px. Se usan para mostrar menciones, alertas y métricas.
+- **Badges de sentimiento:** pastilla de color (verde = positivo, rojo = negativo, gris = neutro), texto 12px.
+- **Inputs / Campos de búsqueda:** borde `1px #BDBDBD`, foco `#1A73E8`, altura 40px, ícono lupa a la izquierda.
+
+## Iconografía
+
+Se utiliza la librería **Material Symbols (Google)** en estilo Outlined para garantizar legibilidad en todos los tamaños. Tamaño estándar: 24px en desktop, 20px en móvil.
+
+| Sección | Ícono Material Symbols |
+|---|---|
+| Dashboard | `dashboard` |
+| Monitoreo | `notifications_active` |
+| Alertas | `warning_amber` |
+| Reportes | `bar_chart` |
+| Perfil | `account_circle` |
+| Análisis | `analytics` |
+| Clientes | `groups` |
+| Insights IA | `auto_awesome` |
+| Chat / Soporte | `chat_bubble_outline` |
+| Configuración | `settings` |
+| Búsqueda | `search` |
+| Filtros | `tune` |
+
+## Breakpoints responsive
+
+| Dispositivo | Ancho | Comportamiento |
+|---|---|---|
+| Mobile | < 768px | 1 columna, sidebar colapsado en hamburger |
+| Tablet | 768px – 1024px | 2 columnas, sidebar con iconos |
+| Desktop | > 1024px | Sidebar expandido con etiquetas + contenido multi-columna |
+
+---
+
+# 4.2. Information Architecture
+
+La arquitectura de información de **BrandRadar** ha sido diseñada para estructurar de forma clara y jerárquica los contenidos, permitiendo a los usuarios —dueños de PyMEs y especialistas de marketing— monitorear su reputación digital sin fricciones. Se prioriza una navegación intuitiva que reduzca la carga cognitiva al gestionar múltiples fuentes de datos en tiempo real.
 
 A continuación, se presentan los diagramas de estructura que representan la organización general de la plataforma, tanto en su versión web como móvil.
 
-- Mapa de estructura general de la web: 
-
-### Figura 1. Diagrama de estructura de la página web 
-
-### Diagramas realizados (Anexo 2),
+### Figura 1. Diagrama de estructura de la página web
 
 <img src="brandradar-report/assets/images/PRIMER DIAGRAMA.png" alt="BrandRadar Web Map" width="100%"/>
 
-- Mapa de estructura general del móvil: 
-
-### Figura 2. Diagrama de la estructura de la aplicación móvil (Android y iOS) 
-
-### Diagramas realizados (Anexo 2), 
+### Figura 2. Diagrama de la estructura de la aplicación móvil (Android y iOS)
 
 <img src="brandradar-report/assets/images/SEGUNDO DIAGRAMA.png" alt="BrandRadar Mobile Map" width="100%"/>
 
+---
 
-### 4.2.1. Organization Systems
+## 4.2.1. Organization Systems
 
-• Organización visual del contenido
-Experiencia Web
+### Organización visual del contenido
 
-<div>
-<table>
-<thead>
-<tr>
-<th>Formas de organización visual</th>
-<th>Razón</th>
-<th>Parte</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Organización secuencial (Step-by-step)</td>
-<td>Guiará al usuario en el flujo obligatorio de registro de marca y configuración de fuentes de datos.</td>
-<td>Registro, Configuración de fuentes (APIs), Configuración de alertas.</td>
-</tr>
-<tr>
-<td>Organización jerárquica (Visual Hierarchy)</td>
-<td>Prioriza las alertas críticas y el score de reputación para una respuesta inmediata ante crisis.</td>
-<td>Dashboard principal, Panel de alertas críticas.</td>
-</tr>
-<tr>
-<td>Organización modular</td>
-<td>Divide las métricas (sentimiento, reseñas, menciones) en bloques independientes para evitar la saturación visual.</td>
-<td>Monitoreo detallado, Reportes, Perfil de usuario.</td>
-</tr>
-</tbody>
-</table>
-</div>
+#### Experiencia Web
 
-Experiencia Móvil
+| Forma de organización visual | Razón | Sección de la plataforma |
+|---|---|---|
+| **Jerárquica (Visual Hierarchy)** | Prioriza las alertas críticas y el score de reputación para una respuesta inmediata ante crisis. Los elementos de mayor importancia (score, alertas rojas) ocupan la posición superior izquierda y mayor tamaño visual. | Dashboard principal, Panel de alertas críticas. |
+| **Secuencial (Step-by-step)** | Guía al usuario en flujos obligatorios que deben completarse en orden, como el alta de una marca o la conexión de fuentes de datos externas. | Registro de cuenta, Configuración de fuentes (APIs), Configuración de alertas, Onboarding. |
+| **Matricial (Modular)** | Divide las métricas (sentimiento, reseñas, menciones) en bloques independientes y comparables, evitando la saturación visual al gestionar múltiples fuentes simultáneamente. | Sección de Monitoreo detallado, Reportes, Análisis comparativo. |
 
-<div>
-<table>
-<thead>
-<tr>
-<th>Formas de organización visual</th>
-<th>Razón</th>
-<th>Parte</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Organización jerárquica (Visual Hierarchy)</td>
-<td>Facilita el acceso rápido a notificaciones push y resumen de menciones recientes en pantallas pequeñas.</td>
-<td>Pantalla de inicio, Notificaciones en tiempo real.</td>
-</tr>
-<tr>
-<td>Organización secuencial (Step-by-step)</td>
-<td>Permite al usuario completar tareas rápidas como responder una reseña o reportar una mención.</td>
-<td>Gestión de reseñas individuales, Reporte de incidentes.</td>
-</tr>
-<tr>
-<td>Organización modular</td>
-<td>Optimiza la lectura de datos de sentimiento y tendencias sin saturar la interfaz móvil.</td>
-<td>Dashboard móvil, Ajustes de alertas.</td>
-</tr>
-</tbody>
-</table>
-</div>
+#### Experiencia Móvil
 
-• Esquemas de categorización de contenido
-Experiencia Web
+| Forma de organización visual | Razón | Sección de la plataforma |
+|---|---|---|
+| **Jerárquica (Visual Hierarchy)** | Facilita el acceso inmediato a notificaciones push y al resumen de menciones recientes en pantallas de tamaño reducido, donde el espacio es crítico. | Pantalla de inicio, Centro de notificaciones en tiempo real. |
+| **Secuencial (Step-by-step)** | Permite al usuario completar tareas rápidas —como responder una reseña o reportar una mención negativa— sin perderse en submenús. | Gestión de reseñas individuales, Reporte de incidentes, Respuesta rápida. |
+| **Matricial (Modular)** | Optimiza la lectura de datos de sentimiento y tendencias agrupándolos en tarjetas desplazables, sin saturar la interfaz móvil. | Dashboard móvil, Ajustes de alertas. |
 
-<div>
-<table>
-<thead>
-<tr>
-<th>Esquema de organización</th>
-<th>Razón</th>
-<th>Parte</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Cronológico</td>
-<td>Muestra las menciones y comentarios conforme ocurren en tiempo real.</td>
-<td>Feed de Monitoreo, Historial de alertas.</td>
-</tr>
-<tr>
-<td>Por tópicos</td>
-<td>Agrupa el análisis según el área: Redes Sociales, Google Maps, Web General.</td>
-<td>Fuentes de datos, Análisis de sentimiento.</td>
-</tr>
-<tr>
-<td>Según audiencia</td>
-<td>Personaliza el panel si es un dueño de PyME (vista simple) o un Account Manager (vista multi-marca).</td>
-<td>Dashboard corporativo, Gestión de clientes.</td>
-</tr>
-</tbody>
-</table>
-</div>
+### Esquemas de categorización de contenido
 
-Experiencia Móvil
+#### Experiencia Web
 
-<div>
-<table>
-<thead>
-<tr>
-<th>Esquema de organización</th>
-<th>Razón</th>
-<th>Parte</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Cronológico</td>
-<td>Presenta las alertas más urgentes primero según el momento de detección.</td>
-<td>Notificaciones, Centro de mensajes.</td>
-</tr>
-<tr>
-<td>Por tópicos</td>
-<td>Clasifica las alertas por nivel de riesgo (Alto, Medio, Bajo).</td>
-<td>Filtros de búsqueda rápida, Crisis detectadas.</td>
-</tr>
-<tr>
-<td>Según audiencia</td>
-<td>Adapta las herramientas de gestión según el rol del usuario logueado.</td>
-<td>Menú de navegación, Configuración de perfil.</td>
-</tr>
-</tbody>
-</table>
-</div>
+| Esquema de organización | Razón | Sección de la plataforma |
+|---|---|---|
+| **Cronológico** | Muestra las menciones y comentarios conforme ocurren en tiempo real, ofreciendo al usuario una línea de tiempo de su reputación. | Feed de Monitoreo, Historial de alertas, Línea de tiempo de menciones. |
+| **Por tópicos** | Agrupa el análisis según la fuente o área temática (Redes Sociales, Google Maps, Web General), para que el usuario acceda directamente a la fuente relevante. | Fuentes de datos configuradas, Análisis de sentimiento por plataforma. |
+| **Según audiencia** | Personaliza el panel y las funciones visibles según el rol del usuario: vista simplificada para el dueño de PyME vs. vista multi-marca para el Account Manager de agencia. | Dashboard principal, Gestión de cuentas de clientes. |
 
-### 4.2.2. Labeling Systems 
-<div>
-<p align="center"><b>Etiquetas de navegación para Dueños de PyMEs (Web - App)</b></p>
-<table>
-<tr align="center">
-<td>🏠
+#### Experiencia Móvil
 
-
-Dashboard</td>
-<td>📢
-
-
-Monitoreo</td>
-<td>⚠️
-
-
-Alertas</td>
-<td>📊
-
-
-Reportes</td>
-<td>👤
-
-
-Perfil</td>
-</tr>
-</table>
-</div>
-
-
-Dashboard: Pantalla principal donde se visualiza el resumen del score de reputación, menciones críticas y tendencias recientes de la marca.
-
-
-Monitoreo: Sección para visualizar el feed en tiempo real de todas las menciones detectadas en redes sociales y Google Maps.
-
-
-Alertas: Canal dedicado a la gestión de notificaciones urgentes por crisis reputacionales o reseñas negativas.
-
-
-Reportes: Espacio para generar informes detallados y visuales sobre la evolución de la marca.
-
-
-Perfil: Gestión de datos de la empresa, configuración de cuentas conectadas y preferencias de notificación.
-
-<div>
-<p align="center"><b>Etiquetas de navegación para Especialistas de Marketing (Web - App)</b></p>
-<table>
-<tr align="center">
-<td>📊
-
-
-Análisis</td>
-<td>👥
-
-
-Clientes</td>
-<td>🤖
-
-
-Insights</td>
-<td>💬
-
-
-Chat</td>
-<td>⚙️
-
-
-Configuración</td>
-</tr>
-</table>
-</div>
-
-
-Análisis: Panel avanzado de procesamiento de lenguaje natural para determinar sentimientos positivos, negativos o neutros.
-
-
-Clientes: Gestión de múltiples marcas o cuentas de clientes para agencias digitales.
-
-
-Insights: Recomendaciones accionables generadas por IA para mejorar la comunicación de la marca.
-
-
-Chat: Comunicación directa con el soporte técnico o gestión de respuestas automáticas para clientes.
-
-
-Configuración: Administración de suscripciones, equipo de trabajo y métricas de desempeño
-
-### 4.2.3. SEO Tags and Meta Tags
-
-
-*(Se definen los sistemas de búsqueda y optimización SEO implementados en BrandRadar con el objetivo de facilitar el acceso a la información relevante sobre la huella digital de las marcas, tanto para dueños de PyMEs como para account managers de agencias.
-
-En la Landing Page, los meta tags y sistemas SEO se orientan a mejorar la visibilidad en motores de búsqueda y guiar la navegación hacia secciones clave como beneficios, precios y contacto, mediante una estructura estática optimizada.
-
-En la aplicación web, se implementan mecanismos avanzados de búsqueda y filtrado que permiten una exploración más precisa de la información:
-
-Búsqueda por barra: Búsqueda libre por nombre de marca, keyword, frase específica o URL del sitio web.
-Filtrado de búsqueda:
-- Por plataforma (Instagram, Facebook, Google Maps, Twitter/X, TripAdvisor, web general, etc.)
-- Por sentimiento (positivo, negativo, neutro)
-- Por rango de fecha o período de tiempo
-- Por tipo de mención (reseña, comentario, noticia, mención en redes)
-- Por nivel de criticidad (alertas altas, medias, bajas)
-- Por fuente específica o competidor (para benchmarking)
-
-
-Estos filtros combinados permiten a los usuarios identificar rápidamente menciones negativas, detectar posibles crisis emergentes y analizar tendencias positivas de la reputación digital.)*
-
-### 4.2.4. Searching Systems
-
-En BrandRadar, los sistemas de búsqueda han sido diseñados para facilitar el acceso rápido y eficiente a la información más relevante sobre la reputación digital de cada usuario. Tanto en la versión web como en la aplicación móvil, se integran motores de búsqueda inteligentes con filtros dinámicos que permiten explorar menciones, reseñas de clientes, alertas de crisis y tendencias de sentimiento de forma personalizada.
-
-El objetivo es reducir el tiempo de exploración, evitar la desorientación frente al gran volumen de datos provenientes de redes sociales y Google Maps, y ofrecer resultados precisos y visualmente claros. Los resultados se presentan mediante tarjetas informativas con etiquetas de sentimiento, plataforma de origen y opciones de acción directa, como “Responder reseña”, “Ver detalle de alerta” o “Generar reporte de crisis”.
-
-<div>
-<table>
-<thead>
-<tr>
-<th>Nombre del filtro o búsqueda</th>
-<th>Descripción</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Filtrado por Sentimiento</td>
-<td>Permite aislar solo menciones negativas para gestión de crisis o positivas para fidelización.</td>
-</tr>
-<tr>
-<td>Búsqueda por Plataforma</td>
-<td>Filtra resultados específicos de Google Maps, Instagram, Facebook o Web.</td>
-</tr>
-<tr>
-<td>Búsqueda por Criticidad</td>
-<td>Enfoca la vista en alertas de alta prioridad (caída de web, reseñas de 1 estrella).</td>
-</tr>
-<tr>
-<td>Rango Cronológico</td>
-<td>Permite visualizar tendencias de reputación en fechas específicas (ej. campañas de Black Friday).</td>
-</tr>
-<tr>
-<td>Buscador de Competidores</td>
-<td>Permite buscar palabras clave relacionadas con la competencia para benchmarking.</td>
-</tr>
-</tbody>
-</table>
-</div>
-### 4.2.5. Navigation Systems
-
-Los sistemas de navegación de **BrandRadar** han sido diseñados para guiar al usuario de forma clara, personalizada e intuitiva tanto en la Landing Page como en la aplicación web y móvil. El objetivo es que los dueños de PyMEs y los especialistas de marketing puedan recorrer las distintas secciones sin fricciones, gestionando la reputación de sus marcas o analizando el sentimiento con el menor número de pasos posible.
-
-En la **Landing Page**, la navegación se basa en una estructura jerárquica con un menú superior fijo que incluye las secciones principales: Inicio, Características, Planes, Testimonios, Comunidad y Login. A lo largo del recorrido se incorporan llamadas a la acción (CTA) visibles, como “Empieza tu monitoreo gratis” o “Agenda una demo”, que redirigen a secciones clave del sitio. El pie de página complementa la navegación secundaria, permitiendo el acceso a Políticas de Privacidad, Términos de Servicio, Documentación de la API y canales de soporte.
-
-En la **aplicación (Dashboard)**, se implementa una navegación híbrida basada en una barra lateral (sidebar) y pestañas superiores, lo que garantiza un acceso rápido a las funcionalidades críticas. Se definen dos flujos principales según el perfil del usuario:
-Para el Dueño de PyME: Las secciones principales son Dashboard, Alertas, Reseñas y Perfil.
-
-Dashboard: Visualiza un resumen del score de reputación y menciones críticas del día.
-
-Alertas: Configuración y revisión de notificaciones urgentes por menciones negativas.
-
-Reseñas: Gestión directa de comentarios en Google Maps y redes sociales.
-
-Para el Especialista de Marketing / Agencia: Incluye Monitoreo Avanzado, Análisis de Sentimiento, Reportes y Gestión de Clientes.
-
-Análisis de Sentimiento: Gráficos detallados sobre la percepción de la marca impulsados por IA.
-
-Reportes: Generación automática de informes de rendimiento mensuales o semanales.
-
-Gestión de Clientes: Panel centralizado para administrar múltiples marcas desde una sola cuenta.
+| Esquema de organización | Razón | Sección de la plataforma |
+|---|---|---|
+| **Cronológico** | Presenta las alertas más urgentes primero según el momento de detección, facilitando la respuesta oportuna desde cualquier lugar. | Centro de notificaciones, Feed de menciones recientes. |
+| **Por tópicos** | Clasifica las alertas por nivel de riesgo (Alto, Medio, Bajo) para que el usuario priorice su atención de forma visual e inmediata. | Filtros de búsqueda rápida, Listado de crisis detectadas. |
+| **Según audiencia** | Adapta las herramientas y acciones disponibles en el menú según el rol del usuario autenticado. | Menú de navegación principal, Pantalla de configuración de perfil. |
 
 ---
 
+## 4.2.2. Labeling Systems
+
+El objetivo del sistema de etiquetado de BrandRadar es representar conjuntos de información complejos (reputación, sentimiento, alertas, métricas) con el menor número de palabras posible, evitando la ambigüedad. Todas las etiquetas son concretas, orientadas a la acción y coherentes entre la versión web y móvil.
+
+### Navegación principal — Dueños de PyMEs (Web y App)
+
+| Ícono | Etiqueta | Asociación para el usuario |
+|:---:|---|---|
+| 🏠 `dashboard` | **Dashboard** | Vista general del estado de reputación de la marca hoy. |
+| 📢 `notifications_active` | **Monitoreo** | Feed en tiempo real de menciones detectadas en todas las fuentes. |
+| ⚠️ `warning_amber` | **Alertas** | Notificaciones urgentes por crisis, reseñas negativas o caídas de score. |
+| 📊 `bar_chart` | **Reportes** | Informes visuales del historial de reputación y tendencias. |
+| 👤 `account_circle` | **Perfil** | Datos de la empresa, cuentas conectadas y preferencias. |
+
+### Navegación principal — Especialistas de Marketing / Agencias (Web y App)
+
+| Ícono | Etiqueta | Asociación para el usuario |
+|:---:|---|---|
+| 📊 `analytics` | **Análisis** | Panel de NLP con desglose de sentimiento positivo, negativo y neutro. |
+| 👥 `groups` | **Clientes** | Gestión centralizada de múltiples marcas o cuentas de clientes. |
+| 🤖 `auto_awesome` | **Insights** | Recomendaciones accionables generadas por IA para la comunicación. |
+| 💬 `chat_bubble_outline` | **Chat** | Soporte técnico y gestión de respuestas automáticas a reseñas. |
+| ⚙️ `settings` | **Configuración** | Suscripciones, equipo de trabajo y métricas de desempeño. |
+
+### Etiquetas de estados y badges
+
+| Contexto | Etiqueta | Color |
+|---|---|---|
+| Sentimiento positivo | **Positivo** | Verde `#43A047` |
+| Sentimiento negativo | **Negativo** | Rojo `#E53935` |
+| Sentimiento neutro | **Neutro** | Gris `#9E9E9E` |
+| Nivel de alerta alto | **Crítico** | Rojo `#E53935` |
+| Nivel de alerta medio | **Moderado** | Naranja `#FB8C00` |
+| Nivel de alerta bajo | **Informativo** | Azul `#1A73E8` |
+
+### Etiquetas de acciones directas en tarjetas
+
+- **Responder** — abre el editor de respuesta a una reseña.
+- **Ver detalle** — expande la mención o alerta seleccionada.
+- **Generar reporte** — inicia la generación del informe de la crisis detectada.
+- **Marcar revisado** — archiva la alerta sin generar acción.
+- **Escalar** — redirige la alerta al administrador de cuenta.
+
+---
+
+## 4.2.3. SEO Tags and Meta Tags
+
+### Landing Page
+
+```html
+<!-- Landing Page: BrandRadar -->
+<title>BrandRadar – Monitoreo de Reputación Digital para PyMEs</title>
+
+<meta name="description"
+  content="BrandRadar analiza en tiempo real las menciones, reseñas y comentarios de tu marca en redes sociales, Google Maps y la web. Detecta crisis, gestiona alertas y mejora tu reputación digital.">
+
+<meta name="keywords"
+  content="monitoreo de reputación, gestión de reseñas, alertas de marca, análisis de sentimiento, menciones en redes sociales, reputación digital PyMEs, Google Maps reviews, social listening">
+
+<meta name="author" content="BrandRadar Team">
+
+<meta property="og:title" content="BrandRadar – Monitoreo de Reputación Digital para PyMEs">
+<meta property="og:description"
+  content="Detecta crisis reputacionales antes de que escalen. Analiza el sentimiento de tu marca en tiempo real.">
+<meta property="og:image" content="https://brandradar.app/assets/og-cover.png">
+<meta property="og:url" content="https://brandradar.app">
+<meta property="og:type" content="website">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="BrandRadar – Monitoreo de Reputación Digital">
+<meta name="twitter:description"
+  content="Gestiona la reputación de tu negocio desde un solo panel. Alertas en tiempo real, análisis de sentimiento y reportes automáticos.">
+
+<link rel="canonical" href="https://brandradar.app">
+```
+
+### Web Application — Dashboard (usuario autenticado)
+
+```html
+<!-- Dashboard principal -->
+<title>Dashboard – BrandRadar</title>
+<meta name="description" content="Resumen de tu score de reputación, alertas críticas y menciones recientes.">
+<meta name="robots" content="noindex, nofollow">
+<meta name="author" content="BrandRadar Team">
+```
+
+### Web Application — Sección Monitoreo
+
+```html
+<title>Monitoreo en Tiempo Real – BrandRadar</title>
+<meta name="description"
+  content="Feed en tiempo real de todas las menciones detectadas de tu marca en redes sociales, Google Maps y la web general.">
+<meta name="robots" content="noindex, nofollow">
+<meta name="author" content="BrandRadar Team">
+```
+
+### Web Application — Sección Reportes
+
+```html
+<title>Reportes de Reputación – BrandRadar</title>
+<meta name="description"
+  content="Genera informes detallados sobre la evolución de la reputación de tu marca. Exporta en PDF o comparte directamente.">
+<meta name="robots" content="noindex, nofollow">
+<meta name="author" content="BrandRadar Team">
+```
+
+> **Nota:** Las páginas internas de la aplicación (Dashboard, Monitoreo, Alertas, Reportes) utilizan `noindex, nofollow` para evitar que contenido privado del usuario sea indexado por motores de búsqueda.
+
+---
+
+## 4.2.4. Searching Systems
+
+En BrandRadar, los sistemas de búsqueda han sido diseñados para reducir el tiempo de localización de información crítica dentro de un volumen alto de datos provenientes de múltiples fuentes simultáneas. El usuario nunca debe sentirse abrumado; los filtros actúan como capas que van reduciendo progresivamente el universo de resultados hasta mostrar exactamente lo que necesita.
+
+### Tipos de búsqueda disponibles
+
+| Nombre | Descripción | Disponible en |
+|---|---|---|
+| **Barra de búsqueda libre** | Búsqueda por palabra clave, nombre de marca, frase específica o URL. Autocompletado con sugerencias basadas en historial. | Web y App |
+| **Filtro por Sentimiento** | Aísla menciones positivas, negativas o neutras para gestión de crisis o fidelización. | Web y App |
+| **Filtro por Plataforma** | Segmenta resultados por fuente: Instagram, Facebook, Google Maps, Twitter/X, TripAdvisor, web general. | Web y App |
+| **Filtro por Criticidad** | Enfoca la vista en alertas de alta prioridad (caída de score, reseñas de 1 estrella, pico de menciones negativas). | Web y App |
+| **Rango cronológico** | Visualiza menciones y tendencias en un período específico (ej. semana de campaña, Black Friday). | Web y App |
+| **Filtro por tipo de mención** | Diferencia entre reseñas, comentarios, noticias y menciones directas en redes. | Web |
+| **Buscador de competidores** | Busca palabras clave asociadas a la competencia para análisis de benchmarking. | Web |
+
+### Cómo lucen los resultados después de la búsqueda
+
+Los resultados se presentan como **tarjetas informativas** ordenadas cronológicamente (más reciente primero), con la siguiente estructura por tarjeta:
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  [Ícono plataforma]  Google Maps · hace 2 horas         │
+│  ★★☆☆☆  "La atención fue muy lenta y el pedido llegó…" │
+│                                                          │
+│  Badge: [NEGATIVO]  Badge: [CRÍTICO]                    │
+│                                                          │
+│  [Responder]  [Ver detalle]  [Marcar revisado]          │
+└─────────────────────────────────────────────────────────┘
+```
+
+- El **badge de sentimiento** (verde/rojo/gris) permite identificar el tono de un vistazo.
+- El **badge de criticidad** (Crítico / Moderado / Informativo) indica la urgencia de acción.
+- Los **botones de acción directa** permiten gestionar la mención sin salir de la vista de resultados.
+- Al aplicar filtros, aparece una barra de **filtros activos** en la parte superior, donde cada filtro puede eliminarse individualmente con una "X".
+- Si la búsqueda no devuelve resultados, se muestra un mensaje con sugerencias: _"No encontramos menciones con estos filtros. Prueba ampliar el rango de fechas o eliminar un filtro."_
+
+---
+
+## 4.2.5. Navigation Systems
+
+Los sistemas de navegación de BrandRadar han sido diseñados para guiar al usuario de forma clara, personalizada e intuitiva tanto en la Landing Page como en la aplicación web y móvil. El objetivo es que los dueños de PyMEs y los especialistas de marketing encuentren cualquier funcionalidad en tres clics o menos.
+
+### Landing Page
+
+La navegación se basa en una **barra superior fija** (sticky header) con las siguientes secciones:
+
+| Etiqueta | Destino |
+|---|---|
+| Inicio | Hero section con propuesta de valor |
+| Características | Bloque de funcionalidades principales |
+| Planes | Tabla de precios y comparativa de suscripciones |
+| Testimonios | Casos de éxito de clientes |
+| Comunidad | Foro y recursos de la comunidad BrandRadar |
+| Iniciar sesión | Redirección al login de la aplicación |
+
+Se incorporan **CTAs visibles** a lo largo del scroll:
+- _"Empieza tu monitoreo gratis"_ — activa el flujo de registro.
+- _"Agenda una demo"_ — abre un modal con formulario de contacto.
+- _"Ver planes"_ — ancla a la sección de precios.
+
+El **pie de página** complementa la navegación secundaria con acceso a: Política de Privacidad, Términos de Servicio, Documentación de la API, Centro de Ayuda y redes sociales oficiales.
+
+### Aplicación Web — Dashboard
+
+Se implementa un patrón de navegación híbrido:
+
+- **Sidebar lateral izquierdo** (fijo en desktop, colapsable en tablet): acceso permanente a las secciones principales.
+- **Pestañas superiores** dentro de secciones complejas (ej. Monitoreo > pestaña Instagram / Google Maps / Web).
+- **Breadcrumbs** en rutas profundas para indicar al usuario en qué nivel de la jerarquía se encuentra (ej. _Clientes > Marca XYZ > Alertas_).
+
+#### Flujo de navegación — Dueño de PyME
+
+```
+Login → Dashboard
+         ├── Alertas          (urgentes del día)
+         ├── Monitoreo        (feed en tiempo real)
+         │     └── Detalle de mención → [Responder / Archivar]
+         ├── Reportes         (generar / descargar)
+         └── Perfil           (configuración de marca y alertas)
+```
+
+#### Flujo de navegación — Especialista de Marketing / Agencia
+
+```
+Login → Dashboard multi-marca
+         ├── Clientes         (seleccionar marca activa)
+         ├── Análisis         (sentimiento y tendencias por marca)
+         ├── Insights         (recomendaciones IA)
+         ├── Reportes         (informes por cliente)
+         ├── Chat             (soporte y respuestas automáticas)
+         └── Configuración    (equipo, suscripción, APIs conectadas)
+```
+
+### Aplicación Móvil
+
+La navegación móvil utiliza una **barra inferior de navegación** (bottom tab bar) con los 4-5 destinos más frecuentes, siguiendo el patrón estándar de iOS y Android:
+
+#### Dueño de PyME (barra inferior)
+
+| Posición | Ícono | Etiqueta |
+|:---:|:---:|---|
+| 1 | 🏠 | Dashboard |
+| 2 | 📢 | Monitoreo |
+| 3 | ⚠️ | Alertas |
+| 4 | 📊 | Reportes |
+| 5 | 👤 | Perfil |
+
+#### Especialista de Marketing (barra inferior)
+
+| Posición | Ícono | Etiqueta |
+|:---:|:---:|---|
+| 1 | 📊 | Análisis |
+| 2 | 👥 | Clientes |
+| 3 | 🤖 | Insights |
+| 4 | 💬 | Chat |
+| 5 | ⚙️ | Configuración |
+
+Las notificaciones push dirigen al usuario directamente a la mención o alerta específica, sin necesidad de navegar manualmente por la app. Los flujos de acción rápida (responder reseña, escalar alerta) se resuelven en modales de pantalla completa que no interrumpen la ruta de navegación principal.
+
 <br>
+
+---
 
 ## 4.3. Landing Page UI Design
 
