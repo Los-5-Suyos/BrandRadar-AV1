@@ -132,15 +132,19 @@ Esta estructura de ramas permite un desarrollo organizado y paralelo, facilitand
 
 A continuación, se presenta el gráfico de red (network graph) del repositorio del proyecto, el cual permite visualizar la estructura de ramas, así como la interacción entre ellas a través de los procesos de integración (merge).
 
+<br>
+
 <div align="center">
-<img src="brandradar-report/assets/images/network.png" alt="Gráfico de red Repositorio" width="500"/>
+<img src="brandradar-report/assets/images/network.png" alt="Gráfico de red Repositorio" width="900"/>
 </div>
 
 <br>
 A continuación, se muestran los gráficos con el análisis de los commits realizados en el repositorio. Estos reflejan tanto la cantidad de líneas de código añadidas por cada integrante del equipo como la actividad de commits registrada.
 
+<br>
+
 <div align="center">
-<img src="brandradar-report/assets/images/commits.png" alt="Gráfico de red Repositorio" width="500"/>
+<img src="brandradar-report/assets/images/commits.png" alt="Gráfico de red Repositorio" width="900"/>
 </div>
 
 <br>
