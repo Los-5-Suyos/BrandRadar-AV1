@@ -3262,6 +3262,7 @@ A continuación, se detallan las User Stories seleccionadas y las tareas asociad
 
 | Sprint # | Sprint 1 |
 | :------- | :------- |
+
 | User Story |                                      | Work-Item / Task |                                        | Description                                                   | Estimation (Hours) | Assigned To | Status (To-do / In-Process / To-Review / Done) |
 | :--------- | :----------------------------------- | :--------------- | :------------------------------------- | :------------------------------------------------------------ | :----------------: | :---------- | :--------------------------------------------- |
 | Id         | Title                                | Id               | Title                                  |                                                               |                    |             |                                                |
