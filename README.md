@@ -1571,7 +1571,7 @@ Estos impactos se materializan en entregables como el motor de IA con entrenamie
 
 *Captura del Product Backlog en herramienta*
 
-![Product Backlog](pawtient-report/assets/images//product-backlog/productbacklog.png)
+![Product Backlog](brandradar-report/assets/product-backlog/productbacklog.png)
 
 </div>
 
