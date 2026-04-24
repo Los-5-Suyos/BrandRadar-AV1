@@ -3368,15 +3368,21 @@ El despliegue fue configurado mediante integración continua (CI/CD), permitiend
   9. Acceder a la URL pública generada por Netlify.
 
 <br>
- **URL del despliegue**
-
- (Agregar aquí el enlace de tu Landing Page en Netlify)
+ [**URL del despliegue**](https://brandradar-landing-page.netlify.app/)
 
  **Evidencias**
 
 A continuación, se presentan capturas del proceso de despliegue y del resultado final:
 
 ![Evidencias Sprint 1](brandradar-report/assets/sprints/sprint1-evidence.png)
+![Evidencias Sprint 1](brandradar-report/assets/sprints/sprint1-evidence2.png)
+![Evidencias Sprint 1](brandradar-report/assets/sprints/sprint1-evidence3.png)
+![Evidencias Sprint 1](brandradar-report/assets/sprints/sprint1-evidence4.png)
+![Evidencias Sprint 1](brandradar-report/assets/sprints/sprint1-evidence5.png)
+![Evidencias Sprint 1](brandradar-report/assets/sprints/sprint1-evidence6.png)
+![Evidencias Sprint 1](brandradar-report/assets/sprints/sprint1-evidence7.png)
+![Evidencias Sprint 1](brandradar-report/assets/sprints/sprint1-evidence8.png)
+![Evidencias Sprint 1](brandradar-report/assets/sprints/sprint1-evidence9.png)
 
 <br>
 
