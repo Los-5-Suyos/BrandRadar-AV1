@@ -1510,17 +1510,18 @@ Estos impactos se materializan en entregables como el motor de IA con entrenamie
 
 <br>
 
+
 | # Orden | Story ID | Título | Descripción | Story Points |
 |:-------:|:--------:|:-------|:------------|:------------:|
-| 01 | US01 | Integración de APIs Externas | Como `Analista`, quiero `conectar APIs de Twitter e Instagram`, para `recolectar menciones automáticamente`. | 8 |
-| 02 | US02 | Filtrado de Exclusión | Como `Emprendedor`, quiero `excluir keywords irrelevantes`, para `evitar ruido de marcas homónimas`. | 3 |
-| 03 | US03 | Live Feed Monitor | Como `Community Manager`, quiero `ver un feed en vivo`, para `reaccionar de inmediato`. | 5 |
-| 04 | US04 | Implementación de Webhooks | Como `Desarrollador`, quiero `usar Webhooks`, para `reducir la latencia de alertas`. | 8 |
-| 05 | US05 | Detección de Sarcasmo e Ironía | Como `Gerente`, quiero `identificar sarcasmo`, para `evitar falsos positivos`. | 13 |
-| 06 | US06 | Ajuste Manual de Polaridad | Como `Analista`, quiero `corregir la polaridad manualmente`, para `entrenar mejor a la IA`. | 3 |
-| 07 | US07 | Entrenamiento de Modelos por Industria | Como `Administrador`, quiero `entrenar la IA con vocabulario específico`, para `mejorar la precisión según el rubro del cliente`. | 8 |
-| 08 | US08 | Visualización de Word Cloud | Como `Usuario`, quiero `ver nubes de palabras por sentimiento`, para `identificar temas críticos`. | 5 |
-| 09 | US09 | Configuración de Semáforo de Crisis | Como `Jefe de PR`, quiero `un semáforo configurable`, para `saber cuándo intervenir legalmente`. | 5 |
+| 1 | US01 | Integración de APIs Externas | Como `Analista`, quiero `conectar APIs de Twitter e Instagram`, para `recolectar menciones automáticamente`. | 8 |
+| 2 | US02 | Filtrado de Exclusión | Como `Emprendedor`, quiero `excluir keywords irrelevantes`, para `evitar ruido de marcas homónimas`. | 3 |
+| 3 | US03 | Live Feed Monitor | Como `Community Manager`, quiero `ver un feed en vivo`, para `reaccionar de inmediato`. | 5 |
+| 4 | US04 | Implementación de Webhooks | Como `Desarrollador`, quiero `usar Webhooks`, para `reducir la latencia de alertas`. | 8 |
+| 5 | US05 | Detección de Sarcasmo e Ironía | Como `Gerente`, quiero `identificar sarcasmo`, para `evitar falsos positivos`. | 13 |
+| 6 | US06 | Ajuste Manual de Polaridad | Como `Analista`, quiero `corregir la polaridad manualmente`, para `entrenar mejor a la IA`. | 3 |
+| 7 | US07 | Entrenamiento de Modelos por Industria | Como `Administrador`, quiero `entrenar la IA con vocabulario específico`, para `mejorar la precisión según el rubro del cliente`. | 8 |
+| 8 | US08 | Visualización de Word Cloud | Como `Usuario`, quiero `ver nubes de palabras por sentimiento`, para `identificar temas críticos`. | 5 |
+| 9 | US09 | Configuración de Semáforo de Crisis | Como `Jefe de PR`, quiero `un semáforo configurable`, para `saber cuándo intervenir legalmente`. | 5 |
 | 10 | US10 | Alertas Multicanal en Móvil | Como `Usuario`, quiero `alertas móviles`, para `estar enterado fuera de la oficina`. | 5 |
 | 11 | US11 | Asignación de Tickets de Respuesta | Como `Soporte`, quiero `asignar menciones a miembros del equipo`, para `gestión inmediata`. | 5 |
 | 12 | US12 | Share of Sentiment | Como `Gerente`, quiero `ver mi sentimiento vs competencia`, para `saber mi posición en el mercado`. | 8 |
@@ -1559,11 +1560,12 @@ Estos impactos se materializan en entregables como el motor de IA con entrenamie
 | 45 | US45 | Sentimiento de Atención (Personal) | Como `Gerente`, quiero `monitorear menciones sobre el trato de mis empleados`, para `gestionar capacitaciones`. | 5 |
 | 46 | US46 | KPI de Retención Mensual de Clientes | Como `Administrador`, quiero `ver cuántos clientes vuelven a dejar reseñas positivas`, para `medir la fidelización`. | 8 |
 
+
 <div align="center">
   
-**Herramienta utilizada:** `Jira`
+**Herramienta utilizada:** `Trello`
 
-**URL del Product Backlog:** [Ver Product Backlog en Jira](https://briupalace.atlassian.net/jira/software/projects/PAW/boards/2/backlog?atlOrigin=eyJpIjoiMTE0ZjJmNThkNjBhNDQyNzkwMzI2YTJiMzJkNjRiN2MiLCJwIjoiaiJ9)
+**URL del Product Backlog:** [Ver Product Backlog en Trello](https://trello.com/invite/b/69dfea832aaca97dda513a28/ATTI3586e52f52192c31ff4597c5fcf42e5cC6CA6C96/productbacklog-brandradar)
 
 <br>
 
