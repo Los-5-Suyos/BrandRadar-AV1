@@ -345,7 +345,7 @@ BrandRadar permite a las empresas:
   
 ####  Integrante 1
 
-<img src="brandradar-report/assets/team/integrante1.jpeg" alt="Foto Integrante 1" width="300"/>
+<img src="brandradar-report/assets/team/integrante1.jpeg" alt="Foto Integrante 1" width="200"/>
 
 | Campo | Detalle |
 |:------|:--------|
