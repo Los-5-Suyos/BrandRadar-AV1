@@ -2361,8 +2361,12 @@ Este nivel de abstracción permite comprender el alcance del sistema y su valor 
 >*El Diagrama de Contenedores descompone el sistema BrandRadar en sus unidades desplegables, describiendo cómo se distribuyen las responsabilidades técnicas y las tecnologías utilizadas en cada componente.*
 
 <br>
-
+<div align="center">
+  
 ![Software Architecture Container Diagram](brandradar-report/assets/architecture/container-diagram.png)
+
+</div>
+<br>
 
 En esta vista se presenta la arquitectura de contenedores del sistema BrandRadar, basada en una aproximación de microservicios. Se observa cómo la aplicación cliente (Web App SPA) se comunica exclusivamente con un API Gateway, el cual actúa como punto de entrada único y enruta las solicitudes hacia los distintos servicios de dominio.
 
@@ -2381,50 +2385,75 @@ Este nivel de detalle permite identificar las piezas de software que conforman c
 A continuación, se presentan los diagramas de componentes correspondientes a los seis contextos delimitados del sistema:
 
 <br>
-
+<div align="center">
+  
 **Bounded Context: `Account Manager`**
 
 ![Component Diagram BC1](brandradar-report/assets/architecture/account-components.png)
 
+</div>
+<br>
+
 Administra la seguridad, la emisión de tokens JWT, el registro de usuarios y el control de las cuotas permitidas según el plan de suscripción adquirido.
 
 <br>
-
+<div align="center">
+  
 **Bounded Context: `Brand Management`**
 
 ![Component Diagram BC2](brandradar-report/assets/architecture/brand-components.png)
 
+</div>
+<br>
+
 Permite la configuración del núcleo del negocio: la creación de marcas, la validación de palabras clave (keywords) y el intercambio seguro de tokens OAuth con plataformas de terceros.
 
 <br>
+<div align="center">
 
 **Bounded Context: `Monitoring`**
 
 ![Component Diagram BC3](brandradar-report/assets/architecture/monitoring-components.png)
 
+</div>
+<br>
+  
 Encargado de orquestar los ciclos programados (Schedulers) para extraer datos de Google Maps y Redes Sociales, filtrarlos y almacenarlos en la base de datos documental.
 
 <br>
+<div align="center">
 
 **Bounded Context: `Sentiment Analysis`**
 
 ![Component Diagram BC4](brandradar-report/assets/architecture/sentiment-components.png)
 
-Integra el motor central de evaluación. Recibe eventos de nuevas menciones, interactúa con la API de NLP externa, aplica reglas locales para detección de sarcasmo y determina si el sentimiento cruza el umbral negativo.
-
+</div>
 <br>
 
+Integra el motor central de evaluación. Recibe eventos de nuevas menciones, interactúa con la API de NLP externa, aplica reglas locales para detección de sarcasmo y determina si el sentimiento cruza el umbral negativo.
+
+
+<br>
+<div align="center">
+  
 **Bounded Context: `Alert Management`**
 
 ![Component Diagram BC5](brandradar-report/assets/architecture/alert-components.png)
 
+</div>
+<br>
+
 Gestiona el ciclo de vida de las crisis de reputación. Evalúa las menciones negativas, genera tickets de seguimiento y dispara notificaciones push a través de servicios como Firebase/APNs.
 
 <br>
-
+<div align="center">
+  
 **Bounded Context: `Reporting`**
 
 ![Component Diagram BC6](brandradar-report/assets/architecture/reporting-components.png)
+
+</div>
+<br>
 
 Consolida la información mediante procesos asíncronos para generar dashboards analíticos y reportes descargables en PDF, permitiendo a las agencias presentar resultados tangibles a sus clientes.
 
