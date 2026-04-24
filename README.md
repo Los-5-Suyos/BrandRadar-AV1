@@ -2956,18 +2956,18 @@ Con el objetivo de mantener un código ordenado, consistente y fácil de mantene
 - Atributos en minúsculas.
 - Nombres de clases usando kebab-case (ej. section-title, main-container).
 - Uso de estructura semántica clara:
-  - <header>
-  - <nav>
-  - <main>
-  - <section>
-  - <footer>
+  - *header*
+  - *nav*
+  - *main*
+  - *section*
+  - *footer*
 - Sangría de 2 espacios.
 - Atributos ordenados de manera lógica:
 - id, class, type, name, placeholder, value, required, etc.
 
 <br>
 
-**CSS**
+### CSS
 
 - Para clases personalizadas se utilizará kebab-case.
 - Las clases se organizarán por orden lógico:
@@ -3038,12 +3038,13 @@ Buenas prácticas:
 En caso de utilizar especificaciones basadas en Gherkin:
 
 - Se empleará el formato estándar:
-''''
+
+```html
 Given condición inicial  
 When ocurre una acción  
 Then se obtiene un resultado  
 And condiciones adicionales  
-''''
+```
 
 <br>
 
@@ -3051,11 +3052,157 @@ And condiciones adicionales
 
 ### 5.1.4. Software Deployment Configuration
 
+Para el despliegue de la Landing Page del proyecto BrandRadar, el equipo utiliza la plataforma Netlify, la cual permite integrar repositorios de GitHub y automatizar el proceso de publicación mediante integración continua.
 
+A continuación, se describe el proceso de configuración del despliegue:
 
+<br>
 
-
+<div align="center">
   
+**1. Ingreso a Netlify**
+
+</div>
+
+Se accede a la plataforma mediante las credenciales de GitHub, utilizando la opción "Log in with GitHub".
+
+<br>
+<div align="center">
+
+*Screenshot 1 del Deployment*
+
+![Screenshot 1](brandradar-report/assets/deploy/ss-1.png)
+
+</div>
+<br>
+
+<div align="center">
+  
+**2. Autorización de Netlify**
+
+</div>
+
+Se otorgan permisos a Netlify para acceder a los repositorios del equipo en GitHub.
+Posteriormente, se ingresa a la sección "Sites" y se selecciona la opción "Add new site", seguido de "Import an existing project".
+
+<br>
+<div align="center">
+  
+*Screenshot 2 del Deployment*
+
+![Screenshot 2](brandradar-report/assets/deploy/ss-2.png)
+
+</div>
+<br>
+
+<div align="center">
+  
+**3. Selección del proveedor**
+
+</div>
+
+En la sección "Let’s deploy your project with...", se elige GitHub como proveedor de repositorios.
+
+<br>
+<div align="center">
+  
+*Screenshot 3 del Deployment*
+
+![Screenshot 3](brandradar-report/assets/deploy/ss-3.png)
+
+</div>
+<br>
+
+<div align="center">
+  
+**4. Selección del repositorio**
+
+</div>
+
+Se selecciona la organización del equipo Los 5 Suyos y luego el repositorio correspondiente a la Landing Page de BrandRadar.
+
+<br>
+<div align="center">
+  
+*Screenshot 4 del Deployment*
+
+![Screenshot 4](brandradar-report/assets/deploy/ss-4.png)
+
+</div>
+<br>
+
+<div align="center">
+  
+**5. Configuración del despliegue**
+
+</div>
+
+Se configuran los parámetros principales del despliegue:
+
+Site Name: nombre del sitio web
+Team: equipo del proyecto
+Branch: main
+
+<br>
+<div align="center">
+  
+*Screenshot 5 del Deployment*
+
+![Screenshot 5](brandradar-report/assets/deploy/ss-5.png)
+
+</div>
+
+<br>
+<div align="center">
+  
+**6. Configuración final**
+
+Se completa la configuración indicando:
+
+Publish directory: public (o la carpeta de salida del proyecto)
+
+Finalmente, se selecciona la opción "Deploy site" para iniciar el proceso.
+
+</div>
+
+<br>
+<div align="center">
+  
+*Screenshot 6 del Deployment*
+
+![Screenshot 6](brandradar-report/assets/deploy/ss-6.png)
+
+</div>
+<br>
+<div align="center">
+  
+**7. Despliegue completado**
+
+Una vez finalizado el proceso, Netlify genera automáticamente un enlace público donde se puede visualizar la Landing Page desplegada.
+
+<br>
+<div align="center">
+  
+*Screenshot 7 del Deployment*
+
+![Screenshot 7](brandradar-report/assets/deploy/ss-7.png)
+
+</div>
+<br>
+
+**Integración Continua**
+
+<br>
+
+Con la configuración realizada, el despliegue queda automatizado.
+Cada vez que se realiza un push en la rama main, Netlify ejecuta un nuevo despliegue de manera automática, actualizando la aplicación sin necesidad de repetir el proceso manual.
+<br>
+
+*Enlace de la Landing Page*
+
+(Agregar aquí el link de tu deploy en Netlify)
+
+<br>
 
 ---
 
