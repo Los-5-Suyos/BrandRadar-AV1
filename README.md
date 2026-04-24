@@ -3193,11 +3193,20 @@ Sin embargo, el equipo ha definido preliminarmente la estructura de los servicio
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
-*(Descripción de las actividades de implementación y capturas de analíticos de colaboración en GitHub)*
+5.2.1.8. Team Collaboration Insights during Sprint
+El equipo utilizó la estrategia GitFlow para gestionar el desarrollo paralelo. Cada integrante trabajó en su propia rama de característica (feature/brianna, feature/victor, etc.), las cuales fueron fusionadas en la rama develop tras pasar una revisión de código básica.
 
-*(Capturas de analíticos de commits por miembro del equipo en GitHub)*
+Métricas de colaboración:
 
-![Team Collaboration Sprint 1](assets/sprints/sprint1-collaboration.png)
+Commits: Se registró una actividad constante de los 5 miembros, con picos de integración los días previos a la entrega.
+
+Roles: La matriz de trabajo permitió que cada componente tuviera un líder responsable, evitando la duplicidad de trabajo.
+
+Gráfico de red de ramas en el repositorio de GitHub evidenciando la integración de las 5 ramas de características en la rama develop.
+
+![Team Collaboration Sprint 1](brandradar-report/assets/sprints/sprint1-collaboration.png)
+
+![Team Collaboration Sprint 1](brandradar-report/assets/sprints/sprint1-over-time.png)
 
 <br>
 
