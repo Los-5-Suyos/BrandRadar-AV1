@@ -3368,9 +3368,10 @@ El despliegue fue configurado mediante integración continua (CI/CD), permitiend
   9. Acceder a la URL pública generada por Netlify.
 
 <br>
- [**URL del despliegue**](https://brandradar-landing-page.netlify.app/)
 
- **Evidencias**
+[https://brandradar-landing-page.netlify.app/](https://brandradar-landing-page.netlify.app/)
+
+**Evidencias**
 
 A continuación, se presentan capturas del proceso de despliegue y del resultado final:
 
