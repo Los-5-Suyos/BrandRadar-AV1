@@ -2787,81 +2787,81 @@ En esta sección se describen las herramientas de software seleccionadas para da
 
 **Gestión de Requisitos**
 
-| Herramienta | Uso principal | Enlace |
-|:---|:---|:---|
-| **Miro** | Elaboración colaborativa de As-Is y To-Be Scenario Maps, así como Impact Maps para cada segmento objetivo. | [miro.com](https://miro.com) |
-| **UXPressia** | Creación de User Personas, Empathy Maps, Journey Maps e Impact Maps para los segmentos Dueños de PyMEs y Directores de Agencias Digitales. | [uxpressia.com](https://uxpressia.com) |
-| **PivotalTracker** | Seguimiento de proyectos con enfoque en historias de usuario, métricas de velocidad y visualización del estado de tareas por sprint. | [pivotaltracker.com](https://pivotaltracker.com) |
+| Logo | Herramienta | Uso principal | Enlace |
+|:---:|:---|:---|:---|
+| <img src="https://logo.clearbit.com/miro.com" width="40"/> | **Miro** | Elaboración colaborativa de As-Is y To-Be Scenario Maps, así como Impact Maps para cada segmento objetivo. | [miro.com](https://miro.com) |
+| <img src="https://logo.clearbit.com/uxpressia.com" width="40"/> | **UXPressia** | Creación de User Personas, Empathy Maps, Journey Maps e Impact Maps para los segmentos Dueños de PyMEs y Directores de Agencias Digitales. | [uxpressia.com](https://uxpressia.com) |
+| <img src="https://logo.clearbit.com/pivotaltracker.com" width="40"/> | **PivotalTracker** | Seguimiento de proyectos con enfoque en historias de usuario, métricas de velocidad y visualización del estado de tareas por sprint. | [pivotaltracker.com](https://pivotaltracker.com) |
+
 
 <br>
 
 **Diseño de Experiencia y UI/UX**
 
-| Herramienta | Uso principal | Enlace |
-|:---|:---|:---|
-| **Figma** | Diseño colaborativo de wireframes, mockups y prototipos de alta fidelidad de la aplicación web BrandRadar. | [figma.com](https://figma.com) |
-| **LucidChart** | Elaboración de user flows, wireflows y diagramas de procesos o arquitectura. | [lucidchart.com](https://lucidchart.com) |
-| **Miro** | Diseño colaborativo en tiempo real de mapas de experiencia (As-Is y To-Be Scenarios). | [miro.com](https://miro.com) |
-| **UXPressia** | Creación de User Personas, Empathy Maps y Journey Maps para la validación de la experiencia de usuario. | [uxpressia.com](https://uxpressia.com) |
+| Logo | Herramienta | Uso principal | Enlace |
+|:---:|:---|:---|:---|
+| <img src="https://logo.clearbit.com/figma.com" width="40"/> | **Figma** | Diseño colaborativo de wireframes, mockups y prototipos de alta fidelidad de la aplicación web BrandRadar. | [figma.com](https://figma.com) |
+| <img src="https://logo.clearbit.com/lucidchart.com" width="40"/> | **LucidChart** | Elaboración de user flows, wireflows y diagramas de procesos o arquitectura. | [lucidchart.com](https://lucidchart.com) |
+| <img src="https://logo.clearbit.com/miro.com" width="40"/> | **Miro** | Diseño colaborativo en tiempo real de mapas de experiencia (As-Is y To-Be Scenarios). | [miro.com](https://miro.com) |
+| <img src="https://logo.clearbit.com/uxpressia.com" width="40"/> | **UXPressia** | Creación de User Personas, Empathy Maps y Journey Maps para la validación de la experiencia de usuario. | [uxpressia.com](https://uxpressia.com) |
 
 <br>
 
 **Desarrollo de Software**
 
-| Herramienta / Tecnología | Uso principal | Enlace |
-|:---|:---|:---|
-| **Visual Studio Code** | Entorno de desarrollo integrado principal para escribir, editar y depurar el código de la aplicación. | [code.visualstudio.com](https://code.visualstudio.com) |
-| **HTML5** | Lenguaje de marcado para estructurar el contenido de la landing page y del dashboard de BrandRadar. | [MDN Web Docs](https://developer.mozilla.org/docs/Web/HTML) |
-| **CSS3** | Lenguaje de estilos para definir la apariencia visual de la landing page y la aplicación web. | [MDN Web Docs](https://developer.mozilla.org/docs/Web/CSS) |
-| **Angular** | Framework principal para el desarrollo de la aplicación web BrandRadar, con componentes reutilizables y enrutamiento. | [angular.io](https://angular.io) |
-| **Angular Material** | Biblioteca de componentes UI construida sobre Material Design, usada para botones, cards, formularios, tablas y diálogos. | [material.angular.io](https://material.angular.io) |
-| **TypeScript** | Superconjunto tipado de JavaScript utilizado como lenguaje principal del proyecto Angular. | [typescriptlang.org](https://www.typescriptlang.org) |
+| Logo | Herramienta / Tecnología | Uso principal | Enlace |
+|:---:|:---|:---|:---|
+| <img src="https://logo.clearbit.com/visualstudio.com" width="40"/> | **Visual Studio Code** | Entorno de desarrollo integrado principal para escribir, editar y depurar el código de la aplicación. | [code.visualstudio.com](https://code.visualstudio.com) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40"/> | **HTML5** | Lenguaje de marcado para estructurar el contenido de la landing page y del dashboard de BrandRadar. | [MDN Web Docs](https://developer.mozilla.org/docs/Web/HTML) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="40"/> | **CSS3** | Lenguaje de estilos para definir la apariencia visual de la landing page y la aplicación web. | [MDN Web Docs](https://developer.mozilla.org/docs/Web/CSS) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="40"/> | **Angular** | Framework principal para el desarrollo de la aplicación web con componentes reutilizables y enrutamiento. | [angular.io](https://angular.io) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="40"/> | **TypeScript** | Superconjunto tipado de JavaScript utilizado como lenguaje principal del proyecto Angular. | [typescriptlang.org](https://www.typescriptlang.org) |
 
 <br>
 
 **Pruebas de Software**
 
-| Herramienta | Uso principal |
-|:---|:---|
-| **Gherkin** | Lenguaje para definir criterios de aceptación de las User Stories en formato legible por todos los integrantes del equipo (Given / When / Then). |
+| Logo | Herramienta | Uso principal |
+|:---:|:---|:---|
+| <img src="https://upload.wikimedia.org/wikipedia/en/7/7e/Cucumber_logo.svg" width="40"/> | **Gherkin** | Lenguaje para definir criterios de aceptación de las User Stories en formato legible por todos los integrantes del equipo (Given / When / Then). |
 
 <br>
 
 **Diseño de Arquitectura de Software**
 
-| Herramienta | Uso principal | Enlace |
-|:---|:---|:---|
-| **Structurizr DSL** | Modelado de la arquitectura del sistema con el enfoque C4 mediante la técnica Diagrams-as-Code. | [structurizr.com/dsl](https://structurizr.com/dsl) |
-| **PlantUML** | Creación de diagramas UML a partir de texto, compatible con Markdown y documentación técnica. | [plantuml.com](https://plantuml.com) |
-| **Vertabelo** | Diseño visual y profesional de bases de datos relacionales. | [vertabelo.com](https://vertabelo.com) |
+| Logo | Herramienta | Uso principal | Enlace |
+|:---:|:---|:---|:---|
+| <img src="https://logo.clearbit.com/structurizr.com" width="40"/> | **Structurizr DSL** | Modelado de la arquitectura del sistema con el enfoque C4 mediante la técnica Diagrams-as-Code. | [structurizr.com/dsl](https://structurizr.com/dsl) |
+| <img src="https://logo.clearbit.com/lucidchart.com" width="40"/> | **LucidChart** | Elaboración de diagramas UML y de arquitectura, compatible con documentación técnica del proyecto. | [lucidchart.com](https://www.lucidchart.com/pages/es) |
+| <img src="https://logo.clearbit.com/mysql.com" width="40"/> | **MySQL Workbench** | Diseño visual y profesional de bases de datos relacionales. | [mysql.com/products/workbench](https://www.mysql.com/products/workbench) |
 
 <br>
 
 **Control de Versiones y Colaboración**
 
-| Herramienta | Uso principal | Enlace |
-|:---|:---|:---|
-| **Git** | Sistema distribuido de control de versiones para la gestión del código fuente. | [git-scm.com](https://git-scm.com) |
-| **GitHub** | Repositorio remoto para almacenar, gestionar y colaborar en el código fuente del proyecto. Incluye seguimiento de issues y revisión de Pull Requests. | [github.com](https://github.com) |
-| **GitFlow Workflow** | Modelo de ramificación para mantener el código organizado en ramas (`main`, `develop`, `feature`, `release`, `hotfix`). | [nvie.com/posts/a-successful-git-branching-model](https://nvie.com/posts/a-successful-git-branching-model) |
-| **Conventional Commits** | Convención de mensajes de commit para mejorar la trazabilidad y facilitar la generación de changelogs. | [conventionalcommits.org](https://www.conventionalcommits.org) |
+| Logo | Herramienta | Uso principal | Enlace |
+|:---:|:---|:---|:---|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="40"/> | **Git** | Sistema distribuido de control de versiones para la gestión del código fuente. | [git-scm.com](https://git-scm.com) |
+| <img src="https://logo.clearbit.com/github.com" width="40"/> | **GitHub** | Repositorio remoto para almacenar, gestionar y colaborar en el código fuente. Incluye seguimiento de issues y revisión de Pull Requests. | [github.com](https://github.com) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="40"/> | **GitFlow Workflow** | Modelo de ramificación para mantener el código organizado en ramas (`main`, `develop`, `feature`, `release`, `hotfix`). | [nvie.com](https://nvie.com/posts/a-successful-git-branching-model) |
+| <img src="https://www.conventionalcommits.org/img/conventional-commits.svg" width="40"/> | **Conventional Commits** | Convención de mensajes de commit para mejorar la trazabilidad y facilitar la generación de changelogs. | [conventionalcommits.org](https://www.conventionalcommits.org) |
 
 <br>
 
 **Despliegue de Software**
 
-| Herramienta / Plataforma | Uso principal | Enlace |
-|:---|:---|:---|
-| **Netlify** | Despliegue automático y gratuito de la landing page directamente desde el repositorio de GitHub, con integración continua. | [netlify.com](https://www.netlify.com) |
+| Logo | Herramienta / Plataforma | Uso principal | Enlace |
+|:---:|:---|:---|:---|
+| <img src="https://logo.clearbit.com/netlify.com" width="40"/> | **Netlify** | Despliegue automático y gratuito de la landing page directamente desde el repositorio de GitHub, con integración continua. | [netlify.com](https://www.netlify.com) |
 
 <br>
 
 **Documentación de Software**
 
-| Herramienta / Recurso | Uso principal | Enlace |
-|:---|:---|:---|
-| **GitHub** | Repositorio central de documentación mediante `README.md`, issues y wikis del proyecto. | [github.com](https://github.com) |
-| **Visual Studio Code** | Edición y mantenimiento del archivo `README.md` asociado a la documentación del proyecto. | [code.visualstudio.com](https://code.visualstudio.com/) |
+| Logo | Herramienta / Recurso | Uso principal | Enlace |
+|:---:|:---|:---|:---|
+| <img src="https://logo.clearbit.com/github.com" width="40"/> | **GitHub** | Repositorio central de documentación mediante `README.md`, issues y wikis del proyecto. | [github.com](https://github.com) |
+| <img src="https://logo.clearbit.com/visualstudio.com" width="40"/> | **Visual Studio Code** | Edición y mantenimiento del archivo `README.md` asociado a la documentación del proyecto. | [code.visualstudio.com](https://code.visualstudio.com) |
 
 </div>
 <br>
