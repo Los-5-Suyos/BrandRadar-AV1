@@ -3374,7 +3374,7 @@ El despliegue fue configurado mediante integración continua (CI/CD), permitiend
 
 A continuación, se presentan capturas del proceso de despliegue y del resultado final:
 
-![Evidencias Sprint 1](brandradar-report/assets/sprints/despliegue.png)
+![Evidencias Sprint 1](brandradar-report/assets/sprints/despliegue-1.png)
 ![Evidencias Sprint 1](brandradar-report/assets/sprints/despliegue-2.png)
 ![Evidencias Sprint 1](brandradar-report/assets/sprints/despliegue-3.png)
 ![Evidencias Sprint 1](brandradar-report/assets/sprints/despliegue-4.png)
