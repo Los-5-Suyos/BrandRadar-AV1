@@ -2779,43 +2779,92 @@ Este contexto representa la capa de visualización y síntesis del sistema, cons
 
 ### 5.1.1. Software Development Environment Configuration
 
-*(*(REQUIREMENTS MANAGEMENT)*
-*(Miro: Plataforma en línea que permite la colaboración en tiempo real a través de pizarras digitales. Ofrece herramientas para la creación de diagramas, mapas mentales, diagramas de flujo y más. En este caso, utilizamos Miro para la elaboración de As-Is y To-Be Scenarios Mapping, así como para el Impact Mapping de cada segmento objetivo.
+En esta sección se describen las herramientas de software seleccionadas para dar soporte a las distintas fases del ciclo de vida del producto digital BrandRadar. Se incluyen sus nombres, objetivos específicos dentro del proyecto y los enlaces de acceso o descarga, diferenciando entre soluciones SaaS y aplicaciones instalables.
 
-<img src="brandradar-report/assets/images/MIRO.jfif" alt="BrandRadar Logo" width="320"/>
+<br>
 
-UXPressia: Herramienta especializada en la creación de mapas de experiencia de usuario (UX). En este caso, utilizamos UXPressia para la elaboración del Impact Mapping para cada segmento objetivo (Dueños y Gerentes de PyMEs y Directores de Agencias Digitales).
+<div align="center">
 
-<img src="brandradar-report/assets/images/UXPRESIA.jpg" alt="BrandRadar Logo" width="320"/>
+**Gestión de Requisitos**
 
-Figma: Herramienta de diseño de interfaces de usuario (UI) y prototipado colaborativo basada en la nube. En este caso, utilizamos Figma para la elaboración del prototipo de alta fidelidad de la aplicación web BrandRadar.
+| Herramienta | Uso principal | Enlace |
+|:---|:---|:---|
+| **Miro** | Elaboración colaborativa de As-Is y To-Be Scenario Maps, así como Impact Maps para cada segmento objetivo. | [miro.com](https://miro.com) |
+| **UXPressia** | Creación de User Personas, Empathy Maps, Journey Maps e Impact Maps para los segmentos Dueños de PyMEs y Directores de Agencias Digitales. | [uxpressia.com](https://uxpressia.com) |
+| **PivotalTracker** | Seguimiento de proyectos con enfoque en historias de usuario, métricas de velocidad y visualización del estado de tareas por sprint. | [pivotaltracker.com](https://pivotaltracker.com) |
 
-<img src="brandradar-report/assets/images/FIGMA.jpg" alt="BrandRadar Logo" width="320"/>
+<br>
 
-PivotalTracker (o Jira/Trello según tu preferencia): Herramienta de gestión de proyectos basada en tableros. En este caso, utilizamos PivotalTracker para visualizar y actualizar el estado de las tareas e historias de usuario pertenecientes al sprint a desarrollar.)*
+**Diseño de Experiencia y UI/UX**
 
-<img src="brandradar-report/assets/images/PIVOTAL.jpg" alt="BrandRadar Logo" width="320"/>
+| Herramienta | Uso principal | Enlace |
+|:---|:---|:---|
+| **Figma** | Diseño colaborativo de wireframes, mockups y prototipos de alta fidelidad de la aplicación web BrandRadar. | [figma.com](https://figma.com) |
+| **LucidChart** | Elaboración de user flows, wireflows y diagramas de procesos o arquitectura. | [lucidchart.com](https://lucidchart.com) |
+| **Miro** | Diseño colaborativo en tiempo real de mapas de experiencia (As-Is y To-Be Scenarios). | [miro.com](https://miro.com) |
+| **UXPressia** | Creación de User Personas, Empathy Maps y Journey Maps para la validación de la experiencia de usuario. | [uxpressia.com](https://uxpressia.com) |
 
-*(Software Development:
+<br>
 
-Visual Studio Code: Editor de código fuente desarrollado por Microsoft que ofrece una amplia gama de funcionalidades para programadores. En este caso, utilizamos Visual Studio Code como nuestro entorno de desarrollo integrado principal para escribir, editar y depurar el código de la aplicación.
+**Desarrollo de Software**
 
-<img src="brandradar-report/assets/images/visucod.jpg" alt="BrandRadar Logo" width="320"/>
+| Herramienta / Tecnología | Uso principal | Enlace |
+|:---|:---|:---|
+| **Visual Studio Code** | Entorno de desarrollo integrado principal para escribir, editar y depurar el código de la aplicación. | [code.visualstudio.com](https://code.visualstudio.com) |
+| **HTML5** | Lenguaje de marcado para estructurar el contenido de la landing page y del dashboard de BrandRadar. | [MDN Web Docs](https://developer.mozilla.org/docs/Web/HTML) |
+| **CSS3** | Lenguaje de estilos para definir la apariencia visual de la landing page y la aplicación web. | [MDN Web Docs](https://developer.mozilla.org/docs/Web/CSS) |
+| **Angular** | Framework principal para el desarrollo de la aplicación web BrandRadar, con componentes reutilizables y enrutamiento. | [angular.io](https://angular.io) |
+| **Angular Material** | Biblioteca de componentes UI construida sobre Material Design, usada para botones, cards, formularios, tablas y diálogos. | [material.angular.io](https://material.angular.io) |
+| **TypeScript** | Superconjunto tipado de JavaScript utilizado como lenguaje principal del proyecto Angular. | [typescriptlang.org](https://www.typescriptlang.org) |
 
-HTML5: Lenguaje estándar utilizado para estructurar y presentar el contenido de la aplicación web. En este caso, utilizamos HTML5 para la creación de la interfaz de la landing page y del dashboard de BrandRadar.
+<br>
 
-<img src="brandradar-report/assets/images/html.jpg" alt="BrandRadar Logo" width="320"/>
+**Pruebas de Software**
 
-CSS3 / Tailwind CSS: CSS (Cascading Style Sheets) es un lenguaje de diseño utilizado para estilizar la presentación de documentos HTML. En este caso, utilizamos CSS3 junto con Tailwind CSS para lograr un diseño moderno, responsive y consistente en toda la plataforma.
+| Herramienta | Uso principal |
+|:---|:---|
+| **Gherkin** | Lenguaje para definir criterios de aceptación de las User Stories en formato legible por todos los integrantes del equipo (Given / When / Then). |
 
-<img src="brandradar-report/assets/images/css.jpg" alt="BrandRadar Logo" width="320"/>
+<br>
 
-GitHub: Plataforma de desarrollo colaborativo basada en la nube que utiliza el sistema de control de versiones Git. En este caso, utilizamos GitHub como repositorio remoto para almacenar, gestionar y colaborar en el código fuente del proyecto.
+**Diseño de Arquitectura de Software**
 
-<img src="brandradar-report/assets/images/github.jpg" alt="BrandRadar Logo" width="320"/>
+| Herramienta | Uso principal | Enlace |
+|:---|:---|:---|
+| **Structurizr DSL** | Modelado de la arquitectura del sistema con el enfoque C4 mediante la técnica Diagrams-as-Code. | [structurizr.com/dsl](https://structurizr.com/dsl) |
+| **PlantUML** | Creación de diagramas UML a partir de texto, compatible con Markdown y documentación técnica. | [plantuml.com](https://plantuml.com) |
+| **Vertabelo** | Diseño visual y profesional de bases de datos relacionales. | [vertabelo.com](https://vertabelo.com) |
 
-Netlify / Vercel: Plataforma de alojamiento y despliegue web que simplifica el proceso de implementación de sitios y aplicaciones. En este caso, utilizamos Netlify/Vercel para desplegar la landing page y la aplicación web directamente desde el repositorio de GitHub, facilitando la implementación continua.)*)*
+<br>
 
+**Control de Versiones y Colaboración**
+
+| Herramienta | Uso principal | Enlace |
+|:---|:---|:---|
+| **Git** | Sistema distribuido de control de versiones para la gestión del código fuente. | [git-scm.com](https://git-scm.com) |
+| **GitHub** | Repositorio remoto para almacenar, gestionar y colaborar en el código fuente del proyecto. Incluye seguimiento de issues y revisión de Pull Requests. | [github.com](https://github.com) |
+| **GitFlow Workflow** | Modelo de ramificación para mantener el código organizado en ramas (`main`, `develop`, `feature`, `release`, `hotfix`). | [nvie.com/posts/a-successful-git-branching-model](https://nvie.com/posts/a-successful-git-branching-model) |
+| **Conventional Commits** | Convención de mensajes de commit para mejorar la trazabilidad y facilitar la generación de changelogs. | [conventionalcommits.org](https://www.conventionalcommits.org) |
+
+<br>
+
+**Despliegue de Software**
+
+| Herramienta / Plataforma | Uso principal | Enlace |
+|:---|:---|:---|
+| **Netlify** | Despliegue automático y gratuito de la landing page directamente desde el repositorio de GitHub, con integración continua. | [netlify.com](https://www.netlify.com) |
+
+<br>
+
+**Documentación de Software**
+
+| Herramienta / Recurso | Uso principal | Enlace |
+|:---|:---|:---|
+| **GitHub** | Repositorio central de documentación mediante `README.md`, issues y wikis del proyecto. | [github.com](https://github.com) |
+| **Visual Studio Code** | Edición y mantenimiento del archivo `README.md` asociado a la documentación del proyecto. | [code.visualstudio.com](https://code.visualstudio.com/) |
+
+</div>
+<br>
 
 ---
 
