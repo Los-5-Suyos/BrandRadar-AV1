@@ -938,7 +938,7 @@ Tipo de empresa o agencia donde trabajas
 | **Ubicación** | `Surco` |
 | **Fecha de entrevista** | `2026-04-11` |
 | **Duración** | `15:00` |
-| **Enlace al video** | [Ver entrevista en Microsoft Stream](https://1drv.ms/v/c/d936c864c8cca0bb/IQBCE_dtbeoPTYkZnSVxycpQASHO2xsa9YOUk000HVkybnE?e=gn42mC) |
+| **Enlace al video** | [Ver entrevista en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411354_upc_edu_pe/IQBjxTLrWi8NSqPn4hPz_eWwAeBG68dptaNBlqth-0p3xhU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bVj4ft) |
 
 **Resumen:**
 </div>
@@ -3334,7 +3334,7 @@ A continuación se muestran las capturas de las vistas desarrolladas
 
 Asimismo, se elaboró un video demostrativo que muestra la navegación de la Landing Page y explica cada una de las secciones implementadas:
 
-[Ver video de ejecución Sprint 1](`URL`)
+[Ver video de ejecución Sprint 1](`[URL](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411354_upc_edu_pe/IQBglzF7t1MLS5D9Y52AB6oMAdQK0GqOTwkBViRGT8Agma0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=md7RBa)`)
 
 <br>
 
