@@ -3502,7 +3502,7 @@ En este documento se incluyen los criterios de evaluación, evidencias de trabaj
 
 | Entrega | Título | Enlace |
 |:-------:|:------:|:------:|
-| AV1 | `upc-pre-202610-1asi0729-[11863]-[brandradar]-expo-av1` | `[URL Microsoft Stream]` |
+| AV1 | `upc-pre-202610-1asi0729-[11863]-[brandradar]-expo-av1` | [URL Microsoft Stream](https://upcedupe-my.sharepoint.com/:f:/g/personal/u202410239_upc_edu_pe/IgBV-ACEG37lQ466daCivegHARBFGxWIBXchDZGj6xfsMAY?e=Y3HNmH) |
 
 
 ---
