@@ -3374,15 +3374,15 @@ El despliegue fue configurado mediante integración continua (CI/CD), permitiend
 
 A continuación, se presentan capturas del proceso de despliegue y del resultado final:
 
-![Evidencias Sprint 1](brandradar-report/assets/sprints/sprint1-evidence.png)
-![Evidencias Sprint 1](brandradar-report/assets/sprints/sprint1-evidence2.png)
-![Evidencias Sprint 1](brandradar-report/assets/sprints/sprint1-evidence3.png)
-![Evidencias Sprint 1](brandradar-report/assets/sprints/sprint1-evidence4.png)
-![Evidencias Sprint 1](brandradar-report/assets/sprints/sprint1-evidence5.png)
-![Evidencias Sprint 1](brandradar-report/assets/sprints/sprint1-evidence6.png)
-![Evidencias Sprint 1](brandradar-report/assets/sprints/sprint1-evidence7.png)
-![Evidencias Sprint 1](brandradar-report/assets/sprints/sprint1-evidence8.png)
-![Evidencias Sprint 1](brandradar-report/assets/sprints/sprint1-evidence9.png)
+![Evidencias Sprint 1](brandradar-report/assets/sprints/despliegue.png)
+![Evidencias Sprint 1](brandradar-report/assets/sprints/despliegue-2.png)
+![Evidencias Sprint 1](brandradar-report/assets/sprints/despliegue-3.png)
+![Evidencias Sprint 1](brandradar-report/assets/sprints/despliegue-4.png)
+![Evidencias Sprint 1](brandradar-report/assets/sprints/despliegue-5.png)
+![Evidencias Sprint 1](brandradar-report/assets/sprints/despliegue-6.png)
+![Evidencias Sprint 1](brandradar-report/assets/sprints/despliegue-7.png)
+![Evidencias Sprint 1](brandradar-report/assets/sprints/despliegue-8.png)
+![Evidencias Sprint 1](brandradar-report/assets/sprints/despliegue-9.png)
 
 <br>
 
