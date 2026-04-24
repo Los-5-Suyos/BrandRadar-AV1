@@ -3219,52 +3219,63 @@ Como resultado del Sprint Planning, el equipo estableció un conjunto claro de t
 | Campo | Detalle |
 |:------|:--------|
 | **Sprint #** | Sprint 1 |
-| **Date** | `2026-04-15` |
-| **Time** | `06:00 PM` |
-| **Location** | `[Llamada por la plataforma de discord]` |
-| **Prepared By** | `[Salinas Guzmán, Brianna Cristina]` |
-| **Attendees** | `[Salinas, Briana]` / `[Cruzalegui, Joaquin]` / `[Jáuregui, Jean]`  / `[García, Victor]` / `[Acuña, Luis]`|
+| **Date** | 2026-04-15 |
+| **Time** | 06:00 PM |
+| **Location** | Llamada por la plataforma de discord |
+| **Prepared By** | Salinas Guzmán, Brianna Cristina |
+| **Attendees** | Salinas, Briana / Cruzalegui, Joaquin / Jáuregui, Jean  / García, Victor / Acuña, Luis|
 | **Sprint 0 Review Summary** | Se finalizó la etapa de investigación y diseño de arquitectura base. El equipo cuenta con los mock-ups de alta fidelidad listos para iniciar la implementación de la Landing Page. |
 | **Sprint 0 Retrospective Summary** | El equipo muestra compromiso, pero se debe reforzar el flujo de GitFlow para evitar conflictos en la integración de las secciones de la Landing Page. |
 | **Sprint 1 Goal** | Nuestro enfoque es el desarrollo y despliegue de la Landing Page de BrandRadar. Creemos que entrega valor al permitir la captación de leads y visibilidad de marca. Esto se confirmará cuando todas las secciones estén integradas y funcionales en Netlify. |
-| **Sprint 1 Velocity** | `45` |
-| **Sum of Story Points** | `35` |
+| **Sprint 1 Velocity** | 45 |
+| **Sum of Story Points** | 35 |
+
+<br>
 
 ---
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
-En base a la coordinación del equipo, se asignaron los siguientes liderazgos para los componentes de la Landing Page:
+Ahora presentaremos nuestro LACX (Leadership-and-Collaboration Matrix) que nos ayudará a saber quién lidera y quién colabora en cada aspecto de este primer sprint. En base a la coordinación del equipo, se asignaron los siguientes liderazgos para los componentes de la Landing Page:
 
 | Team Member (Last Name, First Name) | GitHub Username | `[Header + Hero]` | `[Características]` | `[Beneficios + Métricas]` | `[DashBoard + Testimonios]` | `[Precios + CTA + Footer]` |
 |:-----------------------------------:|:---------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| `[Salinas, Briana]` | `[brianna-salinas]` | L | C | C | C | C |
-| `[García, Victor]` | `[vicmacode]` | C | L | C | C | C |
-| `[Jáuregui, Jean]` | `[JFranco556]` | C | C | L | C | C |
-| `[Acuña, Luis]` | `[L2006delacruz]` | C | C | C | L | C |
-| `[Cruzalegui, Joaquin]` | `[JoaquinCruzalegui]` | C | C | C | C | L |
+| Salinas, Brianna | brianna-salinas | L | C | C | C | C |
+| García, Victor | vicmacode | C | L | C | C | C |
+| Jáuregui, Jean | JFranco556 | C | C | L | C | C |
+| Acuña, Luis | L2006delacruz | C | C | C | L | C |
+| Cruzalegui, Joaquin | JoaquinCruzalegui | C | C | C | C | L |
 
 > **L** = Leader &nbsp;|&nbsp; **C** = Collaborator
+
+<br>
 
 ---
 
 #### 5.2.1.3. Sprint Backlog 1
 
-El objetivo principal del Sprint 1 es establecer la base de presencia digital de BrandRadar mediante el desarrollo de una Landing Page funcional y de alto impacto visual. Para ello, se ha seleccionado un conjunto de User Stories del Product Backlog orientadas a la presentación del valor del producto y la validación de la propuesta de valor.
+El objetivo principal del Sprint 1 es diseñar, implementar y desplegar la Landing Page del proyecto BrandRadar, permitiendo presentar la propuesta de valor, funcionalidades principales, planes de suscripción y canales de contacto.
 
-Si bien algunas historias de usuario (por ejemplo, la US07) contemplan funcionalidades relacionadas con análisis de datos que serán desarrolladas en iteraciones posteriores, en este sprint el enfoque se centra en la construcción del frontend y la experiencia de usuario inicial.
+Este sprint se enfoca en construir una primera versión funcional orientada al usuario final, priorizando la experiencia visual, la estructura responsive y la claridad del mensaje del producto. Asimismo, el despliegue permitirá validar la aceptación inicial del producto y establecer una base sólida para futuras iteraciones.
 
-Esto incluye la implementación de secciones de social proof, como testimonios y métricas de impacto, con el objetivo de validar la percepción del usuario sobre la plataforma y reforzar la credibilidad del producto antes de la incorporación de funcionalidades avanzadas de análisis.
+A continuación, se detallan las User Stories seleccionadas y las tareas asociadas:
 
-| Sprint # | | | | | | | |
-|:--------:|---|---|---|---|---|---|---|
-| **Sprint 1** | **User Story** | | **Work-Item / Task** | | | | |
-| | **ID** | **Título** | **ID** | **Título** | **Descripción** | **Estimación (h)** | **Asignado a** | **Estado** |
-| | US20 | `[Interfaz Responsiva]` | T01 | `[Header & Hero UI]` | `[Implementar sección de navegación y primer impacto visual]` | `[6]` | `[Briana]` | In-Process |
-| | US20 | `[Interfaz Responsiva]` | T02 | `[Features Section]` | `[Desarrollo de la sección de características clave del servicio]` | `[5]` | `[Victor]` | In-Process |
-| | US03 | `[Live Feed Monitor]` | T03 | `[Benefits & Metrics]` | `[Maquetación de beneficios y visualización de datos de marca]` | `[7]` | `[Jean]` | In-Process |
-| | US07 | `[Word Cloud de Sentimiento]` | T04 | `[Social Proof UI]` | `[Implementar sección de dashboard y reseñas de usuarios]` | `[6]` | `[Luis]` | In-Process |
-| | US17 | `[Onboarding interactivo]` | T05 | `[Conversion & Footer]` | `[Implementar tablas de precios, CTA y pie de página corporativo]` | `[5]` | `[Joaquin]` | In-Process |
+| Sprint # | Sprint 1 |
+| :------- | :------- |
+| User Story |                                      | Work-Item / Task |                                        | Description                                                   | Estimation (Hours) | Assigned To | Status (To-do / In-Process / To-Review / Done) |
+| :--------- | :----------------------------------- | :--------------- | :------------------------------------- | :------------------------------------------------------------ | :----------------: | :---------- | :--------------------------------------------- |
+| Id         | Title                                | Id               | Title                                  |                                                               |                    |             |                                                |
+| US31       | Landing Page – Página principal      | T1               | Diseñar estructura de la página        | Crear wireframe simple con encabezado, cuerpo y pie de página |          4         | Equipo UX   | Done                                           |
+| US31       | Landing Page – Página principal      | T2               | Implementar página principal           | Desarrollar HTML/CSS base de la página principal              |          6         | Dev Front   | Done                                           |
+| US32       | Landing Page – Características       | T3               | Redactar sección de características    | Elaborar contenido con puntos clave de la plataforma          |          2         | PO / Equipo | Done                                           |
+| US32       | Landing Page – Características       | T4               | Implementar sección de características | Codificar la sección en la web app                            |          4         | Dev Front   | Done                                           |
+| US33       | Landing Page – Planes de suscripción | T5               | Diseñar sección de planes              | Definir estructura visual de planes con beneficios y precios  |          3         | Equipo UX   | Done                                           |
+| US33       | Landing Page – Planes de suscripción | T6               | Implementar sección de planes          | Programar en frontend con estructura responsive               |          5         | Dev Front   | Done                                           |
+| US34       | Landing Page – Contacto/Soporte      | T7               | Redactar información de contacto       | Crear contenido con correo, soporte y redes sociales          |          2         | PO / Equipo | Done                                           |
+| US34       | Landing Page – Contacto/Soporte      | T8               | Implementar sección de contacto        | Agregar formulario o enlaces de contacto en la web app        |          4         | Dev Front   | Done                                           |
+| —          | Deployment Landing Page              | T9               | Configuración de hosting/despliegue    | Preparar entorno y publicar la Landing Page en Netlify        |          6         | DevOps      | Done                                           |
+
+<br>
 
 ---
 
