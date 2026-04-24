@@ -2938,43 +2938,124 @@ Tipos de commit definidos:
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
-HTML:
-Para el lenguaje HTML, nos planteamos utilizar las convenciones descritas en la guía “HTML Style Guide and Coding Conventions”:
+Con el objetivo de mantener un código ordenado, consistente y fácil de mantener entre todos los miembros del equipo, se han definido las siguientes convenciones para el proyecto BrandRadar. Estas normas aseguran una correcta colaboración y facilitan la escalabilidad del sistema.
 
-Usar nombres de elementos y atributos en minúsculas.
-Cerrar todos los elementos HTML correctamente.
-Utilizar semantic HTML (header, nav, main, section, article, footer) para mejorar accesibilidad y SEO.
-Declarar siempre el doctype y utilizar meta tags adecuados.
-Evitar líneas de código excesivamente largas.
-Usar sintaxis simple y clara para enlaces, estilos y scripts externos.
+<br>
 
-CSS / Tailwind CSS:
-Para el lenguaje CSS, utilizaremos las siguientes prácticas para alcanzar un código coherente, sostenible y ordenado:
+**Convenciones Generales**
 
-Utilizar minúsculas y guiones para los nombres de clases e IDs.
-Agrupar reglas relacionadas y separarlas con líneas en blanco.
-Utilizar nombres de clases descriptivos y significativos (siguiendo metodología BEM o utility-first con Tailwind).
-Mantener baja la especificidad y aprovechar variables CSS (custom properties) para colores, tipografía y espaciado.
-Organizar el código por componentes o secciones de la aplicación.
+- Se utilizará inglés como idioma único para nombres de variables, funciones, clases, comentarios y documentación.
+- Se evitarán abreviaciones innecesarias y nombres genéricos como data1, temp, info, etc.
+- Los nombres deben ser descriptivos y reflejar claramente su propósito.
+- Se prioriza la claridad del código sobre soluciones complejas.
 
-JavaScript:
-Se utilizará un estilo limpio y moderno, siguiendo convenciones como:
+<br>
 
-Uso de const y let en lugar de var.
-Funciones arrow cuando corresponda.
-Código modular y comentarios claros para funcionalidades clave (alertas, análisis de sentimiento, integración de APIs).
+### HTML
+
+- Atributos en minúsculas.
+- Nombres de clases usando kebab-case (ej. section-title, main-container).
+- Uso de estructura semántica clara:
+  - <header>
+  - <nav>
+  - <main>
+  - <section>
+  - <footer>
+- Sangría de 2 espacios.
+- Atributos ordenados de manera lógica:
+- id, class, type, name, placeholder, value, required, etc.
+
+<br>
+
+**CSS**
+
+- Para clases personalizadas se utilizará kebab-case.
+- Las clases se organizarán por orden lógico:
+  - layout → spacing → color → typography
+- Se evitarán estilos redundantes y se priorizará la reutilización.
+
+<br>
+
+### TypeScript
+
+Basado en buenas prácticas de desarrollo, se adoptan las siguientes reglas:
+
+Nombres y sintaxis:
+
+- camelCase para variables, funciones y parámetros.
+- PascalCase para clases, interfaces, enums y tipos.
+- Constantes globales en UPPER_CASE_WITH_UNDERSCORES.
+
+Módulos e imports:
+
+- Imports ordenados:
+    Librerías externas
+    Módulos internos
+- Evitar default export, usar:
+    export const
+    export class
+  
+Tipado:
+
+- Tipar explícitamente parámetros y valores de retorno.
+- Evitar any excepto cuando sea estrictamente necesario.
+- Usar readonly en propiedades inmutables.
+- Preferir interface sobre type cuando aplique.
+
+Buenas prácticas:
+
+- Preferir const sobre let y evitar var.
+- Evitar el uso de this fuera de clases.
+- Separar lógica de negocio de la capa de presentación.
+- Mantener funciones pequeñas y reutilizables.
+
+<br>
+
+### Angular
+
+Se seguirán buenas prácticas para mantener una arquitectura limpia:
+
+Componentes:
+
+- Nombres en PascalCase con sufijo Component
+(ej. UserCardComponent)
+- Separación de archivos:
+    templateUrl para HTML
+    styleUrls para CSS
+- Evitar lógica compleja en los templates.
+
+Buenas prácticas:
+
+- No incluir lógica de negocio dentro de los componentes.
+- Delegar procesos a servicios.
+- Usar async en templates en lugar de suscripciones manuales.
+- Selectores en kebab-case (ej. app-user-card).
+
+<br>
+
+### Pruebas (Gherkin)
+
+En caso de utilizar especificaciones basadas en Gherkin:
+
+- Se empleará el formato estándar:
+''''
+Given condición inicial  
+When ocurre una acción  
+Then se obtiene un resultado  
+And condiciones adicionales  
+''''
+
+<br>
+
 ---
 
 ### 5.1.4. Software Deployment Configuration
 
-Landing Page:
-Para desplegar la landing page de BrandRadar, utilizamos GitHub como repositorio y Netlify como plataforma de hosting. El despliegue se configura conectando el repositorio de GitHub a Netlify, permitiendo implementación continua automática cada vez que se realiza un push a la rama principal. El directorio de publicación corresponde a la carpeta que contiene el archivo index.html.
 
-Frontend Web Application:
-El frontend de la aplicación web se despliega utilizando GitHub + Netlify. Se configura el build automático (npm run build) y se define el directorio de salida. Esto permite que las actualizaciones del dashboard, sistema de alertas y visualización de menciones se publiquen de forma rápida y automática.
 
-Web Services (RESTful API):
-Los servicios backend (RESTful API) se despliegan en Render o Railway. Se vincula el repositorio de GitHub, se configuran las variables de entorno necesarias para las integraciones con APIs externas y se activa el despliegue automático. De esta forma, el backend que procesa el análisis de sentimiento y genera alertas funciona de manera independiente del frontend.
+
+
+  
 
 ---
 
